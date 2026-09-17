@@ -445,6 +445,7 @@
     const esferaEfetiva = estado.esfera || filtroEsferaSelect;
 
     let listaFiltrada = dados.noticias.filter(function (noticia) {
+      if (noticia.tags.indexOf("NT (Nota Técnica)") !== -1) return false; // NTs ficam so no quadro de destaque
       if (esferaEfetiva && noticia.esfera !== esferaEfetiva) return false;
       if (filtroFonte && noticia.fonte !== filtroFonte) return false;
       if (filtroImpacto && noticia.impacto !== filtroImpacto) return false;
@@ -521,7 +522,9 @@
   const modalBoletim = document.getElementById("modal-boletim");
   document.getElementById("btn-boletim").addEventListener("click", function () {
     const diaReferencia = dados.geradoEm ? dados.geradoEm.slice(0, 10) : null;
-    const doDia = dados.noticias.filter(function (n) { return diaReferencia && n.coletado_em.slice(0, 10) === diaReferencia; });
+    const doDia = dados.noticias.filter(function (n) {
+      return diaReferencia && n.coletado_em.slice(0, 10) === diaReferencia && n.tags.indexOf("NT (Nota Técnica)") === -1;
+    });
 
     const conteudo = document.getElementById("boletim-conteudo");
     if (doDia.length === 0) {
