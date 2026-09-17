@@ -170,6 +170,25 @@ def buscar_gov_br_html(fonte: dict) -> list[dict]:
     return itens
 
 
+def buscar_nfse_rtc_html(fonte: dict) -> list[dict]:
+    """Pagina de documentacao tecnica da NFS-e/RTC (gov.br/nfse): cada NT e um p.callout > a."""
+    resposta = requisitar(fonte["url"])
+    sopa = BeautifulSoup(resposta.text, "html.parser")
+    itens = []
+    for callout in sopa.select("p.callout"):
+        link_tag = callout.select_one("a[href]")
+        if not link_tag or not link_tag.get("href"):
+            continue
+        titulo = limpar_texto(link_tag.get_text())
+        if not titulo:
+            continue
+        link = urljoin(fonte["url"], link_tag["href"])
+        descricao_tag = callout.find_next_sibling("p")
+        resumo = limpar_texto(descricao_tag.get_text()) if descricao_tag else ""
+        itens.append({"titulo": titulo, "link": link, "resumo": resumo, "data_publicacao": ""})
+    return itens
+
+
 def buscar_svrs_avisos_html(fonte: dict) -> list[dict]:
     """Portal Conformidade Facil (ENCAT/SVRS): ul.media-list > li > h3.media-heading a / time[datetime]."""
     resposta = requisitar(fonte["url"])
@@ -299,6 +318,7 @@ BUSCADORES = {
     "generic_html": buscar_generic_html,
     "svrs_avisos_html": buscar_svrs_avisos_html,
     "matriz_ajax_html": buscar_matriz_ajax_html,
+    "nfse_rtc_html": buscar_nfse_rtc_html,
 }
 
 
@@ -366,8 +386,14 @@ def processar_fonte(fonte: dict, classificacao: dict) -> list[dict]:
 
 def coletar_tudo(sources: dict, classificacao: dict) -> list[dict]:
     todas_noticias = []
+    titulos_vistos = set()
     for fonte in sources["fontes"]:
-        todas_noticias.extend(processar_fonte(fonte, classificacao))
+        for noticia in processar_fonte(fonte, classificacao):
+            titulo_normalizado = noticia["titulo"].strip().lower()
+            if titulo_normalizado in titulos_vistos:
+                continue  # mesmo aviso replicado em varios portais irmaos (ex.: ENCAT/SVRS)
+            titulos_vistos.add(titulo_normalizado)
+            todas_noticias.append(noticia)
         time.sleep(0.5)
     return todas_noticias
 

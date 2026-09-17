@@ -29,6 +29,15 @@
       "max_itens": 9
     },
     {
+      "id": "nfse-rtc-notas-tecnicas",
+      "nome": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "tipo": "nfse_rtc_html",
+      "url": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc",
+      "prioridade": "alta",
+      "max_itens": 10
+    },
+    {
       "id": "nfse-nacional",
       "nome": "NFS-e Nacional (CGNFS-e)",
       "esfera": "federal",
@@ -72,7 +81,10 @@
       "url": "https://www12.senado.leg.br/noticias/rss",
       "prioridade": "alta",
       "max_itens": 8,
-      "excluir_se_link_contem": ["/videos/", "/audios/"]
+      "excluir_se_link_contem": [
+        "/videos/",
+        "/audios/"
+      ]
     },
     {
       "id": "nfe-notas-tecnicas",
@@ -147,85 +159,412 @@
       "max_itens": 6
     },
     {
-      "id": "sefaz-ac", "nome": "SEFAZ AC", "esfera": "estadual", "uf": "AC", "tipo": "generic_html", "url": "https://www.sefaz.ac.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-ac",
+      "nome": "SEFAZ AC",
+      "esfera": "estadual",
+      "uf": "AC",
+      "tipo": "generic_html",
+      "url": "https://www.sefaz.ac.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
     },
     {
-      "id": "sefaz-al", "nome": "SEFAZ AL", "esfera": "estadual", "uf": "AL", "tipo": "generic_html", "url": "https://www.sefaz.al.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-al",
+      "nome": "SEFAZ AL",
+      "esfera": "estadual",
+      "uf": "AL",
+      "tipo": "generic_html",
+      "url": "https://www.sefaz.al.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
     },
     {
-      "id": "sefaz-ap", "nome": "SEFAZ AP", "esfera": "estadual", "uf": "AP", "tipo": "generic_html", "url": "https://www.sefaz.ap.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-ap",
+      "nome": "SEFAZ AP",
+      "esfera": "estadual",
+      "uf": "AP",
+      "tipo": "generic_html",
+      "url": "https://www.sefaz.ap.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
     },
     {
-      "id": "sefaz-am", "nome": "SEFAZ AM", "esfera": "estadual", "uf": "AM", "tipo": "generic_html", "url": "https://www.sefaz.am.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-am",
+      "nome": "SEFAZ AM",
+      "esfera": "estadual",
+      "uf": "AM",
+      "tipo": "generic_html",
+      "url": "https://www.sefaz.am.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
     },
     {
-      "id": "sefaz-ba", "nome": "SEFAZ BA", "esfera": "estadual", "uf": "BA", "tipo": "generic_html", "url": "https://www.sefaz.ba.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-ba",
+      "nome": "SEFAZ BA",
+      "esfera": "estadual",
+      "uf": "BA",
+      "tipo": "generic_html",
+      "url": "https://www.sefaz.ba.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
     },
     {
-      "id": "sefaz-ce", "nome": "SEFAZ CE", "esfera": "estadual", "uf": "CE", "tipo": "generic_html", "url": "https://www.sefaz.ce.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-ce",
+      "nome": "SEFAZ CE",
+      "esfera": "estadual",
+      "uf": "CE",
+      "tipo": "generic_html",
+      "url": "https://www.sefaz.ce.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
     },
     {
-      "id": "sefaz-df", "nome": "SEFAZ DF", "esfera": "estadual", "uf": "DF", "tipo": "generic_html", "url": "https://www.economia.df.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-df",
+      "nome": "SEFAZ DF",
+      "esfera": "estadual",
+      "uf": "DF",
+      "tipo": "generic_html",
+      "url": "https://www.economia.df.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
     },
     {
-      "id": "sefaz-es", "nome": "SEFAZ ES", "esfera": "estadual", "uf": "ES", "tipo": "generic_html", "url": "https://sefaz.es.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-es",
+      "nome": "SEFAZ ES",
+      "esfera": "estadual",
+      "uf": "ES",
+      "tipo": "generic_html",
+      "url": "https://sefaz.es.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
     },
     {
-      "id": "sefaz-go", "nome": "Economia GO (SEFAZ)", "esfera": "estadual", "uf": "GO", "tipo": "generic_html", "url": "https://www.economia.go.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-go",
+      "nome": "Economia GO (SEFAZ)",
+      "esfera": "estadual",
+      "uf": "GO",
+      "tipo": "generic_html",
+      "url": "https://www.economia.go.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
     },
     {
-      "id": "sefaz-ma", "nome": "SEFAZ MA", "esfera": "estadual", "uf": "MA", "tipo": "generic_html", "url": "https://www.sefaz.ma.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-ma",
+      "nome": "SEFAZ MA",
+      "esfera": "estadual",
+      "uf": "MA",
+      "tipo": "generic_html",
+      "url": "https://www.sefaz.ma.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
     },
     {
-      "id": "sefaz-mt", "nome": "SEFAZ MT", "esfera": "estadual", "uf": "MT", "tipo": "generic_html", "url": "https://www.sefaz.mt.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-mt",
+      "nome": "SEFAZ MT",
+      "esfera": "estadual",
+      "uf": "MT",
+      "tipo": "generic_html",
+      "url": "https://www.sefaz.mt.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
     },
     {
-      "id": "sefaz-ms", "nome": "SEFAZ MS", "esfera": "estadual", "uf": "MS", "tipo": "generic_html", "url": "https://www.sefaz.ms.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-ms",
+      "nome": "SEFAZ MS",
+      "esfera": "estadual",
+      "uf": "MS",
+      "tipo": "generic_html",
+      "url": "https://www.sefaz.ms.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
     },
     {
-      "id": "sefaz-mg", "nome": "SEFAZ MG", "esfera": "estadual", "uf": "MG", "tipo": "generic_html", "url": "https://www.fazenda.mg.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-mg",
+      "nome": "SEFAZ MG",
+      "esfera": "estadual",
+      "uf": "MG",
+      "tipo": "generic_html",
+      "url": "https://www.fazenda.mg.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
     },
     {
-      "id": "sefaz-pa", "nome": "SEFA PA", "esfera": "estadual", "uf": "PA", "tipo": "generic_html", "url": "https://www.sefa.pa.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-pa",
+      "nome": "SEFA PA",
+      "esfera": "estadual",
+      "uf": "PA",
+      "tipo": "generic_html",
+      "url": "https://www.sefa.pa.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
     },
     {
-      "id": "sefaz-pb", "nome": "SEFIN PB", "esfera": "estadual", "uf": "PB", "tipo": "generic_html", "url": "https://www.receita.pb.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-pb",
+      "nome": "SEFIN PB",
+      "esfera": "estadual",
+      "uf": "PB",
+      "tipo": "generic_html",
+      "url": "https://www.receita.pb.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
     },
     {
-      "id": "sefaz-pr", "nome": "SEFAZ PR", "esfera": "estadual", "uf": "PR", "tipo": "generic_html", "url": "https://www.fazenda.pr.gov.br/Noticias", "prioridade": "alta", "max_itens": 10
+      "id": "sefaz-pr",
+      "nome": "SEFAZ PR",
+      "esfera": "estadual",
+      "uf": "PR",
+      "tipo": "generic_html",
+      "url": "https://www.fazenda.pr.gov.br/Noticias",
+      "prioridade": "alta",
+      "max_itens": 10
     },
     {
-      "id": "sefaz-pe", "nome": "SEFAZ PE", "esfera": "estadual", "uf": "PE", "tipo": "generic_html", "url": "https://www.sefaz.pe.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-pe",
+      "nome": "SEFAZ PE",
+      "esfera": "estadual",
+      "uf": "PE",
+      "tipo": "generic_html",
+      "url": "https://www.sefaz.pe.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
     },
     {
-      "id": "sefaz-pi", "nome": "SEFAZ PI", "esfera": "estadual", "uf": "PI", "tipo": "generic_html", "url": "https://www.sefaz.pi.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-pi",
+      "nome": "SEFAZ PI",
+      "esfera": "estadual",
+      "uf": "PI",
+      "tipo": "generic_html",
+      "url": "https://www.sefaz.pi.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
     },
     {
-      "id": "sefaz-rj", "nome": "SEFAZ RJ", "esfera": "estadual", "uf": "RJ", "tipo": "generic_html", "url": "https://www.fazenda.rj.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-rj",
+      "nome": "SEFAZ RJ",
+      "esfera": "estadual",
+      "uf": "RJ",
+      "tipo": "generic_html",
+      "url": "https://www.fazenda.rj.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
     },
     {
-      "id": "sefaz-rn", "nome": "SET RN (SEFAZ)", "esfera": "estadual", "uf": "RN", "tipo": "generic_html", "url": "https://www.set.rn.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-rn",
+      "nome": "SET RN (SEFAZ)",
+      "esfera": "estadual",
+      "uf": "RN",
+      "tipo": "generic_html",
+      "url": "https://www.set.rn.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
     },
     {
-      "id": "sefaz-rs", "nome": "SEFAZ RS", "esfera": "estadual", "uf": "RS", "tipo": "generic_html", "url": "https://www.estado.rs.gov.br/fazenda-noticias", "prioridade": "alta", "max_itens": 10
+      "id": "sefaz-rs",
+      "nome": "SEFAZ RS",
+      "esfera": "estadual",
+      "uf": "RS",
+      "tipo": "generic_html",
+      "url": "https://www.estado.rs.gov.br/fazenda-noticias",
+      "prioridade": "alta",
+      "max_itens": 10
     },
     {
-      "id": "sefaz-ro", "nome": "SEFIN RO (SEFAZ)", "esfera": "estadual", "uf": "RO", "tipo": "generic_html", "url": "https://www.sefin.ro.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-ro",
+      "nome": "SEFIN RO (SEFAZ)",
+      "esfera": "estadual",
+      "uf": "RO",
+      "tipo": "generic_html",
+      "url": "https://www.sefin.ro.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
     },
     {
-      "id": "sefaz-rr", "nome": "SEFAZ RR", "esfera": "estadual", "uf": "RR", "tipo": "generic_html", "url": "https://www.sefaz.rr.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-rr",
+      "nome": "SEFAZ RR",
+      "esfera": "estadual",
+      "uf": "RR",
+      "tipo": "generic_html",
+      "url": "https://www.sefaz.rr.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
     },
     {
-      "id": "sefaz-sc", "nome": "SEFAZ SC (via Notícias SC - Economia)", "esfera": "estadual", "uf": "SC", "tipo": "generic_html", "url": "https://noticias.sc.gov.br/categoria/economia/", "prioridade": "alta", "max_itens": 10, "excluir_se_link_contem": ["/categoria/"]
+      "id": "sefaz-sc",
+      "nome": "SEFAZ SC (via Notícias SC - Economia)",
+      "esfera": "estadual",
+      "uf": "SC",
+      "tipo": "generic_html",
+      "url": "https://noticias.sc.gov.br/categoria/economia/",
+      "prioridade": "alta",
+      "max_itens": 10,
+      "excluir_se_link_contem": [
+        "/categoria/"
+      ]
     },
     {
-      "id": "sefaz-sp", "nome": "SEFAZ SP", "esfera": "estadual", "uf": "SP", "tipo": "generic_html", "url": "https://portal.fazenda.sp.gov.br/Noticias", "prioridade": "alta", "max_itens": 10
+      "id": "sefaz-sp",
+      "nome": "SEFAZ SP",
+      "esfera": "estadual",
+      "uf": "SP",
+      "tipo": "generic_html",
+      "url": "https://portal.fazenda.sp.gov.br/Noticias",
+      "prioridade": "alta",
+      "max_itens": 10
     },
     {
-      "id": "sefaz-se", "nome": "SEFAZ SE", "esfera": "estadual", "uf": "SE", "tipo": "generic_html", "url": "https://www.sefaz.se.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-se",
+      "nome": "SEFAZ SE",
+      "esfera": "estadual",
+      "uf": "SE",
+      "tipo": "generic_html",
+      "url": "https://www.sefaz.se.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
     },
     {
-      "id": "sefaz-to", "nome": "SEFAZ TO", "esfera": "estadual", "uf": "TO", "tipo": "generic_html", "url": "https://www.sefaz.to.gov.br/", "prioridade": "normal", "max_itens": 3
+      "id": "sefaz-to",
+      "nome": "SEFAZ TO",
+      "esfera": "estadual",
+      "uf": "TO",
+      "tipo": "generic_html",
+      "url": "https://www.sefaz.to.gov.br/",
+      "prioridade": "normal",
+      "max_itens": 3
+    },
+    {
+      "id": "svrs-bpe",
+      "nome": "BPe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "tipo": "svrs_avisos_html",
+      "url": "https://dfe-portal.svrs.rs.gov.br/Bpe",
+      "prioridade": "alta",
+      "max_itens": 10
+    },
+    {
+      "id": "svrs-cte",
+      "nome": "CTe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "tipo": "svrs_avisos_html",
+      "url": "https://dfe-portal.svrs.rs.gov.br/Cte",
+      "prioridade": "alta",
+      "max_itens": 10
+    },
+    {
+      "id": "svrs-mdfe",
+      "nome": "MDFe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "tipo": "svrs_avisos_html",
+      "url": "https://dfe-portal.svrs.rs.gov.br/Mdfe",
+      "prioridade": "alta",
+      "max_itens": 10
+    },
+    {
+      "id": "svrs-nfce",
+      "nome": "NFCe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "tipo": "svrs_avisos_html",
+      "url": "https://dfe-portal.svrs.rs.gov.br/Nfce",
+      "prioridade": "alta",
+      "max_itens": 10
+    },
+    {
+      "id": "svrs-nf3e-svrs",
+      "nome": "NF3e (ENCAT/SVRS)",
+      "esfera": "federal",
+      "tipo": "svrs_avisos_html",
+      "url": "https://dfe-portal.svrs.rs.gov.br/Nf3e",
+      "prioridade": "alta",
+      "max_itens": 10
+    },
+    {
+      "id": "svrs-nfcom-svrs",
+      "nome": "NFCom (ENCAT/SVRS)",
+      "esfera": "federal",
+      "tipo": "svrs_avisos_html",
+      "url": "https://dfe-portal.svrs.rs.gov.br/Nfcom",
+      "prioridade": "alta",
+      "max_itens": 10
+    },
+    {
+      "id": "svrs-nfe-svrs",
+      "nome": "NFe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "tipo": "svrs_avisos_html",
+      "url": "https://dfe-portal.svrs.rs.gov.br/Nfe",
+      "prioridade": "alta",
+      "max_itens": 10
+    },
+    {
+      "id": "svrs-nff",
+      "nome": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
+      "esfera": "federal",
+      "tipo": "svrs_avisos_html",
+      "url": "https://dfe-portal.svrs.rs.gov.br/Nff",
+      "prioridade": "alta",
+      "max_itens": 10
+    },
+    {
+      "id": "svrs-one",
+      "nome": "ONE - Operador Nacional dos Estados (ENCAT/SVRS)",
+      "esfera": "federal",
+      "tipo": "svrs_avisos_html",
+      "url": "https://dfe-portal.svrs.rs.gov.br/One",
+      "prioridade": "alta",
+      "max_itens": 10
+    },
+    {
+      "id": "svrs-dce",
+      "nome": "DCe - Declaração de Conteúdo Eletrônica (ENCAT/SVRS)",
+      "esfera": "federal",
+      "tipo": "svrs_avisos_html",
+      "url": "https://dfe-portal.svrs.rs.gov.br/Dce",
+      "prioridade": "alta",
+      "max_itens": 10
+    },
+    {
+      "id": "svrs-difal-svrs",
+      "nome": "DIFAL (ENCAT/SVRS)",
+      "esfera": "federal",
+      "tipo": "svrs_avisos_html",
+      "url": "https://dfe-portal.svrs.rs.gov.br/Difal",
+      "prioridade": "alta",
+      "max_itens": 10
+    },
+    {
+      "id": "svrs-pes",
+      "nome": "PES - Plataforma de Emissão Simplificada (ENCAT/SVRS)",
+      "esfera": "federal",
+      "tipo": "svrs_avisos_html",
+      "url": "https://dfe-portal.svrs.rs.gov.br/Pes",
+      "prioridade": "alta",
+      "max_itens": 10
+    },
+    {
+      "id": "svrs-nfag-svrs",
+      "nome": "NFAg (ENCAT/SVRS)",
+      "esfera": "federal",
+      "tipo": "svrs_avisos_html",
+      "url": "https://dfe-portal.svrs.rs.gov.br/Nfag",
+      "prioridade": "alta",
+      "max_itens": 10
+    },
+    {
+      "id": "svrs-nfabi",
+      "nome": "NFABI - Alienação de Bens Imóveis (ENCAT/SVRS)",
+      "esfera": "federal",
+      "tipo": "svrs_avisos_html",
+      "url": "https://dfe-portal.svrs.rs.gov.br/Nfabi",
+      "prioridade": "alta",
+      "max_itens": 10
+    },
+    {
+      "id": "svrs-nfgas-svrs",
+      "nome": "NFGas (ENCAT/SVRS)",
+      "esfera": "federal",
+      "tipo": "svrs_avisos_html",
+      "url": "https://dfe-portal.svrs.rs.gov.br/Nfgas",
+      "prioridade": "alta",
+      "max_itens": 10
     }
   ]
 }
