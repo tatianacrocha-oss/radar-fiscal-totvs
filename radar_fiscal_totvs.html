@@ -426,13 +426,29 @@
     return "impacto-" + (impacto === "médio" ? "medio" : impacto);
   }
 
+  function dataDeReferenciaParaFiltro(noticia) {
+    const dataPublicacao = noticia.data_publicacao;
+    if (dataPublicacao) {
+      const brMatch = /^(\d{2})\/(\d{2})\/(\d{4})$/.exec(dataPublicacao);
+      if (brMatch) return new Date(Number(brMatch[3]), Number(brMatch[2]) - 1, Number(brMatch[1]));
+      const pareceIso = /^\d{4}-\d{2}-\d{2}/.test(dataPublicacao);
+      const pareceRfc = /^[A-Za-z]{3},\s\d{1,2}\s[A-Za-z]{3}\s\d{4}/.test(dataPublicacao);
+      if (pareceIso || pareceRfc) {
+        const data = new Date(dataPublicacao);
+        if (!isNaN(data)) return data;
+      }
+    }
+    const coletado = new Date(noticia.coletado_em);
+    return isNaN(coletado) ? null : coletado;
+  }
+
   function noticiaDentroDoPeriodo(noticia, filtroData) {
     if (!filtroData) return true;
-    const coletado = new Date(noticia.coletado_em);
-    if (isNaN(coletado)) return true;
+    const dataReferencia = dataDeReferenciaParaFiltro(noticia);
+    if (!dataReferencia) return true;
     const agora = new Date();
-    const diffDias = (agora - coletado) / (1000 * 60 * 60 * 24);
-    if (filtroData === "hoje") return coletado.toDateString() === agora.toDateString();
+    const diffDias = (agora - dataReferencia) / (1000 * 60 * 60 * 24);
+    if (filtroData === "hoje") return dataReferencia.toDateString() === agora.toDateString();
     return diffDias <= Number(filtroData);
   }
 
