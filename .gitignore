@@ -1,3 +1,4 @@
 __pycache__/
 *.pyc
 radar_fiscal.log
+.claude/

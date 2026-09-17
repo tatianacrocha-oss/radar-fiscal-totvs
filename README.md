@@ -4,6 +4,27 @@ Um painel que reúne, todo dia, as notícias fiscais e tributárias mais importa
 (Reforma Tributária, ICMS, ISS, NFe, NFSe, Simples Nacional, etc.), separadas por
 "o quanto isso pode te afetar" (impacto alto, médio ou baixo).
 
+## Acesse online
+
+**https://tatianacrocha-oss.github.io/radar-fiscal-totvs/**
+
+Esse link é público — qualquer pessoa pode abrir direto no navegador (computador ou
+celular), sem precisar de login nem instalar nada. É só compartilhar o link.
+
+O conteúdo desse link se atualiza **sozinho, todo dia às 8h** (horário de Brasília),
+através de uma automação no GitHub (veja a seção 4). Não é necessário deixar nenhum
+computador ligado para isso funcionar.
+
+Repositório (código-fonte): https://github.com/tatianacrocha-oss/radar-fiscal-totvs
+
+---
+
+## Rodando localmente (opcional)
+
+As instruções abaixo servem para quem quer rodar o buscador de notícias na própria
+máquina (por exemplo, para testar mudanças antes de publicar). Para só *ver* o
+painel, o link acima já é suficiente.
+
 Tem duas partes:
 
 - **`radar_fiscal_totvs.html`** → o painel. Você abre esse arquivo no navegador (Chrome, Edge, etc.) clicando duas vezes nele. Não precisa de internet nem de instalar nada para só olhar o painel.
@@ -59,9 +80,28 @@ Quer ver notícias mais novas? Rode o passo 2 de novo e atualize a página do na
 
 ---
 
-## 4. Deixando isso automático todo dia às 8h (opcional)
+## 4. Deixando isso automático todo dia às 8h
 
-O Windows tem uma ferramenta própria para "lembrar" de rodar programas em um horário — o **Agendador de Tarefas**. É mais confiável do que deixar um programa rodando ligado 24 horas.
+### Versão online (já está configurada e funcionando)
+
+O link público (https://tatianacrocha-oss.github.io/radar-fiscal-totvs/) já atualiza
+sozinho — não depende do seu computador estar ligado. Isso funciona através de um
+"robô" gratuito do GitHub (GitHub Actions), configurado no arquivo
+`.github/workflows/atualizar-radar.yml`, que todo dia às 8h (horário de Brasília):
+
+1. Roda o `radar_fiscal_scraper.py` na nuvem;
+2. Salva as notícias encontradas;
+3. Publica automaticamente no link.
+
+Se quiser forçar uma atualização fora do horário (por exemplo, para testar), acesse
+https://github.com/tatianacrocha-oss/radar-fiscal-totvs/actions/workflows/atualizar-radar.yml
+e clique em **Run workflow**.
+
+### Versão local (opcional, só se você quiser rodar no seu próprio computador)
+
+O Windows também tem uma ferramenta própria para "lembrar" de rodar programas em um
+horário — o **Agendador de Tarefas**. Use isso só se quiser gerar o painel localmente
+também (por exemplo, para testar algo antes de publicar).
 
 1. Abra o **Agendador de Tarefas** do Windows (pesquise por esse nome no menu Iniciar).
 2. Clique em **Criar Tarefa Básica**.
@@ -70,7 +110,7 @@ O Windows tem uma ferramenta própria para "lembrar" de rodar programas em um ho
 5. Em "Ação", escolha **Iniciar um programa** e aponte para o `python.exe` (o caminho aparece se você digitar `where python` no Prompt de Comando).
 6. No campo de **argumentos**, coloque o caminho completo do arquivo `radar_fiscal_scraper.py`.
 7. No campo "Iniciar em" (pasta), coloque o caminho desta pasta.
-8. Salve. Pronto — o computador vai buscar as notícias novas todo dia de manhã, mesmo sem você abrir nada.
+8. Salve.
 
 *(Se preferir, existe também um modo alternativo rodando `python radar_fiscal_scraper.py --continuo`, que mantém o programa aberto esperando o horário. Mas ele precisa ficar rodando o tempo todo, então o Agendador de Tarefas é o jeito mais simples.)*
 
@@ -121,13 +161,14 @@ Troque `sefaz-sp` pelo `id` da fonte (a lista de ids está em `config/sources.js
 
 ---
 
-## 9. Colocando o painel online (opcional)
+## 9. Sobre a publicação online
 
-Se quiser um link para acessar o painel de qualquer lugar (e não só neste computador):
+O painel já está publicado e se atualiza sozinho — veja a seção **"Acesse online"**
+no topo deste arquivo, e a seção 4 para entender como a automação funciona.
 
-1. Acesse [netlify.com](https://www.netlify.com) e crie uma conta gratuita.
-2. Arraste esta pasta toda (com o HTML, o `noticias_data.js` e a pasta `assets`) para a área de upload do Netlify.
-3. Em poucos minutos você recebe um link. Para atualizar as notícias nesse link, é só repetir o upload depois de rodar o buscador de novo.
+Se um dia quiser mover para outro serviço (Netlify, Vercel, etc.) em vez do GitHub
+Pages, basta apontar o novo serviço para este mesmo repositório GitHub — não precisa
+reescrever nada.
 
 ---
 
