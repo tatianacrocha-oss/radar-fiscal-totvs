@@ -1,5 +1,5 @@
 const RADAR_DADOS = {
-  "geradoEm": "2026-09-17T15:11:38",
+  "geradoEm": "2026-09-17T15:28:14",
   "noticias": [
     {
       "id": "222b7164033dafb3",
@@ -12,7 +12,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:46",
+      "coletado_em": "2026-09-17T15:27:24",
       "primeira_vez_em": "2026-09-17T15:10:46"
     },
     {
@@ -26,7 +26,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:41",
+      "coletado_em": "2026-09-17T15:27:18",
       "primeira_vez_em": "2026-09-17T15:10:41"
     },
     {
@@ -40,7 +40,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:38",
+      "coletado_em": "2026-09-17T15:27:16",
       "primeira_vez_em": "2026-09-17T15:10:38"
     },
     {
@@ -54,7 +54,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:38",
+      "coletado_em": "2026-09-17T15:27:16",
       "primeira_vez_em": "2026-09-17T15:10:38"
     },
     {
@@ -68,7 +68,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:38",
+      "coletado_em": "2026-09-17T15:27:16",
       "primeira_vez_em": "2026-09-17T15:10:38"
     },
     {
@@ -82,7 +82,7 @@ const RADAR_DADOS = {
       "data_publicacao": "Thu, 17 Sep 2026 17:42:24 +0000",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:26",
+      "coletado_em": "2026-09-17T15:26:50",
       "primeira_vez_em": "2026-09-17T15:10:26"
     },
     {
@@ -96,7 +96,7 @@ const RADAR_DADOS = {
       "data_publicacao": "Thu, 17 Sep 2026 16:26:03 +0000",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:26",
+      "coletado_em": "2026-09-17T15:26:50",
       "primeira_vez_em": "2026-09-17T15:10:26"
     },
     {
@@ -110,7 +110,7 @@ const RADAR_DADOS = {
       "data_publicacao": "Thu, 17 Sep 2026 15:26:40 +0000",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:26",
+      "coletado_em": "2026-09-17T15:26:50",
       "primeira_vez_em": "2026-09-17T15:10:26"
     },
     {
@@ -126,7 +126,7 @@ const RADAR_DADOS = {
       "tags": [
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-17T15:10:26",
+      "coletado_em": "2026-09-17T15:26:50",
       "primeira_vez_em": "2026-09-17T15:10:26"
     },
     {
@@ -143,7 +143,7 @@ const RADAR_DADOS = {
         "Prazo/Obrigação",
         "Multa/Penalidade"
       ],
-      "coletado_em": "2026-09-17T15:10:26",
+      "coletado_em": "2026-09-17T15:26:50",
       "primeira_vez_em": "2026-09-17T15:10:26"
     },
     {
@@ -157,8 +157,200 @@ const RADAR_DADOS = {
       "data_publicacao": "Thu, 17 Sep 2026 12:05:08 +0000",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:26",
+      "coletado_em": "2026-09-17T15:26:50",
       "primeira_vez_em": "2026-09-17T15:10:26"
+    },
+    {
+      "id": "9b4a03d3e36c861b",
+      "titulo": "Nota Técnica 2026.002 v.1.00 - Publicada em 10/06/2026",
+      "resumo": "Divulga alterações de leiaute e regras de validação",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=W8WforivNP8=",
+      "fonte": "NFGas - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-17T15:26:42",
+      "primeira_vez_em": "2026-09-17T15:26:42"
+    },
+    {
+      "id": "658b4d0b5142b600",
+      "titulo": "Nota Técnica 2026.001 v.1.01 - Publicada em 02/03/2026",
+      "resumo": "Divulga especificação técnica para vinculação entre DF-e e transação financeira sujeita ao split payment",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=Pvw9kDdOu1Y=",
+      "fonte": "NFGas - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-17T15:26:42",
+      "primeira_vez_em": "2026-09-17T15:26:42"
+    },
+    {
+      "id": "f3fce5f00b2dda14",
+      "titulo": "Nota Técnica 2026.001 v.1.00 - Publicada em 04/02/2026",
+      "resumo": "Divulga especificação técnica para vinculação entre DF-e e transação financeira sujeita ao split payment",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=uMPDzXnMsk4=",
+      "fonte": "NFGas - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-17T15:26:42",
+      "primeira_vez_em": "2026-09-17T15:26:42"
+    },
+    {
+      "id": "1c95e3cfa05a4c5c",
+      "titulo": "Nota Técnica 2026.002 v.1.01a - Publicada em 14/08/2026",
+      "resumo": "Nota Técnica 2026.002 v.1.01a - Publicada em 14/08/2026",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=yoV266/AUt0=",
+      "fonte": "NFCom - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-17T15:26:41",
+      "primeira_vez_em": "2026-09-17T15:26:41"
+    },
+    {
+      "id": "fc1ba387aa5441a5",
+      "titulo": "Nota Técnica 2025.001 v.1.14a - Publicada em 12/03/2026",
+      "resumo": "Nota Técnica 2025.001 v.1.14a - Publicada em 12/03/2026",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=q/1VUpuOun4=",
+      "fonte": "NFCom - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-17T15:26:41",
+      "primeira_vez_em": "2026-09-17T15:26:41"
+    },
+    {
+      "id": "683202f53f28db23",
+      "titulo": "Nota Técnica 2026.001 v.1.01 - Publicada em 02/03/2026",
+      "resumo": "Nota Técnica 2026.001 v.1.01 - Publicada em 02/03/2026",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=rYZfgzHMdAw=",
+      "fonte": "NFCom - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-17T15:26:41",
+      "primeira_vez_em": "2026-09-17T15:26:41"
+    },
+    {
+      "id": "77284a5831435b93",
+      "titulo": "Nota Técnica 2026.002 v.1.01 - Publicada em 01/08/2026 - Publicada em 01/08/2026",
+      "resumo": "Nota Técnica 2026.002 v.1.01 - Publicada em 01/08/2026 - Publicada em 01/08/2026",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=JXMz63INn4E=",
+      "fonte": "NF3e - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-17T15:26:40",
+      "primeira_vez_em": "2026-09-17T15:26:40"
+    },
+    {
+      "id": "8edf3d8590ef2ea3",
+      "titulo": "Nota Técnica 2025.001 v.1.14a - Publicada em 12/03/2026",
+      "resumo": "Nota Técnica 2025.001 v.1.14a - Publicada em 12/03/2026",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=2zh6tdrFcGg=",
+      "fonte": "NF3e - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-17T15:26:40",
+      "primeira_vez_em": "2026-09-17T15:26:40"
+    },
+    {
+      "id": "db0e168e9dc70ff3",
+      "titulo": "Nota Técnica 2026.001 v.1.01 - Publicada em 02/03/2026 - Publicada em 02/03/2026",
+      "resumo": "Nota Técnica 2026.001 v.1.01 - Publicada em 02/03/2026 - Publicada em 02/03/2026",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=8jS1eZoTbbs=",
+      "fonte": "NF3e - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-17T15:26:40",
+      "primeira_vez_em": "2026-09-17T15:26:40"
+    },
+    {
+      "id": "a271f22fd8b60fbd",
+      "titulo": "Nota Técnica 2026.002 v.1.00 - Publicada em 10/06/2026",
+      "resumo": "Divulga alterações de leiaute e regras de validação",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=Wld322n6MEU=",
+      "fonte": "NFAg - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-17T15:26:39",
+      "primeira_vez_em": "2026-09-17T15:26:39"
+    },
+    {
+      "id": "c3ebc4e3910e68c9",
+      "titulo": "Nota Técnica 2026.001 v.1.01 - Publicada em 02/03/2026",
+      "resumo": "Divulga especificação técnica para vinculação entre DF-e e transação financeira sujeita ao split payment",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=MyOfjogTTIo=",
+      "fonte": "NFAg - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-17T15:26:39",
+      "primeira_vez_em": "2026-09-17T15:26:39"
+    },
+    {
+      "id": "cf3d354183a6412b",
+      "titulo": "Nota Técnica 2026.001 v.1.00 - Publicado em 04/02/2026",
+      "resumo": "Divulga especificação técnica para vinculação entre DF-e e transação financeira sujeita ao split payment",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=f9R6A 5SmSE=",
+      "fonte": "NFAg - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-17T15:26:39",
+      "primeira_vez_em": "2026-09-17T15:26:39"
     },
     {
       "id": "07af53545ad6a955",
@@ -173,7 +365,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-17T15:10:19",
+      "coletado_em": "2026-09-17T15:26:38",
       "primeira_vez_em": "2026-09-17T15:10:19"
     },
     {
@@ -190,7 +382,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-17T15:10:19",
+      "coletado_em": "2026-09-17T15:26:38",
       "primeira_vez_em": "2026-09-17T15:10:19"
     },
     {
@@ -207,7 +399,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-17T15:10:19",
+      "coletado_em": "2026-09-17T15:26:38",
       "primeira_vez_em": "2026-09-17T15:10:19"
     },
     {
@@ -223,7 +415,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-17T15:10:19",
+      "coletado_em": "2026-09-17T15:26:38",
       "primeira_vez_em": "2026-09-17T15:10:19"
     },
     {
@@ -240,7 +432,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-17T15:10:19",
+      "coletado_em": "2026-09-17T15:26:38",
       "primeira_vez_em": "2026-09-17T15:10:19"
     },
     {
@@ -258,7 +450,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-17T15:10:19",
+      "coletado_em": "2026-09-17T15:26:38",
       "primeira_vez_em": "2026-09-17T15:10:19"
     },
     {
@@ -275,7 +467,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-17T15:10:19",
+      "coletado_em": "2026-09-17T15:26:38",
       "primeira_vez_em": "2026-09-17T15:10:19"
     },
     {
@@ -291,7 +483,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-17T15:10:19",
+      "coletado_em": "2026-09-17T15:26:38",
       "primeira_vez_em": "2026-09-17T15:10:19"
     },
     {
@@ -307,7 +499,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-17T15:10:19",
+      "coletado_em": "2026-09-17T15:26:38",
       "primeira_vez_em": "2026-09-17T15:10:19"
     },
     {
@@ -324,7 +516,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-17T15:10:19",
+      "coletado_em": "2026-09-17T15:26:38",
       "primeira_vez_em": "2026-09-17T15:10:19"
     },
     {
@@ -338,7 +530,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-17T16:12:03Z",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:18",
+      "coletado_em": "2026-09-17T15:26:37",
       "primeira_vez_em": "2026-09-17T15:10:18"
     },
     {
@@ -352,7 +544,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-17T13:23:31Z",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:18",
+      "coletado_em": "2026-09-17T15:26:37",
       "primeira_vez_em": "2026-09-17T15:10:18"
     },
     {
@@ -366,7 +558,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-16T19:35:26Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:18",
+      "coletado_em": "2026-09-17T15:26:37",
       "primeira_vez_em": "2026-09-17T15:10:18"
     },
     {
@@ -380,7 +572,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-16T18:08:42Z",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:18",
+      "coletado_em": "2026-09-17T15:26:37",
       "primeira_vez_em": "2026-09-17T15:10:18"
     },
     {
@@ -394,7 +586,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-16T16:59:38Z",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:18",
+      "coletado_em": "2026-09-17T15:26:37",
       "primeira_vez_em": "2026-09-17T15:10:18"
     },
     {
@@ -408,7 +600,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-16T14:28:32Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:18",
+      "coletado_em": "2026-09-17T15:26:37",
       "primeira_vez_em": "2026-09-17T15:10:18"
     },
     {
@@ -422,7 +614,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-16T14:10:44Z",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:18",
+      "coletado_em": "2026-09-17T15:26:37",
       "primeira_vez_em": "2026-09-17T15:10:18"
     },
     {
@@ -436,7 +628,7 @@ const RADAR_DADOS = {
       "data_publicacao": "16/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:15",
+      "coletado_em": "2026-09-17T15:26:34",
       "primeira_vez_em": "2026-09-17T15:10:15"
     },
     {
@@ -450,7 +642,7 @@ const RADAR_DADOS = {
       "data_publicacao": "16/09/2026",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:15",
+      "coletado_em": "2026-09-17T15:26:34",
       "primeira_vez_em": "2026-09-17T15:10:15"
     },
     {
@@ -466,7 +658,7 @@ const RADAR_DADOS = {
       "tags": [
         "PIS/COFINS"
       ],
-      "coletado_em": "2026-09-17T15:10:15",
+      "coletado_em": "2026-09-17T15:26:34",
       "primeira_vez_em": "2026-09-17T15:10:15"
     },
     {
@@ -480,7 +672,7 @@ const RADAR_DADOS = {
       "data_publicacao": "15/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:15",
+      "coletado_em": "2026-09-17T15:26:34",
       "primeira_vez_em": "2026-09-17T15:10:15"
     },
     {
@@ -494,7 +686,7 @@ const RADAR_DADOS = {
       "data_publicacao": "15/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:15",
+      "coletado_em": "2026-09-17T15:26:34",
       "primeira_vez_em": "2026-09-17T15:10:15"
     },
     {
@@ -508,7 +700,7 @@ const RADAR_DADOS = {
       "data_publicacao": "15/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:15",
+      "coletado_em": "2026-09-17T15:26:34",
       "primeira_vez_em": "2026-09-17T15:10:15"
     },
     {
@@ -522,7 +714,7 @@ const RADAR_DADOS = {
       "data_publicacao": "15/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:15",
+      "coletado_em": "2026-09-17T15:26:34",
       "primeira_vez_em": "2026-09-17T15:10:15"
     },
     {
@@ -536,7 +728,7 @@ const RADAR_DADOS = {
       "data_publicacao": "14/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:15",
+      "coletado_em": "2026-09-17T15:26:34",
       "primeira_vez_em": "2026-09-17T15:10:15"
     },
     {
@@ -550,7 +742,7 @@ const RADAR_DADOS = {
       "data_publicacao": "17/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:14",
+      "coletado_em": "2026-09-17T15:26:33",
       "primeira_vez_em": "2026-09-17T15:10:14"
     },
     {
@@ -564,7 +756,7 @@ const RADAR_DADOS = {
       "data_publicacao": "28/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:14",
+      "coletado_em": "2026-09-17T15:26:33",
       "primeira_vez_em": "2026-09-17T15:10:14"
     },
     {
@@ -578,7 +770,7 @@ const RADAR_DADOS = {
       "data_publicacao": "19/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:14",
+      "coletado_em": "2026-09-17T15:26:33",
       "primeira_vez_em": "2026-09-17T15:10:14"
     },
     {
@@ -592,7 +784,7 @@ const RADAR_DADOS = {
       "data_publicacao": "07/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:14",
+      "coletado_em": "2026-09-17T15:26:33",
       "primeira_vez_em": "2026-09-17T15:10:14"
     },
     {
@@ -606,7 +798,7 @@ const RADAR_DADOS = {
       "data_publicacao": "09/07/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:14",
+      "coletado_em": "2026-09-17T15:26:33",
       "primeira_vez_em": "2026-09-17T15:10:14"
     },
     {
@@ -620,7 +812,7 @@ const RADAR_DADOS = {
       "data_publicacao": "22/06/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:14",
+      "coletado_em": "2026-09-17T15:26:33",
       "primeira_vez_em": "2026-09-17T15:10:14"
     },
     {
@@ -636,7 +828,7 @@ const RADAR_DADOS = {
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-09-17T15:10:13",
+      "coletado_em": "2026-09-17T15:26:32",
       "primeira_vez_em": "2026-09-17T15:10:13"
     },
     {
@@ -653,7 +845,7 @@ const RADAR_DADOS = {
         "Reforma Tributária",
         "NFSe"
       ],
-      "coletado_em": "2026-09-17T15:10:13",
+      "coletado_em": "2026-09-17T15:26:32",
       "primeira_vez_em": "2026-09-17T15:10:13"
     },
     {
@@ -671,7 +863,7 @@ const RADAR_DADOS = {
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-17T15:10:13",
+      "coletado_em": "2026-09-17T15:26:32",
       "primeira_vez_em": "2026-09-17T15:10:13"
     },
     {
@@ -690,7 +882,7 @@ const RADAR_DADOS = {
         "NFSe",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-17T15:10:13",
+      "coletado_em": "2026-09-17T15:26:32",
       "primeira_vez_em": "2026-09-17T15:10:13"
     },
     {
@@ -708,7 +900,7 @@ const RADAR_DADOS = {
         "CBS",
         "NFSe"
       ],
-      "coletado_em": "2026-09-17T15:10:13",
+      "coletado_em": "2026-09-17T15:26:32",
       "primeira_vez_em": "2026-09-17T15:10:13"
     },
     {
@@ -724,7 +916,7 @@ const RADAR_DADOS = {
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-09-17T15:10:13",
+      "coletado_em": "2026-09-17T15:26:32",
       "primeira_vez_em": "2026-09-17T15:10:13"
     },
     {
@@ -741,7 +933,7 @@ const RADAR_DADOS = {
         "NFSe",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-17T15:10:13",
+      "coletado_em": "2026-09-17T15:26:32",
       "primeira_vez_em": "2026-09-17T15:10:13"
     },
     {
@@ -759,8 +951,157 @@ const RADAR_DADOS = {
         "NFSe",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-17T15:10:13",
+      "coletado_em": "2026-09-17T15:26:32",
       "primeira_vez_em": "2026-09-17T15:10:13"
+    },
+    {
+      "id": "6e748567f4cb33c5",
+      "titulo": "CGIBS debate Reforma Tributária e administração pública em evento do Tribunal de Justiça de São Paulo",
+      "resumo": "CGIBS debate Reforma Tributária e administração pública em evento do Tribunal de Justiça de São Paulo",
+      "link": "https://www.cgibs.gov.br/cgibs-debate-reforma-tributaria-em-evento-do-tribunal-de-justica-de-sao-paulo",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "IBS"
+      ],
+      "coletado_em": "2026-09-17T15:26:30",
+      "primeira_vez_em": "2026-09-17T15:26:30"
+    },
+    {
+      "id": "7b0095e4b757d45c",
+      "titulo": "Prazo para opção pelo Simples Nacional e escolha do modelo de recolhimento do IBS e da CBS para 2027 termina no dia 30/09",
+      "resumo": "Prazo para opção pelo Simples Nacional e escolha do modelo de recolhimento do IBS e da CBS para 2027 termina no dia 30/09",
+      "link": "https://www.cgibs.gov.br/prazo-para-opcao-pelo-simples-nacional-e-escolha-do-modelo-de-recolhimento-do-ibs-e-da-cbs-em-2027-termina-em-30-de-setembro",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "Simples Nacional",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-09-17T15:26:30",
+      "primeira_vez_em": "2026-09-17T15:26:30"
+    },
+    {
+      "id": "c2d217bc7764521d",
+      "titulo": "Comitê Gestor do IBS publica Editais de Chamamento Público para a celebração de Acordos de Cooperação Técnica",
+      "resumo": "Comitê Gestor do IBS publica Editais de Chamamento Público para a celebração de Acordos de Cooperação Técnica",
+      "link": "https://www.cgibs.gov.br/comite-gestor-publica-editais-de-chamamento-publico-para-a",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-09-17T15:26:30",
+      "primeira_vez_em": "2026-09-17T15:26:30"
+    },
+    {
+      "id": "cb6ef015a7926445",
+      "titulo": "CGIBS e Receita Federal publicam versão 1.2.0 da documentação técnica da Declaração de Regimes Específicos",
+      "resumo": "CGIBS e Receita Federal publicam versão 1.2.0 da documentação técnica da Declaração de Regimes Específicos",
+      "link": "https://www.cgibs.gov.br/cgibs-e-receita-federal-publicam-versao-1-2-0-da-documentacao-tecnica-da-dere",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-09-17T15:26:30",
+      "primeira_vez_em": "2026-09-17T15:26:30"
+    },
+    {
+      "id": "e7081cf0f4b1e195",
+      "titulo": "Receita Federal e CGIBS publicam norma que estabelece dispensas para o nanoempreendedor na reforma",
+      "resumo": "Receita Federal e CGIBS publicam norma que estabelece dispensas para o nanoempreendedor na reforma",
+      "link": "https://www.cgibs.gov.br/receita-federal-do-brasil-e-o-comite-gestor-do-ibs-publicam-norma-que-estabe",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-09-17T15:26:30",
+      "primeira_vez_em": "2026-09-17T15:26:30"
+    },
+    {
+      "id": "45db5858581df423",
+      "titulo": "CGIBS e RFB esclarecem os prazos de cumprimento das obrigações relativas à DeRE, elencados no Ato Conjunto nº 4",
+      "resumo": "CGIBS e RFB esclarecem os prazos de cumprimento das obrigações relativas à DeRE, elencados no Ato Conjunto nº 4",
+      "link": "https://www.cgibs.gov.br/cgibs-e-rfb-esclarecem-prazos-de-cumprimento-das-obrigacoes-relativas-a-dere-estabelecidos-pelo-ato-conjunto-n-4",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-09-17T15:26:30",
+      "primeira_vez_em": "2026-09-17T15:26:30"
+    },
+    {
+      "id": "756c5cba88c146e6",
+      "titulo": "Desafios, estratégias e impactos da Reforma Tributária para os Municípios são tema de debate em São Paulo",
+      "resumo": "Desafios, estratégias e impactos da Reforma Tributária para os Municípios são tema de debate em São Paulo",
+      "link": "https://www.cgibs.gov.br/desafios-e-estrategias-da-reforma-tributaria-sao-tema-de-debate-em-sao-paulo",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária"
+      ],
+      "coletado_em": "2026-09-17T15:26:30",
+      "primeira_vez_em": "2026-09-17T15:26:30"
+    },
+    {
+      "id": "4f3789139cce7ef8",
+      "titulo": "Receita Federal, Comitê Gestor do IBS e CFC alinham as diretrizes do Plano Nacional de Conformidade Tributária",
+      "resumo": "Receita Federal, Comitê Gestor do IBS e CFC alinham as diretrizes do Plano Nacional de Conformidade Tributária",
+      "link": "https://www.cgibs.gov.br/receita-federal-comite-gestor-do-ibs-e-cfc-alinham-diretrizes-do-plano-nacional-de-conformidade-tributaria",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-09-17T15:26:30",
+      "primeira_vez_em": "2026-09-17T15:26:30"
+    },
+    {
+      "id": "5843ef0c358a7c8f",
+      "titulo": "CGIBS e RFB publicam Nota Orientativa 2026.001, com ajustes nos leiautes de eventos e arquivos XSD da DeRE",
+      "resumo": "CGIBS e RFB publicam Nota Orientativa 2026.001, com ajustes nos leiautes de eventos e arquivos XSD da DeRE",
+      "link": "https://www.cgibs.gov.br/publicacao-da-nota-orientativa-2026-00nos-leiautes-de-eventos-e-nos-respectivos-arquiv",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-09-17T15:26:30",
+      "primeira_vez_em": "2026-09-17T15:26:30"
     },
     {
       "id": "08398f1e2c89c97b",
@@ -773,7 +1114,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-07-22T16:51:56Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:12",
+      "coletado_em": "2026-09-17T15:26:26",
       "primeira_vez_em": "2026-09-17T15:10:12"
     },
     {
@@ -787,7 +1128,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-07-20T19:54:16Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:12",
+      "coletado_em": "2026-09-17T15:26:26",
       "primeira_vez_em": "2026-09-17T15:10:12"
     },
     {
@@ -805,7 +1146,7 @@ const RADAR_DADOS = {
         "CBS",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-17T15:10:12",
+      "coletado_em": "2026-09-17T15:26:26",
       "primeira_vez_em": "2026-09-17T15:10:12"
     },
     {
@@ -819,7 +1160,7 @@ const RADAR_DADOS = {
       "data_publicacao": "23/07/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:11",
+      "coletado_em": "2026-09-17T15:26:24",
       "primeira_vez_em": "2026-09-17T15:10:11"
     },
     {
@@ -836,7 +1177,7 @@ const RADAR_DADOS = {
         "NFe",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-17T15:10:11",
+      "coletado_em": "2026-09-17T15:26:24",
       "primeira_vez_em": "2026-09-17T15:10:11"
     },
     {
@@ -853,7 +1194,7 @@ const RADAR_DADOS = {
         "Reforma Tributária",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-17T15:10:11",
+      "coletado_em": "2026-09-17T15:26:24",
       "primeira_vez_em": "2026-09-17T15:10:11"
     },
     {
@@ -867,7 +1208,7 @@ const RADAR_DADOS = {
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:11",
+      "coletado_em": "2026-09-17T15:26:24",
       "primeira_vez_em": "2026-09-17T15:10:11"
     },
     {
@@ -883,7 +1224,7 @@ const RADAR_DADOS = {
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-17T15:10:11",
+      "coletado_em": "2026-09-17T15:26:24",
       "primeira_vez_em": "2026-09-17T15:10:11"
     },
     {
@@ -901,7 +1242,7 @@ const RADAR_DADOS = {
         "CBS",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-17T15:10:11",
+      "coletado_em": "2026-09-17T15:26:24",
       "primeira_vez_em": "2026-09-17T15:10:11"
     },
     {
@@ -915,7 +1256,7 @@ const RADAR_DADOS = {
       "data_publicacao": "14/01/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T15:10:11",
+      "coletado_em": "2026-09-17T15:26:24",
       "primeira_vez_em": "2026-09-17T15:10:11"
     },
     {
@@ -931,7 +1272,7 @@ const RADAR_DADOS = {
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-09-17T15:10:11",
+      "coletado_em": "2026-09-17T15:26:24",
       "primeira_vez_em": "2026-09-17T15:10:11"
     }
   ],

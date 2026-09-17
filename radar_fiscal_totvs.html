@@ -265,7 +265,7 @@
 <main class="conteudo">
 
   <section class="destaque-nt" id="secao-destaque-nt" style="display:none;">
-    <h2 class="destaque-nt__titulo">🔔 Nova(s) Nota(s) Técnica(s)</h2>
+    <h2 class="destaque-nt__titulo">🔔 Última Nota Técnica publicada, por fonte</h2>
     <div class="destaque-nt__grid" id="destaque-nt-grid"></div>
   </section>
 
@@ -382,22 +382,22 @@
   document.getElementById("reforma-atualizado-em").textContent =
     "Atualizado manualmente em " + (dados.reforma.atualizado_em || "-") + " · dados de progresso são revisados com base nas notícias oficiais coletadas";
 
-  // ---------- Destaque de Notas Tecnicas novas (ultimos 3 dias) ----------
-  const JANELA_NT_DIAS = 3;
-  const agoraDestaque = new Date();
-  const notasTecnicasNovas = dados.noticias
+  // ---------- Destaque: ultima Nota Tecnica publicada, uma por fonte ----------
+  // dados.noticias preserva a ordem de raspagem (mais recente primeiro) dentro de cada
+  // fonte, entao o primeiro item de cada fonte e a NT mais recentemente publicada nela.
+  const notasTecnicasPorFonte = new Map();
+  dados.noticias
     .filter(function (n) { return n.tags.indexOf("NT (Nota Técnica)") !== -1; })
-    .filter(function (n) {
-      const primeiraVez = new Date(n.primeira_vez_em || n.coletado_em);
-      if (isNaN(primeiraVez)) return false;
-      return (agoraDestaque - primeiraVez) / (1000 * 60 * 60 * 24) <= JANELA_NT_DIAS;
-    })
-    .sort(function (a, b) { return new Date(b.primeira_vez_em || b.coletado_em) - new Date(a.primeira_vez_em || a.coletado_em); });
+    .forEach(function (n) {
+      if (!notasTecnicasPorFonte.has(n.fonte)) notasTecnicasPorFonte.set(n.fonte, n);
+    });
+  const ultimasNotasTecnicas = Array.from(notasTecnicasPorFonte.values())
+    .sort(function (a, b) { return a.fonte.localeCompare(b.fonte); });
 
-  const temDestaqueNt = notasTecnicasNovas.length > 0;
+  const temDestaqueNt = ultimasNotasTecnicas.length > 0;
   if (temDestaqueNt) {
     const destaqueGrid = document.getElementById("destaque-nt-grid");
-    notasTecnicasNovas.forEach(function (n) {
+    ultimasNotasTecnicas.forEach(function (n) {
       const item = document.createElement("div");
       item.className = "destaque-nt__item";
       item.innerHTML =

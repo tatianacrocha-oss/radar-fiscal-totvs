@@ -207,18 +207,10 @@ def esta_em_area_de_navegacao(tag) -> bool:
     return False
 
 
-def buscar_generic_html(fonte: dict) -> list[dict]:
-    """Heuristica generica para sites sem RSS/layout conhecido (ex.: a maioria das SEFAZ estaduais).
-
-    Cada site de estado usa uma plataforma diferente (Drupal, SharePoint, CMS proprio),
-    entao aqui procuramos qualquer link cujo container (li/div/article) tenha uma classe
-    com nome sugestivo de noticia e um texto longo o suficiente para ser um titulo real.
-    Pode retornar 0 itens em sites muito dinamicos (JS) - nesse caso ajuste o seletor
-    manualmente em config/sources.json ou reporte para revisao.
-    """
-    resposta = requisitar(fonte["url"])
-    sopa = BeautifulSoup(resposta.text, "html.parser")
-
+def extrair_candidatos_noticia(sopa: BeautifulSoup, url_base: str) -> list[dict]:
+    """Heuristica generica: procura links cujo container tenha classe sugestiva de noticia
+    e um texto longo o suficiente para ser um titulo real. Usada tanto para paginas HTML
+    completas quanto para fragmentos HTML devolvidos por chamadas AJAX."""
     candidatos = []
     for classe in CLASSES_CANDIDATAS:
         candidatos.extend(sopa.select(f'[class*="{classe}"]'))
@@ -244,7 +236,7 @@ def buscar_generic_html(fonte: dict) -> list[dict]:
             continue  # titulo real de noticia nao e um paragrafo/menu inteiro
         if "exibindo 0 a 0 de 0" in titulo.lower():
             continue  # mensagem de lista vazia do site, nao e noticia
-        link = urljoin(fonte["url"], link_tag["href"])
+        link = urljoin(url_base, link_tag["href"])
         if link in vistos:
             continue
         vistos.add(link)
@@ -260,11 +252,53 @@ def buscar_generic_html(fonte: dict) -> list[dict]:
     return itens
 
 
+def buscar_generic_html(fonte: dict) -> list[dict]:
+    """Heuristica generica para sites sem RSS/layout conhecido (ex.: a maioria das SEFAZ estaduais).
+
+    Cada site de estado usa uma plataforma diferente (Drupal, SharePoint, CMS proprio).
+    Pode retornar 0 itens em sites muito dinamicos (JS) - nesse caso ajuste o seletor
+    manualmente em config/sources.json ou reporte para revisao.
+    """
+    resposta = requisitar(fonte["url"])
+    sopa = BeautifulSoup(resposta.text, "html.parser")
+    return extrair_candidatos_noticia(sopa, fonte["url"])
+
+
+def buscar_matriz_ajax_html(fonte: dict) -> list[dict]:
+    """Portais que usam o CMS 'Matriz' (ex.: CGIBS) carregam a lista de noticias via AJAX.
+
+    A pagina principal traz um elemento com 'data-matriz-source-uri' apontando para o
+    endpoint que devolve um fragmento HTML dentro de um JSON. Buscamos esse endpoint
+    diretamente em vez de precisar executar o JavaScript da pagina.
+    """
+    pagina = requisitar(fonte["url"])
+    sopa_pagina = BeautifulSoup(pagina.text, "html.parser")
+    container_ajax = sopa_pagina.select_one("[data-matriz-source-uri]")
+    if not container_ajax:
+        return []
+
+    campos = [c.strip() for c in (container_ajax.get("data-matriz-search-fields") or "Titulo").split(",")]
+    pagesize_tag = sopa_pagina.select_one(".matriz-ui-pagedlist-pagesize")
+    pagesize = pagesize_tag.get("value") if pagesize_tag and pagesize_tag.get("value") else fonte["max_itens"]
+
+    url_ajax = urljoin(fonte["url"], container_ajax["data-matriz-source-uri"])
+    params = [("currentPage", 1), ("pageSize", pagesize)] + [("fields[]", campo) for campo in campos] + [("form[ordem]", "RECENTES")]
+    headers = dict(HTTP_HEADERS, **{"X-Requested-With": "XMLHttpRequest", "Referer": fonte["url"]})
+
+    resposta = requests.get(url_ajax, params=params, headers=headers, timeout=HTTP_TIMEOUT)
+    resposta.raise_for_status()
+    corpo_html = resposta.json().get("body", "")
+
+    sopa_corpo = BeautifulSoup(corpo_html, "html.parser")
+    return extrair_candidatos_noticia(sopa_corpo, fonte["url"])
+
+
 BUSCADORES = {
     "rss": buscar_rss,
     "gov_br_html": buscar_gov_br_html,
     "generic_html": buscar_generic_html,
     "svrs_avisos_html": buscar_svrs_avisos_html,
+    "matriz_ajax_html": buscar_matriz_ajax_html,
 }
 
 

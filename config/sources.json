@@ -20,6 +20,15 @@
       "max_itens": 8
     },
     {
+      "id": "cgibs",
+      "nome": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "tipo": "matriz_ajax_html",
+      "url": "https://www.cgibs.gov.br/noticias",
+      "prioridade": "alta",
+      "max_itens": 9
+    },
+    {
       "id": "nfse-nacional",
       "nome": "NFS-e Nacional (CGNFS-e)",
       "esfera": "federal",
@@ -71,6 +80,42 @@
       "esfera": "federal",
       "tipo": "generic_html",
       "url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=04BIflQt1aY=",
+      "prioridade": "alta",
+      "max_itens": 10
+    },
+    {
+      "id": "nfag-notas-tecnicas",
+      "nome": "NFAg - Notas Técnicas",
+      "esfera": "federal",
+      "tipo": "generic_html",
+      "url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=3Fp/o5Gi3Gk=",
+      "prioridade": "alta",
+      "max_itens": 10
+    },
+    {
+      "id": "nf3e-notas-tecnicas",
+      "nome": "NF3e - Notas Técnicas",
+      "esfera": "federal",
+      "tipo": "generic_html",
+      "url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=v5k1Ww0z+Sw=",
+      "prioridade": "alta",
+      "max_itens": 10
+    },
+    {
+      "id": "nfcom-notas-tecnicas",
+      "nome": "NFCom - Notas Técnicas",
+      "esfera": "federal",
+      "tipo": "generic_html",
+      "url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=pOpc8eWvlKc=",
+      "prioridade": "alta",
+      "max_itens": 10
+    },
+    {
+      "id": "nfgas-notas-tecnicas",
+      "nome": "NFGas - Notas Técnicas",
+      "esfera": "federal",
+      "tipo": "generic_html",
+      "url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=LYb9eZ1SOh0=",
       "prioridade": "alta",
       "max_itens": 10
     },
