@@ -1,0 +1,27 @@
+{
+  "marca": {
+    "nome": "TOTVS S.A.",
+    "assinatura": "Tatiana Cristine da Rocha",
+    "logo": "assets/logo-totvs.png"
+  },
+  "usuario": {
+    "estados_prioritarios": ["SC", "PR", "SP", "RS"],
+    "focos_principais": [
+      "Reforma Tributária e apuração assistida",
+      "NFSe e obrigações municipais",
+      "ICMS e obrigações estaduais (DIFAL)"
+    ]
+  },
+  "boletim_email": {
+    "ativo": false,
+    "_comentario": "Preencha e mude 'ativo' para true quando quiser habilitar o envio por e-mail. A senha NUNCA deve ser digitada aqui: configure a variável de ambiente RADAR_FISCAL_EMAIL_SENHA no Windows (veja README).",
+    "servidor_smtp": "smtp.gmail.com",
+    "porta_smtp": 587,
+    "email_remetente": "",
+    "email_destinatario": "",
+    "horario_envio": "08:00"
+  },
+  "historico": {
+    "dias_retencao": 30
+  }
+}

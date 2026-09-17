@@ -1,0 +1,33 @@
+{
+  "_comentario": "Palavras-chave usadas pelo scraper para classificar cada noticia (tags e impacto). Edite livremente para incluir novos termos sem precisar alterar o codigo Python.",
+  "tags": {
+    "Reforma Tributária": ["reforma tributária", "reforma tributaria", "lc 214", "emenda constitucional 132", "ec 132"],
+    "IBS": ["ibs", "imposto sobre bens e serviços", "comitê gestor do ibs", "cgibs"],
+    "CBS": ["cbs", "contribuição sobre bens e serviços"],
+    "Imposto Seletivo": ["imposto seletivo", "ibs seletivo", "seletivo"],
+    "ICMS": ["icms"],
+    "DIFAL": ["difal", "diferencial de alíquota", "diferencial de aliquota"],
+    "ISS": ["iss ", "issqn", "imposto sobre serviços"],
+    "NFe": ["nf-e", "nfe ", "nota fiscal eletrônica", "nota fiscal eletronica"],
+    "NFSe": ["nfs-e", "nfse", "nota fiscal de serviço eletrônica"],
+    "NFAg": ["nfag", "nf-ag"],
+    "NT (Nota Técnica)": ["nota técnica", "nota tecnica", " nt "],
+    "Simples Nacional": ["simples nacional"],
+    "PIS/COFINS": ["pis/cofins", "pis e cofins", "cofins"],
+    "SPED": ["sped", "escrituração digital", "escrituracao digital"],
+    "Prazo/Obrigação": ["prazo", "obrigatoriedade", "obrigatório a partir", "entra em vigor", "vigência"],
+    "Multa/Penalidade": ["multa", "penalidade", "autuação", "autuacao"],
+    "API/Sistemas Gov": ["api ", "webservice", "sefaz virtual", "ambiente nacional"],
+    "Agro": ["agro", "agropecuário", "agropecuario", "cna", "cepea", "mapa"]
+  },
+  "impacto_alto": [
+    "obrigatório", "obrigatoriedade", "entra em vigor", "sancionada", "sancionado",
+    "aprovado no plenário", "aprovada no plenário", "multa", "penalidade", "revogação",
+    "revogacao", "nova versão do leiaute", "nova versao do leiaute", "prazo final",
+    "reforma tributária", "reforma tributaria", "cbs", "ibs", "imposto seletivo"
+  ],
+  "impacto_baixo": [
+    "consulta pública", "consulta publica", "audiência pública", "audiencia publica",
+    "estudo", "pesquisa", "seminário", "seminario", "evento", "palestra", "webinar"
+  ]
+}

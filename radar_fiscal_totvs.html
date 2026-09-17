@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Radar Fiscal TOTVS</title>
+<link rel="icon" href="assets/logo-totvs.png">
+<style>
+  :root {
+    --totvs-azul: #0026FF;
+    --totvs-azul-escuro: #061A40;
+    --totvs-roxo: #5F27CD;
+    --totvs-verde: #00B87C;
+    --totvs-branco: #FFFFFF;
+
+    --azul-claro: #E4EAFF;
+    --roxo-claro: #EAE1FB;
+    --verde-claro: #DCF6EC;
+
+    --cinza-100: #F5F6FA;
+    --cinza-200: #ECEEF3;
+    --cinza-300: #E2E5ED;
+    --cinza-500: #9AA1B1;
+    --cinza-600: #6B7280;
+    --cinza-900: #1F2430;
+
+    --impacto-alto: #D92D20;
+    --impacto-alto-bg: #FBE7E5;
+    --impacto-medio: #B54708;
+    --impacto-medio-bg: #FEF0C7;
+    --impacto-baixo: #027A48;
+    --impacto-baixo-bg: #D8F2E4;
+
+    --sombra: 0 1px 2px rgba(16, 24, 40, 0.06), 0 1px 3px rgba(16, 24, 40, 0.08);
+    --raio: 12px;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    font-family: "Segoe UI", Roboto, Arial, sans-serif;
+    background: var(--cinza-100);
+    color: var(--cinza-900);
+  }
+
+  a { color: var(--totvs-azul); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  /* ---------- Topbar ---------- */
+  .topbar {
+    background: var(--totvs-azul-escuro);
+    color: var(--totvs-branco);
+    padding: 14px 24px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  .topbar__logo { height: 34px; background: var(--totvs-branco); border-radius: 6px; padding: 4px 8px; }
+  .topbar__titulo { font-size: 20px; font-weight: 600; margin: 0; flex-shrink: 0; }
+  .topbar__titulo small { display: block; font-size: 11px; font-weight: 400; color: var(--azul-claro); }
+  .topbar__espaco { flex: 1; }
+  .topbar__relogio { text-align: right; font-size: 13px; color: var(--azul-claro); line-height: 1.4; }
+  .topbar__relogio strong { font-size: 18px; color: var(--totvs-branco); display: block; font-variant-numeric: tabular-nums; }
+  .btn-boletim {
+    background: var(--totvs-verde);
+    color: var(--totvs-azul-escuro);
+    border: none;
+    padding: 10px 18px;
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 14px;
+    white-space: nowrap;
+  }
+  .btn-boletim:hover { opacity: 0.9; }
+
+  /* ---------- Menu ---------- */
+  .menu {
+    background: var(--totvs-branco);
+    border-bottom: 1px solid var(--cinza-300);
+    display: flex;
+    gap: 4px;
+    padding: 0 20px;
+    overflow-x: auto;
+  }
+  .menu__item {
+    padding: 14px 16px;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--cinza-600);
+    cursor: pointer;
+    border-bottom: 3px solid transparent;
+    white-space: nowrap;
+  }
+  .menu__item:hover { color: var(--totvs-azul); }
+  .menu__item.ativo { color: var(--totvs-azul); border-bottom-color: var(--totvs-azul); }
+
+  .conteudo { max-width: 1200px; margin: 0 auto; padding: 20px; }
+
+  /* ---------- Reforma Tributaria ---------- */
+  .reforma {
+    background: var(--totvs-branco);
+    border-radius: var(--raio);
+    box-shadow: var(--sombra);
+    padding: 20px 24px;
+    margin-bottom: 20px;
+  }
+  .reforma__titulo { margin: 0 0 4px; font-size: 16px; color: var(--totvs-azul-escuro); }
+  .reforma__subtitulo { margin: 0 0 16px; font-size: 12px; color: var(--cinza-600); }
+  .reforma__grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px; }
+  .meter__cabecalho { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px; }
+  .meter__nome { font-weight: 700; font-size: 14px; }
+  .meter__percentual { font-weight: 700; font-size: 15px; font-variant-numeric: tabular-nums; }
+  .meter__track { height: 10px; border-radius: 6px; overflow: hidden; }
+  .meter__fill { height: 100%; border-radius: 6px; }
+  .meter__etapa { font-size: 12px; color: var(--cinza-600); margin-top: 6px; }
+  .meter--azul .meter__track { background: var(--azul-claro); }
+  .meter--azul .meter__fill { background: var(--totvs-azul); }
+  .meter--azul .meter__percentual { color: var(--totvs-azul); }
+  .meter--roxo .meter__track { background: var(--roxo-claro); }
+  .meter--roxo .meter__fill { background: var(--totvs-roxo); }
+  .meter--roxo .meter__percentual { color: var(--totvs-roxo); }
+  .meter--verde .meter__track { background: var(--verde-claro); }
+  .meter--verde .meter__fill { background: var(--totvs-verde); }
+  .meter--verde .meter__percentual { color: var(--totvs-verde); }
+
+  /* ---------- Filtros ---------- */
+  .filtros {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 16px;
+    background: var(--totvs-branco);
+    padding: 14px 18px;
+    border-radius: var(--raio);
+    box-shadow: var(--sombra);
+  }
+  .filtros label { font-size: 12px; color: var(--cinza-600); display: block; margin-bottom: 4px; }
+  .filtros select {
+    padding: 8px 10px;
+    border-radius: 8px;
+    border: 1px solid var(--cinza-300);
+    font-size: 13px;
+    min-width: 160px;
+    background: var(--totvs-branco);
+  }
+  .filtros__contador { margin-left: auto; font-size: 13px; color: var(--cinza-600); }
+
+  /* ---------- Cards ---------- */
+  .grid-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; align-items: start; }
+  .card {
+    background: var(--totvs-branco);
+    border-radius: var(--raio);
+    box-shadow: var(--sombra);
+    padding: 16px 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    border-top: 3px solid var(--cinza-300);
+  }
+  .card.impacto-alto { border-top-color: var(--impacto-alto); }
+  .card.impacto-medio { border-top-color: var(--impacto-medio); }
+  .card.impacto-baixo { border-top-color: var(--impacto-baixo); }
+
+  .card__topo { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
+  .badge-impacto {
+    font-size: 11px;
+    font-weight: 700;
+    padding: 3px 9px;
+    border-radius: 999px;
+    white-space: nowrap;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+  .badge-impacto.impacto-alto { background: var(--impacto-alto-bg); color: var(--impacto-alto); }
+  .badge-impacto.impacto-medio { background: var(--impacto-medio-bg); color: var(--impacto-medio); }
+  .badge-impacto.impacto-baixo { background: var(--impacto-baixo-bg); color: var(--impacto-baixo); }
+
+  .card__fonte { font-size: 12px; color: var(--cinza-600); }
+  .card__fonte b { color: var(--totvs-azul-escuro); }
+  .card__titulo { font-size: 15px; font-weight: 700; margin: 0; line-height: 1.35; color: var(--totvs-azul-escuro); }
+  .card__resumo { font-size: 13px; color: var(--cinza-600); line-height: 1.5; flex: 1; margin: 0; }
+  .card__tags { display: flex; flex-wrap: wrap; gap: 6px; }
+  .tag { font-size: 11px; background: var(--cinza-200); color: var(--cinza-600); padding: 3px 8px; border-radius: 999px; }
+  .card__rodape { display: flex; justify-content: space-between; align-items: center; margin-top: 4px; }
+  .card__data { font-size: 11px; color: var(--cinza-500); }
+  .card__link { font-size: 13px; font-weight: 600; }
+
+  .estado-vazio { text-align: center; padding: 60px 20px; color: var(--cinza-600); }
+  .estado-vazio strong { display: block; font-size: 16px; margin-bottom: 6px; color: var(--totvs-azul-escuro); }
+
+  /* ---------- Modal Boletim ---------- */
+  .modal-fundo {
+    position: fixed; inset: 0; background: rgba(6, 26, 64, 0.55);
+    display: none; align-items: center; justify-content: center; padding: 20px; z-index: 100;
+  }
+  .modal-fundo.aberto { display: flex; }
+  .modal {
+    background: var(--totvs-branco); border-radius: var(--raio); max-width: 640px; width: 100%;
+    max-height: 85vh; overflow-y: auto; padding: 24px;
+  }
+  .modal__topo { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
+  .modal__topo h2 { margin: 0; font-size: 18px; color: var(--totvs-azul-escuro); }
+  .modal__fechar { background: none; border: none; font-size: 22px; cursor: pointer; color: var(--cinza-600); line-height: 1; }
+  .modal__grupo-titulo { font-size: 12px; font-weight: 700; text-transform: uppercase; color: var(--cinza-600); margin: 16px 0 8px; }
+  .modal__item { padding: 8px 0; border-bottom: 1px solid var(--cinza-200); font-size: 13px; }
+  .modal__item a { font-weight: 600; }
+
+  /* ---------- Footer ---------- */
+  .rodape {
+    text-align: center; padding: 24px; font-size: 12px; color: var(--cinza-500);
+  }
+
+  @media (max-width: 640px) {
+    .topbar__relogio { display: none; }
+    .filtros__contador { margin-left: 0; width: 100%; }
+  }
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <img class="topbar__logo" src="assets/logo-totvs.png" alt="TOTVS">
+  <h1 class="topbar__titulo">Radar Fiscal<small>Monitoramento tributário diário</small></h1>
+  <div class="topbar__espaco"></div>
+  <div class="topbar__relogio">
+    <strong id="relogio">--:--:--</strong>
+    <span id="ultima-atualizacao">última atualização: --</span>
+  </div>
+  <button class="btn-boletim" id="btn-boletim">📋 Boletim do dia</button>
+</header>
+
+<nav class="menu" id="menu">
+  <div class="menu__item ativo" data-view="radar-do-dia">Radar do Dia</div>
+  <div class="menu__item" data-view="reforma">Reforma Tributária</div>
+  <div class="menu__item" data-esfera="federal">Federal</div>
+  <div class="menu__item" data-esfera="estadual">Estadual</div>
+  <div class="menu__item" data-esfera="municipal">Municipal</div>
+  <div class="menu__item" data-esfera="internacional">Internacional</div>
+</nav>
+
+<main class="conteudo">
+
+  <section class="reforma" id="secao-reforma">
+    <h2 class="reforma__titulo">Placar da Reforma Tributária</h2>
+    <p class="reforma__subtitulo" id="reforma-atualizado-em"></p>
+    <div class="reforma__grid" id="reforma-grid"></div>
+  </section>
+
+  <div class="filtros">
+    <div>
+      <label for="filtro-esfera">Esfera</label>
+      <select id="filtro-esfera">
+        <option value="">Todas</option>
+        <option value="federal">Federal</option>
+        <option value="estadual">Estadual</option>
+        <option value="municipal">Municipal</option>
+        <option value="internacional">Internacional</option>
+      </select>
+    </div>
+    <div>
+      <label for="filtro-data">Período</label>
+      <select id="filtro-data">
+        <option value="">Todos</option>
+        <option value="hoje">Hoje</option>
+        <option value="7">Últimos 7 dias</option>
+        <option value="30">Últimos 30 dias</option>
+      </select>
+    </div>
+    <div>
+      <label for="filtro-fonte">Fonte</label>
+      <select id="filtro-fonte">
+        <option value="">Todas</option>
+      </select>
+    </div>
+    <div>
+      <label for="filtro-impacto">Impacto</label>
+      <select id="filtro-impacto">
+        <option value="">Todos</option>
+        <option value="alto">Alto</option>
+        <option value="médio">Médio</option>
+        <option value="baixo">Baixo</option>
+      </select>
+    </div>
+    <div class="filtros__contador" id="contador-resultados"></div>
+  </div>
+
+  <div class="grid-cards" id="cards-container"></div>
+
+</main>
+
+<div class="modal-fundo" id="modal-boletim">
+  <div class="modal">
+    <div class="modal__topo">
+      <h2>Boletim do dia</h2>
+      <button class="modal__fechar" id="fechar-boletim">&times;</button>
+    </div>
+    <div id="boletim-conteudo"></div>
+  </div>
+</div>
+
+<footer class="rodape">
+  Radar Fiscal TOTVS · elaborado por Tatiana Cristine da Rocha
+</footer>
+
+<script src="noticias_data.js"></script>
+<script>
+(function () {
+  const dados = (typeof RADAR_DADOS !== "undefined") ? RADAR_DADOS : { geradoEm: null, noticias: [], reforma: { itens: [] } };
+
+  function formatarDataHora(isoTexto) {
+    if (!isoTexto) return "sem dados ainda";
+    const data = new Date(isoTexto);
+    if (isNaN(data)) return isoTexto;
+    return data.toLocaleString("pt-BR", { day: "2-digit", month: "2-digit", year: "numeric", hour: "2-digit", minute: "2-digit" });
+  }
+
+  function formatarDataPublicacao(dataPublicacao, coletadoEm) {
+    if (!dataPublicacao) return formatarDataHora(coletadoEm);
+    const pareceIso = /^\d{4}-\d{2}-\d{2}/.test(dataPublicacao);
+    const pareceRfc = /^[A-Za-z]{3},\s\d{1,2}\s[A-Za-z]{3}\s\d{4}/.test(dataPublicacao);
+    if (pareceIso || pareceRfc) {
+      const data = new Date(dataPublicacao);
+      if (!isNaN(data)) return formatarDataHora(dataPublicacao);
+    }
+    return dataPublicacao;
+  }
+
+  function atualizarRelogio() {
+    const agora = new Date();
+    document.getElementById("relogio").textContent = agora.toLocaleTimeString("pt-BR");
+  }
+  atualizarRelogio();
+  setInterval(atualizarRelogio, 1000);
+  document.getElementById("ultima-atualizacao").textContent = "última atualização: " + formatarDataHora(dados.geradoEm);
+
+  // ---------- Placar Reforma Tributaria ----------
+  const reformaGrid = document.getElementById("reforma-grid");
+  const coresReforma = { azul: "azul", roxo: "roxo", verde: "verde" };
+  (dados.reforma.itens || []).forEach(function (item) {
+    const cor = coresReforma[item.cor] || "azul";
+    const bloco = document.createElement("div");
+    bloco.innerHTML =
+      '<div class="meter meter--' + cor + '">' +
+        '<div class="meter__cabecalho">' +
+          '<span class="meter__nome" title="' + item.descricao + '">' + item.nome + '</span>' +
+          '<span class="meter__percentual">' + item.percentual + '%</span>' +
+        '</div>' +
+        '<div class="meter__track"><div class="meter__fill" style="width:' + item.percentual + '%"></div></div>' +
+        '<div class="meter__etapa">' + item.etapa_atual + '</div>' +
+      '</div>';
+    reformaGrid.appendChild(bloco);
+  });
+  document.getElementById("reforma-atualizado-em").textContent =
+    "Atualizado manualmente em " + (dados.reforma.atualizado_em || "-") + " · dados de progresso são revisados com base nas notícias oficiais coletadas";
+
+  // ---------- Filtro de fontes disponiveis ----------
+  const selectFonte = document.getElementById("filtro-fonte");
+  const fontesUnicas = Array.from(new Set(dados.noticias.map(function (n) { return n.fonte; }))).sort();
+  fontesUnicas.forEach(function (fonte) {
+    const opcao = document.createElement("option");
+    opcao.value = fonte;
+    opcao.textContent = fonte;
+    selectFonte.appendChild(opcao);
+  });
+
+  // ---------- Estado de navegacao ----------
+  const estado = { view: "radar-do-dia", esfera: "" };
+
+  function normalizarImpactoClasse(impacto) {
+    return "impacto-" + (impacto === "médio" ? "medio" : impacto);
+  }
+
+  function noticiaDentroDoPeriodo(noticia, filtroData) {
+    if (!filtroData) return true;
+    const coletado = new Date(noticia.coletado_em);
+    if (isNaN(coletado)) return true;
+    const agora = new Date();
+    const diffDias = (agora - coletado) / (1000 * 60 * 60 * 24);
+    if (filtroData === "hoje") return coletado.toDateString() === agora.toDateString();
+    return diffDias <= Number(filtroData);
+  }
+
+  function renderizarCards() {
+    const filtroEsferaSelect = document.getElementById("filtro-esfera").value;
+    const filtroData = document.getElementById("filtro-data").value;
+    const filtroFonte = document.getElementById("filtro-fonte").value;
+    const filtroImpacto = document.getElementById("filtro-impacto").value;
+
+    const esferaEfetiva = estado.esfera || filtroEsferaSelect;
+
+    let listaFiltrada = dados.noticias.filter(function (noticia) {
+      if (esferaEfetiva && noticia.esfera !== esferaEfetiva) return false;
+      if (filtroFonte && noticia.fonte !== filtroFonte) return false;
+      if (filtroImpacto && noticia.impacto !== filtroImpacto) return false;
+      if (!noticiaDentroDoPeriodo(noticia, filtroData)) return false;
+      if (estado.view === "reforma") {
+        const tagsReforma = ["Reforma Tributária", "IBS", "CBS", "Imposto Seletivo"];
+        if (!noticia.tags.some(function (t) { return tagsReforma.indexOf(t) !== -1; })) return false;
+      }
+      return true;
+    });
+
+    listaFiltrada.sort(function (a, b) { return new Date(b.coletado_em) - new Date(a.coletado_em); });
+
+    const container = document.getElementById("cards-container");
+    container.innerHTML = "";
+    document.getElementById("contador-resultados").textContent = listaFiltrada.length + " notícia(s)";
+
+    if (listaFiltrada.length === 0) {
+      container.innerHTML =
+        '<div class="estado-vazio" style="grid-column: 1 / -1;">' +
+          '<strong>Nenhuma notícia encontrada para este filtro.</strong>' +
+          'Rode o radar_fiscal_scraper.py novamente ou ajuste os filtros acima.' +
+        '</div>';
+      return;
+    }
+
+    listaFiltrada.forEach(function (noticia) {
+      const classeImpacto = normalizarImpactoClasse(noticia.impacto);
+      const card = document.createElement("article");
+      card.className = "card " + classeImpacto;
+      card.innerHTML =
+        '<div class="card__topo">' +
+          '<span class="card__fonte"><b>' + noticia.fonte + '</b>' + (noticia.uf ? " · " + noticia.uf : "") + '</span>' +
+          '<span class="badge-impacto ' + classeImpacto + '">' + noticia.impacto + '</span>' +
+        '</div>' +
+        '<h3 class="card__titulo">' + noticia.titulo + '</h3>' +
+        '<p class="card__resumo">' + noticia.resumo + '</p>' +
+        '<div class="card__tags">' + noticia.tags.map(function (t) { return '<span class="tag">' + t + '</span>'; }).join("") + '</div>' +
+        '<div class="card__rodape">' +
+          '<span class="card__data">' + formatarDataPublicacao(noticia.data_publicacao, noticia.coletado_em) + '</span>' +
+          '<a class="card__link" href="' + noticia.link + '" target="_blank" rel="noopener">Ler notícia completa →</a>' +
+        '</div>';
+      container.appendChild(card);
+    });
+  }
+
+  // ---------- Menu ----------
+  const itensMenu = document.querySelectorAll("#menu .menu__item");
+  itensMenu.forEach(function (item) {
+    item.addEventListener("click", function () {
+      itensMenu.forEach(function (i) { i.classList.remove("ativo"); });
+      item.classList.add("ativo");
+
+      if (item.dataset.view) {
+        estado.view = item.dataset.view;
+        estado.esfera = "";
+      } else if (item.dataset.esfera) {
+        estado.view = "esfera";
+        estado.esfera = item.dataset.esfera;
+      }
+
+      document.getElementById("secao-reforma").style.display = (estado.view === "radar-do-dia" || estado.view === "reforma") ? "block" : "none";
+      document.getElementById("filtro-esfera").value = "";
+      renderizarCards();
+    });
+  });
+
+  ["filtro-esfera", "filtro-data", "filtro-fonte", "filtro-impacto"].forEach(function (id) {
+    document.getElementById(id).addEventListener("change", renderizarCards);
+  });
+
+  // ---------- Boletim ----------
+  const modalBoletim = document.getElementById("modal-boletim");
+  document.getElementById("btn-boletim").addEventListener("click", function () {
+    const diaReferencia = dados.geradoEm ? dados.geradoEm.slice(0, 10) : null;
+    const doDia = dados.noticias.filter(function (n) { return diaReferencia && n.coletado_em.slice(0, 10) === diaReferencia; });
+
+    const conteudo = document.getElementById("boletim-conteudo");
+    if (doDia.length === 0) {
+      conteudo.innerHTML = '<p>Nenhuma notícia nova coletada na última execução do radar_fiscal_scraper.py.</p>';
+    } else {
+      let html = "";
+      ["alto", "médio", "baixo"].forEach(function (impacto) {
+        const grupo = doDia.filter(function (n) { return n.impacto === impacto; });
+        if (grupo.length === 0) return;
+        html += '<div class="modal__grupo-titulo">Impacto ' + impacto + ' (' + grupo.length + ')</div>';
+        grupo.forEach(function (n) {
+          html += '<div class="modal__item"><a href="' + n.link + '" target="_blank" rel="noopener">' + n.titulo + '</a><br><span style="color:var(--cinza-600)">' + n.fonte + '</span></div>';
+        });
+      });
+      conteudo.innerHTML = html;
+    }
+    modalBoletim.classList.add("aberto");
+  });
+  document.getElementById("fechar-boletim").addEventListener("click", function () { modalBoletim.classList.remove("aberto"); });
+  modalBoletim.addEventListener("click", function (evento) { if (evento.target === modalBoletim) modalBoletim.classList.remove("aberto"); });
+
+  renderizarCards();
+})();
+</script>
+
+</body>
+</html>

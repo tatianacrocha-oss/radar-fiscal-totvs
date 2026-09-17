@@ -1,0 +1,168 @@
+{
+  "_comentario": "Configuracao das fontes monitoradas pelo radar_fiscal_scraper.py. tipo: 'rss' (feed testado), 'gov_br_html' (paginas do portal padrao gov.br, testado), 'generic_html' (heuristica generica, pode precisar de ajuste). prioridade 'alta' coleta mais itens (ver max_itens).",
+  "fontes": [
+    {
+      "id": "receita-federal",
+      "nome": "Receita Federal",
+      "esfera": "federal",
+      "tipo": "rss",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "prioridade": "alta",
+      "max_itens": 8
+    },
+    {
+      "id": "pgfn",
+      "nome": "PGFN",
+      "esfera": "federal",
+      "tipo": "gov_br_html",
+      "url": "https://www.gov.br/pgfn/pt-br/assuntos/noticias",
+      "prioridade": "alta",
+      "max_itens": 6
+    },
+    {
+      "id": "ministerio-fazenda",
+      "nome": "Ministério da Fazenda",
+      "esfera": "federal",
+      "tipo": "gov_br_html",
+      "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias",
+      "prioridade": "alta",
+      "max_itens": 8
+    },
+    {
+      "id": "camara-deputados",
+      "nome": "Câmara dos Deputados",
+      "esfera": "federal",
+      "tipo": "generic_html",
+      "url": "https://www.camara.leg.br/noticias",
+      "prioridade": "alta",
+      "max_itens": 8
+    },
+    {
+      "id": "senado-federal",
+      "nome": "Senado Federal",
+      "esfera": "federal",
+      "tipo": "rss",
+      "url": "https://www12.senado.leg.br/noticias/rss",
+      "prioridade": "alta",
+      "max_itens": 8,
+      "excluir_se_link_contem": ["/videos/", "/audios/"]
+    },
+    {
+      "id": "mapa",
+      "nome": "MAPA (Agricultura)",
+      "esfera": "federal",
+      "tipo": "gov_br_html",
+      "url": "https://www.gov.br/agricultura/pt-br/assuntos/noticias",
+      "prioridade": "normal",
+      "max_itens": 4
+    },
+    {
+      "id": "cfc",
+      "nome": "CFC - Conselho Federal de Contabilidade",
+      "esfera": "federal",
+      "tipo": "generic_html",
+      "url": "https://cfc.org.br/noticias/",
+      "prioridade": "normal",
+      "max_itens": 5
+    },
+    {
+      "id": "contabeis",
+      "nome": "Portal Contábeis",
+      "esfera": "federal",
+      "tipo": "generic_html",
+      "url": "https://www.contabeis.com.br/noticias/",
+      "prioridade": "normal",
+      "max_itens": 6
+    },
+    {
+      "id": "jornal-contabil",
+      "nome": "Jornal Contábil",
+      "esfera": "federal",
+      "tipo": "rss",
+      "url": "https://www.jornalcontabil.com.br/feed/",
+      "prioridade": "normal",
+      "max_itens": 6
+    },
+    {
+      "id": "sefaz-ac", "nome": "SEFAZ AC", "esfera": "estadual", "uf": "AC", "tipo": "generic_html", "url": "https://www.sefaz.ac.gov.br/", "prioridade": "normal", "max_itens": 3
+    },
+    {
+      "id": "sefaz-al", "nome": "SEFAZ AL", "esfera": "estadual", "uf": "AL", "tipo": "generic_html", "url": "https://www.sefaz.al.gov.br/", "prioridade": "normal", "max_itens": 3
+    },
+    {
+      "id": "sefaz-ap", "nome": "SEFAZ AP", "esfera": "estadual", "uf": "AP", "tipo": "generic_html", "url": "https://www.sefaz.ap.gov.br/", "prioridade": "normal", "max_itens": 3
+    },
+    {
+      "id": "sefaz-am", "nome": "SEFAZ AM", "esfera": "estadual", "uf": "AM", "tipo": "generic_html", "url": "https://www.sefaz.am.gov.br/", "prioridade": "normal", "max_itens": 3
+    },
+    {
+      "id": "sefaz-ba", "nome": "SEFAZ BA", "esfera": "estadual", "uf": "BA", "tipo": "generic_html", "url": "https://www.sefaz.ba.gov.br/", "prioridade": "normal", "max_itens": 3
+    },
+    {
+      "id": "sefaz-ce", "nome": "SEFAZ CE", "esfera": "estadual", "uf": "CE", "tipo": "generic_html", "url": "https://www.sefaz.ce.gov.br/", "prioridade": "normal", "max_itens": 3
+    },
+    {
+      "id": "sefaz-df", "nome": "SEFAZ DF", "esfera": "estadual", "uf": "DF", "tipo": "generic_html", "url": "https://www.economia.df.gov.br/", "prioridade": "normal", "max_itens": 3
+    },
+    {
+      "id": "sefaz-es", "nome": "SEFAZ ES", "esfera": "estadual", "uf": "ES", "tipo": "generic_html", "url": "https://sefaz.es.gov.br/", "prioridade": "normal", "max_itens": 3
+    },
+    {
+      "id": "sefaz-go", "nome": "Economia GO (SEFAZ)", "esfera": "estadual", "uf": "GO", "tipo": "generic_html", "url": "https://www.economia.go.gov.br/", "prioridade": "normal", "max_itens": 3
+    },
+    {
+      "id": "sefaz-ma", "nome": "SEFAZ MA", "esfera": "estadual", "uf": "MA", "tipo": "generic_html", "url": "https://www.sefaz.ma.gov.br/", "prioridade": "normal", "max_itens": 3
+    },
+    {
+      "id": "sefaz-mt", "nome": "SEFAZ MT", "esfera": "estadual", "uf": "MT", "tipo": "generic_html", "url": "https://www.sefaz.mt.gov.br/", "prioridade": "normal", "max_itens": 3
+    },
+    {
+      "id": "sefaz-ms", "nome": "SEFAZ MS", "esfera": "estadual", "uf": "MS", "tipo": "generic_html", "url": "https://www.sefaz.ms.gov.br/", "prioridade": "normal", "max_itens": 3
+    },
+    {
+      "id": "sefaz-mg", "nome": "SEFAZ MG", "esfera": "estadual", "uf": "MG", "tipo": "generic_html", "url": "https://www.fazenda.mg.gov.br/", "prioridade": "normal", "max_itens": 3
+    },
+    {
+      "id": "sefaz-pa", "nome": "SEFA PA", "esfera": "estadual", "uf": "PA", "tipo": "generic_html", "url": "https://www.sefa.pa.gov.br/", "prioridade": "normal", "max_itens": 3
+    },
+    {
+      "id": "sefaz-pb", "nome": "SEFIN PB", "esfera": "estadual", "uf": "PB", "tipo": "generic_html", "url": "https://www.receita.pb.gov.br/", "prioridade": "normal", "max_itens": 3
+    },
+    {
+      "id": "sefaz-pr", "nome": "SEFAZ PR", "esfera": "estadual", "uf": "PR", "tipo": "generic_html", "url": "https://www.fazenda.pr.gov.br/Noticias", "prioridade": "alta", "max_itens": 10
+    },
+    {
+      "id": "sefaz-pe", "nome": "SEFAZ PE", "esfera": "estadual", "uf": "PE", "tipo": "generic_html", "url": "https://www.sefaz.pe.gov.br/", "prioridade": "normal", "max_itens": 3
+    },
+    {
+      "id": "sefaz-pi", "nome": "SEFAZ PI", "esfera": "estadual", "uf": "PI", "tipo": "generic_html", "url": "https://www.sefaz.pi.gov.br/", "prioridade": "normal", "max_itens": 3
+    },
+    {
+      "id": "sefaz-rj", "nome": "SEFAZ RJ", "esfera": "estadual", "uf": "RJ", "tipo": "generic_html", "url": "https://www.fazenda.rj.gov.br/", "prioridade": "normal", "max_itens": 3
+    },
+    {
+      "id": "sefaz-rn", "nome": "SET RN (SEFAZ)", "esfera": "estadual", "uf": "RN", "tipo": "generic_html", "url": "https://www.set.rn.gov.br/", "prioridade": "normal", "max_itens": 3
+    },
+    {
+      "id": "sefaz-rs", "nome": "SEFAZ RS", "esfera": "estadual", "uf": "RS", "tipo": "generic_html", "url": "https://www.estado.rs.gov.br/fazenda-noticias", "prioridade": "alta", "max_itens": 10
+    },
+    {
+      "id": "sefaz-ro", "nome": "SEFIN RO (SEFAZ)", "esfera": "estadual", "uf": "RO", "tipo": "generic_html", "url": "https://www.sefin.ro.gov.br/", "prioridade": "normal", "max_itens": 3
+    },
+    {
+      "id": "sefaz-rr", "nome": "SEFAZ RR", "esfera": "estadual", "uf": "RR", "tipo": "generic_html", "url": "https://www.sefaz.rr.gov.br/", "prioridade": "normal", "max_itens": 3
+    },
+    {
+      "id": "sefaz-sc", "nome": "SEFAZ SC (via Notícias SC - Economia)", "esfera": "estadual", "uf": "SC", "tipo": "generic_html", "url": "https://noticias.sc.gov.br/categoria/economia/", "prioridade": "alta", "max_itens": 10, "excluir_se_link_contem": ["/categoria/"]
+    },
+    {
+      "id": "sefaz-sp", "nome": "SEFAZ SP", "esfera": "estadual", "uf": "SP", "tipo": "generic_html", "url": "https://portal.fazenda.sp.gov.br/Noticias", "prioridade": "alta", "max_itens": 10
+    },
+    {
+      "id": "sefaz-se", "nome": "SEFAZ SE", "esfera": "estadual", "uf": "SE", "tipo": "generic_html", "url": "https://www.sefaz.se.gov.br/", "prioridade": "normal", "max_itens": 3
+    },
+    {
+      "id": "sefaz-to", "nome": "SEFAZ TO", "esfera": "estadual", "uf": "TO", "tipo": "generic_html", "url": "https://www.sefaz.to.gov.br/", "prioridade": "normal", "max_itens": 3
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_comentario": "Placar da Reforma Tributaria exibido no painel. Isso NAO e calculado automaticamente pelo scraper (evita numero errado/inventado). Atualize manualmente o campo percentual e etapa_atual quando sair uma noticia oficial confirmando um novo marco (ex: nova LC sancionada, novo cronograma no Confaz/Receita). O scraper so avisa no terminal quando encontra noticias com palavras-chave de CBS/IBS/Imposto Seletivo, para vc lembrar de revisar este arquivo.",
+  "atualizado_em": "2026-09-17",
+  "itens": [
+    {
+      "id": "ibs",
+      "nome": "IBS",
+      "descricao": "Imposto sobre Bens e Serviços (estados e municípios)",
+      "percentual": 35,
+      "etapa_atual": "Fase de teste 2026 (alíquota simbólica) — regulamentação e sistemas em implantação",
+      "cor": "azul"
+    },
+    {
+      "id": "cbs",
+      "nome": "CBS",
+      "descricao": "Contribuição sobre Bens e Serviços (federal)",
+      "percentual": 40,
+      "etapa_atual": "Fase de teste 2026 (alíquota simbólica) — apuração assistida em desenvolvimento",
+      "cor": "roxo"
+    },
+    {
+      "id": "imposto-seletivo",
+      "nome": "Imposto Seletivo",
+      "descricao": "Tributo sobre produtos prejudiciais à saúde/meio ambiente",
+      "percentual": 15,
+      "etapa_atual": "Regulamentação em andamento — cobrança prevista a partir de 2027",
+      "cor": "verde"
+    }
+  ]
+}
