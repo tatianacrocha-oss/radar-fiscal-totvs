@@ -110,6 +110,26 @@
   .reforma__titulo { margin: 0 0 4px; font-size: 16px; color: var(--totvs-azul-escuro); }
   .reforma__subtitulo { margin: 0 0 16px; font-size: 12px; color: var(--cinza-600); }
   .reforma__grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px; }
+
+  /* ---------- Destaque de Notas Tecnicas novas ---------- */
+  .destaque-nt {
+    background: var(--impacto-medio-bg);
+    border: 1px solid var(--impacto-medio);
+    border-radius: var(--raio);
+    padding: 16px 20px;
+    margin-bottom: 20px;
+  }
+  .destaque-nt__titulo { margin: 0 0 12px; font-size: 15px; color: var(--impacto-medio); }
+  .destaque-nt__grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 10px; }
+  .destaque-nt__item {
+    background: var(--totvs-branco);
+    border-radius: 8px;
+    padding: 10px 12px;
+    font-size: 13px;
+  }
+  .destaque-nt__item .card__fonte { display: block; margin-bottom: 2px; }
+  .destaque-nt__item a { font-weight: 700; color: var(--totvs-azul-escuro); }
+  .destaque-nt__item .destaque-nt__data { display: block; font-size: 11px; color: var(--cinza-500); margin-top: 2px; }
   .meter__cabecalho { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px; }
   .meter__nome { font-weight: 700; font-size: 14px; }
   .meter__percentual { font-weight: 700; font-size: 15px; font-variant-numeric: tabular-nums; }
@@ -244,6 +264,11 @@
 
 <main class="conteudo">
 
+  <section class="destaque-nt" id="secao-destaque-nt" style="display:none;">
+    <h2 class="destaque-nt__titulo">🔔 Nova(s) Nota(s) Técnica(s)</h2>
+    <div class="destaque-nt__grid" id="destaque-nt-grid"></div>
+  </section>
+
   <section class="reforma" id="secao-reforma">
     <h2 class="reforma__titulo">Placar da Reforma Tributária</h2>
     <p class="reforma__subtitulo" id="reforma-atualizado-em"></p>
@@ -357,6 +382,33 @@
   document.getElementById("reforma-atualizado-em").textContent =
     "Atualizado manualmente em " + (dados.reforma.atualizado_em || "-") + " · dados de progresso são revisados com base nas notícias oficiais coletadas";
 
+  // ---------- Destaque de Notas Tecnicas novas (ultimos 3 dias) ----------
+  const JANELA_NT_DIAS = 3;
+  const agoraDestaque = new Date();
+  const notasTecnicasNovas = dados.noticias
+    .filter(function (n) { return n.tags.indexOf("NT (Nota Técnica)") !== -1; })
+    .filter(function (n) {
+      const primeiraVez = new Date(n.primeira_vez_em || n.coletado_em);
+      if (isNaN(primeiraVez)) return false;
+      return (agoraDestaque - primeiraVez) / (1000 * 60 * 60 * 24) <= JANELA_NT_DIAS;
+    })
+    .sort(function (a, b) { return new Date(b.primeira_vez_em || b.coletado_em) - new Date(a.primeira_vez_em || a.coletado_em); });
+
+  const temDestaqueNt = notasTecnicasNovas.length > 0;
+  if (temDestaqueNt) {
+    const destaqueGrid = document.getElementById("destaque-nt-grid");
+    notasTecnicasNovas.forEach(function (n) {
+      const item = document.createElement("div");
+      item.className = "destaque-nt__item";
+      item.innerHTML =
+        '<span class="card__fonte">' + n.fonte + (n.uf ? " · " + n.uf : "") + '</span>' +
+        '<a href="' + n.link + '" target="_blank" rel="noopener">' + n.titulo + '</a>' +
+        '<span class="destaque-nt__data">' + formatarDataPublicacao(n.data_publicacao, n.coletado_em) + '</span>';
+      destaqueGrid.appendChild(item);
+    });
+    document.getElementById("secao-destaque-nt").style.display = "block";
+  }
+
   // ---------- Filtro de fontes disponiveis ----------
   const selectFonte = document.getElementById("filtro-fonte");
   const fontesUnicas = Array.from(new Set(dados.noticias.map(function (n) { return n.fonte; }))).sort();
@@ -455,6 +507,7 @@
       }
 
       document.getElementById("secao-reforma").style.display = (estado.view === "radar-do-dia" || estado.view === "reforma") ? "block" : "none";
+      document.getElementById("secao-destaque-nt").style.display = (estado.view === "radar-do-dia" && temDestaqueNt) ? "block" : "none";
       document.getElementById("filtro-esfera").value = "";
       renderizarCards();
     });

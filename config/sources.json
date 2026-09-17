@@ -1,6 +1,15 @@
 {
-  "_comentario": "Configuracao das fontes monitoradas pelo radar_fiscal_scraper.py. tipo: 'rss' (feed testado), 'gov_br_html' (paginas do portal padrao gov.br, testado), 'generic_html' (heuristica generica, pode precisar de ajuste). prioridade 'alta' coleta mais itens (ver max_itens).",
+  "_comentario": "Configuracao das fontes monitoradas pelo radar_fiscal_scraper.py. tipo: 'rss' (feed testado), 'gov_br_html' (paginas do portal padrao gov.br, testado), 'svrs_avisos_html' (portal Conformidade Facil ENCAT/SVRS, testado), 'generic_html' (heuristica generica, pode precisar de ajuste). prioridade 'alta' coleta mais itens (ver max_itens).",
   "fontes": [
+    {
+      "id": "encat-svrs-avisos",
+      "nome": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "tipo": "svrs_avisos_html",
+      "url": "https://dfe-portal.svrs.rs.gov.br/CFF",
+      "prioridade": "alta",
+      "max_itens": 10
+    },
     {
       "id": "receita-federal",
       "nome": "Receita Federal",

@@ -1,182 +1,10 @@
 const RADAR_DADOS = {
-  "geradoEm": "2026-09-17T14:46:13",
+  "geradoEm": "2026-09-17T15:11:38",
   "noticias": [
     {
-      "id": "be29a7b8a2d32b65",
-      "titulo": "CONGRESSO ONLINE Começa nesta segunda: CONBCON reúne mais de 60 palestras gratuitas para profissionais contábeis Hoje 14:10",
-      "resumo": "CONGRESSO ONLINE Começa nesta segunda: CONBCON reúne mais de 60 palestras gratuitas para profissionais contábeis Hoje 14:10",
-      "link": "https://www.contabeis.com.br/noticias/noticias/79485/conbcon-2026-comeca-nesta-segunda-feira-21-veja-como-participar-gratuitamente/",
-      "fonte": "Portal Contábeis",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "baixo",
-      "tags": [],
-      "coletado_em": "2026-09-17T17:18:40"
-    },
-    {
-      "id": "37a6382540daa5a8",
-      "titulo": "Últimas Notícias SEFAZ Início O que aconteceu? Últimas Notícias SEFAZ Medidas Tributárias PRAZOS (todos os sistemas) ICMS - Pagamento Parcelamentos Documentos Fiscais MEI Doações GIA Ativo Imobilizado e Estoque TSC e CSC Certidão de Débitos SERASA e Protesto Importações IPVA ITCD - Reavaliação Taxas Decreto 57.762/2024 e IN 81/2024 Decreto 57.763/2024 Decreto 57.787/2024 Declaração de Conteúdo Declaração de IE afetada Notícias SEFAZ Acompanhe os últimos avisos da Receita Estadual: 1. PORTAL DA RECEITA ESTADUAL - CLIQUE AQUI 2. PORTAL DO ATENDIMENTO DA RECEITA ESTADUAL - CLIQUE AQUI 3. CANAL DA RECEITA ESTADUAL NO WHATSAPP - CLIQUE AQUI Exibindo 0 a 0 de 0 itens.",
-      "resumo": "Últimas Notícias SEFAZ Início O que aconteceu? Últimas Notícias SEFAZ Medidas Tributárias PRAZOS (todos os sistemas) ICMS - Pagamento Parcelamentos Documentos Fiscais MEI Doações GIA Ativo Imobilizado e Estoque TSC e CSC Certidão de Débitos SERASA e Protesto Importações IPVA ITCD - Reavaliação Taxas Decreto 57.762/2024 e IN 81/2024 Decreto 57.763/2024 Decreto 57.787/2024 Declaração de Conteúdo Declaração de IE afetada Notícias SEFAZ Acompanhe os últimos avisos da Receita Estadual: 1. PORTAL DA RECEITA ESTADUAL - CLIQUE AQUI 2. PORTAL DO ATENDIMENTO DA RECEITA ESTADUAL - CLIQUE AQUI 3. CANAL DA RECEITA ESTADUAL NO WHATSAPP - CLIQUE AQUI Exibindo 0 a 0 de 0 itens.",
-      "link": "https://www.estado.rs.gov.br/fazenda-inicio",
-      "fonte": "SEFAZ RS",
-      "esfera": "estadual",
-      "uf": "RS",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "ICMS",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-09-17T14:46:04"
-    },
-    {
-      "id": "82e32c2de979fa5e",
-      "titulo": "Acompanhe os últimos avisos da Receita Estadual: 1. PORTAL DA RECEITA ESTADUAL - CLIQUE AQUI 2. PORTAL DO ATENDIMENTO DA RECEITA ESTADUAL - CLIQUE AQUI 3. CANAL DA RECEITA ESTADUAL NO WHATSAPP - CLIQUE AQUI",
-      "resumo": "Acompanhe os últimos avisos da Receita Estadual: 1. PORTAL DA RECEITA ESTADUAL - CLIQUE AQUI 2. PORTAL DO ATENDIMENTO DA RECEITA ESTADUAL - CLIQUE AQUI 3. CANAL DA RECEITA ESTADUAL NO WHATSAPP - CLIQUE AQUI",
-      "link": "https://receita.fazenda.rs.gov.br/inicial",
-      "fonte": "SEFAZ RS",
-      "esfera": "estadual",
-      "uf": "RS",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:46:04"
-    },
-    {
-      "id": "031f2505da1b271e",
-      "titulo": "Notícias Palavra-chave Editoria - Qualquer -Cidadania fiscalContabilidadeEconomiaGeralIPVANota ParanáNotíciasNotícias em DestaqueOrçamentoReceita EstadualSELO-PR Período Todo o arquivoÚltimas 24 horasÚltima semanaPeríodo específico Período específico E Ordem Antigas Recentes Pesquisar Publicado há 2 meses 3 de Julho de 2026 14:22 Economia Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 11:16 Economia Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 09:38 SELO-PR Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 2 de Julho de 2026 15:43 Nota Paraná Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 09:03 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 1 de Julho de 2026 13:58 Economia Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 26 de Junho de 2026 16:27 Economia Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 10:47 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 25 de Junho de 2026 17:07 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 16:02 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 09:24 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 24 de Junho de 2026 15:29 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 14:10 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 23 de Junho de 2026 14:14 Contabilidade Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 10:44 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 19 de Junho de 2026 11:26 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 18 de Junho de 2026 15:34 Orçamento Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 14:54 Cidadania fiscal Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: Publicado há 3 meses 17 de Junho de 2026 09:12 Orçamento Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 16 de Junho de 2026 11:29 Orçamento Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 15 de Junho de 2026 14:18 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 12 de Junho de 2026 16:57 Contabilidade Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 12:58 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 12:49 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 10 de Junho de 2026 08:47 Nota Paraná Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 8 de Junho de 2026 16:23 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 2 de Junho de 2026 13:36 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 29 de Maio de 2026 14:12 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 10:06 Contabilidade Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 28 de Maio de 2026 16:44 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 27 de Maio de 2026 14:13 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 26 de Maio de 2026 16:44 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 22 de Maio de 2026 08:11 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 21 de Maio de 2026 14:55 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 14:54 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 10:50 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 08:44 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 20 de Maio de 2026 15:50 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 13:32 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 08:39 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 19 de Maio de 2026 11:44 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 18 de Maio de 2026 15:18 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 11:19 Orçamento Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 09:28 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: Publicado há 4 meses 15 de Maio de 2026 09:07 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 14 de Maio de 2026 09:07 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 13 de Maio de 2026 14:11 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 08:53 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 12 de Maio de 2026 16:39 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 08:55 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: Carregar mais Arquivo de notícias Todos os vídeos Todas as imagens Todos os áudios",
-      "resumo": "Notícias Palavra-chave Editoria - Qualquer -Cidadania fiscalContabilidadeEconomiaGeralIPVANota ParanáNotíciasNotícias em DestaqueOrçamentoReceita EstadualSELO-PR Período Todo o arquivoÚltimas 24 horasÚltima semanaPeríodo específico Período específico E Ordem Antigas Recentes Pesquisar Publicado há 2 meses 3 de Julho de 2026 14:22 Economia Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 11:16 Economia Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 09:38 SELO-PR Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 2 de Julho de 2026 15:43 Nota Paraná Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 09:03 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 1 de Julho de 2026 13:58 Economia Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 26 de Junho de 2026 16:27 Economia Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 10:47 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 25 de Junho de 2026 17:07 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 16:02 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 09:24 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 24 de Junho de 2026 15:29 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 14:10 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 23 de Junho de 2026 14:14 Contabilidade Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 10:44 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 19 de Junho de 2026 11:26 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 18 de Junho de 2026 15:34 Orçamento Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 14:54 Cidadania fiscal Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: Publicado há 3 meses 17 de Junho de 2026 09:12 Orçamento Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 16 de Junho de 2026 11:29 Orçamento Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 15 de Junho de 2026 14:18 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 12 de Junho de 2026 16:57 Contabilidade Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 12:58 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 12:49 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 10 de Junho de 2026 08:47 Nota Paraná Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 8 de Junho de 2026 16:23 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 2 de Junho de 2026 13:36 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 29 de Maio de 2026 14:12 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 10:06 Contabilidade Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 28 de Maio de 2026 16:44 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 27 de Maio de 2026 14:13 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 26 de Maio de 2026 16:44 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 22 de Maio de 2026 08:11 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 21 de Maio de 2026 14:55 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 14:54 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 10:50 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 08:44 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 20 de Maio de 2026 15:50 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 13:32 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 08:39 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 19 de Maio de 2026 11:44 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 18 de Maio de 2026 15:18 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 11:19 Orçamento Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 09:28 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: Publicado há 4 meses 15 de Maio de 2026 09:07 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 14 de Maio de 2026 09:07 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 13 de Maio de 2026 14:11 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 08:53 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 12 de Maio de 2026 16:39 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 08:55 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: Carregar mais Arquivo de notícias Todos os vídeos Todas as imagens Todos os áudios",
-      "link": "https://www.fazenda.pr.gov.br/Noticia/Municipio-Nota-ganha-reforco-de-IA-e-amplia-ferramentas-para-gestores-municipais",
-      "fonte": "SEFAZ PR",
-      "esfera": "estadual",
-      "uf": "PR",
-      "data_publicacao": "",
-      "impacto": "baixo",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:45:38"
-    },
-    {
-      "id": "e7bbfc63b33563bc",
-      "titulo": "Publicado há 3 meses 17 de Junho de 2026 09:12 Orçamento Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 16 de Junho de 2026 11:29 Orçamento Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 15 de Junho de 2026 14:18 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 12 de Junho de 2026 16:57 Contabilidade Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 12:58 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 12:49 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 10 de Junho de 2026 08:47 Nota Paraná Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 8 de Junho de 2026 16:23 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 2 de Junho de 2026 13:36 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 29 de Maio de 2026 14:12 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 10:06 Contabilidade Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 28 de Maio de 2026 16:44 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 27 de Maio de 2026 14:13 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 26 de Maio de 2026 16:44 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 22 de Maio de 2026 08:11 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 21 de Maio de 2026 14:55 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 14:54 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 10:50 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 08:44 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 20 de Maio de 2026 15:50 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 13:32 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 08:39 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 19 de Maio de 2026 11:44 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 18 de Maio de 2026 15:18 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 11:19 Orçamento Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 09:28 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe:",
-      "resumo": "Publicado há 3 meses 17 de Junho de 2026 09:12 Orçamento Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 16 de Junho de 2026 11:29 Orçamento Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 15 de Junho de 2026 14:18 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 12 de Junho de 2026 16:57 Contabilidade Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 12:58 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 12:49 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 10 de Junho de 2026 08:47 Nota Paraná Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 8 de Junho de 2026 16:23 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 2 de Junho de 2026 13:36 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 29 de Maio de 2026 14:12 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 10:06 Contabilidade Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 28 de Maio de 2026 16:44 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 27 de Maio de 2026 14:13 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 26 de Maio de 2026 16:44 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 22 de Maio de 2026 08:11 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 21 de Maio de 2026 14:55 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 14:54 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 10:50 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 08:44 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 20 de Maio de 2026 15:50 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 13:32 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 08:39 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 19 de Maio de 2026 11:44 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 18 de Maio de 2026 15:18 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 11:19 Orçamento Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 09:28 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe:",
-      "link": "https://www.fazenda.pr.gov.br/Noticia/Parana-bate-novo-recorde-com-R-5-bilhoes-de-investimentos-no-primeiro-semestre-de-2026",
-      "fonte": "SEFAZ PR",
-      "esfera": "estadual",
-      "uf": "PR",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:45:38"
-    },
-    {
-      "id": "7d92b23fc630759c",
-      "titulo": "Publicado há 4 meses 15 de Maio de 2026 09:07 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 14 de Maio de 2026 09:07 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 13 de Maio de 2026 14:11 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 08:53 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 12 de Maio de 2026 16:39 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 08:55 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe:",
-      "resumo": "Publicado há 4 meses 15 de Maio de 2026 09:07 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 14 de Maio de 2026 09:07 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 13 de Maio de 2026 14:11 Notícias em Destaque Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 08:53 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 12 de Maio de 2026 16:39 Receita Estadual Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe: 08:55 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe:",
-      "link": "https://www.fazenda.pr.gov.br/Noticia/IPVA-2026-pagamento-de-parcelas-das-placas-9-e-0-encerra-nesta-sexta-feira",
-      "fonte": "SEFAZ PR",
-      "esfera": "estadual",
-      "uf": "PR",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:45:38"
-    },
-    {
-      "id": "c398d3a5af3821bf",
-      "titulo": "11:16 Economia Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe:",
-      "resumo": "11:16 Economia Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe:",
-      "link": "https://www.fazenda.pr.gov.br/Noticia/Agro-e-servicos-garantem-resiliencia-da-economia-do-Parana-em-meio-incertezas-globais-e",
-      "fonte": "SEFAZ PR",
-      "esfera": "estadual",
-      "uf": "PR",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:45:38"
-    },
-    {
-      "id": "7ea56d140f6e8841",
-      "titulo": "09:38 SELO-PR Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe:",
-      "resumo": "09:38 SELO-PR Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe:",
-      "link": "https://www.fazenda.pr.gov.br/Noticia/Fazenda-tem-duas-iniciativas-entre-semifinalistas-do-premio-nacional-de-inovacao-na-gestao",
-      "fonte": "SEFAZ PR",
-      "esfera": "estadual",
-      "uf": "PR",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:45:38"
-    },
-    {
-      "id": "af3b8caa41258f9d",
-      "titulo": "15:43 Nota Paraná Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe:",
-      "resumo": "15:43 Nota Paraná Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe:",
-      "link": "https://www.fazenda.pr.gov.br/Noticia/Em-dobro-Nota-Parana-tera-dois-sorteios-na-proxima-quinta-feira-e-distribuira-R-10-milhoes",
-      "fonte": "SEFAZ PR",
-      "esfera": "estadual",
-      "uf": "PR",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:45:38"
-    },
-    {
-      "id": "4cf7e7888df8cfdc",
-      "titulo": "09:03 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe:",
-      "resumo": "09:03 IPVA Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe:",
-      "link": "https://www.fazenda.pr.gov.br/Noticia/IPVA-mais-barato-reduz-inadimplencia-no-primeiro-semestre-de-2026",
-      "fonte": "SEFAZ PR",
-      "esfera": "estadual",
-      "uf": "PR",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:45:38"
-    },
-    {
-      "id": "d4a610cd8011879f",
-      "titulo": "13:58 Economia Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe:",
-      "resumo": "13:58 Economia Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe:",
-      "link": "https://www.fazenda.pr.gov.br/Noticia/Nova-edicao-do-boletim-Economia-em-Dia-destaca-solidez-fiscal-e-investimentos",
-      "fonte": "SEFAZ PR",
-      "esfera": "estadual",
-      "uf": "PR",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:45:38"
-    },
-    {
-      "id": "293b9a7f8ef7d521",
-      "titulo": "16:27 Economia Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe:",
-      "resumo": "16:27 Economia Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe:",
-      "link": "https://www.fazenda.pr.gov.br/Noticia/Nota-e-Reforma-Tributaria-Fazenda-apresenta-iniciativas-em-encontro-regional-com-gestores",
-      "fonte": "SEFAZ PR",
-      "esfera": "estadual",
-      "uf": "PR",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:45:38"
-    },
-    {
-      "id": "86c3605d36ec613c",
-      "titulo": "10:47 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe:",
-      "resumo": "10:47 Geral Conteúdo indisponível devido ao período eleitoral Em razão da legislação eleitoral, este conteúdo ficará indisponível até que o Tribunal Regional Eleitoral (TRE) oficialize o término das eleições. Compartilhe:",
-      "link": "https://www.fazenda.pr.gov.br/Noticia/Com-investimento-de-R-70-milhoes-Ambev-anuncia-fabrica-de-embalagens-no-Parana",
-      "fonte": "SEFAZ PR",
-      "esfera": "estadual",
-      "uf": "PR",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:45:38"
-    },
-    {
       "id": "222b7164033dafb3",
-      "titulo": "03 de Julho de 2026 às 18:00 LEGISLAÇÃO EM VIGOR Governo de MT suspende notícias institucionais do Portal em cumprimento às normas eleitorais Veja Mais",
-      "resumo": "03 de Julho de 2026 às 18:00 LEGISLAÇÃO EM VIGOR Governo de MT suspende notícias institucionais do Portal em cumprimento às normas eleitorais Veja Mais",
+      "titulo": "Governo de MT suspende notícias institucionais do Portal em cumprimento às normas eleitorais Veja Mais",
+      "resumo": "Governo de MT suspende notícias institucionais do Portal em cumprimento às normas eleitorais Veja Mais",
       "link": "https://www5.sefaz.mt.gov.br/web/mt/w/governo-de-mt-suspende-not%C3%ADcias-institucionais-do-portal-em-cumprimento-%C3%A0s-normas-eleitorais",
       "fonte": "SEFAZ MT",
       "esfera": "estadual",
@@ -184,33 +12,8 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T14:45:21"
-    },
-    {
-      "id": "fd85e79a21a989fa",
-      "titulo": "Certidão Negativa de Débito Conjunta SEFAZ/PGE Pagamento e Parcelamento IPVA 2025 NFA-e",
-      "resumo": "Certidão Negativa de Débito Conjunta SEFAZ/PGE Pagamento e Parcelamento IPVA 2025 NFA-e",
-      "link": "https://www5.sefaz.mt.gov.br/servicos?c=6227546&e=46186328",
-      "fonte": "SEFAZ MT",
-      "esfera": "estadual",
-      "uf": "MT",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:45:21"
-    },
-    {
-      "id": "e66d9da2de4b7032",
-      "titulo": "Serviços Informações Gestão Fiscal Transparência Sefaz Contencioso Tributário Cadastro Declarações Fiscais Documentos Fiscais",
-      "resumo": "Serviços Informações Gestão Fiscal Transparência Sefaz Contencioso Tributário Cadastro Declarações Fiscais Documentos Fiscais",
-      "link": "https://www.sefaz.mt.gov.br/servicos",
-      "fonte": "SEFAZ MT",
-      "esfera": "estadual",
-      "uf": "MT",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:45:21"
+      "coletado_em": "2026-09-17T15:10:46",
+      "primeira_vez_em": "2026-09-17T15:10:46"
     },
     {
       "id": "8b919b7384234279",
@@ -223,7 +26,36 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T14:45:15"
+      "coletado_em": "2026-09-17T15:10:41",
+      "primeira_vez_em": "2026-09-17T15:10:41"
+    },
+    {
+      "id": "6cff987543c8c065",
+      "titulo": "DAE para pagamento de IPVA - boleto",
+      "resumo": "DAE para pagamento de IPVA - boleto",
+      "link": "https://servicos.ce.gov.br/catalogo-de-servicos/2426",
+      "fonte": "SEFAZ CE",
+      "esfera": "estadual",
+      "uf": "CE",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-17T15:10:38",
+      "primeira_vez_em": "2026-09-17T15:10:38"
+    },
+    {
+      "id": "5eea618ca2cc84eb",
+      "titulo": "Certidão negativa de débitos estaduais",
+      "resumo": "Certidão negativa de débitos estaduais",
+      "link": "https://servicos.ce.gov.br/catalogo-de-servicos/2409",
+      "fonte": "SEFAZ CE",
+      "esfera": "estadual",
+      "uf": "CE",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-17T15:10:38",
+      "primeira_vez_em": "2026-09-17T15:10:38"
     },
     {
       "id": "72c6f05e4579827b",
@@ -236,33 +68,22 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T14:45:12"
+      "coletado_em": "2026-09-17T15:10:38",
+      "primeira_vez_em": "2026-09-17T15:10:38"
     },
     {
-      "id": "d1e8390bebe45416",
-      "titulo": "Inscrição cadastral na Sefaz",
-      "resumo": "Inscrição cadastral na Sefaz",
-      "link": "https://servicos.ce.gov.br/catalogo-de-servicos/248",
-      "fonte": "SEFAZ CE",
-      "esfera": "estadual",
-      "uf": "CE",
-      "data_publicacao": "",
+      "id": "2000dd301177a7b7",
+      "titulo": "8 dúvidas mais comuns sobre a união estável",
+      "resumo": "A união estável ainda causa uma série de dúvidas entre os casais. Esclareça tudo na leitura a seguir",
+      "link": "https://jornalcontabil.com.br/noticia/8-duvidas-mais-comuns-sobre-a-uniao-estavel/",
+      "fonte": "Jornal Contábil",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "Thu, 17 Sep 2026 17:42:24 +0000",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T14:45:12"
-    },
-    {
-      "id": "1d89fe66c50e0600",
-      "titulo": "ITCD para sobrepartilha judicial",
-      "resumo": "ITCD para sobrepartilha judicial",
-      "link": "https://servicos.ce.gov.br/catalogo-de-servicos/929",
-      "fonte": "SEFAZ CE",
-      "esfera": "estadual",
-      "uf": "CE",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:45:12"
+      "coletado_em": "2026-09-17T15:10:26",
+      "primeira_vez_em": "2026-09-17T15:10:26"
     },
     {
       "id": "8a6cf9ff974b763a",
@@ -275,7 +96,8 @@ const RADAR_DADOS = {
       "data_publicacao": "Thu, 17 Sep 2026 16:26:03 +0000",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T14:45:01"
+      "coletado_em": "2026-09-17T15:10:26",
+      "primeira_vez_em": "2026-09-17T15:10:26"
     },
     {
       "id": "01fc1ced115a1f88",
@@ -288,7 +110,8 @@ const RADAR_DADOS = {
       "data_publicacao": "Thu, 17 Sep 2026 15:26:40 +0000",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T14:45:01"
+      "coletado_em": "2026-09-17T15:10:26",
+      "primeira_vez_em": "2026-09-17T15:10:26"
     },
     {
       "id": "add5e3211f788d39",
@@ -303,7 +126,8 @@ const RADAR_DADOS = {
       "tags": [
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-17T14:45:01"
+      "coletado_em": "2026-09-17T15:10:26",
+      "primeira_vez_em": "2026-09-17T15:10:26"
     },
     {
       "id": "59f18a3b109140df",
@@ -319,7 +143,8 @@ const RADAR_DADOS = {
         "Prazo/Obrigação",
         "Multa/Penalidade"
       ],
-      "coletado_em": "2026-09-17T14:45:01"
+      "coletado_em": "2026-09-17T15:10:26",
+      "primeira_vez_em": "2026-09-17T15:10:26"
     },
     {
       "id": "e88b4feaab400314",
@@ -332,117 +157,8 @@ const RADAR_DADOS = {
       "data_publicacao": "Thu, 17 Sep 2026 12:05:08 +0000",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-09-17T14:45:01"
-    },
-    {
-      "id": "2000dd301177a7b7",
-      "titulo": "8 dúvidas mais comuns sobre a união estável",
-      "resumo": "A união estável ainda causa uma série de dúvidas entre os casais. Esclareça tudo na leitura a seguir",
-      "link": "https://jornalcontabil.com.br/noticia/8-duvidas-mais-comuns-sobre-a-uniao-estavel/",
-      "fonte": "Jornal Contábil",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "Thu, 17 Sep 2026 17:42:24 +0000",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:45:01"
-    },
-    {
-      "id": "fdb80b149dc0d703",
-      "titulo": "VARIAÇÃO CAMBIAL Variação cambial em serviços internacionais tem regra específica no Lucro Real; confira entendimento da Receita Federal Hoje 14:30 CONGRESSO ONLINE Começa nesta segunda: CONBCON reúne mais de 60 palestras gratuitas para profissionais contábeis Hoje 14:10 IPVA Após ação da CNC, STF afasta cobrança dupla de IPVA de locadoras em São Paulo Hoje 14:00 RETIFICAR DECLARAÇÃO Recebeu aviso da Receita? Veja o que conferir antes de retificar o IRPF Hoje 12:00 EXAME CFC Edição do EQT inicia provas em 28 de setembro Hoje 11:30 SIMPLES NACIONAL STJ julgará se gorjetas repassadas entram no cálculo do Simples Nacional Hoje 11:00 MAIS QUE GESTÃO A transformação da empresa contábil começa pelas pessoas Hoje 10:30 TRIBUTÁRIO STF tem cinco votos por imunidade de ITBI para imobiliárias, mas julgamento é suspenso Hoje 10:00 LEGISLAÇÃO FISCAL Lei que cria exceções a regras fiscais em 2026 é sancionada com veto Hoje 09:30 NFS-E NFS-e reúne mais de 170 respostas para dúvidas sobre a plataforma Hoje 09:00 GOLPES FINANCEIROS “É do banco”: como golpistas estão usando ligações e mensagens para fazer você entregar seu dinheiro Ontem 19:30 DIREITO TRABALHISTA Justiça condena supermercado em Manaus por escala 9x1 e péssimas condições de trabalho Ontem 18:00 REDATA Redata é sancionado e cria incentivos fiscais para instalação e ampliação de data centers no Brasil Ontem 17:30 DÉBITOS MUNICIPAIS Mutirão Fiscal de Cuiabá permite negociar débitos até 25 de setembro Ontem 17:00 REFORMA TRIBUTÁRIA Lançamentos reflexos de CBS podem ocorrer em 2027, diz adjunta da Receita Ontem 16:30 IMPASSE STF Impasse no STF pode deixar decisões sobre trabalho e Previdência para 2027 Ontem 16:00 REFORMA TRIBUTÁRIA Créditos de PIS e Cofins não serão perdidos com a CBS, mas exigem revisão Ontem 15:30 Simples Nacional: regime regular ou Simples Nacional: regime regular ou híbrido? Ontem 15:00 FINANCIAMENTO Sancionada lei que garante continuidade do Move Brasil para motoristas e entregadores Ontem 14:30 SUBSTITUIÇÃO TRIBUTÁRIA Créditos de PIS e Cofins não serão perdidos com a CBS, mas exigem revisão Ontem 14:00 SIMPLES NACIONAL Simples Nacional puro ou híbrido? Ontem 12:30 INCENTIVOS TRIBUTÁRIOS Sancionado regime especial para incentivar instalação de datacenters Ontem 12:00 NF-E CONFAZ altera regras da NF-e e estabelece mudanças para emissão do documento fiscal Ontem 11:30 TRIBUTÁRIO STJ decide em repetitivo que ICMS-Difal não compõe base do PIS e da Cofins Ontem 11:00 CONVERSAS DE TRABALHO Nova Lei 15.371/2026: entenda a licença-paternidade Ontem 10:30 REFORMA TRIBUTÁRIA Liminar retira CBS e IBS da base do ICMS Ontem 10:00 IBS/CBS Receita Federal abre opção pelo regime específico de IBS e CBS para cooperativas; adesão vai até outubro Ontem 09:30 PIS/COFINS Receita alerta empresas sobre R$ 1,3 bilhão em créditos de PIS e Cofins; prazo termina em novembro Ontem 09:00 REFORMA TRIBUTÁRIA Novas regras fiscais da Reforma: sua empresa está preparada para a nova etapa da transição tributária? Ontem 08:30 ICMS Crédito de ICMS após encerramento de filial: Sefaz-SP admite aproveitamento 15/09/2026 20:30",
-      "resumo": "VARIAÇÃO CAMBIAL Variação cambial em serviços internacionais tem regra específica no Lucro Real; confira entendimento da Receita Federal Hoje 14:30 CONGRESSO ONLINE Começa nesta segunda: CONBCON reúne mais de 60 palestras gratuitas para profissionais contábeis Hoje 14:10 IPVA Após ação da CNC, STF afasta cobrança dupla de IPVA de locadoras em São Paulo Hoje 14:00 RETIFICAR DECLARAÇÃO Recebeu aviso da Receita? Veja o que conferir antes de retificar o IRPF Hoje 12:00 EXAME CFC Edição do EQT inicia provas em 28 de setembro Hoje 11:30 SIMPLES NACIONAL STJ julgará se gorjetas repassadas entram no cálculo do Simples Nacional Hoje 11:00 MAIS QUE GESTÃO A transformação da empresa contábil começa pelas pessoas Hoje 10:30 TRIBUTÁRIO STF tem cinco votos por imunidade de ITBI para imobiliárias, mas julgamento é suspenso Hoje 10:00 LEGISLAÇÃO FISCAL Lei que cria exceções a regras fiscais em 2026 é sancionada com veto Hoje 09:30 NFS-E NFS-e reúne mais de 170 respostas para dúvidas sobre a plataforma Hoje 09:00 GOLPES FINANCEIROS “É do banco”: como golpistas estão usando ligações e mensagens para fazer você entregar seu dinheiro Ontem 19:30 DIREITO TRABALHISTA Justiça condena supermercado em Manaus por escala 9x1 e péssimas condições de trabalho Ontem 18:00 REDATA Redata é sancionado e cria incentivos fiscais para instalação e ampliação de data centers no Brasil Ontem 17:30 DÉBITOS MUNICIPAIS Mutirão Fiscal de Cuiabá permite negociar débitos até 25 de setembro Ontem 17:00 REFORMA TRIBUTÁRIA Lançamentos reflexos de CBS podem ocorrer em 2027, diz adjunta da Receita Ontem 16:30 IMPASSE STF Impasse no STF pode deixar decisões sobre trabalho e Previdência para 2027 Ontem 16:00 REFORMA TRIBUTÁRIA Créditos de PIS e Cofins não serão perdidos com a CBS, mas exigem revisão Ontem 15:30 Simples Nacional: regime regular ou Simples Nacional: regime regular ou híbrido? Ontem 15:00 FINANCIAMENTO Sancionada lei que garante continuidade do Move Brasil para motoristas e entregadores Ontem 14:30 SUBSTITUIÇÃO TRIBUTÁRIA Créditos de PIS e Cofins não serão perdidos com a CBS, mas exigem revisão Ontem 14:00 SIMPLES NACIONAL Simples Nacional puro ou híbrido? Ontem 12:30 INCENTIVOS TRIBUTÁRIOS Sancionado regime especial para incentivar instalação de datacenters Ontem 12:00 NF-E CONFAZ altera regras da NF-e e estabelece mudanças para emissão do documento fiscal Ontem 11:30 TRIBUTÁRIO STJ decide em repetitivo que ICMS-Difal não compõe base do PIS e da Cofins Ontem 11:00 CONVERSAS DE TRABALHO Nova Lei 15.371/2026: entenda a licença-paternidade Ontem 10:30 REFORMA TRIBUTÁRIA Liminar retira CBS e IBS da base do ICMS Ontem 10:00 IBS/CBS Receita Federal abre opção pelo regime específico de IBS e CBS para cooperativas; adesão vai até outubro Ontem 09:30 PIS/COFINS Receita alerta empresas sobre R$ 1,3 bilhão em créditos de PIS e Cofins; prazo termina em novembro Ontem 09:00 REFORMA TRIBUTÁRIA Novas regras fiscais da Reforma: sua empresa está preparada para a nova etapa da transição tributária? Ontem 08:30 ICMS Crédito de ICMS após encerramento de filial: Sefaz-SP admite aproveitamento 15/09/2026 20:30",
-      "link": "https://www.contabeis.com.br/noticias/noticias/79468/receita-esclarece-regra-para-variacao-cambial-de-servicos-ao-exterior/",
-      "fonte": "Portal Contábeis",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "IBS",
-        "CBS",
-        "ICMS",
-        "DIFAL",
-        "NFe",
-        "NFSe",
-        "Simples Nacional",
-        "PIS/COFINS",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-09-17T14:44:56"
-    },
-    {
-      "id": "9b3e8f902f70432e",
-      "titulo": "Último módulo do curso sobre a Reforma Tributária acontece na próxima semana Publicada em 17 de setembro de 2026 Após quatro meses de capacitação, o curso sobre a Reforma Tributária do Consumo (RTC) chega ao último módulo. O assunto que fecha a sequência de 18 edições é “Temas complementares e aplicação prática (casos especiais)”. O evento acontece na próxima terça-feira (22), na modalidade virtual, com transmissão pelo canal do Conselho Federal de Contabilidade (CFC) no YouTube. A temática será Continuar Lendo ... Leia Mais",
-      "resumo": "Último módulo do curso sobre a Reforma Tributária acontece na próxima semana Publicada em 17 de setembro de 2026 Após quatro meses de capacitação, o curso sobre a Reforma Tributária do Consumo (RTC) chega ao último módulo. O assunto que fecha a sequência de 18 edições é “Temas complementares e aplicação prática (casos especiais)”. O evento acontece na próxima terça-feira (22), na modalidade virtual, com transmissão pelo canal do Conselho Federal de Contabilidade (CFC) no YouTube. A temática será Continuar Lendo ... Leia Mais",
-      "link": "https://cfc.org.br/noticias/ultimo-modulo-do-curso-sobre-a-reforma-tributaria-acontece-na-proxima-semana/",
-      "fonte": "CFC - Conselho Federal de Contabilidade",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária"
-      ],
-      "coletado_em": "2026-09-17T14:44:55"
-    },
-    {
-      "id": "ca391951436428e9",
-      "titulo": "CFC disponibiliza novo módulo de capacitação voltada para eleições Publicada em 17 de setembro de 2026 O Conselho Federal de Contabilidade (CFC) liberou um novo módulo da Qualificação Avançada em Contabilidade Aplicada a Partidos e Eleições. O tema da sexta aula é Contabilidade eleitoral – gastos e comprovação, com acesso gratuito pela Plataforma EduCont do CFC. A formação é composta de 11 módulos, liberados semanalmente até o dia 21 de outubro. Até o momento, já estão Continuar Lendo ... Leia Mais",
-      "resumo": "CFC disponibiliza novo módulo de capacitação voltada para eleições Publicada em 17 de setembro de 2026 O Conselho Federal de Contabilidade (CFC) liberou um novo módulo da Qualificação Avançada em Contabilidade Aplicada a Partidos e Eleições. O tema da sexta aula é Contabilidade eleitoral – gastos e comprovação, com acesso gratuito pela Plataforma EduCont do CFC. A formação é composta de 11 módulos, liberados semanalmente até o dia 21 de outubro. Até o momento, já estão Continuar Lendo ... Leia Mais",
-      "link": "https://cfc.org.br/noticias/cfc-disponibiliza-novo-modulo-de-capacitacao-voltada-para-eleicoes/",
-      "fonte": "CFC - Conselho Federal de Contabilidade",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:44:55"
-    },
-    {
-      "id": "29910fa4e2bdd869",
-      "titulo": "União entre CFC e Ibracon impulsiona agenda de valorização da profissão contábil Publicada em 16 de setembro de 2026 A atuação conjunta em temas estratégicos para a profissão contábil esteve na pauta da 1.136ª Reunião Plenária Ordinária do Conselho Federal de Contabilidade (CFC), realizada nesta quarta-feira (16), na sede da autarquia, em Brasília. Durante o momento institucional, o presidente do Instituto de Auditoria Independente do Brasil (Ibracon), Sebastian Soares, apresentou iniciativas desenvolvidas pela entidade e reforçou a importância da Continuar Lendo ... Leia Mais",
-      "resumo": "União entre CFC e Ibracon impulsiona agenda de valorização da profissão contábil Publicada em 16 de setembro de 2026 A atuação conjunta em temas estratégicos para a profissão contábil esteve na pauta da 1.136ª Reunião Plenária Ordinária do Conselho Federal de Contabilidade (CFC), realizada nesta quarta-feira (16), na sede da autarquia, em Brasília. Durante o momento institucional, o presidente do Instituto de Auditoria Independente do Brasil (Ibracon), Sebastian Soares, apresentou iniciativas desenvolvidas pela entidade e reforçou a importância da Continuar Lendo ... Leia Mais",
-      "link": "https://cfc.org.br/noticias/cfc-e-ibracon-reforcam-parceria-institucional-em-defesa-do-protagonismo-da-contabilidade/",
-      "fonte": "CFC - Conselho Federal de Contabilidade",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:44:55"
-    },
-    {
-      "id": "1d19afe48a76d581",
-      "titulo": "CFC homenageia lideranças do Sebrae e destaca parceria histórica em favor da contabilidade e dos pequenos negócios Publicada em 16 de setembro de 2026 A parceria entre a Contabilidade e o Sebrae, responsável por iniciativas que apoiaram profissionais contábeis, empreendedores e micro e pequenas empresas em todo o país, ganhou destaque nesta quarta-feira (16), durante a reunião plenária do Conselho Federal de Contabilidade (CFC). Como parte das comemorações pelos 80 anos do Sistema CFC/CRCs, o CFC homenageou Bruno Quick e Margarete Coelho, lideranças do Sebrae com atuação marcada pela aproximação entre as duas instituições. ... Leia Mais Último módulo do curso sobre a Reforma Tributária acontece na próxima semana Publicada em 17 de setembro de 2026 Após quatro meses de capacitação, o curso sobre a Reforma Tributária do Consumo (RTC) chega ao último módulo. O assunto que fecha a sequência de 18 edições é “Temas complementares e aplicação prática (casos especiais)”. O evento acontece na próxima terça-feira (22), na modalidade virtual, com transmissão pelo canal do Conselho Federal de Contabilidade (CFC) no YouTube. A temática será Continuar Lendo ... Leia Mais CFC disponibiliza novo módulo de capacitação voltada para eleições Publicada em 17 de setembro de 2026 O Conselho Federal de Contabilidade (CFC) liberou um novo módulo da Qualificação Avançada em Contabilidade Aplicada a Partidos e Eleições. O tema da sexta aula é Contabilidade eleitoral – gastos e comprovação, com acesso gratuito pela Plataforma EduCont do CFC. A formação é composta de 11 módulos, liberados semanalmente até o dia 21 de outubro. Até o momento, já estão Continuar Lendo ... Leia Mais União entre CFC e Ibracon impulsiona agenda de valorização da profissão contábil Publicada em 16 de setembro de 2026 A atuação conjunta em temas estratégicos para a profissão contábil esteve na pauta da 1.136ª Reunião Plenária Ordinária do Conselho Federal de Contabilidade (CFC), realizada nesta quarta-feira (16), na sede da autarquia, em Brasília. Durante o momento institucional, o presidente do Instituto de Auditoria Independente do Brasil (Ibracon), Sebastian Soares, apresentou iniciativas desenvolvidas pela entidade e reforçou a importância da Continuar Lendo ... Leia Mais CFC homenageia lideranças do Sebrae e destaca parceria histórica em favor da contabilidade e dos pequenos negócios Publicada em 16 de setembro de 2026 A parceria entre a Contabilidade e o Sebrae, responsável por iniciativas que apoiaram profissionais contábeis, empreendedores e micro e pequenas empresas em todo o país, ganhou destaque nesta quarta-feira (16), durante a reunião plenária do Conselho Federal de Contabilidade (CFC). Como parte das comemorações pelos 80 anos do Sistema CFC/CRCs, o CFC homenageou Bruno Quick e Margarete Coelho, lideranças do Sebrae com atuação marcada pela aproximação entre as duas instituições. ... Leia Mais CFC e Receita Federal apresentam aula sobre Imposto Seletivo Publicada em 16 de setembro de 2026 “Que esse processo de construção do conhecimento seja, ao longo dessa grande jornada da Reforma Tributária, um processo não só de capacitação, mas de transformação”, disse a presidente do Conselho Regional de Contabilidade da Paraíba (CRCPB), Eliedna de Sousa Barbosa, na abertura do 17º módulo do curso da Reforma Tributária do Consumo (RTC). A edição aconteceu na manhã desta terça-feira Continuar Lendo ... Leia Mais 2ª Edição do EQT inicia provas em 28 de setembro Publicada em 15 de setembro de 2026 A 2ª Edição do Exame de Qualificação Técnica (EQT) do Conselho Federal de Contabilidade (CFC) de 2026 começa no dia 28 de setembro, com a aplicação da Prova de Qualificação Técnica Geral (QTG), seguida no dia 29 pela Prova de Qualificação Técnica Geral para Perito Contábil e, no dia 30, com a Prova Específica para atuação em auditoria nas instituições Continuar Lendo ... Leia Mais Alerta de golpe: fiquem atentos a mensagens com cobrança indevida de anuidades Publicada em 14 de setembro de 2026 O Conselho Federal de Contabilidade (CFC) alerta aos profissionais da contabilidade sobre mensagens falsas em aplicativos que simulam comunicações oficiais do Sistema CFC/CRCs com cobrança de anuidades. Empresas fraudulentas estão utilizando o nome dos conselhos regionais para aplicar golpes aos registrados, indicando que teriam parcelas em aberto com a entidade. Essas mensagens costumam conter links, boletos ou pedidos de pagamento Continuar Lendo ... Leia Mais XXXV Secofem será realizada em Fortaleza (CE) em novembro Publicada em 11 de setembro de 2026 Profissionais da contabilidade, servidores e gestores públicos terão uma nova oportunidade de atualização em contabilidade aplicada ao setor público e gestão fiscal. A XXXV Semana Contábil e Fiscal para Estados e Municípios (Secofem) será realizada de 9 a 13 de novembro, em Fortaleza (CE), em formato 100% presencial. Considerada uma das principais iniciativas nacionais de capacitação na área, a Secofem Continuar Lendo ... Leia Mais",
-      "resumo": "CFC homenageia lideranças do Sebrae e destaca parceria histórica em favor da contabilidade e dos pequenos negócios Publicada em 16 de setembro de 2026 A parceria entre a Contabilidade e o Sebrae, responsável por iniciativas que apoiaram profissionais contábeis, empreendedores e micro e pequenas empresas em todo o país, ganhou destaque nesta quarta-feira (16), durante a reunião plenária do Conselho Federal de Contabilidade (CFC). Como parte das comemorações pelos 80 anos do Sistema CFC/CRCs, o CFC homenageou Bruno Quick e Margarete Coelho, lideranças do Sebrae com atuação marcada pela aproximação entre as duas instituições. ... Leia Mais Último módulo do curso sobre a Reforma Tributária acontece na próxima semana Publicada em 17 de setembro de 2026 Após quatro meses de capacitação, o curso sobre a Reforma Tributária do Consumo (RTC) chega ao último módulo. O assunto que fecha a sequência de 18 edições é “Temas complementares e aplicação prática (casos especiais)”. O evento acontece na próxima terça-feira (22), na modalidade virtual, com transmissão pelo canal do Conselho Federal de Contabilidade (CFC) no YouTube. A temática será Continuar Lendo ... Leia Mais CFC disponibiliza novo módulo de capacitação voltada para eleições Publicada em 17 de setembro de 2026 O Conselho Federal de Contabilidade (CFC) liberou um novo módulo da Qualificação Avançada em Contabilidade Aplicada a Partidos e Eleições. O tema da sexta aula é Contabilidade eleitoral – gastos e comprovação, com acesso gratuito pela Plataforma EduCont do CFC. A formação é composta de 11 módulos, liberados semanalmente até o dia 21 de outubro. Até o momento, já estão Continuar Lendo ... Leia Mais União entre CFC e Ibracon impulsiona agenda de valorização da profissão contábil Publicada em 16 de setembro de 2026 A atuação conjunta em temas estratégicos para a profissão contábil esteve na pauta da 1.136ª Reunião Plenária Ordinária do Conselho Federal de Contabilidade (CFC), realizada nesta quarta-feira (16), na sede da autarquia, em Brasília. Durante o momento institucional, o presidente do Instituto de Auditoria Independente do Brasil (Ibracon), Sebastian Soares, apresentou iniciativas desenvolvidas pela entidade e reforçou a importância da Continuar Lendo ... Leia Mais CFC homenageia lideranças do Sebrae e destaca parceria histórica em favor da contabilidade e dos pequenos negócios Publicada em 16 de setembro de 2026 A parceria entre a Contabilidade e o Sebrae, responsável por iniciativas que apoiaram profissionais contábeis, empreendedores e micro e pequenas empresas em todo o país, ganhou destaque nesta quarta-feira (16), durante a reunião plenária do Conselho Federal de Contabilidade (CFC). Como parte das comemorações pelos 80 anos do Sistema CFC/CRCs, o CFC homenageou Bruno Quick e Margarete Coelho, lideranças do Sebrae com atuação marcada pela aproximação entre as duas instituições. ... Leia Mais CFC e Receita Federal apresentam aula sobre Imposto Seletivo Publicada em 16 de setembro de 2026 “Que esse processo de construção do conhecimento seja, ao longo dessa grande jornada da Reforma Tributária, um processo não só de capacitação, mas de transformação”, disse a presidente do Conselho Regional de Contabilidade da Paraíba (CRCPB), Eliedna de Sousa Barbosa, na abertura do 17º módulo do curso da Reforma Tributária do Consumo (RTC). A edição aconteceu na manhã desta terça-feira Continuar Lendo ... Leia Mais 2ª Edição do EQT inicia provas em 28 de setembro Publicada em 15 de setembro de 2026 A 2ª Edição do Exame de Qualificação Técnica (EQT) do Conselho Federal de Contabilidade (CFC) de 2026 começa no dia 28 de setembro, com a aplicação da Prova de Qualificação Técnica Geral (QTG), seguida no dia 29 pela Prova de Qualificação Técnica Geral para Perito Contábil e, no dia 30, com a Prova Específica para atuação em auditoria nas instituições Continuar Lendo ... Leia Mais Alerta de golpe: fiquem atentos a mensagens com cobrança indevida de anuidades Publicada em 14 de setembro de 2026 O Conselho Federal de Contabilidade (CFC) alerta aos profissionais da contabilidade sobre mensagens falsas em aplicativos que simulam comunicações oficiais do Sistema CFC/CRCs com cobrança de anuidades. Empresas fraudulentas estão utilizando o nome dos conselhos regionais para aplicar golpes aos registrados, indicando que teriam parcelas em aberto com a entidade. Essas mensagens costumam conter links, boletos ou pedidos de pagamento Continuar Lendo ... Leia Mais XXXV Secofem será realizada em Fortaleza (CE) em novembro Publicada em 11 de setembro de 2026 Profissionais da contabilidade, servidores e gestores públicos terão uma nova oportunidade de atualização em contabilidade aplicada ao setor público e gestão fiscal. A XXXV Semana Contábil e Fiscal para Estados e Municípios (Secofem) será realizada de 9 a 13 de novembro, em Fortaleza (CE), em formato 100% presencial. Considerada uma das principais iniciativas nacionais de capacitação na área, a Secofem Continuar Lendo ... Leia Mais",
-      "link": "https://cfc.org.br/noticias/cfc-homenageia-liderancas-do-sebrae-e-destaca-parceria-historica-em-favor-da-contabilidade-e-dos-pequenos-negocios/",
-      "fonte": "CFC - Conselho Federal de Contabilidade",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "Imposto Seletivo"
-      ],
-      "coletado_em": "2026-09-17T14:44:55"
-    },
-    {
-      "id": "f08d34da5060c1d0",
-      "titulo": "CFC e Receita Federal apresentam aula sobre Imposto Seletivo Publicada em 16 de setembro de 2026 “Que esse processo de construção do conhecimento seja, ao longo dessa grande jornada da Reforma Tributária, um processo não só de capacitação, mas de transformação”, disse a presidente do Conselho Regional de Contabilidade da Paraíba (CRCPB), Eliedna de Sousa Barbosa, na abertura do 17º módulo do curso da Reforma Tributária do Consumo (RTC). A edição aconteceu na manhã desta terça-feira Continuar Lendo ... Leia Mais",
-      "resumo": "CFC e Receita Federal apresentam aula sobre Imposto Seletivo Publicada em 16 de setembro de 2026 “Que esse processo de construção do conhecimento seja, ao longo dessa grande jornada da Reforma Tributária, um processo não só de capacitação, mas de transformação”, disse a presidente do Conselho Regional de Contabilidade da Paraíba (CRCPB), Eliedna de Sousa Barbosa, na abertura do 17º módulo do curso da Reforma Tributária do Consumo (RTC). A edição aconteceu na manhã desta terça-feira Continuar Lendo ... Leia Mais",
-      "link": "https://cfc.org.br/noticias/cfc-e-receita-federal-apresentam-aula-sobre-imposto-seletivo/",
-      "fonte": "CFC - Conselho Federal de Contabilidade",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "Imposto Seletivo"
-      ],
-      "coletado_em": "2026-09-17T14:44:55"
+      "coletado_em": "2026-09-17T15:10:26",
+      "primeira_vez_em": "2026-09-17T15:10:26"
     },
     {
       "id": "07af53545ad6a955",
@@ -457,7 +173,8 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-17T14:44:53"
+      "coletado_em": "2026-09-17T15:10:19",
+      "primeira_vez_em": "2026-09-17T15:10:19"
     },
     {
       "id": "e38892674e142a10",
@@ -473,7 +190,8 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-17T14:44:53"
+      "coletado_em": "2026-09-17T15:10:19",
+      "primeira_vez_em": "2026-09-17T15:10:19"
     },
     {
       "id": "81db86e8434c0e4f",
@@ -489,7 +207,8 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-17T14:44:53"
+      "coletado_em": "2026-09-17T15:10:19",
+      "primeira_vez_em": "2026-09-17T15:10:19"
     },
     {
       "id": "e2a50ae8eccfe1a8",
@@ -504,7 +223,8 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-17T14:44:53"
+      "coletado_em": "2026-09-17T15:10:19",
+      "primeira_vez_em": "2026-09-17T15:10:19"
     },
     {
       "id": "e4937f762f128a36",
@@ -520,7 +240,8 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-17T14:44:53"
+      "coletado_em": "2026-09-17T15:10:19",
+      "primeira_vez_em": "2026-09-17T15:10:19"
     },
     {
       "id": "c79576affbd403f5",
@@ -537,7 +258,8 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-17T14:44:53"
+      "coletado_em": "2026-09-17T15:10:19",
+      "primeira_vez_em": "2026-09-17T15:10:19"
     },
     {
       "id": "7f41fe5f1640b502",
@@ -553,7 +275,8 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-17T14:44:53"
+      "coletado_em": "2026-09-17T15:10:19",
+      "primeira_vez_em": "2026-09-17T15:10:19"
     },
     {
       "id": "0859ec432b231549",
@@ -568,7 +291,8 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-17T14:44:53"
+      "coletado_em": "2026-09-17T15:10:19",
+      "primeira_vez_em": "2026-09-17T15:10:19"
     },
     {
       "id": "8640ac9406476bfb",
@@ -583,7 +307,8 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-17T14:44:53"
+      "coletado_em": "2026-09-17T15:10:19",
+      "primeira_vez_em": "2026-09-17T15:10:19"
     },
     {
       "id": "b4d2823b992dc0cb",
@@ -599,7 +324,8 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-17T14:44:53"
+      "coletado_em": "2026-09-17T15:10:19",
+      "primeira_vez_em": "2026-09-17T15:10:19"
     },
     {
       "id": "37f8c90ecf5bc3e6",
@@ -612,7 +338,8 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-17T16:12:03Z",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-09-17T14:44:52"
+      "coletado_em": "2026-09-17T15:10:18",
+      "primeira_vez_em": "2026-09-17T15:10:18"
     },
     {
       "id": "1c268d4352b9c4d5",
@@ -625,7 +352,8 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-17T13:23:31Z",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-09-17T14:44:52"
+      "coletado_em": "2026-09-17T15:10:18",
+      "primeira_vez_em": "2026-09-17T15:10:18"
     },
     {
       "id": "af194bf2b56c3194",
@@ -638,7 +366,8 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-16T19:35:26Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T14:44:52"
+      "coletado_em": "2026-09-17T15:10:18",
+      "primeira_vez_em": "2026-09-17T15:10:18"
     },
     {
       "id": "dfb0c109feed7af3",
@@ -651,7 +380,8 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-16T18:08:42Z",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-09-17T14:44:52"
+      "coletado_em": "2026-09-17T15:10:18",
+      "primeira_vez_em": "2026-09-17T15:10:18"
     },
     {
       "id": "ee530ea67fd9b4ad",
@@ -664,7 +394,8 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-16T16:59:38Z",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-09-17T14:44:52"
+      "coletado_em": "2026-09-17T15:10:18",
+      "primeira_vez_em": "2026-09-17T15:10:18"
     },
     {
       "id": "fc84fdaa19d314e1",
@@ -677,7 +408,8 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-16T14:28:32Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T14:44:52"
+      "coletado_em": "2026-09-17T15:10:18",
+      "primeira_vez_em": "2026-09-17T15:10:18"
     },
     {
       "id": "5a9a86e73556d59c",
@@ -690,7 +422,8 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-16T14:10:44Z",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-09-17T14:44:52"
+      "coletado_em": "2026-09-17T15:10:18",
+      "primeira_vez_em": "2026-09-17T15:10:18"
     },
     {
       "id": "7ec70af6910740c7",
@@ -703,7 +436,8 @@ const RADAR_DADOS = {
       "data_publicacao": "16/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T14:44:50"
+      "coletado_em": "2026-09-17T15:10:15",
+      "primeira_vez_em": "2026-09-17T15:10:15"
     },
     {
       "id": "1b96acf232589fdb",
@@ -716,7 +450,8 @@ const RADAR_DADOS = {
       "data_publicacao": "16/09/2026",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-09-17T14:44:50"
+      "coletado_em": "2026-09-17T15:10:15",
+      "primeira_vez_em": "2026-09-17T15:10:15"
     },
     {
       "id": "a9a22f90ca007b05",
@@ -731,7 +466,8 @@ const RADAR_DADOS = {
       "tags": [
         "PIS/COFINS"
       ],
-      "coletado_em": "2026-09-17T14:44:50"
+      "coletado_em": "2026-09-17T15:10:15",
+      "primeira_vez_em": "2026-09-17T15:10:15"
     },
     {
       "id": "f588dd789c07c54b",
@@ -744,7 +480,8 @@ const RADAR_DADOS = {
       "data_publicacao": "15/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T14:44:50"
+      "coletado_em": "2026-09-17T15:10:15",
+      "primeira_vez_em": "2026-09-17T15:10:15"
     },
     {
       "id": "ff0cb63d2006d0cd",
@@ -757,7 +494,8 @@ const RADAR_DADOS = {
       "data_publicacao": "15/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T14:44:50"
+      "coletado_em": "2026-09-17T15:10:15",
+      "primeira_vez_em": "2026-09-17T15:10:15"
     },
     {
       "id": "24dbd0a0f36aa8e4",
@@ -770,7 +508,8 @@ const RADAR_DADOS = {
       "data_publicacao": "15/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T14:44:50"
+      "coletado_em": "2026-09-17T15:10:15",
+      "primeira_vez_em": "2026-09-17T15:10:15"
     },
     {
       "id": "26e3feab1234de20",
@@ -783,7 +522,8 @@ const RADAR_DADOS = {
       "data_publicacao": "15/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T14:44:50"
+      "coletado_em": "2026-09-17T15:10:15",
+      "primeira_vez_em": "2026-09-17T15:10:15"
     },
     {
       "id": "3488f63f8f381fc4",
@@ -796,72 +536,8 @@ const RADAR_DADOS = {
       "data_publicacao": "14/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T14:44:50"
-    },
-    {
-      "id": "8af9031daf5b35f0",
-      "titulo": "Operação Bomba Oculta visa postos de combustíveis clandestinos",
-      "resumo": "Ação é desdobramento da Operação Carbono Oculto e conta com colaboração entre PGFN e diversas instituições",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/operacao-bomba-oculta-visa-postos-de-combustiveis-clandestinos",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "28/08/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:44:49"
-    },
-    {
-      "id": "96e91c67f56c632d",
-      "titulo": "Seleção Nacional de Estagiários",
-      "resumo": "Inscrições são gratuitas e vão de 20 de agosto a 3 de setembro",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/selecao-nacional-de-estagiarios",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "19/08/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:44:49"
-    },
-    {
-      "id": "34948173140ec564",
-      "titulo": "Informamos que não haverá atendimento nas unidades da PGFN em todo o Brasil, na terça-feira, 11 de agosto.",
-      "resumo": "Informamos que não haverá atendimento nas unidades da PGFN em todo o Brasil, na terça-feira, 11 de agosto.",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/informamos-que-nao-havera-atendimento-na-terca-feira-11-de-agosto",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "07/08/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:44:49"
-    },
-    {
-      "id": "8bd7518c825c9b11",
-      "titulo": "Defeso Eleitoral 2026",
-      "resumo": "Links importantes que continuam ativos",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/defeso-eleitoral-2026",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "09/07/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:44:49"
-    },
-    {
-      "id": "2b0c4bb2793ed187",
-      "titulo": "Novos editais de transação da PGFN estão disponíveis",
-      "resumo": "Contribuintes podem regularizar situação fiscal, inclusive no âmbito do Programa Desenrola Rural",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/novos-editais-de-transacao-da-pgfn-estao-disponiveis",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "22/06/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:44:49"
+      "coletado_em": "2026-09-17T15:10:15",
+      "primeira_vez_em": "2026-09-17T15:10:15"
     },
     {
       "id": "4baf6d16f5f6d474",
@@ -874,7 +550,78 @@ const RADAR_DADOS = {
       "data_publicacao": "17/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T14:44:49"
+      "coletado_em": "2026-09-17T15:10:14",
+      "primeira_vez_em": "2026-09-17T15:10:14"
+    },
+    {
+      "id": "8af9031daf5b35f0",
+      "titulo": "Operação Bomba Oculta visa postos de combustíveis clandestinos",
+      "resumo": "Ação é desdobramento da Operação Carbono Oculto e conta com colaboração entre PGFN e diversas instituições",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/operacao-bomba-oculta-visa-postos-de-combustiveis-clandestinos",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "28/08/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-17T15:10:14",
+      "primeira_vez_em": "2026-09-17T15:10:14"
+    },
+    {
+      "id": "96e91c67f56c632d",
+      "titulo": "Seleção Nacional de Estagiários",
+      "resumo": "Inscrições são gratuitas e vão de 20 de agosto a 3 de setembro",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/selecao-nacional-de-estagiarios",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "19/08/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-17T15:10:14",
+      "primeira_vez_em": "2026-09-17T15:10:14"
+    },
+    {
+      "id": "34948173140ec564",
+      "titulo": "Informamos que não haverá atendimento nas unidades da PGFN em todo o Brasil, na terça-feira, 11 de agosto.",
+      "resumo": "Informamos que não haverá atendimento nas unidades da PGFN em todo o Brasil, na terça-feira, 11 de agosto.",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/informamos-que-nao-havera-atendimento-na-terca-feira-11-de-agosto",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "07/08/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-17T15:10:14",
+      "primeira_vez_em": "2026-09-17T15:10:14"
+    },
+    {
+      "id": "8bd7518c825c9b11",
+      "titulo": "Defeso Eleitoral 2026",
+      "resumo": "Links importantes que continuam ativos",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/defeso-eleitoral-2026",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "09/07/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-17T15:10:14",
+      "primeira_vez_em": "2026-09-17T15:10:14"
+    },
+    {
+      "id": "2b0c4bb2793ed187",
+      "titulo": "Novos editais de transação da PGFN estão disponíveis",
+      "resumo": "Contribuintes podem regularizar situação fiscal, inclusive no âmbito do Programa Desenrola Rural",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/novos-editais-de-transacao-da-pgfn-estao-disponiveis",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "22/06/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-17T15:10:14",
+      "primeira_vez_em": "2026-09-17T15:10:14"
     },
     {
       "id": "b081958b5f7506fe",
@@ -889,7 +636,8 @@ const RADAR_DADOS = {
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-09-17T14:44:48"
+      "coletado_em": "2026-09-17T15:10:13",
+      "primeira_vez_em": "2026-09-17T15:10:13"
     },
     {
       "id": "b329be74653055a3",
@@ -905,7 +653,8 @@ const RADAR_DADOS = {
         "Reforma Tributária",
         "NFSe"
       ],
-      "coletado_em": "2026-09-17T14:44:48"
+      "coletado_em": "2026-09-17T15:10:13",
+      "primeira_vez_em": "2026-09-17T15:10:13"
     },
     {
       "id": "46f050b2bd9a044c",
@@ -922,7 +671,8 @@ const RADAR_DADOS = {
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-17T14:44:48"
+      "coletado_em": "2026-09-17T15:10:13",
+      "primeira_vez_em": "2026-09-17T15:10:13"
     },
     {
       "id": "b9c9daabd31b6e3e",
@@ -940,7 +690,8 @@ const RADAR_DADOS = {
         "NFSe",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-17T14:44:48"
+      "coletado_em": "2026-09-17T15:10:13",
+      "primeira_vez_em": "2026-09-17T15:10:13"
     },
     {
       "id": "8ad9456dba6ac974",
@@ -957,7 +708,8 @@ const RADAR_DADOS = {
         "CBS",
         "NFSe"
       ],
-      "coletado_em": "2026-09-17T14:44:48"
+      "coletado_em": "2026-09-17T15:10:13",
+      "primeira_vez_em": "2026-09-17T15:10:13"
     },
     {
       "id": "0b7a31ff3defd6f2",
@@ -972,7 +724,8 @@ const RADAR_DADOS = {
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-09-17T14:44:48"
+      "coletado_em": "2026-09-17T15:10:13",
+      "primeira_vez_em": "2026-09-17T15:10:13"
     },
     {
       "id": "d448d576b31f4e14",
@@ -988,7 +741,8 @@ const RADAR_DADOS = {
         "NFSe",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-17T14:44:48"
+      "coletado_em": "2026-09-17T15:10:13",
+      "primeira_vez_em": "2026-09-17T15:10:13"
     },
     {
       "id": "990de00c70b0bcde",
@@ -1005,7 +759,8 @@ const RADAR_DADOS = {
         "NFSe",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-17T14:44:48"
+      "coletado_em": "2026-09-17T15:10:13",
+      "primeira_vez_em": "2026-09-17T15:10:13"
     },
     {
       "id": "08398f1e2c89c97b",
@@ -1018,7 +773,8 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-07-22T16:51:56Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T14:44:47"
+      "coletado_em": "2026-09-17T15:10:12",
+      "primeira_vez_em": "2026-09-17T15:10:12"
     },
     {
       "id": "246d24ac1d0cd774",
@@ -1031,7 +787,8 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-07-20T19:54:16Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T14:44:47"
+      "coletado_em": "2026-09-17T15:10:12",
+      "primeira_vez_em": "2026-09-17T15:10:12"
     },
     {
       "id": "2de55424d6f704af",
@@ -1048,102 +805,134 @@ const RADAR_DADOS = {
         "CBS",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-17T14:44:47"
+      "coletado_em": "2026-09-17T15:10:12",
+      "primeira_vez_em": "2026-09-17T15:10:12"
     },
     {
-      "id": "360267fe2b8a68ba",
-      "titulo": "Bolha da inteligência artificial? O alerta de Wall Street que coloca Nvidia e as Big Techs novamente no centro das atenções",
-      "resumo": "A inteligência artificial continua sendo uma das principais forças por trás dos mercados financeiros em 2026. Mas o mesmo movimento que levou empresas de tecnologia a novas máximas também está provocando uma pergunta cada vez mais frequente entre investidores: Wall Street está vivendo uma nova bolha? O debate ganhou força após meses de valorização das […]",
-      "link": "https://jornalcontabil.com.br/noticia/bolha-da-inteligencia-artificial-o-alerta-de-wall-street-que-coloca-nvidia-e-as-big-techs-novamente-no-centro-das-atencoes/",
-      "fonte": "Jornal Contábil",
+      "id": "5a2a272341f6a971",
+      "titulo": "CNPJ Alfanumérico: operação normal",
+      "resumo": "Publicado por Coordenação Técnica do ENCAT",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/2982",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
       "esfera": "federal",
       "uf": "",
-      "data_publicacao": "Thu, 17 Sep 2026 01:52:26 +0000",
+      "data_publicacao": "23/07/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T14:38:54"
+      "coletado_em": "2026-09-17T15:10:11",
+      "primeira_vez_em": "2026-09-17T15:10:11"
     },
     {
-      "id": "4375ff3dddc3ca6c",
-      "titulo": "Valor Bruto da Produção supera R$ 1,4 trilhão em agosto",
-      "resumo": "Lavouras representam 63,7% do valor estimado da produção agropecuária, enquanto a pecuária responde por 36,3%",
-      "link": "https://www.gov.br/agricultura/pt-br/assuntos/noticias/valor-bruto-da-producao-supera-r-1-4-trilhao-em-agosto",
-      "fonte": "MAPA (Agricultura)",
+      "id": "1ca5429d7569b551",
+      "titulo": "ATENÇÃO: CNPJ de Teste para Alfanumérico (Novidade: Adicionados NFe e e NFCe)",
+      "resumo": "Publicado por SEFAZ Virtual RS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/2978",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
       "esfera": "federal",
       "uf": "",
-      "data_publicacao": "17/09/2026",
+      "data_publicacao": "29/05/2026",
       "impacto": "médio",
       "tags": [
-        "Agro"
+        "NFe",
+        "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-17T14:38:47"
+      "coletado_em": "2026-09-17T15:10:11",
+      "primeira_vez_em": "2026-09-17T15:10:11"
     },
     {
-      "id": "8a056b5c7d3fcd00",
-      "titulo": "Hambúrguer e pescado de Ribeirão Preto podem ser comercializados em todo o Brasil",
-      "resumo": "Reconhecimento do Serviço de Inspeção Municipal pelo Sisbi-POA permite que estabelecimentos habilitados comercializem produtos em todo o território nacional",
-      "link": "https://www.gov.br/agricultura/pt-br/assuntos/noticias/hamburguer-e-pescado-de-ribeirao-preto-podem-ser-comercializados-em-todo-o-brasil",
-      "fonte": "MAPA (Agricultura)",
+      "id": "73b214f6161b9cb9",
+      "titulo": "Implantação no ambiente de produção da versão 1.13 da NT da Reforma Tributária",
+      "resumo": "Publicado por SVRS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/2974",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
       "esfera": "federal",
       "uf": "",
-      "data_publicacao": "14/09/2026",
+      "data_publicacao": "03/03/2026",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-17T15:10:11",
+      "primeira_vez_em": "2026-09-17T15:10:11"
+    },
+    {
+      "id": "607173e000fc3989",
+      "titulo": "Novidade: Link para o MOC Online",
+      "resumo": "Publicado por Coordenação Técnica do ENCAT",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Noticias/3007",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T14:38:47"
+      "coletado_em": "2026-09-17T15:10:11",
+      "primeira_vez_em": "2026-09-17T15:10:11"
     },
     {
-      "id": "61c260359d59a355",
-      "titulo": "Abertura de mercados para produtos brasileiros em Cuba e no México",
-      "resumo": "Abertura de mercados para produtos brasileiros em Cuba e no México",
-      "link": "https://www.gov.br/agricultura/pt-br/assuntos/noticias/abertura-de-mercados-para-produtos-brasileiros-em-cuba-e-no-mexico",
-      "fonte": "MAPA (Agricultura)",
+      "id": "a9b85ebff2d35b2f",
+      "titulo": "Implantadas NTs 2026.002 em PRODUÇÃO na SVRS",
+      "resumo": "Publicado por SEFAZ Virtual RS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Noticias/3005",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
       "esfera": "federal",
       "uf": "",
-      "data_publicacao": "14/09/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T14:38:47"
-    },
-    {
-      "id": "34a478ad7b2cfe37",
-      "titulo": "Aprovação de resolução da Camex sobre o Relatório de Análise Socioambiental para Operações de Exportação (RASOE)",
-      "resumo": "O Relatório foi elaborado conjuntamente pelo Ministério das Relações Exteriores (MRE) e pelo Ministério da Agricultura e Pecuária (Mapa), com a colaboração de outros doze ministérios",
-      "link": "https://www.gov.br/agricultura/pt-br/assuntos/noticias/aprovacao-de-resolucao-da-camex-sobre-o-relatorio-de-analise-socioambiental-para-operacoes-de-exportacao-rasoe",
-      "fonte": "MAPA (Agricultura)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "11/09/2026",
+      "data_publicacao": "31/08/2026",
       "impacto": "médio",
       "tags": [
-        "Agro"
+        "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-17T14:38:47"
+      "coletado_em": "2026-09-17T15:10:11",
+      "primeira_vez_em": "2026-09-17T15:10:11"
     },
     {
-      "id": "314b83809b822e13",
-      "titulo": "RETIFICAR DECLARAÇÃO Recebeu aviso da Receita? Veja o que conferir antes de retificar o IRPF Hoje 12:00",
-      "resumo": "RETIFICAR DECLARAÇÃO Recebeu aviso da Receita? Veja o que conferir antes de retificar o IRPF Hoje 12:00",
-      "link": "https://www.contabeis.com.br/noticias/noticias/79467/malha-fina-do-irpf-o-que-conferir-antes-de-retificar/",
-      "fonte": "Portal Contábeis",
+      "id": "74129502b829908e",
+      "titulo": "Implantada a regra de validação de exigencia de IBS e CBS no ambiente de homologação",
+      "resumo": "Publicado por SEFAZ Virtual RS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Noticias/2981",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
       "esfera": "federal",
       "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-17T13:43:31"
+      "data_publicacao": "06/07/2026",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "API/Sistemas Gov"
+      ],
+      "coletado_em": "2026-09-17T15:10:11",
+      "primeira_vez_em": "2026-09-17T15:10:11"
     },
     {
-      "id": "ae21c3342409f9bd",
-      "titulo": "PGFN atualiza identidade visual de serviços",
-      "resumo": "Comprei será o primeiro; Regularize, Dívida Aberta e Inscreve Fácil serão atualizados em breve",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/pgfn-atualiza-identidade-visual-de-servicos",
-      "fonte": "PGFN",
+      "id": "e5fc5ae97dc8d1c2",
+      "titulo": "Lei Complementar 227 de 13 de Janeiro de 2026",
+      "resumo": "Publicado por Ajustes SINIEF",
+      "link": "http://www.in.gov.br/web/dou/-/lei-complementar-n-227-de-13-de-janeiro-de-2026-681157850",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
       "esfera": "federal",
       "uf": "",
-      "data_publicacao": "15/06/2026",
+      "data_publicacao": "14/01/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:23"
+      "coletado_em": "2026-09-17T15:10:11",
+      "primeira_vez_em": "2026-09-17T15:10:11"
+    },
+    {
+      "id": "07591671a87026e9",
+      "titulo": "ATO CONJUNTO RFB/CGIBS Nº 1, DE 22 DE DEZEMBRO DE 2025",
+      "resumo": "Publicado por Ato Conjunto RFB/CGIBS",
+      "link": "https://www.in.gov.br/web/dou/-/ato-conjunto-rfb/cgibs-n-1-de-22-de-dezembro-de-2025-677624586",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "23/12/2025",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-09-17T15:10:11",
+      "primeira_vez_em": "2026-09-17T15:10:11"
     }
   ],
   "reforma": {

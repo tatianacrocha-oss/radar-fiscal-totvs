@@ -47,6 +47,22 @@ SEGMENTOS_NAVEGACAO_IGNORADOS = {
 }
 TRECHOS_NAVEGACAO_IGNORADOS = ("servico_detalhado", "carta-de-servicos", "cartadeservicos")
 
+PREFIXO_DATA_LONGA = re.compile(
+    r"^\d{1,2}\s+de\s+[A-Za-zçÇãÃéÉ]+\s+de\s+\d{4}(\s*[àa]s\s*\d{1,2}[:h]\d{2})?\s+", re.IGNORECASE
+)
+PREFIXO_ETIQUETA_MAIUSCULA = re.compile(r"^[A-ZÀ-Ü][A-ZÀ-Ü\s\-/]{2,49}\s+(?=[A-ZÀ-Ü][a-zà-ü])")
+
+
+def limpar_prefixos_ruido(titulo: str) -> str:
+    """Remove selos tipo 'LEGISLAÇÃO EM VIGOR' ou datas extensas coladas na frente do titulo real.
+
+    Comuns em portais estaduais (Liferay, Contabeis) que colocam a categoria/data
+    dentro do mesmo elemento HTML do titulo da noticia.
+    """
+    titulo = PREFIXO_DATA_LONGA.sub("", titulo)
+    titulo = PREFIXO_ETIQUETA_MAIUSCULA.sub("", titulo)
+    return titulo.strip()
+
 if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8")
     sys.stderr.reconfigure(encoding="utf-8")
@@ -70,7 +86,9 @@ def parece_link_de_navegacao(link: str) -> bool:
     if not segmentos:
         return True
     ultimo_segmento = segmentos[-1]
-    return bool(re.fullmatch(r"\d{4}", ultimo_segmento)) or ultimo_segmento in SEGMENTOS_NAVEGACAO_IGNORADOS
+    if re.fullmatch(r"\d{4}", ultimo_segmento) and 2015 <= int(ultimo_segmento) <= 2035:
+        return True  # pasta tipo /noticias/2026 (ano) - nao confundir com IDs numericos de aviso/materia
+    return ultimo_segmento in SEGMENTOS_NAVEGACAO_IGNORADOS
 
 
 def carregar_json(caminho: Path) -> dict:
@@ -152,6 +170,28 @@ def buscar_gov_br_html(fonte: dict) -> list[dict]:
     return itens
 
 
+def buscar_svrs_avisos_html(fonte: dict) -> list[dict]:
+    """Portal Conformidade Facil (ENCAT/SVRS): ul.media-list > li > h3.media-heading a / time[datetime]."""
+    resposta = requisitar(fonte["url"])
+    sopa = BeautifulSoup(resposta.text, "html.parser")
+    itens = []
+    for item in sopa.select("ul.media-list li.media"):
+        titulo_tag = item.select_one("h3.media-heading a, .media-heading a")
+        href = titulo_tag.get("href") if titulo_tag else None
+        if not href or href.strip() in ("#", "") or href.startswith("javascript:"):
+            continue
+        titulo = limpar_texto(titulo_tag.get_text())
+        link = urljoin(fonte["url"], href)
+        data_tag = item.select_one("time[datetime]")
+        data_publicacao = limpar_texto(data_tag.get_text()) if data_tag else ""
+        autor_tag = item.select_one(".lista-categoria a")
+        resumo = ("Publicado por " + limpar_texto(autor_tag.get_text())) if autor_tag else ""
+        if not titulo:
+            continue
+        itens.append({"titulo": titulo, "link": link, "resumo": resumo, "data_publicacao": data_publicacao})
+    return itens
+
+
 CLASSES_CANDIDATAS = ("noticia", "news", "post", "materia", "titulo", "title", "artigo")
 CLASSES_ANCESTRAL_IGNORADAS = re.compile(
     r"menu|nav|breadcrumb|sidebar|footer|header|sitemap|rodape|cabecalho|mapa-do-site", re.IGNORECASE
@@ -186,6 +226,9 @@ def buscar_generic_html(fonte: dict) -> list[dict]:
     vistos = set()
     itens = []
     for container in candidatos:
+        classes_container = " ".join(container.get("class") or [])
+        if re.search(r"\bno[-_]?title\b|\bsem[-_]?titulo\b", classes_container, re.IGNORECASE):
+            continue  # ex.: classe "no-title" (Liferay/Bootstrap) nao e um titulo de noticia
         if container.name == "a":
             link_tag = container
         else:
@@ -196,8 +239,11 @@ def buscar_generic_html(fonte: dict) -> list[dict]:
             continue
         titulo = limpar_texto(container.get_text())
         titulo = re.sub(r"^\d{1,2}h\d{2}\s+", "", titulo)
-        if len(titulo) < 25:
-            continue
+        titulo = limpar_prefixos_ruido(titulo)
+        if len(titulo) < 25 or len(titulo) > 200:
+            continue  # titulo real de noticia nao e um paragrafo/menu inteiro
+        if "exibindo 0 a 0 de 0" in titulo.lower():
+            continue  # mensagem de lista vazia do site, nao e noticia
         link = urljoin(fonte["url"], link_tag["href"])
         if link in vistos:
             continue
@@ -206,7 +252,7 @@ def buscar_generic_html(fonte: dict) -> list[dict]:
         bloco = container.find_parent(["p", "li", "article"])
         resumo = ""
         if bloco:
-            texto_bloco = limpar_texto(bloco.get_text())
+            texto_bloco = limpar_prefixos_ruido(re.sub(r"^\d{1,2}h\d{2}\s+", "", limpar_texto(bloco.get_text())))
             if texto_bloco.startswith(titulo):
                 resumo = texto_bloco[len(titulo):].strip(" -–:")
 
@@ -218,6 +264,7 @@ BUSCADORES = {
     "rss": buscar_rss,
     "gov_br_html": buscar_gov_br_html,
     "generic_html": buscar_generic_html,
+    "svrs_avisos_html": buscar_svrs_avisos_html,
 }
 
 
@@ -299,6 +346,8 @@ def carregar_historico() -> dict:
 
 def salvar_historico_atualizado(historico: dict, noticias_novas: list[dict], dias_retencao: int) -> list[dict]:
     for noticia in noticias_novas:
+        existente = historico["noticias"].get(noticia["id"])
+        noticia["primeira_vez_em"] = existente.get("primeira_vez_em", existente.get("coletado_em")) if existente else noticia["coletado_em"]
         historico["noticias"][noticia["id"]] = noticia
 
     limite = datetime.now() - timedelta(days=dias_retencao)
