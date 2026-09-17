@@ -1,5 +1,5 @@
 const RADAR_DADOS = {
-  "geradoEm": "2026-09-17T13:44:44",
+  "geradoEm": "2026-09-17T17:21:49",
   "noticias": [
     {
       "id": "222b7164033dafb3",
@@ -12,7 +12,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:54"
+      "coletado_em": "2026-09-17T17:19:44"
     },
     {
       "id": "fd85e79a21a989fa",
@@ -25,7 +25,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:54"
+      "coletado_em": "2026-09-17T17:19:44"
     },
     {
       "id": "8b919b7384234279",
@@ -38,7 +38,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:48"
+      "coletado_em": "2026-09-17T17:19:20"
     },
     {
       "id": "8a6cf9ff974b763a",
@@ -51,7 +51,7 @@ const RADAR_DADOS = {
       "data_publicacao": "Thu, 17 Sep 2026 16:26:03 +0000",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:35"
+      "coletado_em": "2026-09-17T17:18:43"
     },
     {
       "id": "01fc1ced115a1f88",
@@ -64,7 +64,7 @@ const RADAR_DADOS = {
       "data_publicacao": "Thu, 17 Sep 2026 15:26:40 +0000",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:35"
+      "coletado_em": "2026-09-17T17:18:43"
     },
     {
       "id": "add5e3211f788d39",
@@ -79,7 +79,7 @@ const RADAR_DADOS = {
       "tags": [
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-17T13:43:35"
+      "coletado_em": "2026-09-17T17:18:43"
     },
     {
       "id": "59f18a3b109140df",
@@ -95,7 +95,7 @@ const RADAR_DADOS = {
         "Prazo/Obrigação",
         "Multa/Penalidade"
       ],
-      "coletado_em": "2026-09-17T13:43:35"
+      "coletado_em": "2026-09-17T17:18:43"
     },
     {
       "id": "e88b4feaab400314",
@@ -108,7 +108,7 @@ const RADAR_DADOS = {
       "data_publicacao": "Thu, 17 Sep 2026 12:05:08 +0000",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:35"
+      "coletado_em": "2026-09-17T17:18:43"
     },
     {
       "id": "360267fe2b8a68ba",
@@ -121,20 +121,20 @@ const RADAR_DADOS = {
       "data_publicacao": "Thu, 17 Sep 2026 01:52:26 +0000",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:35"
+      "coletado_em": "2026-09-17T17:18:43"
     },
     {
-      "id": "314b83809b822e13",
-      "titulo": "RETIFICAR DECLARAÇÃO Recebeu aviso da Receita? Veja o que conferir antes de retificar o IRPF Hoje 12:00",
-      "resumo": "RETIFICAR DECLARAÇÃO Recebeu aviso da Receita? Veja o que conferir antes de retificar o IRPF Hoje 12:00",
-      "link": "https://www.contabeis.com.br/noticias/noticias/79467/malha-fina-do-irpf-o-que-conferir-antes-de-retificar/",
+      "id": "be29a7b8a2d32b65",
+      "titulo": "CONGRESSO ONLINE Começa nesta segunda: CONBCON reúne mais de 60 palestras gratuitas para profissionais contábeis Hoje 14:10",
+      "resumo": "CONGRESSO ONLINE Começa nesta segunda: CONBCON reúne mais de 60 palestras gratuitas para profissionais contábeis Hoje 14:10",
+      "link": "https://www.contabeis.com.br/noticias/noticias/79485/conbcon-2026-comeca-nesta-segunda-feira-21-veja-como-participar-gratuitamente/",
       "fonte": "Portal Contábeis",
       "esfera": "federal",
       "uf": "",
       "data_publicacao": "",
-      "impacto": "médio",
+      "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:31"
+      "coletado_em": "2026-09-17T17:18:40"
     },
     {
       "id": "9b3e8f902f70432e",
@@ -149,7 +149,7 @@ const RADAR_DADOS = {
       "tags": [
         "Reforma Tributária"
       ],
-      "coletado_em": "2026-09-17T13:43:29"
+      "coletado_em": "2026-09-17T17:18:38"
     },
     {
       "id": "ca391951436428e9",
@@ -162,7 +162,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:29"
+      "coletado_em": "2026-09-17T17:18:38"
     },
     {
       "id": "29910fa4e2bdd869",
@@ -175,7 +175,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:29"
+      "coletado_em": "2026-09-17T17:18:38"
     },
     {
       "id": "1d19afe48a76d581",
@@ -188,7 +188,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:29"
+      "coletado_em": "2026-09-17T17:18:38"
     },
     {
       "id": "f08d34da5060c1d0",
@@ -203,7 +203,7 @@ const RADAR_DADOS = {
       "tags": [
         "Imposto Seletivo"
       ],
-      "coletado_em": "2026-09-17T13:43:29"
+      "coletado_em": "2026-09-17T17:18:38"
     },
     {
       "id": "4375ff3dddc3ca6c",
@@ -218,7 +218,7 @@ const RADAR_DADOS = {
       "tags": [
         "Agro"
       ],
-      "coletado_em": "2026-09-17T13:43:27"
+      "coletado_em": "2026-09-17T17:18:36"
     },
     {
       "id": "8a056b5c7d3fcd00",
@@ -231,7 +231,7 @@ const RADAR_DADOS = {
       "data_publicacao": "14/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:27"
+      "coletado_em": "2026-09-17T17:18:36"
     },
     {
       "id": "61c260359d59a355",
@@ -244,7 +244,7 @@ const RADAR_DADOS = {
       "data_publicacao": "14/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:27"
+      "coletado_em": "2026-09-17T17:18:36"
     },
     {
       "id": "34a478ad7b2cfe37",
@@ -259,7 +259,7 @@ const RADAR_DADOS = {
       "tags": [
         "Agro"
       ],
-      "coletado_em": "2026-09-17T13:43:27"
+      "coletado_em": "2026-09-17T17:18:36"
     },
     {
       "id": "37f8c90ecf5bc3e6",
@@ -272,7 +272,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-17T16:12:03Z",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:26"
+      "coletado_em": "2026-09-17T17:18:35"
     },
     {
       "id": "1c268d4352b9c4d5",
@@ -285,7 +285,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-17T13:23:31Z",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:26"
+      "coletado_em": "2026-09-17T17:18:35"
     },
     {
       "id": "af194bf2b56c3194",
@@ -298,7 +298,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-16T19:35:26Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:26"
+      "coletado_em": "2026-09-17T17:18:35"
     },
     {
       "id": "dfb0c109feed7af3",
@@ -311,7 +311,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-16T18:08:42Z",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:26"
+      "coletado_em": "2026-09-17T17:18:35"
     },
     {
       "id": "ee530ea67fd9b4ad",
@@ -324,7 +324,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-16T16:59:38Z",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:26"
+      "coletado_em": "2026-09-17T17:18:35"
     },
     {
       "id": "fc84fdaa19d314e1",
@@ -337,7 +337,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-16T14:28:32Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:26"
+      "coletado_em": "2026-09-17T17:18:35"
     },
     {
       "id": "5a9a86e73556d59c",
@@ -350,7 +350,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-16T14:10:44Z",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:26"
+      "coletado_em": "2026-09-17T17:18:35"
     },
     {
       "id": "7ec70af6910740c7",
@@ -363,7 +363,7 @@ const RADAR_DADOS = {
       "data_publicacao": "16/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:24"
+      "coletado_em": "2026-09-17T17:18:31"
     },
     {
       "id": "1b96acf232589fdb",
@@ -376,7 +376,7 @@ const RADAR_DADOS = {
       "data_publicacao": "16/09/2026",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:24"
+      "coletado_em": "2026-09-17T17:18:31"
     },
     {
       "id": "a9a22f90ca007b05",
@@ -391,7 +391,7 @@ const RADAR_DADOS = {
       "tags": [
         "PIS/COFINS"
       ],
-      "coletado_em": "2026-09-17T13:43:24"
+      "coletado_em": "2026-09-17T17:18:31"
     },
     {
       "id": "f588dd789c07c54b",
@@ -404,7 +404,7 @@ const RADAR_DADOS = {
       "data_publicacao": "15/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:24"
+      "coletado_em": "2026-09-17T17:18:31"
     },
     {
       "id": "ff0cb63d2006d0cd",
@@ -417,7 +417,7 @@ const RADAR_DADOS = {
       "data_publicacao": "15/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:24"
+      "coletado_em": "2026-09-17T17:18:31"
     },
     {
       "id": "24dbd0a0f36aa8e4",
@@ -430,7 +430,7 @@ const RADAR_DADOS = {
       "data_publicacao": "15/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:24"
+      "coletado_em": "2026-09-17T17:18:31"
     },
     {
       "id": "26e3feab1234de20",
@@ -443,7 +443,7 @@ const RADAR_DADOS = {
       "data_publicacao": "15/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:24"
+      "coletado_em": "2026-09-17T17:18:31"
     },
     {
       "id": "3488f63f8f381fc4",
@@ -456,7 +456,7 @@ const RADAR_DADOS = {
       "data_publicacao": "14/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:24"
+      "coletado_em": "2026-09-17T17:18:31"
     },
     {
       "id": "8af9031daf5b35f0",
@@ -469,7 +469,7 @@ const RADAR_DADOS = {
       "data_publicacao": "28/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:23"
+      "coletado_em": "2026-09-17T17:18:29"
     },
     {
       "id": "96e91c67f56c632d",
@@ -482,7 +482,7 @@ const RADAR_DADOS = {
       "data_publicacao": "19/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:23"
+      "coletado_em": "2026-09-17T17:18:29"
     },
     {
       "id": "34948173140ec564",
@@ -495,7 +495,7 @@ const RADAR_DADOS = {
       "data_publicacao": "07/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:23"
+      "coletado_em": "2026-09-17T17:18:29"
     },
     {
       "id": "8bd7518c825c9b11",
@@ -508,7 +508,7 @@ const RADAR_DADOS = {
       "data_publicacao": "09/07/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:23"
+      "coletado_em": "2026-09-17T17:18:29"
     },
     {
       "id": "2b0c4bb2793ed187",
@@ -521,20 +521,20 @@ const RADAR_DADOS = {
       "data_publicacao": "22/06/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:23"
+      "coletado_em": "2026-09-17T17:18:29"
     },
     {
-      "id": "ae21c3342409f9bd",
-      "titulo": "PGFN atualiza identidade visual de serviços",
-      "resumo": "Comprei será o primeiro; Regularize, Dívida Aberta e Inscreve Fácil serão atualizados em breve",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/pgfn-atualiza-identidade-visual-de-servicos",
+      "id": "4baf6d16f5f6d474",
+      "titulo": "Novo acesso ao Regularize para representantes de empresas",
+      "resumo": "Responsáveis por PJ já podem acessar serviços diretamente do Regularize por meio da conta gov.br",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/novo-acesso-ao-regularize-para-representantes-de-empresas",
       "fonte": "PGFN",
       "esfera": "federal",
       "uf": "",
-      "data_publicacao": "15/06/2026",
+      "data_publicacao": "17/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:23"
+      "coletado_em": "2026-09-17T17:18:29"
     },
     {
       "id": "08398f1e2c89c97b",
@@ -547,7 +547,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-07-22T16:51:56Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:22"
+      "coletado_em": "2026-09-17T17:18:28"
     },
     {
       "id": "246d24ac1d0cd774",
@@ -560,7 +560,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-07-20T19:54:16Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-17T13:43:22"
+      "coletado_em": "2026-09-17T17:18:28"
     },
     {
       "id": "2de55424d6f704af",
@@ -577,7 +577,33 @@ const RADAR_DADOS = {
         "CBS",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-17T13:43:22"
+      "coletado_em": "2026-09-17T17:18:28"
+    },
+    {
+      "id": "314b83809b822e13",
+      "titulo": "RETIFICAR DECLARAÇÃO Recebeu aviso da Receita? Veja o que conferir antes de retificar o IRPF Hoje 12:00",
+      "resumo": "RETIFICAR DECLARAÇÃO Recebeu aviso da Receita? Veja o que conferir antes de retificar o IRPF Hoje 12:00",
+      "link": "https://www.contabeis.com.br/noticias/noticias/79467/malha-fina-do-irpf-o-que-conferir-antes-de-retificar/",
+      "fonte": "Portal Contábeis",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-17T13:43:31"
+    },
+    {
+      "id": "ae21c3342409f9bd",
+      "titulo": "PGFN atualiza identidade visual de serviços",
+      "resumo": "Comprei será o primeiro; Regularize, Dívida Aberta e Inscreve Fácil serão atualizados em breve",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/pgfn-atualiza-identidade-visual-de-servicos",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "15/06/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-17T13:43:23"
     }
   ],
   "reforma": {
