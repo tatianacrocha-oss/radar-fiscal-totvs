@@ -17,8 +17,7 @@
     "SPED": ["sped", "escrituração digital", "escrituracao digital"],
     "Prazo/Obrigação": ["prazo", "obrigatoriedade", "obrigatório a partir", "entra em vigor", "vigência"],
     "Multa/Penalidade": ["multa", "penalidade", "autuação", "autuacao"],
-    "API/Sistemas Gov": ["api ", "webservice", "sefaz virtual", "ambiente nacional"],
-    "Agro": ["agro", "agropecuário", "agropecuario", "cna", "cepea", "mapa"]
+    "API/Sistemas Gov": ["api ", "webservice", "sefaz virtual", "ambiente nacional"]
   },
   "impacto_alto": [
     "obrigatório", "obrigatoriedade", "entra em vigor", "sancionada", "sancionado",
@@ -28,6 +27,6 @@
   ],
   "impacto_baixo": [
     "consulta pública", "consulta publica", "audiência pública", "audiencia publica",
-    "estudo", "pesquisa", "seminário", "seminario", "evento", "palestra", "webinar"
+    "estudo", "pesquisa", "seminário", "seminario", "palestra", "webinar"
   ]
 }

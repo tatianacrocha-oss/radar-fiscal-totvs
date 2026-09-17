@@ -11,6 +11,15 @@
       "max_itens": 8
     },
     {
+      "id": "nfse-nacional",
+      "nome": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "tipo": "gov_br_html",
+      "url": "https://www.gov.br/nfse/pt-br/noticias",
+      "prioridade": "alta",
+      "max_itens": 8
+    },
+    {
       "id": "pgfn",
       "nome": "PGFN",
       "esfera": "federal",
@@ -48,13 +57,13 @@
       "excluir_se_link_contem": ["/videos/", "/audios/"]
     },
     {
-      "id": "mapa",
-      "nome": "MAPA (Agricultura)",
+      "id": "nfe-notas-tecnicas",
+      "nome": "NF-e - Notas Técnicas",
       "esfera": "federal",
-      "tipo": "gov_br_html",
-      "url": "https://www.gov.br/agricultura/pt-br/assuntos/noticias",
-      "prioridade": "normal",
-      "max_itens": 4
+      "tipo": "generic_html",
+      "url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=04BIflQt1aY=",
+      "prioridade": "alta",
+      "max_itens": 10
     },
     {
       "id": "cfc",

@@ -186,12 +186,15 @@ def buscar_generic_html(fonte: dict) -> list[dict]:
     vistos = set()
     itens = []
     for container in candidatos:
-        link_tag = container if container.name == "a" else container.select_one("a[href]")
+        if container.name == "a":
+            link_tag = container
+        else:
+            link_tag = container.select_one("a[href]") or container.find_parent("a", href=True)
         if not link_tag or not link_tag.get("href"):
             continue
-        if esta_em_area_de_navegacao(link_tag):
+        if esta_em_area_de_navegacao(container):
             continue
-        titulo = limpar_texto(link_tag.get_text())
+        titulo = limpar_texto(container.get_text())
         titulo = re.sub(r"^\d{1,2}h\d{2}\s+", "", titulo)
         if len(titulo) < 25:
             continue
@@ -199,7 +202,15 @@ def buscar_generic_html(fonte: dict) -> list[dict]:
         if link in vistos:
             continue
         vistos.add(link)
-        itens.append({"titulo": titulo, "link": link, "resumo": "", "data_publicacao": ""})
+
+        bloco = container.find_parent(["p", "li", "article"])
+        resumo = ""
+        if bloco:
+            texto_bloco = limpar_texto(bloco.get_text())
+            if texto_bloco.startswith(titulo):
+                resumo = texto_bloco[len(titulo):].strip(" -–:")
+
+        itens.append({"titulo": titulo, "link": link, "resumo": resumo, "data_publicacao": ""})
     return itens
 
 

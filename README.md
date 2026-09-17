@@ -155,7 +155,7 @@ Troque `sefaz-sp` pelo `id` da fonte (a lista de ids está em `config/sources.js
 
 ## 8. O que já funciona bem e o que ainda tem limitação
 
-- **Funcionam bem**: Receita Federal, PGFN, Ministério da Fazenda, Câmara dos Deputados, Senado Federal, MAPA, CFC, Portal Contábeis, Jornal Contábil, e boa parte das Secretarias da Fazenda estaduais.
+- **Funcionam bem**: Receita Federal, PGFN, Ministério da Fazenda, NFS-e Nacional, Notas Técnicas da NF-e, Câmara dos Deputados, Senado Federal, CFC, Portal Contábeis, Jornal Contábil, e boa parte das Secretarias da Fazenda estaduais.
 - **Limitação conhecida**: alguns sites estaduais (hoje: SP, PR, RS, entre outros) carregam as notícias por dentro do site usando uma tecnologia (JavaScript) que o buscador simples não consegue ler — ele só lê o "HTML puro" da página, como um leitor de tela faria. Nesses casos, a fonte aparece no log como "não retornou notícias" em vez de mostrar algo errado. Se quiser, no futuro dá para evoluir o buscador para conseguir ler esses sites também (usando um "navegador automático" por trás, tipo Selenium/Playwright) — é só pedir.
 - O buscador nunca inventa notícia: se não encontra nada relevante e confiável em uma fonte, ele simplesmente não mostra nada daquela fonte naquele dia.
 
