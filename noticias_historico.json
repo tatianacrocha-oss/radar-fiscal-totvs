@@ -137,7 +137,7 @@
       "data_publicacao": "2026-07-22T16:51:56Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-18T11:03:48",
+      "coletado_em": "2026-09-20T11:03:28",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     "246d24ac1d0cd774": {
@@ -151,7 +151,7 @@
       "data_publicacao": "2026-07-20T19:54:16Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-18T11:03:48",
+      "coletado_em": "2026-09-20T11:03:28",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     "2de55424d6f704af": {
@@ -169,7 +169,7 @@
         "CBS",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-18T11:03:48",
+      "coletado_em": "2026-09-20T11:03:28",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     "6e748567f4cb33c5": {
@@ -336,7 +336,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:03:53",
+      "coletado_em": "2026-09-20T11:03:45",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "0c1964e9f04584db": {
@@ -353,7 +353,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:03:53",
+      "coletado_em": "2026-09-20T11:03:45",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "046e01fae8b56c6d": {
@@ -367,7 +367,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-18T11:03:53",
+      "coletado_em": "2026-09-20T11:03:45",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "f6ee5f1d56c00209": {
@@ -384,7 +384,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:03:53",
+      "coletado_em": "2026-09-20T11:03:45",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "d00ea00b82d8e1fa": {
@@ -402,7 +402,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:03:53",
+      "coletado_em": "2026-09-20T11:03:45",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "09a31ac05b22905c": {
@@ -416,7 +416,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-18T11:03:53",
+      "coletado_em": "2026-09-20T11:03:45",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "e03b66d584fbef2c": {
@@ -434,7 +434,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:03:53",
+      "coletado_em": "2026-09-20T11:03:45",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "2112c58dfa782067": {
@@ -452,7 +452,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:03:53",
+      "coletado_em": "2026-09-20T11:03:45",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "4adf744f945fd69f": {
@@ -470,7 +470,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:03:53",
+      "coletado_em": "2026-09-20T11:03:45",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "78ad827b6b8ebe84": {
@@ -488,7 +488,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:03:53",
+      "coletado_em": "2026-09-20T11:03:45",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "b081958b5f7506fe": {
@@ -504,7 +504,7 @@
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-09-18T11:03:54",
+      "coletado_em": "2026-09-20T11:03:47",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     "b329be74653055a3": {
@@ -521,7 +521,7 @@
         "Reforma Tributária",
         "NFSe"
       ],
-      "coletado_em": "2026-09-18T11:03:54",
+      "coletado_em": "2026-09-20T11:03:47",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     "46f050b2bd9a044c": {
@@ -539,7 +539,7 @@
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-18T11:03:54",
+      "coletado_em": "2026-09-20T11:03:47",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     "b9c9daabd31b6e3e": {
@@ -558,7 +558,7 @@
         "NFSe",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-18T11:03:54",
+      "coletado_em": "2026-09-20T11:03:47",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     "8ad9456dba6ac974": {
@@ -576,7 +576,7 @@
         "CBS",
         "NFSe"
       ],
-      "coletado_em": "2026-09-18T11:03:54",
+      "coletado_em": "2026-09-20T11:03:47",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     "0b7a31ff3defd6f2": {
@@ -592,7 +592,7 @@
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-09-18T11:03:54",
+      "coletado_em": "2026-09-20T11:03:47",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     "d448d576b31f4e14": {
@@ -609,7 +609,7 @@
         "NFSe",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-18T11:03:54",
+      "coletado_em": "2026-09-20T11:03:47",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     "990de00c70b0bcde": {
@@ -627,7 +627,7 @@
         "NFSe",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-18T11:03:54",
+      "coletado_em": "2026-09-20T11:03:47",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     "4baf6d16f5f6d474": {
@@ -641,7 +641,7 @@
       "data_publicacao": "17/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-18T11:03:55",
+      "coletado_em": "2026-09-20T11:03:48",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     "8af9031daf5b35f0": {
@@ -655,7 +655,7 @@
       "data_publicacao": "28/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-18T11:03:55",
+      "coletado_em": "2026-09-20T11:03:48",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     "96e91c67f56c632d": {
@@ -669,7 +669,7 @@
       "data_publicacao": "19/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-18T11:03:55",
+      "coletado_em": "2026-09-20T11:03:48",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     "34948173140ec564": {
@@ -683,7 +683,7 @@
       "data_publicacao": "07/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-18T11:03:55",
+      "coletado_em": "2026-09-20T11:03:48",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     "8bd7518c825c9b11": {
@@ -697,7 +697,7 @@
       "data_publicacao": "09/07/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-18T11:03:55",
+      "coletado_em": "2026-09-20T11:03:48",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     "2b0c4bb2793ed187": {
@@ -711,7 +711,7 @@
       "data_publicacao": "22/06/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-18T11:03:55",
+      "coletado_em": "2026-09-20T11:03:48",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     "7ec70af6910740c7": {
@@ -725,7 +725,7 @@
       "data_publicacao": "16/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-18T11:03:56",
+      "coletado_em": "2026-09-20T11:03:49",
       "primeira_vez_em": "2026-09-17T15:43:06"
     },
     "1b96acf232589fdb": {
@@ -739,7 +739,7 @@
       "data_publicacao": "16/09/2026",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-09-18T11:03:56",
+      "coletado_em": "2026-09-20T11:03:49",
       "primeira_vez_em": "2026-09-17T15:43:06"
     },
     "a9a22f90ca007b05": {
@@ -755,7 +755,7 @@
       "tags": [
         "PIS/COFINS"
       ],
-      "coletado_em": "2026-09-18T11:03:56",
+      "coletado_em": "2026-09-20T11:03:49",
       "primeira_vez_em": "2026-09-17T15:43:06"
     },
     "f588dd789c07c54b": {
@@ -769,7 +769,7 @@
       "data_publicacao": "15/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-18T11:03:56",
+      "coletado_em": "2026-09-20T11:03:49",
       "primeira_vez_em": "2026-09-17T15:43:06"
     },
     "ff0cb63d2006d0cd": {
@@ -839,7 +839,7 @@
       "data_publicacao": "2026-09-17T16:12:03Z",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-09-18T11:04:01",
+      "coletado_em": "2026-09-20T11:04:37",
       "primeira_vez_em": "2026-09-17T15:43:08"
     },
     "1c268d4352b9c4d5": {
@@ -939,7 +939,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:04:03",
+      "coletado_em": "2026-09-20T11:04:39",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "e38892674e142a10": {
@@ -956,7 +956,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:04:03",
+      "coletado_em": "2026-09-20T11:04:39",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "81db86e8434c0e4f": {
@@ -973,7 +973,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:04:03",
+      "coletado_em": "2026-09-20T11:04:39",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "e2a50ae8eccfe1a8": {
@@ -989,7 +989,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:04:03",
+      "coletado_em": "2026-09-20T11:04:39",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "e4937f762f128a36": {
@@ -1006,7 +1006,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:04:03",
+      "coletado_em": "2026-09-20T11:04:39",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "c79576affbd403f5": {
@@ -1024,7 +1024,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:04:03",
+      "coletado_em": "2026-09-20T11:04:39",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "7f41fe5f1640b502": {
@@ -1041,7 +1041,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:04:03",
+      "coletado_em": "2026-09-20T11:04:39",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "0859ec432b231549": {
@@ -1057,7 +1057,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:04:03",
+      "coletado_em": "2026-09-20T11:04:39",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "8640ac9406476bfb": {
@@ -1073,7 +1073,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:04:03",
+      "coletado_em": "2026-09-20T11:04:39",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "b4d2823b992dc0cb": {
@@ -1090,7 +1090,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:04:03",
+      "coletado_em": "2026-09-20T11:04:39",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "a271f22fd8b60fbd": {
@@ -1106,7 +1106,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:04:05",
+      "coletado_em": "2026-09-20T11:04:41",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "c3ebc4e3910e68c9": {
@@ -1122,7 +1122,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:04:05",
+      "coletado_em": "2026-09-20T11:04:41",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "cf3d354183a6412b": {
@@ -1138,7 +1138,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:04:05",
+      "coletado_em": "2026-09-20T11:04:41",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "77284a5831435b93": {
@@ -1154,7 +1154,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:04:06",
+      "coletado_em": "2026-09-20T11:04:43",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "8edf3d8590ef2ea3": {
@@ -1170,7 +1170,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:04:06",
+      "coletado_em": "2026-09-20T11:04:43",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "db0e168e9dc70ff3": {
@@ -1186,7 +1186,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:04:06",
+      "coletado_em": "2026-09-20T11:04:43",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "1c95e3cfa05a4c5c": {
@@ -1202,7 +1202,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:04:08",
+      "coletado_em": "2026-09-20T11:04:44",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     "f3fce5f00b2dda14": {
@@ -1218,7 +1218,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-18T11:04:09",
+      "coletado_em": "2026-09-20T11:04:46",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     "6e178b35e99185d5": {
@@ -1365,7 +1365,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-19T11:06:59",
+      "coletado_em": "2026-09-20T11:05:29",
       "primeira_vez_em": "2026-09-17T15:43:36"
     },
     "222b7164033dafb3": {
@@ -1379,7 +1379,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-18T11:05:14",
+      "coletado_em": "2026-09-20T11:05:54",
       "primeira_vez_em": "2026-09-17T15:43:41"
     },
     "f94584d6e23d07ae": {
@@ -1761,7 +1761,7 @@
       "tags": [
         "Reforma Tributária"
       ],
-      "coletado_em": "2026-09-18T11:04:01",
+      "coletado_em": "2026-09-20T11:04:37",
       "primeira_vez_em": "2026-09-18T11:04:01"
     },
     "ab4db4f89c6d384f": {
@@ -1775,7 +1775,7 @@
       "data_publicacao": "2026-09-17T20:27:13Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-18T11:04:01",
+      "coletado_em": "2026-09-20T11:04:37",
       "primeira_vez_em": "2026-09-18T11:04:01"
     },
     "249d88c61219f51f": {
@@ -1856,7 +1856,7 @@
       "data_publicacao": "Fri, 18 Sep 2026 20:23:17 +0000",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-19T11:06:17",
+      "coletado_em": "2026-09-20T11:04:52",
       "primeira_vez_em": "2026-09-19T11:06:17"
     },
     "9039e2deffb9a841": {
@@ -1870,7 +1870,7 @@
       "data_publicacao": "Fri, 18 Sep 2026 19:10:33 +0000",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-19T11:06:17",
+      "coletado_em": "2026-09-20T11:04:52",
       "primeira_vez_em": "2026-09-19T11:06:17"
     },
     "afca562c86a65776": {
@@ -1888,7 +1888,7 @@
         "CBS",
         "SPED"
       ],
-      "coletado_em": "2026-09-19T11:06:17",
+      "coletado_em": "2026-09-20T11:04:52",
       "primeira_vez_em": "2026-09-19T11:06:17"
     },
     "3e16290cbddccb88": {
@@ -1904,7 +1904,7 @@
       "tags": [
         "NFe"
       ],
-      "coletado_em": "2026-09-19T11:06:17",
+      "coletado_em": "2026-09-20T11:04:52",
       "primeira_vez_em": "2026-09-19T11:06:17"
     },
     "c6bcd94b695a5276": {
@@ -1918,7 +1918,7 @@
       "data_publicacao": "Fri, 18 Sep 2026 16:51:10 +0000",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-19T11:06:17",
+      "coletado_em": "2026-09-20T11:04:52",
       "primeira_vez_em": "2026-09-19T11:06:17"
     },
     "057994fea54094f9": {
@@ -1932,8 +1932,109 @@
       "data_publicacao": "Fri, 18 Sep 2026 15:09:01 +0000",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-19T11:06:17",
+      "coletado_em": "2026-09-20T11:04:52",
       "primeira_vez_em": "2026-09-19T11:06:17"
+    },
+    "5b6d010833bd402f": {
+      "id": "5b6d010833bd402f",
+      "titulo": "Receita Federal e Comitê Gestor do Imposto sobre Bens e Serviços divulgam Orientação Conjunta",
+      "resumo": "Manual explica procedimento para realização da opção pelo regime específico do IBS e da CBS destinado às cooperativas.",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-federal-e-comite-gestor-do-imposto-sobre-bens-e-servicos-divulgam-orientacao-conjunta",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "18/09/2026",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS"
+      ],
+      "coletado_em": "2026-09-20T11:03:49",
+      "primeira_vez_em": "2026-09-20T11:03:49"
+    },
+    "9f44f4f929e9e673": {
+      "id": "9f44f4f929e9e673",
+      "titulo": "Tesouro publica cronograma de emissões da Dívida Pública para o 4º trimestre de 2026",
+      "resumo": "Troca da NTN-B 15/08/2040 pela NTN-B 15/05/2045; e rolagem da LFT de 6 anos, para vencimento 01/12/2032 são as principais mudanças",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/tesouro-publica-cronograma-de-emissoes-da-divida-publica-para-o-4o-trimestre-de-2026",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "18/09/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-20T11:03:49",
+      "primeira_vez_em": "2026-09-20T11:03:49"
+    },
+    "b0a8cead8a51dcb3": {
+      "id": "b0a8cead8a51dcb3",
+      "titulo": "Governo sanciona marco legal dos minerais críticos e estratégicos alinhado à Transformação Ecológica",
+      "resumo": "Nova política cria governança e instrumentos para estimular pesquisa, beneficiamento e produção de maior valor agregado no Brasil",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/governo-sanciona-marco-legal-dos-minerais-criticos-e-estrategicos-alinhado-a-transformacao-ecologica",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "18/09/2026",
+      "impacto": "baixo",
+      "tags": [],
+      "coletado_em": "2026-09-20T11:03:49",
+      "primeira_vez_em": "2026-09-20T11:03:49"
+    },
+    "4b32e99768c328fc": {
+      "id": "4b32e99768c328fc",
+      "titulo": "PGFN divulga nova forma de acesso ao Regularize para representantes de empresas",
+      "resumo": "Responsáveis por PJ já podem acessar serviços diretamente do portal por meio da conta gov.br",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/pgfn-divulga-nova-forma-de-acesso-ao-regularize-para-representantes-de-empresas",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "18/09/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-20T11:03:49",
+      "primeira_vez_em": "2026-09-20T11:03:49"
+    },
+    "660514b78b4e3790": {
+      "id": "660514b78b4e3790",
+      "titulo": "Nova Constituição e nova gestão: Senado moderno nasceu há 40 anos",
+      "resumo": "Nova Constituição e nova gestão: Senado moderno nasceu há 40 anos",
+      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/09/nova-constituicao-e-nova-gestao-senado-moderno-nasceu-ha-40-anos",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-09-18T19:06:00Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-20T11:04:37",
+      "primeira_vez_em": "2026-09-20T11:04:37"
+    },
+    "415c410c8086b5cc": {
+      "id": "415c410c8086b5cc",
+      "titulo": "Eleições: Quem fica e quem sai do Senado",
+      "resumo": "Eleições: Quem fica e quem sai do Senado",
+      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/09/eleicoes-quem-fica-e-quem-sai-do-senado",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-09-18T19:05:14Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-20T11:04:37",
+      "primeira_vez_em": "2026-09-20T11:04:37"
+    },
+    "88c8249c0b7bbb79": {
+      "id": "88c8249c0b7bbb79",
+      "titulo": "Lei proíbe prisão de candidatos e eleitores durante período de votação",
+      "resumo": "A legislação oferece uma espécie de \"imunidade\" para candidatos e eleitores, para que não sejam presos durante as votações. Mas há exceções. Veja a seguir como isso funciona. Os candidatos que concorrem nas eleições de 4 de outubro (1º turno) não podem ser detidos ou presos a partir deste sábado (19). Isso vale até 6 de outubro. A prisão nesse período só pode acontecer em caso de flagrante delito. A proteção está prevista no artigo 236 do Código Eleitoral: os candidatos não podem ser presos a partir de 15 dias antes da eleição até 48 horas depois da votação. A medida também vale para o segundo turno, marcado para 25 de outubro: nenhum candidato que ainda estiver concorrendo poderá ser detido ou preso entre 10 e 27 de outubro, a não ser em caso de flagrante delito. Conforme destacam vários tribunais regionais eleitorais, o objetivo é assegurar o equilíbrio da disputa, evitando que eventuais prisões sejam realizadas com o objetivo de prejudicar candidatos. O flagrante delito acontece quando alguém é surpreendido cometendo um crime ou logo após tê-lo praticado. Boca de urna e compra de votos, por exemplo, são crimes eleitorais que permitem a prisão em flagrante. Prisão Se ocorrer a prisão de um candidato, ele deverá ser imediatamente conduzido à presença de um juiz competente, que irá avaliar a legalidade da detenção. Se constatar ilegalidade, o juiz deverá determinar a soltura imediata, além de poder responsabilizar o autor da prisão. Mesmo que a detenção em flagrante delito seja confirmada, o candidato poderá concorrer às eleições, pois a legislação exige condenação por órgão colegiado ou trânsito em julgado (condenação definitiva) para impedir o direito de disputa. Eleitores A \"imunidade\" também vale para os eleitores, mas por um período menor: de acordo com o Código Eleitoral, nenhum eleitor poderá ser preso a partir de cinco dias antes das eleições até 48 horas depois da votação. Assim, os eleitores não podem ser detidos ou presos entre 29 de setembro e 6 de outubro — pois o primeiro turno acontece em 4 de outubro. Também não podem ser detidos ou presos entre 20 e 27 de outubro (já que o segundo turno ocorre no dia 25 desse mês). O objetivo é evitar que o cidadão seja impedido de exercer seu direito ao voto. A origem dessa proteção remonta ao primeiro Código Eleitoral do país, de 1932, que buscava evitar a intimidação dos eleitores pelos “coronéis” (chefes políticos regionais da época). Mas há três casos em que o eleitor poderá ser detido ou preso nesse período: flagrante delito; sentença criminal condenatória por crime inafiançável (decisão definitiva da Justiça que condena alguém por um crime grave, para o qual a lei não permite o pagamento de fiança); desrespeito a salvo-conduto (quando alguém descumpre uma ordem da Justiça Eleitoral que protege outro eleitor contra ameaças ou coerção para votar, para não votar ou por já ter votado). Mesários e fiscais Mesários e fiscais de partido têm direito à imunidade eleitoral, mas somente enquanto estiverem exercendo suas funções (nos dias das votações). Apesar dessa proteção, eles poderão ser detidos ou presos em caso de flagrante delito.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/18/lei-proibe-prisao-de-candidatos-e-eleitores-durante-periodo-eleitoral",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-09-18T18:01:08Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-20T11:04:37",
+      "primeira_vez_em": "2026-09-20T11:04:37"
     }
   }
 }
