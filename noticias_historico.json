@@ -11,7 +11,7 @@
       "data_publicacao": "23/07/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-19T11:03:10",
+      "coletado_em": "2026-09-21T11:03:22",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "1ca5429d7569b551": {
@@ -28,7 +28,7 @@
         "NFe",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-19T11:03:10",
+      "coletado_em": "2026-09-21T11:03:22",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "73b214f6161b9cb9": {
@@ -45,7 +45,7 @@
         "Reforma Tributária",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-19T11:03:10",
+      "coletado_em": "2026-09-21T11:03:22",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "607173e000fc3989": {
@@ -59,7 +59,7 @@
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-19T11:03:10",
+      "coletado_em": "2026-09-21T11:03:22",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "a9b85ebff2d35b2f": {
@@ -75,7 +75,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-19T11:03:10",
+      "coletado_em": "2026-09-21T11:03:22",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "74129502b829908e": {
@@ -93,7 +93,7 @@
         "CBS",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-19T11:03:10",
+      "coletado_em": "2026-09-21T11:03:22",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "e5fc5ae97dc8d1c2": {
@@ -107,7 +107,7 @@
       "data_publicacao": "14/01/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-19T11:03:10",
+      "coletado_em": "2026-09-21T11:03:22",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "07591671a87026e9": {
@@ -123,7 +123,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-09-19T11:03:10",
+      "coletado_em": "2026-09-21T11:03:22",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "08398f1e2c89c97b": {
@@ -186,7 +186,7 @@
         "Reforma Tributária",
         "IBS"
       ],
-      "coletado_em": "2026-09-19T11:03:30",
+      "coletado_em": "2026-09-21T11:03:41",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
     "7b0095e4b757d45c": {
@@ -205,7 +205,7 @@
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-19T11:03:30",
+      "coletado_em": "2026-09-21T11:03:41",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
     "c2d217bc7764521d": {
@@ -221,7 +221,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-09-19T11:03:30",
+      "coletado_em": "2026-09-21T11:03:41",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
     "cb6ef015a7926445": {
@@ -237,7 +237,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-09-19T11:03:30",
+      "coletado_em": "2026-09-21T11:03:41",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
     "e7081cf0f4b1e195": {
@@ -253,7 +253,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-09-19T11:03:30",
+      "coletado_em": "2026-09-21T11:03:41",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
     "45db5858581df423": {
@@ -270,7 +270,7 @@
         "IBS",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-19T11:03:30",
+      "coletado_em": "2026-09-21T11:03:41",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
     "756c5cba88c146e6": {
@@ -286,7 +286,7 @@
       "tags": [
         "Reforma Tributária"
       ],
-      "coletado_em": "2026-09-19T11:03:30",
+      "coletado_em": "2026-09-21T11:03:41",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
     "4f3789139cce7ef8": {
@@ -302,7 +302,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-09-19T11:03:30",
+      "coletado_em": "2026-09-21T11:03:41",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
     "5843ef0c358a7c8f": {
@@ -1365,7 +1365,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-20T11:05:29",
+      "coletado_em": "2026-09-21T11:07:03",
       "primeira_vez_em": "2026-09-17T15:43:36"
     },
     "222b7164033dafb3": {
@@ -1395,7 +1395,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-19T11:10:11",
+      "coletado_em": "2026-09-21T11:10:49",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     "c4bd59e18d311f35": {
@@ -1411,7 +1411,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-19T11:10:11",
+      "coletado_em": "2026-09-21T11:10:49",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     "e680433d3eefe8cd": {
@@ -1427,7 +1427,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-19T11:10:13",
+      "coletado_em": "2026-09-21T11:10:51",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     "ce7ddd9753d793fb": {
@@ -1443,7 +1443,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-19T11:10:13",
+      "coletado_em": "2026-09-21T11:10:51",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     "da3b5c5a1cc32cf3": {
@@ -1459,7 +1459,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-19T11:10:13",
+      "coletado_em": "2026-09-21T11:10:51",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     "be8638660c3332cb": {
@@ -1473,7 +1473,7 @@
       "data_publicacao": "29/05/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-19T11:10:14",
+      "coletado_em": "2026-09-21T11:10:53",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "5794323834606a06": {
@@ -1489,7 +1489,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-19T11:10:14",
+      "coletado_em": "2026-09-21T11:10:53",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "bc7500769f467d84": {
@@ -1505,7 +1505,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-19T11:10:14",
+      "coletado_em": "2026-09-21T11:10:53",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "552f0735a0423c26": {
@@ -1519,7 +1519,7 @@
       "data_publicacao": "26/11/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-19T11:10:16",
+      "coletado_em": "2026-09-21T11:10:54",
       "primeira_vez_em": "2026-09-17T15:44:34"
     },
     "58e10eba2750e488": {
@@ -1535,7 +1535,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-19T11:10:19",
+      "coletado_em": "2026-09-21T11:10:56",
       "primeira_vez_em": "2026-09-17T15:44:35"
     },
     "a4607235adf1b80f": {
@@ -1551,7 +1551,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-19T11:10:20",
+      "coletado_em": "2026-09-21T11:10:58",
       "primeira_vez_em": "2026-09-17T15:44:36"
     },
     "b676f2adf3c22d0a": {
@@ -1567,7 +1567,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-19T11:10:22",
+      "coletado_em": "2026-09-21T11:11:00",
       "primeira_vez_em": "2026-09-17T15:44:37"
     },
     "5af4c5ee52d4ce9c": {
@@ -1581,7 +1581,7 @@
       "data_publicacao": "30/03/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-19T11:10:24",
+      "coletado_em": "2026-09-21T11:11:01",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "a454d4d897b3839f": {
@@ -1595,7 +1595,7 @@
       "data_publicacao": "04/05/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-19T11:10:24",
+      "coletado_em": "2026-09-21T11:11:01",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "23085cc0899edc3f": {
@@ -1609,7 +1609,7 @@
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-19T11:10:24",
+      "coletado_em": "2026-09-21T11:11:01",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "fd3d7b1235ebc490": {
@@ -1625,7 +1625,7 @@
       "tags": [
         "Simples Nacional"
       ],
-      "coletado_em": "2026-09-19T11:10:24",
+      "coletado_em": "2026-09-21T11:11:01",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "98a8cf0b506f52a9": {
@@ -1639,7 +1639,7 @@
       "data_publicacao": "10/01/2024",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-19T11:10:24",
+      "coletado_em": "2026-09-21T11:11:01",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "7ce12346e4b886ec": {
@@ -1653,7 +1653,7 @@
       "data_publicacao": "15/12/2023",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-19T11:10:24",
+      "coletado_em": "2026-09-21T11:11:01",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "2d256ec029c6add1": {
@@ -1669,7 +1669,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-19T11:10:28",
+      "coletado_em": "2026-09-21T11:11:05",
       "primeira_vez_em": "2026-09-17T15:44:40"
     },
     "e31b387cddf7fd5d": {
@@ -1683,7 +1683,7 @@
       "data_publicacao": "19/10/2022",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-19T11:10:29",
+      "coletado_em": "2026-09-21T11:11:06",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     "c067fe8403247755": {
@@ -1699,7 +1699,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-19T11:10:29",
+      "coletado_em": "2026-09-21T11:11:06",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     "4cb90c79835b4cd1": {
@@ -1715,7 +1715,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-19T11:10:31",
+      "coletado_em": "2026-09-21T11:11:08",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "485fb61a2a751098": {
@@ -1729,7 +1729,7 @@
       "data_publicacao": "10/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-19T11:10:31",
+      "coletado_em": "2026-09-21T11:11:08",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "0b1cf5b29af11e57": {
@@ -1745,7 +1745,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-19T11:10:31",
+      "coletado_em": "2026-09-21T11:11:08",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "97ffee449e510079": {
@@ -1842,7 +1842,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-09-19T11:03:30",
+      "coletado_em": "2026-09-21T11:03:41",
       "primeira_vez_em": "2026-09-19T11:03:30"
     },
     "cdbae4c5e44c6aef": {
@@ -1856,7 +1856,7 @@
       "data_publicacao": "Fri, 18 Sep 2026 20:23:17 +0000",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-20T11:04:52",
+      "coletado_em": "2026-09-21T11:06:26",
       "primeira_vez_em": "2026-09-19T11:06:17"
     },
     "9039e2deffb9a841": {
@@ -1870,7 +1870,7 @@
       "data_publicacao": "Fri, 18 Sep 2026 19:10:33 +0000",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-20T11:04:52",
+      "coletado_em": "2026-09-21T11:06:26",
       "primeira_vez_em": "2026-09-19T11:06:17"
     },
     "afca562c86a65776": {
@@ -1888,7 +1888,7 @@
         "CBS",
         "SPED"
       ],
-      "coletado_em": "2026-09-20T11:04:52",
+      "coletado_em": "2026-09-21T11:06:26",
       "primeira_vez_em": "2026-09-19T11:06:17"
     },
     "3e16290cbddccb88": {
@@ -1904,7 +1904,7 @@
       "tags": [
         "NFe"
       ],
-      "coletado_em": "2026-09-20T11:04:52",
+      "coletado_em": "2026-09-21T11:06:26",
       "primeira_vez_em": "2026-09-19T11:06:17"
     },
     "c6bcd94b695a5276": {
@@ -2035,6 +2035,34 @@
       "tags": [],
       "coletado_em": "2026-09-20T11:04:37",
       "primeira_vez_em": "2026-09-20T11:04:37"
+    },
+    "ddba87bf4b07b8ea": {
+      "id": "ddba87bf4b07b8ea",
+      "titulo": "Prova de Vida Automática: Votar nas Eleições Já Resolve",
+      "resumo": "A prova de vida automática ganhou mais um caminho em 2026. Aposentados, pensionistas e titulares de benefícios assistenciais que comparecerem às urnas nas eleições deste ano terão essa verificação resolvida sem precisar fazer absolutamente nada. O beneficiário não precisa enviar comprovante de votação nem solicitar atualização junto ao instituto. Afinal, os dados chegam direto da […]",
+      "link": "https://jornalcontabil.com.br/noticia/prova-de-vida-automatica-eleicoes/",
+      "fonte": "Jornal Contábil",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "Sun, 20 Sep 2026 13:50:58 +0000",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-21T11:06:26",
+      "primeira_vez_em": "2026-09-21T11:06:26"
+    },
+    "7c196c2dfe75e4cc": {
+      "id": "7c196c2dfe75e4cc",
+      "titulo": "Ouro acima de US$ 4.400: por que o metal voltou ao centro das atenções dos mercados em 2026?",
+      "resumo": "O ouro voltou a protagonizar um dos movimentos mais impressionantes dos mercados financeiros. Em agosto de 2026, o metal chegou novamente à região de US$ 4.400 por onça, depois de registrar forte valorização em meio às expectativas sobre juros americanos, inflação, dólar e tensões geopolíticas. Para investidores e traders, o movimento chama atenção não apenas […]",
+      "link": "https://jornalcontabil.com.br/noticia/ouro-acima-de-us-4-400-por-que-o-metal-voltou-ao-centro-das-atencoes-dos-mercados-em-2026/",
+      "fonte": "Jornal Contábil",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "Sat, 19 Sep 2026 10:56:00 +0000",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-21T11:06:26",
+      "primeira_vez_em": "2026-09-21T11:06:26"
     }
   }
 }

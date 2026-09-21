@@ -1,19 +1,371 @@
 const RADAR_DADOS = {
-  "geradoEm": "2026-09-20T11:12:19",
+  "geradoEm": "2026-09-21T11:11:14",
   "noticias": [
     {
-      "id": "222b7164033dafb3",
-      "titulo": "Governo de MT suspende notícias institucionais do Portal em cumprimento às normas eleitorais Veja Mais",
-      "resumo": "Governo de MT suspende notícias institucionais do Portal em cumprimento às normas eleitorais Veja Mais",
-      "link": "https://www5.sefaz.mt.gov.br/web/mt/w/governo-de-mt-suspende-not%C3%ADcias-institucionais-do-portal-em-cumprimento-%C3%A0s-normas-eleitorais",
-      "fonte": "SEFAZ MT",
-      "esfera": "estadual",
-      "uf": "MT",
-      "data_publicacao": "",
+      "id": "4cb90c79835b4cd1",
+      "titulo": "WebServices de Distribuição e Alteração cadastral do PAA disponíveis na SVRS",
+      "resumo": "Publicado por SEFAZ Virtual RS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Pes/Noticias/3004",
+      "fonte": "PES - Plataforma de Emissão Simplificada (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "24/08/2026",
+      "impacto": "médio",
+      "tags": [
+        "API/Sistemas Gov"
+      ],
+      "coletado_em": "2026-09-21T11:11:08",
+      "primeira_vez_em": "2026-09-17T15:44:42"
+    },
+    {
+      "id": "485fb61a2a751098",
+      "titulo": "Ajuste SINIEF 46 de 2025",
+      "resumo": "Publicado por Ajustes SINIEF",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ046_25",
+      "fonte": "PES - Plataforma de Emissão Simplificada (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "10/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-20T11:05:54",
-      "primeira_vez_em": "2026-09-17T15:43:41"
+      "coletado_em": "2026-09-21T11:11:08",
+      "primeira_vez_em": "2026-09-17T15:44:42"
+    },
+    {
+      "id": "0b1cf5b29af11e57",
+      "titulo": "ATO COTEPE/ICMS 173/23",
+      "resumo": "Publicado por Atos COTEPE",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2023-1/ato-cotepe-icms-173-23",
+      "fonte": "PES - Plataforma de Emissão Simplificada (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "15/12/2023",
+      "impacto": "médio",
+      "tags": [
+        "ICMS"
+      ],
+      "coletado_em": "2026-09-21T11:11:08",
+      "primeira_vez_em": "2026-09-17T15:44:42"
+    },
+    {
+      "id": "e31b387cddf7fd5d",
+      "titulo": "AVISO 01/2022",
+      "resumo": "Publicado por Coordenação Técnica do ENCAT",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Difal/Avisos/2855",
+      "fonte": "DIFAL (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "19/10/2022",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-21T11:11:06",
+      "primeira_vez_em": "2026-09-17T15:44:41"
+    },
+    {
+      "id": "c067fe8403247755",
+      "titulo": "CONVÊNIO ICMS Nº 235, DE 27 DE DEZEMBRO DE 2021",
+      "resumo": "Publicado por Convênios",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV235_21",
+      "fonte": "DIFAL (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "09/09/2022",
+      "impacto": "médio",
+      "tags": [
+        "ICMS"
+      ],
+      "coletado_em": "2026-09-21T11:11:06",
+      "primeira_vez_em": "2026-09-17T15:44:41"
+    },
+    {
+      "id": "2d256ec029c6add1",
+      "titulo": "ATO COTEPE/ICMS 83/21",
+      "resumo": "Publicado por Atos COTEPE",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2021-1/ac83_21",
+      "fonte": "DCe - Declaração de Conteúdo Eletrônica (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "19/04/2024",
+      "impacto": "médio",
+      "tags": [
+        "ICMS"
+      ],
+      "coletado_em": "2026-09-21T11:11:05",
+      "primeira_vez_em": "2026-09-17T15:44:40"
+    },
+    {
+      "id": "5af4c5ee52d4ce9c",
+      "titulo": "Atualização da Política de Privacidade do Nota Fiscal Fácil",
+      "resumo": "Publicado por Coordenação Técnica do ENCAT",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Nff/Avisos/2975",
+      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "30/03/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-21T11:11:01",
+      "primeira_vez_em": "2026-09-17T15:44:38"
+    },
+    {
+      "id": "a454d4d897b3839f",
+      "titulo": "Publicadas Notas Técnicas de CT-e e MDF-e para NFF",
+      "resumo": "Publicado por Coordenação Técnica do ENCAT",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Nff/Avisos/1377",
+      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "04/05/2020",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-21T11:11:01",
+      "primeira_vez_em": "2026-09-17T15:44:38"
+    },
+    {
+      "id": "23085cc0899edc3f",
+      "titulo": "Novidade: Emissor Web da NFF",
+      "resumo": "Publicado por Coordenação Técnica do ENCAT",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Nff/Noticias/3006",
+      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "10/09/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-21T11:11:01",
+      "primeira_vez_em": "2026-09-17T15:44:38"
+    },
+    {
+      "id": "fd3d7b1235ebc490",
+      "titulo": "NFF MEI e Simples Nacional liberados para o Piauí",
+      "resumo": "Publicado por Coordenação Técnica do ENCAT",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Nff/Noticias/2921",
+      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "21/03/2024",
+      "impacto": "médio",
+      "tags": [
+        "Simples Nacional"
+      ],
+      "coletado_em": "2026-09-21T11:11:01",
+      "primeira_vez_em": "2026-09-17T15:44:38"
+    },
+    {
+      "id": "98a8cf0b506f52a9",
+      "titulo": "NFF do Produtor Rural liberada para o estado do Pará",
+      "resumo": "Publicado por Coordenação Técnica do ENCAT",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Nff/Noticias/2917",
+      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "10/01/2024",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-21T11:11:01",
+      "primeira_vez_em": "2026-09-17T15:44:38"
+    },
+    {
+      "id": "7ce12346e4b886ec",
+      "titulo": "AJUSTE SINIEF 44/23",
+      "resumo": "Publicado por Ajustes SINIEF",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2023/ajuste-sinief-03-23-1",
+      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "15/12/2023",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-21T11:11:01",
+      "primeira_vez_em": "2026-09-17T15:44:38"
+    },
+    {
+      "id": "b676f2adf3c22d0a",
+      "titulo": "CONVÊNIO ICMS 32/12",
+      "resumo": "Publicado por Convênios",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV032_12",
+      "fonte": "NFe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "30/03/2012",
+      "impacto": "médio",
+      "tags": [
+        "ICMS"
+      ],
+      "coletado_em": "2026-09-21T11:11:00",
+      "primeira_vez_em": "2026-09-17T15:44:37"
+    },
+    {
+      "id": "a4607235adf1b80f",
+      "titulo": "ATO COTEPE/ICMS 129/24",
+      "resumo": "Publicado por Atos COTEPE",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2024-2/ato-cotepe-icms-129-24",
+      "fonte": "NFCom (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "15/10/2024",
+      "impacto": "médio",
+      "tags": [
+        "ICMS"
+      ],
+      "coletado_em": "2026-09-21T11:10:58",
+      "primeira_vez_em": "2026-09-17T15:44:36"
+    },
+    {
+      "id": "58e10eba2750e488",
+      "titulo": "ATO COTEPE/ICMS 60/21",
+      "resumo": "Publicado por Atos COTEPE",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2021-1/ac060_21",
+      "fonte": "NF3e (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "17/09/2021",
+      "impacto": "médio",
+      "tags": [
+        "ICMS"
+      ],
+      "coletado_em": "2026-09-21T11:10:56",
+      "primeira_vez_em": "2026-09-17T15:44:35"
+    },
+    {
+      "id": "552f0735a0423c26",
+      "titulo": "ATO COTEPE 69/20",
+      "resumo": "Publicado por Atos COTEPE",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2020/ato-cotepe-icms-69-20",
+      "fonte": "NFCe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "26/11/2020",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-21T11:10:54",
+      "primeira_vez_em": "2026-09-17T15:44:34"
+    },
+    {
+      "id": "be8638660c3332cb",
+      "titulo": "Ajuste SINIEF 03 de 2026",
+      "resumo": "Publicado por Ajustes SINIEF",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ003_26",
+      "fonte": "MDFe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "29/05/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-21T11:10:53",
+      "primeira_vez_em": "2026-09-17T15:44:33"
+    },
+    {
+      "id": "5794323834606a06",
+      "titulo": "ATO COTEPE/ICMS 124/22",
+      "resumo": "Publicado por Atos COTEPE",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2022/ato-cotepe-icms-124-22",
+      "fonte": "MDFe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "07/12/2022",
+      "impacto": "médio",
+      "tags": [
+        "ICMS"
+      ],
+      "coletado_em": "2026-09-21T11:10:53",
+      "primeira_vez_em": "2026-09-17T15:44:33"
+    },
+    {
+      "id": "bc7500769f467d84",
+      "titulo": "Convênio ICMS 92/2012",
+      "resumo": "Publicado por Convênios",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV092_12",
+      "fonte": "MDFe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "04/10/2012",
+      "impacto": "médio",
+      "tags": [
+        "ICMS"
+      ],
+      "coletado_em": "2026-09-21T11:10:53",
+      "primeira_vez_em": "2026-09-17T15:44:33"
+    },
+    {
+      "id": "e680433d3eefe8cd",
+      "titulo": "Bloqueio Provisório de Complementar e Substituição",
+      "resumo": "Publicado por SEFAZ Virtual RS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cte/Avisos/2977",
+      "fonte": "CTe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "11/05/2026",
+      "impacto": "médio",
+      "tags": [
+        "API/Sistemas Gov"
+      ],
+      "coletado_em": "2026-09-21T11:10:51",
+      "primeira_vez_em": "2026-09-17T15:44:32"
+    },
+    {
+      "id": "ce7ddd9753d793fb",
+      "titulo": "ATO COTEPE/ICMS 123/22",
+      "resumo": "Publicado por Atos COTEPE",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2022/ato-cotepe-icms-123-22",
+      "fonte": "CTe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "07/12/2022",
+      "impacto": "médio",
+      "tags": [
+        "ICMS"
+      ],
+      "coletado_em": "2026-09-21T11:10:51",
+      "primeira_vez_em": "2026-09-17T15:44:32"
+    },
+    {
+      "id": "da3b5c5a1cc32cf3",
+      "titulo": "Convênio ICMS 93/12",
+      "resumo": "Publicado por Convênios",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV093_12",
+      "fonte": "CTe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "28/09/2012",
+      "impacto": "médio",
+      "tags": [
+        "ICMS"
+      ],
+      "coletado_em": "2026-09-21T11:10:51",
+      "primeira_vez_em": "2026-09-17T15:44:32"
+    },
+    {
+      "id": "f94584d6e23d07ae",
+      "titulo": "Implantada NT 2026.002 em HMLE",
+      "resumo": "Publicado por SVRS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Bpe/Noticias/2984",
+      "fonte": "BPe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "03/08/2026",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-21T11:10:49",
+      "primeira_vez_em": "2026-09-17T15:44:31"
+    },
+    {
+      "id": "c4bd59e18d311f35",
+      "titulo": "ATO COTEPE/ICMS 28/19",
+      "resumo": "Publicado por Atos COTEPE",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2019/ato-cotepe-icms-28-19",
+      "fonte": "BPe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "12/06/2019",
+      "impacto": "médio",
+      "tags": [
+        "ICMS"
+      ],
+      "coletado_em": "2026-09-21T11:10:49",
+      "primeira_vez_em": "2026-09-17T15:44:31"
     },
     {
       "id": "8b919b7384234279",
@@ -26,7 +378,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-20T11:05:29",
+      "coletado_em": "2026-09-21T11:07:03",
       "primeira_vez_em": "2026-09-17T15:43:36"
     },
     {
@@ -40,7 +392,7 @@ const RADAR_DADOS = {
       "data_publicacao": "Fri, 18 Sep 2026 20:23:17 +0000",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-20T11:04:52",
+      "coletado_em": "2026-09-21T11:06:26",
       "primeira_vez_em": "2026-09-19T11:06:17"
     },
     {
@@ -54,7 +406,7 @@ const RADAR_DADOS = {
       "data_publicacao": "Fri, 18 Sep 2026 19:10:33 +0000",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-20T11:04:52",
+      "coletado_em": "2026-09-21T11:06:26",
       "primeira_vez_em": "2026-09-19T11:06:17"
     },
     {
@@ -72,7 +424,7 @@ const RADAR_DADOS = {
         "CBS",
         "SPED"
       ],
-      "coletado_em": "2026-09-20T11:04:52",
+      "coletado_em": "2026-09-21T11:06:26",
       "primeira_vez_em": "2026-09-19T11:06:17"
     },
     {
@@ -88,8 +440,325 @@ const RADAR_DADOS = {
       "tags": [
         "NFe"
       ],
-      "coletado_em": "2026-09-20T11:04:52",
+      "coletado_em": "2026-09-21T11:06:26",
       "primeira_vez_em": "2026-09-19T11:06:17"
+    },
+    {
+      "id": "ddba87bf4b07b8ea",
+      "titulo": "Prova de Vida Automática: Votar nas Eleições Já Resolve",
+      "resumo": "A prova de vida automática ganhou mais um caminho em 2026. Aposentados, pensionistas e titulares de benefícios assistenciais que comparecerem às urnas nas eleições deste ano terão essa verificação resolvida sem precisar fazer absolutamente nada. O beneficiário não precisa enviar comprovante de votação nem solicitar atualização junto ao instituto. Afinal, os dados chegam direto da […]",
+      "link": "https://jornalcontabil.com.br/noticia/prova-de-vida-automatica-eleicoes/",
+      "fonte": "Jornal Contábil",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "Sun, 20 Sep 2026 13:50:58 +0000",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-21T11:06:26",
+      "primeira_vez_em": "2026-09-21T11:06:26"
+    },
+    {
+      "id": "7c196c2dfe75e4cc",
+      "titulo": "Ouro acima de US$ 4.400: por que o metal voltou ao centro das atenções dos mercados em 2026?",
+      "resumo": "O ouro voltou a protagonizar um dos movimentos mais impressionantes dos mercados financeiros. Em agosto de 2026, o metal chegou novamente à região de US$ 4.400 por onça, depois de registrar forte valorização em meio às expectativas sobre juros americanos, inflação, dólar e tensões geopolíticas. Para investidores e traders, o movimento chama atenção não apenas […]",
+      "link": "https://jornalcontabil.com.br/noticia/ouro-acima-de-us-4-400-por-que-o-metal-voltou-ao-centro-das-atencoes-dos-mercados-em-2026/",
+      "fonte": "Jornal Contábil",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "Sat, 19 Sep 2026 10:56:00 +0000",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-21T11:06:26",
+      "primeira_vez_em": "2026-09-21T11:06:26"
+    },
+    {
+      "id": "6e748567f4cb33c5",
+      "titulo": "CGIBS debate Reforma Tributária e administração pública em evento do Tribunal de Justiça de São Paulo",
+      "resumo": "CGIBS debate Reforma Tributária e administração pública em evento do Tribunal de Justiça de São Paulo",
+      "link": "https://www.cgibs.gov.br/cgibs-debate-reforma-tributaria-em-evento-do-tribunal-de-justica-de-sao-paulo",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "IBS"
+      ],
+      "coletado_em": "2026-09-21T11:03:41",
+      "primeira_vez_em": "2026-09-17T15:43:02"
+    },
+    {
+      "id": "7b0095e4b757d45c",
+      "titulo": "Prazo para opção pelo Simples Nacional e do modelo de recolhimento do IBS e da CBS para 2027 termina no dia 30/09",
+      "resumo": "Prazo para opção pelo Simples Nacional e do modelo de recolhimento do IBS e da CBS para 2027 termina no dia 30/09",
+      "link": "https://www.cgibs.gov.br/prazo-para-opcao-pelo-simples-nacional-e-escolha-do-modelo-de-recolhimento-do-ibs-e-da-cbs-em-2027-termina-em-30-de-setembro",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "Simples Nacional",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-09-21T11:03:41",
+      "primeira_vez_em": "2026-09-17T15:43:02"
+    },
+    {
+      "id": "c2d217bc7764521d",
+      "titulo": "Comitê Gestor do IBS publica Editais de Chamamento Público para a celebração de Acordos de Cooperação Técnica",
+      "resumo": "Comitê Gestor do IBS publica Editais de Chamamento Público para a celebração de Acordos de Cooperação Técnica",
+      "link": "https://www.cgibs.gov.br/comite-gestor-publica-editais-de-chamamento-publico-para-a",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-09-21T11:03:41",
+      "primeira_vez_em": "2026-09-17T15:43:02"
+    },
+    {
+      "id": "cb6ef015a7926445",
+      "titulo": "CGIBS e Receita Federal publicam versão 1.2.0 da documentação técnica da Declaração de Regimes Específicos",
+      "resumo": "CGIBS e Receita Federal publicam versão 1.2.0 da documentação técnica da Declaração de Regimes Específicos",
+      "link": "https://www.cgibs.gov.br/cgibs-e-receita-federal-publicam-versao-1-2-0-da-documentacao-tecnica-da-dere",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-09-21T11:03:41",
+      "primeira_vez_em": "2026-09-17T15:43:02"
+    },
+    {
+      "id": "e7081cf0f4b1e195",
+      "titulo": "Receita Federal e CGIBS publicam norma que estabelece dispensas para o nanoempreendedor na reforma",
+      "resumo": "Receita Federal e CGIBS publicam norma que estabelece dispensas para o nanoempreendedor na reforma",
+      "link": "https://www.cgibs.gov.br/receita-federal-do-brasil-e-o-comite-gestor-do-ibs-publicam-norma-que-estabe",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-09-21T11:03:41",
+      "primeira_vez_em": "2026-09-17T15:43:02"
+    },
+    {
+      "id": "45db5858581df423",
+      "titulo": "CGIBS e RFB esclarecem os prazos de cumprimento das obrigações relativas à DeRE, elencados no Ato Conjunto nº 4",
+      "resumo": "CGIBS e RFB esclarecem os prazos de cumprimento das obrigações relativas à DeRE, elencados no Ato Conjunto nº 4",
+      "link": "https://www.cgibs.gov.br/cgibs-e-rfb-esclarecem-prazos-de-cumprimento-das-obrigacoes-relativas-a-dere-estabelecidos-pelo-ato-conjunto-n-4",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-09-21T11:03:41",
+      "primeira_vez_em": "2026-09-17T15:43:02"
+    },
+    {
+      "id": "756c5cba88c146e6",
+      "titulo": "Desafios, estratégias e impactos da Reforma Tributária para os Municípios são tema de debate em São Paulo",
+      "resumo": "Desafios, estratégias e impactos da Reforma Tributária para os Municípios são tema de debate em São Paulo",
+      "link": "https://www.cgibs.gov.br/desafios-e-estrategias-da-reforma-tributaria-sao-tema-de-debate-em-sao-paulo",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária"
+      ],
+      "coletado_em": "2026-09-21T11:03:41",
+      "primeira_vez_em": "2026-09-17T15:43:02"
+    },
+    {
+      "id": "4f3789139cce7ef8",
+      "titulo": "Receita Federal, Comitê Gestor do IBS e CFC alinham as diretrizes do Plano Nacional de Conformidade Tributária",
+      "resumo": "Receita Federal, Comitê Gestor do IBS e CFC alinham as diretrizes do Plano Nacional de Conformidade Tributária",
+      "link": "https://www.cgibs.gov.br/receita-federal-comite-gestor-do-ibs-e-cfc-alinham-diretrizes-do-plano-nacional-de-conformidade-tributaria",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-09-21T11:03:41",
+      "primeira_vez_em": "2026-09-17T15:43:02"
+    },
+    {
+      "id": "63dff167c306e0a2",
+      "titulo": "Presidente e segunda vice do CGIBS participam de missão à OCDE em Paris sobre IVA e modernização tributária",
+      "resumo": "Presidente e segunda vice do CGIBS participam de missão à OCDE em Paris sobre IVA e modernização tributária",
+      "link": "https://www.cgibs.gov.br/presidente-e-segunda-vice-do-cgibs-participam-de-missao-a-ocde-sobre-iva-e-modernizacao-tributaria",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-09-21T11:03:41",
+      "primeira_vez_em": "2026-09-19T11:03:30"
+    },
+    {
+      "id": "5a2a272341f6a971",
+      "titulo": "CNPJ Alfanumérico: operação normal",
+      "resumo": "Publicado por Coordenação Técnica do ENCAT",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/2982",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "23/07/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-21T11:03:22",
+      "primeira_vez_em": "2026-09-17T15:42:57"
+    },
+    {
+      "id": "1ca5429d7569b551",
+      "titulo": "ATENÇÃO: CNPJ de Teste para Alfanumérico (Novidade: Adicionados NFe e e NFCe)",
+      "resumo": "Publicado por SEFAZ Virtual RS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/2978",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "29/05/2026",
+      "impacto": "médio",
+      "tags": [
+        "NFe",
+        "API/Sistemas Gov"
+      ],
+      "coletado_em": "2026-09-21T11:03:22",
+      "primeira_vez_em": "2026-09-17T15:42:57"
+    },
+    {
+      "id": "73b214f6161b9cb9",
+      "titulo": "Implantação no ambiente de produção da versão 1.13 da NT da Reforma Tributária",
+      "resumo": "Publicado por SVRS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/2974",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "03/03/2026",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-21T11:03:22",
+      "primeira_vez_em": "2026-09-17T15:42:57"
+    },
+    {
+      "id": "607173e000fc3989",
+      "titulo": "Novidade: Link para o MOC Online",
+      "resumo": "Publicado por Coordenação Técnica do ENCAT",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Noticias/3007",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "10/09/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-21T11:03:22",
+      "primeira_vez_em": "2026-09-17T15:42:57"
+    },
+    {
+      "id": "a9b85ebff2d35b2f",
+      "titulo": "Implantadas NTs 2026.002 em PRODUÇÃO na SVRS",
+      "resumo": "Publicado por SEFAZ Virtual RS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Noticias/3005",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "31/08/2026",
+      "impacto": "médio",
+      "tags": [
+        "API/Sistemas Gov"
+      ],
+      "coletado_em": "2026-09-21T11:03:22",
+      "primeira_vez_em": "2026-09-17T15:42:57"
+    },
+    {
+      "id": "74129502b829908e",
+      "titulo": "Implantada a regra de validação de exigencia de IBS e CBS no ambiente de homologação",
+      "resumo": "Publicado por SEFAZ Virtual RS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Noticias/2981",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "06/07/2026",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "API/Sistemas Gov"
+      ],
+      "coletado_em": "2026-09-21T11:03:22",
+      "primeira_vez_em": "2026-09-17T15:42:57"
+    },
+    {
+      "id": "e5fc5ae97dc8d1c2",
+      "titulo": "Lei Complementar 227 de 13 de Janeiro de 2026",
+      "resumo": "Publicado por Ajustes SINIEF",
+      "link": "http://www.in.gov.br/web/dou/-/lei-complementar-n-227-de-13-de-janeiro-de-2026-681157850",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "14/01/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-21T11:03:22",
+      "primeira_vez_em": "2026-09-17T15:42:57"
+    },
+    {
+      "id": "07591671a87026e9",
+      "titulo": "ATO CONJUNTO RFB/CGIBS Nº 1, DE 22 DE DEZEMBRO DE 2025",
+      "resumo": "Publicado por Ato Conjunto RFB/CGIBS",
+      "link": "https://www.in.gov.br/web/dou/-/ato-conjunto-rfb/cgibs-n-1-de-22-de-dezembro-de-2025-677624586",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "23/12/2025",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-09-21T11:03:22",
+      "primeira_vez_em": "2026-09-17T15:42:57"
+    },
+    {
+      "id": "222b7164033dafb3",
+      "titulo": "Governo de MT suspende notícias institucionais do Portal em cumprimento às normas eleitorais Veja Mais",
+      "resumo": "Governo de MT suspende notícias institucionais do Portal em cumprimento às normas eleitorais Veja Mais",
+      "link": "https://www5.sefaz.mt.gov.br/web/mt/w/governo-de-mt-suspende-not%C3%ADcias-institucionais-do-portal-em-cumprimento-%C3%A0s-normas-eleitorais",
+      "fonte": "SEFAZ MT",
+      "esfera": "estadual",
+      "uf": "MT",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-20T11:05:54",
+      "primeira_vez_em": "2026-09-17T15:43:41"
     },
     {
       "id": "c6bcd94b695a5276",
@@ -1055,647 +1724,6 @@ const RADAR_DADOS = {
       ],
       "coletado_em": "2026-09-20T11:03:28",
       "primeira_vez_em": "2026-09-17T15:42:58"
-    },
-    {
-      "id": "4cb90c79835b4cd1",
-      "titulo": "WebServices de Distribuição e Alteração cadastral do PAA disponíveis na SVRS",
-      "resumo": "Publicado por SEFAZ Virtual RS",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Pes/Noticias/3004",
-      "fonte": "PES - Plataforma de Emissão Simplificada (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "24/08/2026",
-      "impacto": "médio",
-      "tags": [
-        "API/Sistemas Gov"
-      ],
-      "coletado_em": "2026-09-19T11:10:31",
-      "primeira_vez_em": "2026-09-17T15:44:42"
-    },
-    {
-      "id": "485fb61a2a751098",
-      "titulo": "Ajuste SINIEF 46 de 2025",
-      "resumo": "Publicado por Ajustes SINIEF",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ046_25",
-      "fonte": "PES - Plataforma de Emissão Simplificada (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "10/08/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-19T11:10:31",
-      "primeira_vez_em": "2026-09-17T15:44:42"
-    },
-    {
-      "id": "0b1cf5b29af11e57",
-      "titulo": "ATO COTEPE/ICMS 173/23",
-      "resumo": "Publicado por Atos COTEPE",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2023-1/ato-cotepe-icms-173-23",
-      "fonte": "PES - Plataforma de Emissão Simplificada (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "15/12/2023",
-      "impacto": "médio",
-      "tags": [
-        "ICMS"
-      ],
-      "coletado_em": "2026-09-19T11:10:31",
-      "primeira_vez_em": "2026-09-17T15:44:42"
-    },
-    {
-      "id": "e31b387cddf7fd5d",
-      "titulo": "AVISO 01/2022",
-      "resumo": "Publicado por Coordenação Técnica do ENCAT",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Difal/Avisos/2855",
-      "fonte": "DIFAL (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "19/10/2022",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-19T11:10:29",
-      "primeira_vez_em": "2026-09-17T15:44:41"
-    },
-    {
-      "id": "c067fe8403247755",
-      "titulo": "CONVÊNIO ICMS Nº 235, DE 27 DE DEZEMBRO DE 2021",
-      "resumo": "Publicado por Convênios",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV235_21",
-      "fonte": "DIFAL (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "09/09/2022",
-      "impacto": "médio",
-      "tags": [
-        "ICMS"
-      ],
-      "coletado_em": "2026-09-19T11:10:29",
-      "primeira_vez_em": "2026-09-17T15:44:41"
-    },
-    {
-      "id": "2d256ec029c6add1",
-      "titulo": "ATO COTEPE/ICMS 83/21",
-      "resumo": "Publicado por Atos COTEPE",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2021-1/ac83_21",
-      "fonte": "DCe - Declaração de Conteúdo Eletrônica (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "19/04/2024",
-      "impacto": "médio",
-      "tags": [
-        "ICMS"
-      ],
-      "coletado_em": "2026-09-19T11:10:28",
-      "primeira_vez_em": "2026-09-17T15:44:40"
-    },
-    {
-      "id": "5af4c5ee52d4ce9c",
-      "titulo": "Atualização da Política de Privacidade do Nota Fiscal Fácil",
-      "resumo": "Publicado por Coordenação Técnica do ENCAT",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Nff/Avisos/2975",
-      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "30/03/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-19T11:10:24",
-      "primeira_vez_em": "2026-09-17T15:44:38"
-    },
-    {
-      "id": "a454d4d897b3839f",
-      "titulo": "Publicadas Notas Técnicas de CT-e e MDF-e para NFF",
-      "resumo": "Publicado por Coordenação Técnica do ENCAT",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Nff/Avisos/1377",
-      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "04/05/2020",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-19T11:10:24",
-      "primeira_vez_em": "2026-09-17T15:44:38"
-    },
-    {
-      "id": "23085cc0899edc3f",
-      "titulo": "Novidade: Emissor Web da NFF",
-      "resumo": "Publicado por Coordenação Técnica do ENCAT",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Nff/Noticias/3006",
-      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "10/09/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-19T11:10:24",
-      "primeira_vez_em": "2026-09-17T15:44:38"
-    },
-    {
-      "id": "fd3d7b1235ebc490",
-      "titulo": "NFF MEI e Simples Nacional liberados para o Piauí",
-      "resumo": "Publicado por Coordenação Técnica do ENCAT",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Nff/Noticias/2921",
-      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "21/03/2024",
-      "impacto": "médio",
-      "tags": [
-        "Simples Nacional"
-      ],
-      "coletado_em": "2026-09-19T11:10:24",
-      "primeira_vez_em": "2026-09-17T15:44:38"
-    },
-    {
-      "id": "98a8cf0b506f52a9",
-      "titulo": "NFF do Produtor Rural liberada para o estado do Pará",
-      "resumo": "Publicado por Coordenação Técnica do ENCAT",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Nff/Noticias/2917",
-      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "10/01/2024",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-19T11:10:24",
-      "primeira_vez_em": "2026-09-17T15:44:38"
-    },
-    {
-      "id": "7ce12346e4b886ec",
-      "titulo": "AJUSTE SINIEF 44/23",
-      "resumo": "Publicado por Ajustes SINIEF",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2023/ajuste-sinief-03-23-1",
-      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "15/12/2023",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-19T11:10:24",
-      "primeira_vez_em": "2026-09-17T15:44:38"
-    },
-    {
-      "id": "b676f2adf3c22d0a",
-      "titulo": "CONVÊNIO ICMS 32/12",
-      "resumo": "Publicado por Convênios",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV032_12",
-      "fonte": "NFe (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "30/03/2012",
-      "impacto": "médio",
-      "tags": [
-        "ICMS"
-      ],
-      "coletado_em": "2026-09-19T11:10:22",
-      "primeira_vez_em": "2026-09-17T15:44:37"
-    },
-    {
-      "id": "a4607235adf1b80f",
-      "titulo": "ATO COTEPE/ICMS 129/24",
-      "resumo": "Publicado por Atos COTEPE",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2024-2/ato-cotepe-icms-129-24",
-      "fonte": "NFCom (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "15/10/2024",
-      "impacto": "médio",
-      "tags": [
-        "ICMS"
-      ],
-      "coletado_em": "2026-09-19T11:10:20",
-      "primeira_vez_em": "2026-09-17T15:44:36"
-    },
-    {
-      "id": "58e10eba2750e488",
-      "titulo": "ATO COTEPE/ICMS 60/21",
-      "resumo": "Publicado por Atos COTEPE",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2021-1/ac060_21",
-      "fonte": "NF3e (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "17/09/2021",
-      "impacto": "médio",
-      "tags": [
-        "ICMS"
-      ],
-      "coletado_em": "2026-09-19T11:10:19",
-      "primeira_vez_em": "2026-09-17T15:44:35"
-    },
-    {
-      "id": "552f0735a0423c26",
-      "titulo": "ATO COTEPE 69/20",
-      "resumo": "Publicado por Atos COTEPE",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2020/ato-cotepe-icms-69-20",
-      "fonte": "NFCe (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "26/11/2020",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-19T11:10:16",
-      "primeira_vez_em": "2026-09-17T15:44:34"
-    },
-    {
-      "id": "be8638660c3332cb",
-      "titulo": "Ajuste SINIEF 03 de 2026",
-      "resumo": "Publicado por Ajustes SINIEF",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ003_26",
-      "fonte": "MDFe (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "29/05/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-19T11:10:14",
-      "primeira_vez_em": "2026-09-17T15:44:33"
-    },
-    {
-      "id": "5794323834606a06",
-      "titulo": "ATO COTEPE/ICMS 124/22",
-      "resumo": "Publicado por Atos COTEPE",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2022/ato-cotepe-icms-124-22",
-      "fonte": "MDFe (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "07/12/2022",
-      "impacto": "médio",
-      "tags": [
-        "ICMS"
-      ],
-      "coletado_em": "2026-09-19T11:10:14",
-      "primeira_vez_em": "2026-09-17T15:44:33"
-    },
-    {
-      "id": "bc7500769f467d84",
-      "titulo": "Convênio ICMS 92/2012",
-      "resumo": "Publicado por Convênios",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV092_12",
-      "fonte": "MDFe (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "04/10/2012",
-      "impacto": "médio",
-      "tags": [
-        "ICMS"
-      ],
-      "coletado_em": "2026-09-19T11:10:14",
-      "primeira_vez_em": "2026-09-17T15:44:33"
-    },
-    {
-      "id": "e680433d3eefe8cd",
-      "titulo": "Bloqueio Provisório de Complementar e Substituição",
-      "resumo": "Publicado por SEFAZ Virtual RS",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Cte/Avisos/2977",
-      "fonte": "CTe (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "11/05/2026",
-      "impacto": "médio",
-      "tags": [
-        "API/Sistemas Gov"
-      ],
-      "coletado_em": "2026-09-19T11:10:13",
-      "primeira_vez_em": "2026-09-17T15:44:32"
-    },
-    {
-      "id": "ce7ddd9753d793fb",
-      "titulo": "ATO COTEPE/ICMS 123/22",
-      "resumo": "Publicado por Atos COTEPE",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2022/ato-cotepe-icms-123-22",
-      "fonte": "CTe (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "07/12/2022",
-      "impacto": "médio",
-      "tags": [
-        "ICMS"
-      ],
-      "coletado_em": "2026-09-19T11:10:13",
-      "primeira_vez_em": "2026-09-17T15:44:32"
-    },
-    {
-      "id": "da3b5c5a1cc32cf3",
-      "titulo": "Convênio ICMS 93/12",
-      "resumo": "Publicado por Convênios",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV093_12",
-      "fonte": "CTe (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "28/09/2012",
-      "impacto": "médio",
-      "tags": [
-        "ICMS"
-      ],
-      "coletado_em": "2026-09-19T11:10:13",
-      "primeira_vez_em": "2026-09-17T15:44:32"
-    },
-    {
-      "id": "f94584d6e23d07ae",
-      "titulo": "Implantada NT 2026.002 em HMLE",
-      "resumo": "Publicado por SVRS",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Bpe/Noticias/2984",
-      "fonte": "BPe (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "03/08/2026",
-      "impacto": "médio",
-      "tags": [
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-19T11:10:11",
-      "primeira_vez_em": "2026-09-17T15:44:31"
-    },
-    {
-      "id": "c4bd59e18d311f35",
-      "titulo": "ATO COTEPE/ICMS 28/19",
-      "resumo": "Publicado por Atos COTEPE",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2019/ato-cotepe-icms-28-19",
-      "fonte": "BPe (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "12/06/2019",
-      "impacto": "médio",
-      "tags": [
-        "ICMS"
-      ],
-      "coletado_em": "2026-09-19T11:10:11",
-      "primeira_vez_em": "2026-09-17T15:44:31"
-    },
-    {
-      "id": "6e748567f4cb33c5",
-      "titulo": "CGIBS debate Reforma Tributária e administração pública em evento do Tribunal de Justiça de São Paulo",
-      "resumo": "CGIBS debate Reforma Tributária e administração pública em evento do Tribunal de Justiça de São Paulo",
-      "link": "https://www.cgibs.gov.br/cgibs-debate-reforma-tributaria-em-evento-do-tribunal-de-justica-de-sao-paulo",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "IBS"
-      ],
-      "coletado_em": "2026-09-19T11:03:30",
-      "primeira_vez_em": "2026-09-17T15:43:02"
-    },
-    {
-      "id": "7b0095e4b757d45c",
-      "titulo": "Prazo para opção pelo Simples Nacional e do modelo de recolhimento do IBS e da CBS para 2027 termina no dia 30/09",
-      "resumo": "Prazo para opção pelo Simples Nacional e do modelo de recolhimento do IBS e da CBS para 2027 termina no dia 30/09",
-      "link": "https://www.cgibs.gov.br/prazo-para-opcao-pelo-simples-nacional-e-escolha-do-modelo-de-recolhimento-do-ibs-e-da-cbs-em-2027-termina-em-30-de-setembro",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "CBS",
-        "Simples Nacional",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-09-19T11:03:30",
-      "primeira_vez_em": "2026-09-17T15:43:02"
-    },
-    {
-      "id": "c2d217bc7764521d",
-      "titulo": "Comitê Gestor do IBS publica Editais de Chamamento Público para a celebração de Acordos de Cooperação Técnica",
-      "resumo": "Comitê Gestor do IBS publica Editais de Chamamento Público para a celebração de Acordos de Cooperação Técnica",
-      "link": "https://www.cgibs.gov.br/comite-gestor-publica-editais-de-chamamento-publico-para-a",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "IBS"
-      ],
-      "coletado_em": "2026-09-19T11:03:30",
-      "primeira_vez_em": "2026-09-17T15:43:02"
-    },
-    {
-      "id": "cb6ef015a7926445",
-      "titulo": "CGIBS e Receita Federal publicam versão 1.2.0 da documentação técnica da Declaração de Regimes Específicos",
-      "resumo": "CGIBS e Receita Federal publicam versão 1.2.0 da documentação técnica da Declaração de Regimes Específicos",
-      "link": "https://www.cgibs.gov.br/cgibs-e-receita-federal-publicam-versao-1-2-0-da-documentacao-tecnica-da-dere",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "IBS"
-      ],
-      "coletado_em": "2026-09-19T11:03:30",
-      "primeira_vez_em": "2026-09-17T15:43:02"
-    },
-    {
-      "id": "e7081cf0f4b1e195",
-      "titulo": "Receita Federal e CGIBS publicam norma que estabelece dispensas para o nanoempreendedor na reforma",
-      "resumo": "Receita Federal e CGIBS publicam norma que estabelece dispensas para o nanoempreendedor na reforma",
-      "link": "https://www.cgibs.gov.br/receita-federal-do-brasil-e-o-comite-gestor-do-ibs-publicam-norma-que-estabe",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "IBS"
-      ],
-      "coletado_em": "2026-09-19T11:03:30",
-      "primeira_vez_em": "2026-09-17T15:43:02"
-    },
-    {
-      "id": "45db5858581df423",
-      "titulo": "CGIBS e RFB esclarecem os prazos de cumprimento das obrigações relativas à DeRE, elencados no Ato Conjunto nº 4",
-      "resumo": "CGIBS e RFB esclarecem os prazos de cumprimento das obrigações relativas à DeRE, elencados no Ato Conjunto nº 4",
-      "link": "https://www.cgibs.gov.br/cgibs-e-rfb-esclarecem-prazos-de-cumprimento-das-obrigacoes-relativas-a-dere-estabelecidos-pelo-ato-conjunto-n-4",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-09-19T11:03:30",
-      "primeira_vez_em": "2026-09-17T15:43:02"
-    },
-    {
-      "id": "756c5cba88c146e6",
-      "titulo": "Desafios, estratégias e impactos da Reforma Tributária para os Municípios são tema de debate em São Paulo",
-      "resumo": "Desafios, estratégias e impactos da Reforma Tributária para os Municípios são tema de debate em São Paulo",
-      "link": "https://www.cgibs.gov.br/desafios-e-estrategias-da-reforma-tributaria-sao-tema-de-debate-em-sao-paulo",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária"
-      ],
-      "coletado_em": "2026-09-19T11:03:30",
-      "primeira_vez_em": "2026-09-17T15:43:02"
-    },
-    {
-      "id": "4f3789139cce7ef8",
-      "titulo": "Receita Federal, Comitê Gestor do IBS e CFC alinham as diretrizes do Plano Nacional de Conformidade Tributária",
-      "resumo": "Receita Federal, Comitê Gestor do IBS e CFC alinham as diretrizes do Plano Nacional de Conformidade Tributária",
-      "link": "https://www.cgibs.gov.br/receita-federal-comite-gestor-do-ibs-e-cfc-alinham-diretrizes-do-plano-nacional-de-conformidade-tributaria",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "IBS"
-      ],
-      "coletado_em": "2026-09-19T11:03:30",
-      "primeira_vez_em": "2026-09-17T15:43:02"
-    },
-    {
-      "id": "63dff167c306e0a2",
-      "titulo": "Presidente e segunda vice do CGIBS participam de missão à OCDE em Paris sobre IVA e modernização tributária",
-      "resumo": "Presidente e segunda vice do CGIBS participam de missão à OCDE em Paris sobre IVA e modernização tributária",
-      "link": "https://www.cgibs.gov.br/presidente-e-segunda-vice-do-cgibs-participam-de-missao-a-ocde-sobre-iva-e-modernizacao-tributaria",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "IBS"
-      ],
-      "coletado_em": "2026-09-19T11:03:30",
-      "primeira_vez_em": "2026-09-19T11:03:30"
-    },
-    {
-      "id": "5a2a272341f6a971",
-      "titulo": "CNPJ Alfanumérico: operação normal",
-      "resumo": "Publicado por Coordenação Técnica do ENCAT",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/2982",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "23/07/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-19T11:03:10",
-      "primeira_vez_em": "2026-09-17T15:42:57"
-    },
-    {
-      "id": "1ca5429d7569b551",
-      "titulo": "ATENÇÃO: CNPJ de Teste para Alfanumérico (Novidade: Adicionados NFe e e NFCe)",
-      "resumo": "Publicado por SEFAZ Virtual RS",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/2978",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "29/05/2026",
-      "impacto": "médio",
-      "tags": [
-        "NFe",
-        "API/Sistemas Gov"
-      ],
-      "coletado_em": "2026-09-19T11:03:10",
-      "primeira_vez_em": "2026-09-17T15:42:57"
-    },
-    {
-      "id": "73b214f6161b9cb9",
-      "titulo": "Implantação no ambiente de produção da versão 1.13 da NT da Reforma Tributária",
-      "resumo": "Publicado por SVRS",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/2974",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "03/03/2026",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-19T11:03:10",
-      "primeira_vez_em": "2026-09-17T15:42:57"
-    },
-    {
-      "id": "607173e000fc3989",
-      "titulo": "Novidade: Link para o MOC Online",
-      "resumo": "Publicado por Coordenação Técnica do ENCAT",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Noticias/3007",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "10/09/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-19T11:03:10",
-      "primeira_vez_em": "2026-09-17T15:42:57"
-    },
-    {
-      "id": "a9b85ebff2d35b2f",
-      "titulo": "Implantadas NTs 2026.002 em PRODUÇÃO na SVRS",
-      "resumo": "Publicado por SEFAZ Virtual RS",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Noticias/3005",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "31/08/2026",
-      "impacto": "médio",
-      "tags": [
-        "API/Sistemas Gov"
-      ],
-      "coletado_em": "2026-09-19T11:03:10",
-      "primeira_vez_em": "2026-09-17T15:42:57"
-    },
-    {
-      "id": "74129502b829908e",
-      "titulo": "Implantada a regra de validação de exigencia de IBS e CBS no ambiente de homologação",
-      "resumo": "Publicado por SEFAZ Virtual RS",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Noticias/2981",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "06/07/2026",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "CBS",
-        "API/Sistemas Gov"
-      ],
-      "coletado_em": "2026-09-19T11:03:10",
-      "primeira_vez_em": "2026-09-17T15:42:57"
-    },
-    {
-      "id": "e5fc5ae97dc8d1c2",
-      "titulo": "Lei Complementar 227 de 13 de Janeiro de 2026",
-      "resumo": "Publicado por Ajustes SINIEF",
-      "link": "http://www.in.gov.br/web/dou/-/lei-complementar-n-227-de-13-de-janeiro-de-2026-681157850",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "14/01/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-19T11:03:10",
-      "primeira_vez_em": "2026-09-17T15:42:57"
-    },
-    {
-      "id": "07591671a87026e9",
-      "titulo": "ATO CONJUNTO RFB/CGIBS Nº 1, DE 22 DE DEZEMBRO DE 2025",
-      "resumo": "Publicado por Ato Conjunto RFB/CGIBS",
-      "link": "https://www.in.gov.br/web/dou/-/ato-conjunto-rfb/cgibs-n-1-de-22-de-dezembro-de-2025-677624586",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "23/12/2025",
-      "impacto": "alto",
-      "tags": [
-        "IBS"
-      ],
-      "coletado_em": "2026-09-19T11:03:10",
-      "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
       "id": "6e178b35e99185d5",
