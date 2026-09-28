@@ -1,5 +1,5 @@
 const RADAR_DADOS = {
-  "geradoEm": "2026-09-27T11:08:07",
+  "geradoEm": "2026-09-28T11:08:19",
   "noticias": [
     {
       "id": "4cb90c79835b4cd1",
@@ -14,7 +14,7 @@ const RADAR_DADOS = {
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-27T11:08:02",
+      "coletado_em": "2026-09-28T11:08:13",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     {
@@ -28,7 +28,7 @@ const RADAR_DADOS = {
       "data_publicacao": "10/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:08:02",
+      "coletado_em": "2026-09-28T11:08:13",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     {
@@ -44,7 +44,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-27T11:08:02",
+      "coletado_em": "2026-09-28T11:08:13",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     {
@@ -58,7 +58,7 @@ const RADAR_DADOS = {
       "data_publicacao": "19/10/2022",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:08:01",
+      "coletado_em": "2026-09-28T11:08:12",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     {
@@ -74,7 +74,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-27T11:08:01",
+      "coletado_em": "2026-09-28T11:08:12",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     {
@@ -90,7 +90,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-27T11:07:59",
+      "coletado_em": "2026-09-28T11:08:10",
       "primeira_vez_em": "2026-09-17T15:44:40"
     },
     {
@@ -104,7 +104,7 @@ const RADAR_DADOS = {
       "data_publicacao": "30/03/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:07:56",
+      "coletado_em": "2026-09-28T11:08:07",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -118,7 +118,7 @@ const RADAR_DADOS = {
       "data_publicacao": "04/05/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:07:56",
+      "coletado_em": "2026-09-28T11:08:07",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -132,7 +132,7 @@ const RADAR_DADOS = {
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:07:56",
+      "coletado_em": "2026-09-28T11:08:07",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -148,7 +148,7 @@ const RADAR_DADOS = {
       "tags": [
         "Simples Nacional"
       ],
-      "coletado_em": "2026-09-27T11:07:56",
+      "coletado_em": "2026-09-28T11:08:07",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -162,7 +162,7 @@ const RADAR_DADOS = {
       "data_publicacao": "10/01/2024",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:07:56",
+      "coletado_em": "2026-09-28T11:08:07",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -176,7 +176,7 @@ const RADAR_DADOS = {
       "data_publicacao": "15/12/2023",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:07:56",
+      "coletado_em": "2026-09-28T11:08:07",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -192,7 +192,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-27T11:07:55",
+      "coletado_em": "2026-09-28T11:08:05",
       "primeira_vez_em": "2026-09-17T15:44:37"
     },
     {
@@ -208,7 +208,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-27T11:07:53",
+      "coletado_em": "2026-09-28T11:08:04",
       "primeira_vez_em": "2026-09-17T15:44:36"
     },
     {
@@ -224,7 +224,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-27T11:07:52",
+      "coletado_em": "2026-09-28T11:08:02",
       "primeira_vez_em": "2026-09-17T15:44:35"
     },
     {
@@ -238,7 +238,7 @@ const RADAR_DADOS = {
       "data_publicacao": "26/11/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:07:50",
+      "coletado_em": "2026-09-28T11:08:01",
       "primeira_vez_em": "2026-09-17T15:44:34"
     },
     {
@@ -252,7 +252,7 @@ const RADAR_DADOS = {
       "data_publicacao": "29/05/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:07:48",
+      "coletado_em": "2026-09-28T11:07:59",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     {
@@ -268,7 +268,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-27T11:07:48",
+      "coletado_em": "2026-09-28T11:07:59",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     {
@@ -284,7 +284,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-27T11:07:48",
+      "coletado_em": "2026-09-28T11:07:59",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     {
@@ -300,7 +300,7 @@ const RADAR_DADOS = {
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-27T11:07:46",
+      "coletado_em": "2026-09-28T11:07:57",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     {
@@ -316,7 +316,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-27T11:07:46",
+      "coletado_em": "2026-09-28T11:07:57",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     {
@@ -332,7 +332,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-27T11:07:46",
+      "coletado_em": "2026-09-28T11:07:57",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     {
@@ -348,7 +348,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:07:44",
+      "coletado_em": "2026-09-28T11:07:55",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     {
@@ -364,7 +364,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-27T11:07:44",
+      "coletado_em": "2026-09-28T11:07:55",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     {
@@ -378,7 +378,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:05:52",
+      "coletado_em": "2026-09-28T11:05:46",
       "primeira_vez_em": "2026-09-17T15:43:41"
     },
     {
@@ -392,7 +392,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:05:29",
+      "coletado_em": "2026-09-28T11:05:23",
       "primeira_vez_em": "2026-09-17T15:43:36"
     },
     {
@@ -408,7 +408,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:04:45",
+      "coletado_em": "2026-09-28T11:04:35",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     {
@@ -424,7 +424,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:04:43",
+      "coletado_em": "2026-09-28T11:04:33",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     {
@@ -440,7 +440,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:04:41",
+      "coletado_em": "2026-09-28T11:04:31",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     {
@@ -456,7 +456,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:04:41",
+      "coletado_em": "2026-09-28T11:04:31",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     {
@@ -472,7 +472,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:04:41",
+      "coletado_em": "2026-09-28T11:04:31",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     {
@@ -488,7 +488,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:04:39",
+      "coletado_em": "2026-09-28T11:04:30",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     {
@@ -504,7 +504,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:04:39",
+      "coletado_em": "2026-09-28T11:04:30",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     {
@@ -520,7 +520,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:04:39",
+      "coletado_em": "2026-09-28T11:04:30",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     {
@@ -536,7 +536,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:04:37",
+      "coletado_em": "2026-09-28T11:04:28",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     {
@@ -553,7 +553,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:04:37",
+      "coletado_em": "2026-09-28T11:04:28",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     {
@@ -570,7 +570,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:04:37",
+      "coletado_em": "2026-09-28T11:04:28",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     {
@@ -586,7 +586,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:04:37",
+      "coletado_em": "2026-09-28T11:04:28",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     {
@@ -603,7 +603,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:04:37",
+      "coletado_em": "2026-09-28T11:04:28",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     {
@@ -621,7 +621,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:04:37",
+      "coletado_em": "2026-09-28T11:04:28",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     {
@@ -638,7 +638,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:04:37",
+      "coletado_em": "2026-09-28T11:04:28",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     {
@@ -654,7 +654,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:04:37",
+      "coletado_em": "2026-09-28T11:04:28",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     {
@@ -670,7 +670,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:04:37",
+      "coletado_em": "2026-09-28T11:04:28",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     {
@@ -686,7 +686,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:04:37",
+      "coletado_em": "2026-09-28T11:04:28",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     {
@@ -703,7 +703,7 @@ const RADAR_DADOS = {
         "Prazo/Obrigação",
         "Multa/Penalidade"
       ],
-      "coletado_em": "2026-09-27T11:04:34",
+      "coletado_em": "2026-09-28T11:04:25",
       "primeira_vez_em": "2026-09-26T11:03:32"
     },
     {
@@ -717,7 +717,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-25T21:09:52Z",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-09-27T11:04:34",
+      "coletado_em": "2026-09-28T11:04:25",
       "primeira_vez_em": "2026-09-26T11:03:32"
     },
     {
@@ -731,7 +731,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-25T17:04:59Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:04:34",
+      "coletado_em": "2026-09-28T11:04:25",
       "primeira_vez_em": "2026-09-26T11:03:32"
     },
     {
@@ -745,7 +745,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-25T16:46:32Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:04:34",
+      "coletado_em": "2026-09-28T11:04:25",
       "primeira_vez_em": "2026-09-26T11:03:32"
     },
     {
@@ -759,7 +759,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-25T15:30:01Z",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-09-27T11:04:34",
+      "coletado_em": "2026-09-28T11:04:25",
       "primeira_vez_em": "2026-09-26T11:03:32"
     },
     {
@@ -773,7 +773,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-09-25T15:03:59Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:04:34",
+      "coletado_em": "2026-09-28T11:04:25",
       "primeira_vez_em": "2026-09-26T11:03:32"
     },
     {
@@ -787,7 +787,7 @@ const RADAR_DADOS = {
       "data_publicacao": "22/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:03:46",
+      "coletado_em": "2026-09-28T11:04:22",
       "primeira_vez_em": "2026-09-23T11:03:36"
     },
     {
@@ -801,7 +801,7 @@ const RADAR_DADOS = {
       "data_publicacao": "22/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:03:46",
+      "coletado_em": "2026-09-28T11:04:22",
       "primeira_vez_em": "2026-09-23T11:03:36"
     },
     {
@@ -820,7 +820,7 @@ const RADAR_DADOS = {
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-27T11:03:46",
+      "coletado_em": "2026-09-28T11:04:22",
       "primeira_vez_em": "2026-09-23T11:03:36"
     },
     {
@@ -834,7 +834,7 @@ const RADAR_DADOS = {
       "data_publicacao": "24/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:03:46",
+      "coletado_em": "2026-09-28T11:04:22",
       "primeira_vez_em": "2026-09-25T11:03:57"
     },
     {
@@ -848,7 +848,7 @@ const RADAR_DADOS = {
       "data_publicacao": "24/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:03:46",
+      "coletado_em": "2026-09-28T11:04:22",
       "primeira_vez_em": "2026-09-25T11:03:57"
     },
     {
@@ -866,7 +866,7 @@ const RADAR_DADOS = {
         "CBS",
         "Simples Nacional"
       ],
-      "coletado_em": "2026-09-27T11:03:46",
+      "coletado_em": "2026-09-28T11:04:22",
       "primeira_vez_em": "2026-09-26T11:03:28"
     },
     {
@@ -883,7 +883,7 @@ const RADAR_DADOS = {
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-27T11:03:46",
+      "coletado_em": "2026-09-28T11:04:22",
       "primeira_vez_em": "2026-09-26T11:03:28"
     },
     {
@@ -897,7 +897,7 @@ const RADAR_DADOS = {
       "data_publicacao": "25/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:03:46",
+      "coletado_em": "2026-09-28T11:04:22",
       "primeira_vez_em": "2026-09-26T11:03:28"
     },
     {
@@ -911,7 +911,7 @@ const RADAR_DADOS = {
       "data_publicacao": "17/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:03:45",
+      "coletado_em": "2026-09-28T11:04:20",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     {
@@ -925,7 +925,7 @@ const RADAR_DADOS = {
       "data_publicacao": "28/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:03:45",
+      "coletado_em": "2026-09-28T11:04:20",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     {
@@ -939,7 +939,7 @@ const RADAR_DADOS = {
       "data_publicacao": "19/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:03:45",
+      "coletado_em": "2026-09-28T11:04:20",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     {
@@ -953,7 +953,7 @@ const RADAR_DADOS = {
       "data_publicacao": "07/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:03:45",
+      "coletado_em": "2026-09-28T11:04:20",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     {
@@ -967,7 +967,7 @@ const RADAR_DADOS = {
       "data_publicacao": "09/07/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:03:45",
+      "coletado_em": "2026-09-28T11:04:20",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     {
@@ -981,7 +981,7 @@ const RADAR_DADOS = {
       "data_publicacao": "22/06/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:03:45",
+      "coletado_em": "2026-09-28T11:04:20",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     {
@@ -997,7 +997,7 @@ const RADAR_DADOS = {
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-09-27T11:03:44",
+      "coletado_em": "2026-09-28T11:04:19",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     {
@@ -1014,7 +1014,7 @@ const RADAR_DADOS = {
         "Reforma Tributária",
         "NFSe"
       ],
-      "coletado_em": "2026-09-27T11:03:44",
+      "coletado_em": "2026-09-28T11:04:19",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     {
@@ -1032,7 +1032,7 @@ const RADAR_DADOS = {
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-27T11:03:44",
+      "coletado_em": "2026-09-28T11:04:19",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     {
@@ -1051,7 +1051,7 @@ const RADAR_DADOS = {
         "NFSe",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-27T11:03:44",
+      "coletado_em": "2026-09-28T11:04:19",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     {
@@ -1069,7 +1069,7 @@ const RADAR_DADOS = {
         "CBS",
         "NFSe"
       ],
-      "coletado_em": "2026-09-27T11:03:44",
+      "coletado_em": "2026-09-28T11:04:19",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     {
@@ -1085,7 +1085,7 @@ const RADAR_DADOS = {
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-09-27T11:03:44",
+      "coletado_em": "2026-09-28T11:04:19",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     {
@@ -1102,7 +1102,7 @@ const RADAR_DADOS = {
         "NFSe",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-27T11:03:44",
+      "coletado_em": "2026-09-28T11:04:19",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     {
@@ -1120,7 +1120,7 @@ const RADAR_DADOS = {
         "NFSe",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-27T11:03:44",
+      "coletado_em": "2026-09-28T11:04:19",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     {
@@ -1138,7 +1138,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:03:42",
+      "coletado_em": "2026-09-28T11:04:18",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1155,7 +1155,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:03:42",
+      "coletado_em": "2026-09-28T11:04:18",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1169,7 +1169,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:03:42",
+      "coletado_em": "2026-09-28T11:04:18",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1186,7 +1186,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:03:42",
+      "coletado_em": "2026-09-28T11:04:18",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1204,7 +1204,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:03:42",
+      "coletado_em": "2026-09-28T11:04:18",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1218,7 +1218,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:03:42",
+      "coletado_em": "2026-09-28T11:04:18",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1236,7 +1236,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:03:42",
+      "coletado_em": "2026-09-28T11:04:18",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1254,7 +1254,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:03:42",
+      "coletado_em": "2026-09-28T11:04:18",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1272,7 +1272,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:03:42",
+      "coletado_em": "2026-09-28T11:04:18",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1290,7 +1290,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:03:42",
+      "coletado_em": "2026-09-28T11:04:18",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1307,7 +1307,7 @@ const RADAR_DADOS = {
         "Reforma Tributária",
         "IBS"
       ],
-      "coletado_em": "2026-09-27T11:03:41",
+      "coletado_em": "2026-09-28T11:04:17",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
     {
@@ -1326,7 +1326,7 @@ const RADAR_DADOS = {
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-27T11:03:41",
+      "coletado_em": "2026-09-28T11:04:17",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
     {
@@ -1342,7 +1342,7 @@ const RADAR_DADOS = {
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-09-27T11:03:41",
+      "coletado_em": "2026-09-28T11:04:17",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
     {
@@ -1358,7 +1358,7 @@ const RADAR_DADOS = {
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-09-27T11:03:41",
+      "coletado_em": "2026-09-28T11:04:17",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
     {
@@ -1374,7 +1374,7 @@ const RADAR_DADOS = {
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-09-27T11:03:41",
+      "coletado_em": "2026-09-28T11:04:17",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
     {
@@ -1390,7 +1390,7 @@ const RADAR_DADOS = {
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-09-27T11:03:41",
+      "coletado_em": "2026-09-28T11:04:17",
       "primeira_vez_em": "2026-09-19T11:03:30"
     },
     {
@@ -1404,7 +1404,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:03:41",
+      "coletado_em": "2026-09-28T11:04:17",
       "primeira_vez_em": "2026-09-22T11:03:37"
     },
     {
@@ -1418,7 +1418,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:03:41",
+      "coletado_em": "2026-09-28T11:04:17",
       "primeira_vez_em": "2026-09-22T11:03:37"
     },
     {
@@ -1434,7 +1434,7 @@ const RADAR_DADOS = {
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-09-27T11:03:41",
+      "coletado_em": "2026-09-28T11:04:17",
       "primeira_vez_em": "2026-09-25T11:03:52"
     },
     {
@@ -1448,7 +1448,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-07-22T16:51:56Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:03:37",
+      "coletado_em": "2026-09-28T11:04:13",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     {
@@ -1462,7 +1462,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-07-20T19:54:16Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:03:37",
+      "coletado_em": "2026-09-28T11:04:13",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     {
@@ -1480,7 +1480,7 @@ const RADAR_DADOS = {
         "CBS",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-27T11:03:37",
+      "coletado_em": "2026-09-28T11:04:13",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     {
@@ -1494,7 +1494,7 @@ const RADAR_DADOS = {
       "data_publicacao": "23/07/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:03:36",
+      "coletado_em": "2026-09-28T11:04:12",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
@@ -1511,7 +1511,7 @@ const RADAR_DADOS = {
         "NFe",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-27T11:03:36",
+      "coletado_em": "2026-09-28T11:04:12",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
@@ -1528,7 +1528,7 @@ const RADAR_DADOS = {
         "Reforma Tributária",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-27T11:03:36",
+      "coletado_em": "2026-09-28T11:04:12",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
@@ -1542,7 +1542,7 @@ const RADAR_DADOS = {
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:03:36",
+      "coletado_em": "2026-09-28T11:04:12",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
@@ -1558,7 +1558,7 @@ const RADAR_DADOS = {
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-27T11:03:36",
+      "coletado_em": "2026-09-28T11:04:12",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
@@ -1576,7 +1576,7 @@ const RADAR_DADOS = {
         "CBS",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-27T11:03:36",
+      "coletado_em": "2026-09-28T11:04:12",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
@@ -1590,7 +1590,7 @@ const RADAR_DADOS = {
       "data_publicacao": "14/01/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-27T11:03:36",
+      "coletado_em": "2026-09-28T11:04:12",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
@@ -1606,7 +1606,7 @@ const RADAR_DADOS = {
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-09-27T11:03:36",
+      "coletado_em": "2026-09-28T11:04:12",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
