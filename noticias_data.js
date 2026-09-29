@@ -1,6 +1,996 @@
 const RADAR_DADOS = {
-  "geradoEm": "2026-09-28T11:08:19",
+  "geradoEm": "2026-09-29T11:12:07",
   "noticias": [
+    {
+      "id": "222b7164033dafb3",
+      "titulo": "Governo de MT suspende notícias institucionais do Portal em cumprimento às normas eleitorais Veja Mais",
+      "resumo": "Governo de MT suspende notícias institucionais do Portal em cumprimento às normas eleitorais Veja Mais",
+      "link": "https://www5.sefaz.mt.gov.br/web/mt/w/governo-de-mt-suspende-not%C3%ADcias-institucionais-do-portal-em-cumprimento-%C3%A0s-normas-eleitorais",
+      "fonte": "SEFAZ MT",
+      "esfera": "estadual",
+      "uf": "MT",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-29T11:06:17",
+      "primeira_vez_em": "2026-09-17T15:43:41"
+    },
+    {
+      "id": "8b919b7384234279",
+      "titulo": "Consulta de Notas Fiscais",
+      "resumo": "Consulta de Notas Fiscais",
+      "link": "https://sefaz.es.gov.br/consultanota",
+      "fonte": "SEFAZ ES",
+      "esfera": "estadual",
+      "uf": "ES",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-29T11:05:56",
+      "primeira_vez_em": "2026-09-17T15:43:36"
+    },
+    {
+      "id": "f3fce5f00b2dda14",
+      "titulo": "Nota Técnica 2026.001 v.1.00 - Publicada em 04/02/2026",
+      "resumo": "Divulga especificação técnica para vinculação entre DF-e e transação financeira sujeita ao split payment",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=uMPDzXnMsk4=",
+      "fonte": "NFGas - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:05:07",
+      "primeira_vez_em": "2026-09-17T15:43:13"
+    },
+    {
+      "id": "1c95e3cfa05a4c5c",
+      "titulo": "Nota Técnica 2026.002 v.1.01a - Publicada em 14/08/2026",
+      "resumo": "Nota Técnica 2026.002 v.1.01a - Publicada em 14/08/2026",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=yoV266/AUt0=",
+      "fonte": "NFCom - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:05:06",
+      "primeira_vez_em": "2026-09-17T15:43:13"
+    },
+    {
+      "id": "77284a5831435b93",
+      "titulo": "Nota Técnica 2026.002 v.1.01 - Publicada em 01/08/2026 - Publicada em 01/08/2026",
+      "resumo": "Nota Técnica 2026.002 v.1.01 - Publicada em 01/08/2026 - Publicada em 01/08/2026",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=JXMz63INn4E=",
+      "fonte": "NF3e - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:05:04",
+      "primeira_vez_em": "2026-09-17T15:43:12"
+    },
+    {
+      "id": "8edf3d8590ef2ea3",
+      "titulo": "Nota Técnica 2025.001 v.1.14a - Publicada em 12/03/2026",
+      "resumo": "Nota Técnica 2025.001 v.1.14a - Publicada em 12/03/2026",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=2zh6tdrFcGg=",
+      "fonte": "NF3e - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:05:04",
+      "primeira_vez_em": "2026-09-17T15:43:12"
+    },
+    {
+      "id": "db0e168e9dc70ff3",
+      "titulo": "Nota Técnica 2026.001 v.1.01 - Publicada em 02/03/2026 - Publicada em 02/03/2026",
+      "resumo": "Nota Técnica 2026.001 v.1.01 - Publicada em 02/03/2026 - Publicada em 02/03/2026",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=8jS1eZoTbbs=",
+      "fonte": "NF3e - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:05:04",
+      "primeira_vez_em": "2026-09-17T15:43:12"
+    },
+    {
+      "id": "a271f22fd8b60fbd",
+      "titulo": "Nota Técnica 2026.002 v.1.00 - Publicada em 10/06/2026",
+      "resumo": "Divulga alterações de leiaute e regras de validação",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=Wld322n6MEU=",
+      "fonte": "NFAg - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:05:02",
+      "primeira_vez_em": "2026-09-17T15:43:11"
+    },
+    {
+      "id": "c3ebc4e3910e68c9",
+      "titulo": "Nota Técnica 2026.001 v.1.01 - Publicada em 02/03/2026",
+      "resumo": "Divulga especificação técnica para vinculação entre DF-e e transação financeira sujeita ao split payment",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=MyOfjogTTIo=",
+      "fonte": "NFAg - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:05:02",
+      "primeira_vez_em": "2026-09-17T15:43:11"
+    },
+    {
+      "id": "cf3d354183a6412b",
+      "titulo": "Nota Técnica 2026.001 v.1.00 - Publicado em 04/02/2026",
+      "resumo": "Divulga especificação técnica para vinculação entre DF-e e transação financeira sujeita ao split payment",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=f9R6A 5SmSE=",
+      "fonte": "NFAg - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:05:02",
+      "primeira_vez_em": "2026-09-17T15:43:11"
+    },
+    {
+      "id": "07af53545ad6a955",
+      "titulo": "Nota Técnica 2026.009 v.1.00 - Publicada em 09/09/2026",
+      "resumo": "Divulga correção em regra de validação",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=ADlgg2xjMZI=",
+      "fonte": "NF-e - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:05:01",
+      "primeira_vez_em": "2026-09-17T15:43:10"
+    },
+    {
+      "id": "e38892674e142a10",
+      "titulo": "Nota Técnica 2026.002 v.1.10a - Publicada em 25/08/2026",
+      "resumo": "Operações de vendas presenciais e não presenciais com impressão do DANFE Simplificado Tipo 2",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=8zOzIahvn8I=",
+      "fonte": "NF-e - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NFe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:05:01",
+      "primeira_vez_em": "2026-09-17T15:43:10"
+    },
+    {
+      "id": "81db86e8434c0e4f",
+      "titulo": "Nota Técnica 2026.006 v.1.00 - Publicada em 25/08/2026",
+      "resumo": "Divulga especificação técnica para vinculação entre NF-e e transação financeira sujeita ao split payment",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=k7zG06n5M6I=",
+      "fonte": "NF-e - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NFe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:05:01",
+      "primeira_vez_em": "2026-09-17T15:43:10"
+    },
+    {
+      "id": "e2a50ae8eccfe1a8",
+      "titulo": "Nota Técnica 2014.001 v.1.41 - Publicada em 04/08/2026",
+      "resumo": "Divulga especificação técnica para emissão do Evento Prévio de Emissão em Contingência (EPEC)",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=9hgG  cH8gA=",
+      "fonte": "NF-e - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:05:01",
+      "primeira_vez_em": "2026-09-17T15:43:10"
+    },
+    {
+      "id": "e4937f762f128a36",
+      "titulo": "Nota Técnica 2026.007 v.1.00 - Publicada em 04/08/2026",
+      "resumo": "Regras de validação e atualiza regras existentes da NF-e/NFC-e para verificação dos cadastros na Lista Centralizada de Contribuintes da RFB (LCC-RFB) e no Cadastro Centralizado de Contribuintes (CCC).",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=jVEAeMhv83w=",
+      "fonte": "NF-e - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NFe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:05:01",
+      "primeira_vez_em": "2026-09-17T15:43:10"
+    },
+    {
+      "id": "c79576affbd403f5",
+      "titulo": "Nota Técnica 2025.002 v.1.51 - Publicada em 04/08/2026",
+      "resumo": "Nota técnica de adequação dos leiautes da NF-e e da NFC-e para inclusão dos campos e das regras de validação referentes à Reforma Tributária do Consumo - RTC",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=AKD/muSmiIY=",
+      "fonte": "NF-e - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NFe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:05:01",
+      "primeira_vez_em": "2026-09-17T15:43:10"
+    },
+    {
+      "id": "7f41fe5f1640b502",
+      "titulo": "Nota Técnica 2026.001 v.1.02b - Publicada em 31/07/2026",
+      "resumo": "Especifica o Provedor de Assinatura e Autorização (PAA) no âmbito da NF-e.",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=AlgHfV6gpAU=",
+      "fonte": "NF-e - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NFe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:05:01",
+      "primeira_vez_em": "2026-09-17T15:43:10"
+    },
+    {
+      "id": "8640ac9406476bfb",
+      "titulo": "Nota Técnica 2014.002 - v.1.40 - Publicada em 03/07/2026",
+      "resumo": "Web Service de distribuição de documentos fiscais eletrônicos.",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=uWO2d/gTuWg=",
+      "fonte": "NF-e - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:05:01",
+      "primeira_vez_em": "2026-09-17T15:43:10"
+    },
+    {
+      "id": "875f51f99732d992",
+      "titulo": "Nota Técnica 2021.003 - v.1.50 - Publicada em 25/09/2026",
+      "resumo": "Divulga alteração nas regras de validação do GTIN",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=ENot2yWE72Q=",
+      "fonte": "NF-e - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:05:01",
+      "primeira_vez_em": "2026-09-26T11:03:34"
+    },
+    {
+      "id": "4b70d64501a39e0c",
+      "titulo": "Nota Técnica 2023.003 v.1.40 - Publicada em 25/09/2026",
+      "resumo": "Alteração de regras de validação.",
+      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=JSxhEY85vRU=",
+      "fonte": "NF-e - Notas Técnicas",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:05:01",
+      "primeira_vez_em": "2026-09-26T11:03:34"
+    },
+    {
+      "id": "ab536155901eba7a",
+      "titulo": "Editadas medidas provisórias contra bets e endividamento das famílias",
+      "resumo": "Foram editadas pela Presidência da República nesta sexta-feira (25) duas medidas provisórias: a MP 1.393, com ações para aliviar a situação de endividamento das famílias, programa batizado como Desenrola Brasil 3.0; e a MP 1.394, proibindo as chamadas loterias de apostas de quota fixa, conhecidas como bets. No mesmo evento em São Paulo que tratou da edição das MPs, também foi anunciado um projeto de lei de iniciativa do Poder Executivo, que tipifica crimes relacionados aos jogos de azar on-line. As MPs passaram a valer a partir de sua publicação, em edição extra do Diário Oficial da União. Calendário A partir da publicação da MP, não serão mais permitidas as apostas on-line no país. No caso de aportes já feitos, a MP prevê a devolução dos saldos em contas em sites desse tipo. Também a partir da entrada em vigor do texto, não será permitida nova contratação de publicidade de apostas. O que já foi contratado poderá ser veiculado até o dia 5 de outubro, quando também deverá ocorrer a retirada dos sinais visíveis de patrocínio. Veja algumas datas do calendário da MP. 5 de outubro: prazo para os usuários retirarem voluntariamente o dinheiro dos aportes que fizeram nas plataformas. 6 de outubro: sites de apostas serão bloqueados no país, redirecionando à informação sobre a devolução de valores. 7 e 8 de outubro: empresas de apostas informarão aos bancos os saldos das contas dos apostadores. 9 a 14 de outubro: os bancos farão a devolução dos valores aos apostadores que tiverem contas. A partir de 14 de outubro: em caso de algum impedimento no processo, a Caixa Econômica Federal intermediará a devolução aos apostadores. Proteção Segundo o ministro da Saúde, Alexandre Padilha, entre 2018 e 2025 os atendimentos no Sistema Único de Saúde (SUS) cresceram cerca de 140% para questões ligadas ao jogo patológico. O ministro do Planejamento e Orçamento, Bruno Moretti, explicou no evento de apresentação das medidas provisórias que o público-alvo da MP para redução do endividamento são as famílias com dívidas em atraso de dois anos a quatro anos e meio. A estimativa é que as dívidas dessas famílias cheguem a R$ 300 bilhões. O objetivo é reduzir em 50% esse valor. De acordo com o ministro da Justiça, Wellington Lima e Silva, o governo reforçará a remoção de sites ilegais e investigações das movimentações financeiras. Veja algumas medidas previstas na MP do fim das bets: Força-tarefa composta por diversos órgãos do governo; Integração de forças e compartilhamento de informações estratégicas; Reforço da estrutura do Ministério da Justiça e da Polícia Federal sobre o tema; Oferecimento do canal www.gov.br/falabr para denúncias sobre bets e jogos on-line. Projeto de lei O governo anunciou que vai enviar ao Legislativo um projeto de lei que tipifica crimes específicos relacionados aos jogos on line. De acordo com a minuta do projeto, a pena será de quatro até seis anos de cadeia, além de multa, para quem operar ou explorar as bets de forma irregular. Influenciadores que lucram com a divulgação de apostas ilegais também poderão ser responsabilizados pela proposta, com pena de até quatro anos de prisão. O texto também vai, segundo o Executivo, transformar em crime o uso de dados pessoais com o objetivo de captar apostadores ou direcionar publicidade de bets. A pessoa que fornecer, negociar, comercializar ou utilizar cadastros e listas de dados para essa finalidade poderá pegar de dois a quatro anos de cadeia, além de multa. As MPs são editadas pelo governo federal e passam a ter efeito imediatamente, mas precisam ser aprovadas pela Câmara dos Deputados e pelo Senado em até 120 dias para continuarem em vigor. Se não forem votadas nesse período, perdem a eficácia.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/25/poder-executivo-anuncia-mps-contra-bets-e-endividamento-das-familias",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-09-25T23:27:54Z",
+      "impacto": "alto",
+      "tags": [
+        "Prazo/Obrigação",
+        "Multa/Penalidade"
+      ],
+      "coletado_em": "2026-09-29T11:04:58",
+      "primeira_vez_em": "2026-09-26T11:03:32"
+    },
+    {
+      "id": "b3aa59c37e8bdebb",
+      "titulo": "Sessão destaca excelência do ensino da Escola Superior de Ciências da Saúde",
+      "resumo": "O Senado fez nesta sexta-feira (25) sessão especial em homenagem aos 25 anos da Fundação de Ensino e Pesquisa em Ciências da Saúde (Fepecs) e da Escola Superior de Ciências da Saúde (a ESCS, mantida pela fundação). O autor da homenagem foi o senador Izalci Lucas (PL-DF), que destacou a relevância das instituições públicas de ensino do Distrito Federal para a inovação tecnológica e o fortalecimento do Sistema Único de Saúde (SUS). Izalci ressaltou ainda que o ensino da ESCS expõe os alunos à realidade e lembrou que mais de 2 mil médicos e enfermeiros já foram formados pela instituição, criada para formar profissionais alinhados aos princípios do Sistema Único de Saúde (SUS). Em 2007, disse Izalci, a medicina da ESCS foi uma das oito instituições do Brasil a obter nota máxima no Exame Nacional de Desempenho dos Estudantes (Enad), o que se repetiu em 2023, ao lado da Universidade de Brasília (UnB). A enfermagem, por sua vez, nunca perdeu a nota máxima desde a sua primeira avaliação, em 2013, repetindo o resultado em 2016, 2019 e 2023. — Mais do que sorte, isso é método: formar dentro do Sistema [Único de Saúde] para o Sistema, com o professor que também está de plantão e o aluno que aprende olhando para o paciente, não para ilustrações desenhadas em um quadro — afirmou. A senadora Damares Alves (Republicanos-DF), por sua vez, defendeu o fortalecimento da Fepecs e da ESCS e a valorização de seus profissionais: — Sempre defendi o investimento em pesquisa; nossa nação precisa pensar em mais pesquisa. O Distrito Federal pode ser o maior centro de pesquisa do país. Nós nunca vamos competir com Mato Grosso na agricultura, no turismo com o Nordeste, com a indústria de São Paulo, mas nós podemos ser o maior polo e o maior centro de pesquisa, e isso ser visto como geração de renda, emprego e PIB. 'Missão clara' Diretora-executiva da Fepecs, Vanessa Dalva Guimarães Campos disse que instituição nasceu com uma missão muito clara: aproximar educação, ciência e saúde pública, formando profissionais e produzindo conhecimento e pesquisa a partir das necessidades sociais da população do Distrito Federal. — Ao longo desses 25 anos, várias pessoas ajudaram a construir essa história. Gestores, servidores, docentes, preceptores, pesquisadores, estudantes, residentes deixaram na Fepecs e na Secretaria de Saúde [do DF] sua contribuição. Muitos chegaram como alunos e hoje são profissionais que cuidam da população, ensinam novas gerações e contribuem para o SUS. Por isso esse jubileu de prata pertence a todos eles. Projeto inovador Diretora-substituta da ESCS, Cláudia Regina Zaramella disse que a sessão especial representa o reconhecimento da instituição e de uma história construída por pessoas comprometidas com a saúde da população do DF. Ela prestou homenagem à memória do médico Jofran Frejat, secretário de Saúde do Distrito Federal cuja atuação foi decisiva para a criação da Fepecs e da ESCS, em 2001. — Sua visão e seu compromisso com a saúde pública lançaram as bases de um projeto educacional inovador e ousado, que aproxima a formação de médico e enfermeiros das necessidades da população e do SUS — declarou a diretora. Modelo de ensino A sessão solene abriu espaço para a manifestação de representantes dos estudantes. Presidente do centro acadêmico do curso de enfermagem da ESCS, Kécyo Dayvid Lopes Gomes destacou o modelo de ensino público que revolucionou a formação em saúde no Distrito Federal e no Brasil. — Carregar o símbolo da ESCS no jaleco representa uma grande responsabilidade, mas que se traduz em excelência, respeito e trabalho duro. Somos frutos de uma escola que ousou ensinar diferente, colocando-nos desde os primeiros passos em contato direto com a comunidade através da metodologia ativa e do aprendizado baseado em problemas. Representante do centro acadêmico do curso de medicina da ESCS, Marcos Eduardo Vieira de Paula destacou que a proposta de construção da escola desafiou o ceticismo tradicional para edificar uma instituição de ensino superior dotada de uma singularidade: nasceu sob o signo de um propósito estrito, perene e irrenunciável de formar profissionais para a saúde pública. — A ESCS foi gestada para ser uma escola do SUS, para o SUS e pelo SUS. Não fomos erguidos para habitar uma torre de marfim do academicismo estéril, não fomos criados para formar profissionais alheios à dor social, encastelados em gabinetes isolados. A ESCS nasceu das entranhas do serviço público, foi concebida no chão batido da assistência — afirmou. Vieira de Paula também defendeu a aprovação de projeto de lei complementar, elaborado pela Procuradoria-Geral do Distrito Federal, que assegura à ESCS a preservação de sua identidade institucional e a restituição plena de sua autonomia didática-científica, administrativa e de gestão. Sonho coletivo Ex-coordenador do curso de enfermagem da ESCS, Rinaldo de Souza Neves disse que se sente honrado em fazer parte da história da instituição e de confirmar a concretização de um sonho coletivo. — Ao longo dessa trajetória, tive o privilégio de servir a nossa instituição em múltiplos papéis e muitos desafios também. É uma honra imensa comemorar este momento histórico e poder vivenciar juntos essa linda história. Professor do curso de medicina da ESCS, Alécio de Oliveira e Silva disse que celebrar a existência da instituição é reafirmar não só o compromisso de ensino de qualidade de medicina e de enfermagem, mas também a luta diária e de resistência contra todas as adversidades. — A gente precisa manter a integridade da ESCS, a alma essencial desde a sua fundação, para manter esse ensino de qualidade. É a primeira escola com nota máxima no DF. É importante a gente ver que [a escola] se tornou um patrimônio do DF. Somos o único curso do DF com nota máxima no Enamed [Exame Nacional de Avaliação da Formação Médica]. Ao final das manifestações, Izalci Lucas entregou aos participantes da sessão um diploma comemorativo em alusão aos 25 anos da ESCS e da Fepecs. A sessão foi encerrada com apresentação da bateria Histeria, do curso de enfermagem, e da bateria Bicuda, do curso de graduação de medicina da ESCS.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/25/sessao-destaca-excelencia-do-ensino-da-escola-superior-de-ciencias-da-saude",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-09-25T21:09:52Z",
+      "impacto": "baixo",
+      "tags": [],
+      "coletado_em": "2026-09-29T11:04:58",
+      "primeira_vez_em": "2026-09-26T11:03:32"
+    },
+    {
+      "id": "3b04813b7185b2f7",
+      "titulo": "Chega ao Congresso projeto que torna crime a exploração de bets",
+      "resumo": "O Congresso Nacional recebeu o projeto de lei do Executivo que tipifica crimes relacionados às loterias de apostas de quota fixa, conhecidas como bets. A apresentação do projeto havia sido anunciada pelo governo federal na sexta-feira (25), mesmo dia em que a Presidência da República editou uma medida provisória para proibir as bets no Brasil (MP 1.394/2026). O projeto de lei (PL 5.477/2026) torna crime tanto a exploração quanto a publicidade de bets, tipificando cinco condutas como criminosas. De acordo com o governo, a intenção é enfrentar os diferentes meios empregados pelas empresas para manter a atividade, inclusive no ambiente digital. A proibição das bets prevista na MP já está valendo de forma provisória, mas o projeto que trata dos crimes ainda precisará ser votado pelo Congresso para virar lei e entrar em vigor. Os crimes previstos no texto são: explorar ou operar apostas de quota fixa: pena de 4 a 6 anos de reclusão e multa; divulgar apostas ou captar apostadores: de 2 a 4 anos de reclusão e multa; usar dados pessoais para captar apostadores: de 2 a 4 anos e multa; facilitar financeiramente a exploração: de 2 a 4 anos e multa; fornecer aplicação de internet para apostas: de 2 a 4 anos e multa, com agravantes em determinadas situações. O aumento de pena é previsto para várias situações, como no caso de jogos de azar on-line (a exemplo do jogo conhecido como Tigrinho); uso de dados de saúde que permitam inferir transtornos ligados a jogos, de histórico de apostas ou de informações de crianças e adolescentes; situações em que mecanismos de verificação de idade ou localização sejam burlados; e ganho de percentual das apostas ou das perdas pelo divulgador. Todos os crimes previstos no projeto são considerados como praticados contra o interesse da União, com investigação pela Polícia Federal e julgamento pela Justiça Federal. A proposta ainda determina que, para fixar as multas, será considerada a vantagem econômica obtida pelo agente das apostas. O projeto deixa claro que as regras não se aplicam à Loteca, loteria esportiva da Caixa Econômica Federal dedicada a prognosticar resultados de partidas de futebol. Essa modalidade continua permitida. A tramitação do PL 5.477/2026 começa na Câmara dos Deputados. Depois o texto passará pela análise dos senadores.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/28/chega-ao-congresso-projeto-que-torna-crime-a-exploracao-de-bets",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-09-28T19:17:50Z",
+      "impacto": "alto",
+      "tags": [
+        "Multa/Penalidade"
+      ],
+      "coletado_em": "2026-09-29T11:04:58",
+      "primeira_vez_em": "2026-09-29T11:04:58"
+    },
+    {
+      "id": "72996b81c4fcac16",
+      "titulo": "Congresso passa a ter agendamento prévio para visitação",
+      "resumo": "Quem quiser visitar o Congresso Nacional deve fazer o agendamento pela internet a partir desta segunda-feira (28). O novo sistema permite escolher antecipadamente o dia e o horário da visita guiada. A medida também pretende reduzir o tempo de espera nos dias de maior movimento. O agendamento deve ser feito pelo portal Visite o Congresso. O visitante escolhe a data e o horário, informa os dados pessoais e recebe um código QR de confirmação. Na chegada ao Palácio do Congresso Nacional, em Brasília, é necessário apresentar documento de identidade com foto e o código de confirmação para fazer o check-in. Quem não tiver feito a reserva poderá verificar, no próprio local, se há vagas disponíveis e fazer o agendamento pelo celular. Também haverá tablets para esse atendimento. As visitas guiadas ocorrem de quinta-feira a segunda-feira, das 9h às 17h. Os grupos saem a cada 30 minutos e podem ter até 55 pessoas. O percurso dura cerca de 50 minutos. Não há visitação às terças e quartas-feiras. O passeio é gratuito e é realizado conjuntamente pelo Senado Federal e pela Câmara dos Deputados. Durante o percurso, os visitantes conhecem os Plenários das duas Casas, os Salões Negro, Verde e Azul, o Túnel do Tempo do Senado e os Salões Nobres do Senado e da Câmara. A visita também apresenta informações sobre o funcionamento do Congresso, o processo legislativo e o patrimônio artístico e arquitetônico. Entre as obras apresentadas, estão trabalhos de Di Cavalcanti, Marianne Peretti, Athos Bulcão, Alfredo Ceschiatti e Burle Marx. Também podem ser agendadas visitas para instituições de ensino e grupos especiais. Visitação ao Congresso Nacional Quando: de quinta-feira a segunda-feira, inclusive feriados e pontos facultativos. Horário: das 9h às 17h, com saída de grupos a cada 30 minutos. Duração: cerca de 50 minutos. Local: Palácio do Congresso Nacional, com acesso pela rampa. Entrada: gratuita. Agendamento: Visite o Congresso. Atenção: às terças e quartas-feiras não há visitação. Com informações das Assessorias de Imprensa do Senado e da Câmara",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/28/congresso-passa-a-ter-agendamento-previo-para-visitacao",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-09-28T17:52:09Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-29T11:04:58",
+      "primeira_vez_em": "2026-09-29T11:04:58"
+    },
+    {
+      "id": "28b712bf9e155263",
+      "titulo": "Desenrola Brasil 3.0 já está em vigor; veja como funciona",
+      "resumo": "Pessoas físicas com dívidas em atraso poderão renegociá-las por meio do Desenrola Brasil 3.0, criado por meio da Medida Provisória (MPV) 1.393/2026. Publicado pelo Poder Executivo em edição extra do Diário Oficial da União (DOU) de sexta-feira (25), o texto autoriza a União a comprar carteiras de dívidas de instituições financeiras e de outras empresas credoras, com desconto mínimo de 90%, para depois oferecer condições de pagamento aos devedores. A nova modalidade do programa poderá funcionar até 30 de junho de 2028. Pela regra geral, poderão entrar nas carteiras dívidas de pessoas físicas com valor original inferior a R$ 10 mil e que, em 25 de setembro de 2026, estavam em atraso havia mais de 720 dias e menos de 1.645 dias. Poderão ser incluídas tanto dívidas bancárias quanto débitos passíveis de registro em cadastros de inadimplentes, como os relacionados a serviços públicos, comércio varejista e prestadores de serviços. A MP permite que o Ministério da Fazenda estabeleça critérios adicionais e, em determinadas condições, autorize a inclusão de dívidas com outros prazos ou valores. Como funcionará Os credores interessados poderão oferecer à União carteiras de dívidas de pessoas físicas. Terão prioridade as propostas com os maiores descontos, que não poderão ser inferiores a 90%. A seleção poderá separar, por exemplo, dívidas bancárias das demais. O Banco do Brasil e a Caixa Econômica Federal poderão atuar na operação e na administração dessas carteiras. Depois da aquisição da carteira, o devedor poderá quitar a dívida à vista ou parcelar o saldo. O desconto oferecido ao devedor poderá chegar ao mesmo percentual obtido pela União na compra da carteira. No parcelamento, haverá cobrança de juros, e os prazos, encargos e demais condições ainda serão definidos pelo Conselho Monetário Nacional (CMN). A MP reserva até R$ 15 bilhões em recursos do Ministério da Fazenda para a compra das carteiras, condicionados à disponibilidade orçamentária e financeira. Segundo as informações apresentadas pelo governo, até R$ 150 bilhões em dívidas poderão ser elegíveis, com estimativa de R$ 75 bilhões efetivamente renegociados e alcance de até 15 milhões de pessoas. O cronograma apresentado prevê a publicação do chamamento para os credores em novembro deste ano, a entrega das propostas em dezembro e a homologação das selecionadas em janeiro de 2027. A assinatura dos contratos e o início do repasse dos descontos aos devedores, com pagamento à vista ou parcelado, estão previstos para fevereiro de 2027. Tramitação A MP está em vigor desde a publicação, em 25 de setembro, mas precisa ser aprovada pelo Congresso Nacional para se tornar lei em definitivo. O prazo de deliberação vai até 23 de novembro. Parlamentares podem apresentar emendas até 1º de outubro, e a medida entra em regime de urgência a partir de 9 de novembro. Além do Desenrola Brasil 3.0, a MP estabelece em 120 dias o período para oferta e celebração de acordos no Desenrola Adimplentes. O texto também determina que o Conselho Monetário Nacional adote medidas para promover a concessão responsável de crédito, ampliar a transparência de produtos financeiros, fortalecer a capacidade de decisão dos consumidores e reduzir riscos relacionados à vulnerabilidade financeira.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/28/desenrola-brasil-3-0-ja-esta-em-vigor-veja-como-funciona",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-09-28T14:59:14Z",
+      "impacto": "médio",
+      "tags": [
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-09-29T11:04:58",
+      "primeira_vez_em": "2026-09-29T11:04:58"
+    },
+    {
+      "id": "5616c435958b6930",
+      "titulo": "Eleições 2026: veja o que é fato sobre o voto para o Senado",
+      "resumo": "Nas eleições de domingo (4), cada eleitor terá dois votos para senador, que devem ser dados a nomes diferentes. Na urna, as duas escolhas para o Senado são a terceira e a quarta da sequência de votação, depois dos votos para deputado federal e deputado estadual ou distrital. Os candidatos a senador são identificados por números de três dígitos e concorrem com dois suplentes. Veja como será a votação e o que é preciso saber antes de ir à urna. Por que são dois votos para o Senado em 2026? Cada estado e o Distrito Federal são representados por três senadores, com mandato de oito anos. As vagas são renovadas alternadamente: em uma eleição, é renovado um terço do Senado; quatro anos depois, dois terços. Em 2026, serão escolhidos dois senadores em cada estado e no Distrito Federal. Por isso, cada eleitor terá duas votações para o Senado. Ao todo, serão eleitos 54 senadores. É possível votar duas vezes na mesma pessoa? Não. Os dois votos devem ser dados a candidatos diferentes. Se o mesmo candidato for escolhido nas duas votações, o primeiro voto será válido e o segundo será considerado nulo. Essa regra está prevista nas normas do Tribunal Superior Eleitoral (TSE). Como identificar o número de quem concorre ao Senado? Os candidatos ao Senado são identificados por números de três dígitos. Na urna, o eleitor deve digitar os três números e conferir o nome, a foto, o cargo e a sigla partidária apresentados na tela antes de confirmar o voto. Não é possível votar apenas na legenda para o Senado. O voto é destinado a um candidato. Posso votar em candidato de outro estado? Não. O eleitor só pode votar nos candidatos que disputam as vagas do estado ou do Distrito Federal em que seu título eleitoral está registrado. Os nomes dos suplentes também aparecem na urna? Sim. Cada candidato ao Senado concorre com dois suplentes. Na votação, a urna exibe o nome e a foto do candidato e também os nomes e as fotos dos suplentes. O eleitor vota no candidato titular, e os dois suplentes integram a chapa. Eles podem assumir o mandato em situações previstas na legislação. Tem segundo turno para o Senado? Não. Os dois votos para o Senado serão registrados no primeiro turno das eleições, em 4 de outubro. A eleição para senador é feita pelo sistema majoritário de maioria relativa. São eleitos os candidatos mais votados, sem necessidade de segundo turno. Quanto tempo dura o mandato? O mandato de senador dura oito anos. Os eleitos em 2026 tomarão posse em 2027 e terão mandato até 2035. Como se preparar antes de votar? O eleitor pode consultar previamente informações sobre os candidatos, seus números e os respectivos suplentes. Como são duas votações para o Senado, também é possível anotar os números dos candidatos em uma colinha de papel e levá-la à cabine de votação. O celular não pode ser levado para a cabine. Conheça aqui todos os candidatos e candidatas ao Senado. Onde encontrar informações confiáveis Informações sobre as eleições e as candidaturas podem ser consultadas no site especial de eleições produzido pela Agência Senado. Para checar uma informação duvidosa, o cidadão pode procurar o Senado Verifica pelo WhatsApp: 61 98190-0601. Confira a fonte das informações e evite compartilhar conteúdos sem verificar.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/28/eleicoes-2026-veja-o-que-e-fato-sobre-o-voto-para-o-senado",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-09-28T14:43:50Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-29T11:04:58",
+      "primeira_vez_em": "2026-09-29T11:04:58"
+    },
+    {
+      "id": "2da5d82a0d7aec67",
+      "titulo": "MP proíbe bets e determina encerramento das operações em 30 dias",
+      "resumo": "Começou a tramitar no Congresso Nacional a medida provisória que proíbe a exploração, a oferta, a intermediação e a publicidade de apostas de quota fixa em todo o país. O texto foi publicado na sexta-feira (25) e prevê a extinção, em 30 dias, das autorizações concedidas às empresas que atualmente operam nesse mercado. A MP também estabelece regras para a devolução dos recursos dos apostadores, proíbe publicidade e patrocínio das bets e cria mecanismos para bloquear sites, aplicativos e transações financeiras relacionados às apostas. A medida já está em vigor, mas precisa ser analisada no prazo de 120 dias para se tornar lei em definitivo. A MP 1.394/2026 altera a Lei 14.790, de 2023, e alcança apostas sobre eventos esportivos reais e jogos on-line, tanto em meio físico quanto virtual. A proibição também vale para empresas sediadas no exterior que ofereçam apostas a pessoas localizadas no Brasil. As apostas autorizadas pelos estados e pelo Distrito Federal também serão encerradas. Outras modalidades lotéricas previstas em lei não são atingidas pela medida. Desde a publicação da MP, estão proibidos novos aportes de dinheiro nas plataformas. Os sites e aplicativos poderão permanecer disponíveis para que os apostadores retirem voluntariamente os saldos até as 23h59 de 5 de outubro. A partir de 6 de outubro, as plataformas deverão ficar indisponíveis. As autorizações existentes serão extintas 30 dias depois da publicação da medida, em 25 de outubro. Novas concessões, permissões ou autorizações também estão proibidas. Prazos As autorizações atualmente existentes serão extintas 30 dias após a publicação da MP. A medida estabelece que o encerramento ocorre por motivo de interesse público. As empresas também não terão devolução, total ou parcial, dos valores pagos pelas outorgas nem a indenização pelo poder público. Além disso, desde a publicação da MP ficam proibidas novas concessões, permissões ou autorizações. Pedidos que ainda aguardavam decisão também ficam prejudicados. Apesar do prazo de 30 dias para a extinção formal das autorizações, a operação das plataformas deverá parar antes. A partir do dia 6 de outubro, as empresas terão que tornar indisponíveis os sites e aplicativos utilizados para a oferta de apostas, inclusive nas lojas de aplicativos. O descumprimento poderá levar ao bloqueio das plataformas. Desde a publicação da medida, também fica proibido o ingresso de novos recursos nas contas utilizadas pelos apostadores, com exceções relacionadas à liquidação de ativos em que já estivessem aplicados recursos dos usuários e desde que o dinheiro seja destinado ao cumprimento das obrigações de encerramento. Devolução de recursos A MP estabelece regras para a restituição dos valores devidos aos apostadores. Apostas que ainda estiverem abertas e cujo resultado não tenha sido apurado até o fim do prazo de dez dias após a publicação serão consideradas sem efeito, com devolução integral do valor apostado. Prêmios de apostas cujo resultado tenha sido apurado dentro desse período deverão ser pagos normalmente. Depois da retirada das plataformas do ar, as empresas terão dois dias para informar às instituições financeiras os valores a serem devolvidos, identificados pelo CPF, e garantir os recursos necessários às restituições. As mesmas informações deverão ser encaminhadas à Secretaria de Prêmios e Apostas do Ministério da Fazenda. Os bancos e demais instituições de pagamento terão sete dias para fazer as transferências. A devolução deverá ser feita para conta ativa de titularidade do próprio apostador, preferencialmente a conta de origem dos recursos. Quando isso não for possível, o dinheiro será transferido para uma conta específica na Caixa Econômica Federal, que fará a restituição sob supervisão do Ministério da Fazenda. O descumprimento das obrigações de restituição sujeitará a empresa a multa diária de R$ 200 mil, além de outras sanções. Os operadores também deverão conservar, por pelo menos cinco anos, dados e documentos relativos a apostadores, apostas, operações financeiras e pagamentos de prêmios. Calendário 25 de setembro: publicação da MP e proibição de novos aportes de dinheiro nas plataformas. Até 5 de outubro, às 23h59: prazo para os apostadores retirarem voluntariamente os saldos. Também termina o prazo para retirada de materiais publicitários e sinais de patrocínio. A partir de 6 de outubro: sites e aplicativos deverão ficar indisponíveis. 7 e 8 de outubro: empresas deverão informar às instituições financeiras os valores a serem devolvidos, identificados pelo CPF, e garantir os recursos necessários às restituições. Até 14 de outubro: prazo para as instituições financeiras concluírem as devoluções. A partir de 14 de outubro: valores cuja restituição não puder ser realizada pelas instituições financeiras serão transferidos para conta específica na Caixa Econômica Federal. 25 de outubro: serão extintas as concessões, permissões e autorizações para exploração das apostas de quota fixa. Fiscalização O encerramento das atividades não afasta as obrigações das empresas de apostas relativas ao período em que esteve autorizado. Continuam válidas obrigações regulatórias, tributárias e financeiras, além das regras relacionadas à prevenção à lavagem de dinheiro, ao financiamento do terrorismo, ao jogo responsável e à integridade esportiva. As empresas deverão ainda conservar, por pelo menos cinco anos, dados e documentos relativos aos apostadores, apostas, operações financeiras e pagamentos de prêmios. Os operadores também deverão transmitir à Secretaria de Prêmios e Apostas, por meio do Sistema de Gestão de Apostas (Sigap), informações sobre usuários, apostas, depósitos, saques, prêmios, saldos remanescentes, restituições e receitas obtidas durante o período de funcionamento. Pix e outras transações Para impedir a continuidade das apostas depois da proibição, a MP estabelece normas relacionadas ao sistema financeiro. Bancos, instituições de pagamento e demais participantes de arranjos de pagamento ficam proibidos de processar ou viabilizar transações destinadas às apostas de quota fixa. A exceção são as operações necessárias ao encerramento das atividades e à devolução do dinheiro aos apostadores. A vedação alcança também os sistemas de pagamento instantâneo. O Banco Central deverá criar um sistema de comunicação eletrônica para permitir a rejeição de transações e a devolução interbancária de recursos relacionados a apostas ilegais nas transferências de fundos em tempo real. Publicidade e patrocínios A medida também proíbe ações de publicidade, propaganda, marketing e patrocínio relacionadas às apostas de quota fixa em qualquer meio físico ou digital. A vedação alcança conteúdos que ofereçam, promovam, divulguem ou facilitem o acesso às apostas quando direcionados ao público brasileiro, independentemente do formato ou da existência de remuneração. Materiais publicitários e sinais de patrocínio já existentes deverão ser retirados em até dez dias após a publicação da MP. A regra não alcança conteúdo produzido antes da publicação da medida no qual a propaganda de apostas apareça apenas de forma acessória. A publicidade feita em desacordo com as novas regras será considerada abusiva para os fins do Código de Defesa do Consumidor e poderá resultar em sanções administrativas, inclusive contrapropaganda, sem prejuízo de responsabilidade civil e penal. Redes sociais e aplicativos A MP atribui novas responsabilidades às plataformas digitais. Os provedores de aplicações de internet terão o dever de prevenir e impedir a circulação de conteúdos que promovam ou facilitem o acesso às apostas, mesmo quando produzidos por terceiros. As plataformas também deverão retirar esses conteúdos quando notificadas por autoridade do Sistema Nacional de Defesa do Consumidor ou pelo Ministério da Justiça e Segurança Pública. Lojas de aplicativos e sistemas operacionais deverão impedir a disponibilização de produtos e serviços proibidos pela MP. O descumprimento poderá resultar em advertência, multa de até 10% do faturamento do grupo econômico no Brasil, multa diária e, em determinados casos, suspensão temporária ou proibição das atividades. Na ausência de faturamento, a multa varia de R$ 10 a R$ 1 mil por usuário cadastrado, limitada a R$ 50 milhões por infração. Bloqueio de sites O Ministério da Fazenda e o Ministério da Justiça e Segurança Pública poderão pedir o bloqueio ou redirecionamento dos sites que continuarem oferecendo apostas de quota fixa. A Agência Nacional de Telecomunicações (Anatel) ficará responsável por receber e distribuir as ordens administrativas de bloqueio às empresas que fornecem conexão à internet e a outros agentes envolvidos. O Comitê Gestor da Internet no Brasil (CGI.br) receberá as ordens relacionadas aos serviços de nomes registrados sob o domínio “.br”. A MP também cria o Comitê Interinstitucional de Fiscalização da Exploração e da Publicidade Ilegal de Apostas de Quota Fixa, coordenado pela Casa Civil. O colegiado deverá articular ações de prevenção, fiscalização e repressão à oferta, exploração e publicidade ilegais. Sua composição e funcionamento ainda serão definidos em regulamento. Polícia Federal, Receita Federal e Conselho de Controle de Atividades Financeiras (Coaf) deverão compartilhar informações necessárias à fiscalização, respeitadas as regras de proteção de dados e sigilo. Estados e Distrito Federal também deverão adotar medidas para cumprir a proibição e poderão firmar acordos de cooperação com a União. Justificativa Na exposição de motivos encaminhada ao Congresso, o governo afirma que a experiência acumulada desde o início do mercado regulado mostrou que os mecanismos de controle existentes não seriam suficientes para proteger adequadamente a saúde, os consumidores, crianças, adolescentes e a estabilidade financeira das famílias. Segundo o documento, estudos estimam que em 2025 a transferência líquida de recursos das famílias brasileiras para plataformas de apostas pode ter alcançado dezenas de bilhões de reais. O governo também associa a atividade a impactos sobre consumo, arrecadação e distribuição de renda e cita riscos relacionados ao jogo problemático, como endividamento, ansiedade, depressão, isolamento social e aumento do risco de suicídio. Essas afirmações integram a justificativa apresentada pelo Executivo para a edição da MP. Contas públicas A própria justificativa do governo reconhece que a proibição terá impacto sobre a arrecadação federal. A equipe econômica estima redução de receitas tributárias de R$ 1,541 bilhão em 2026, R$ 5,150 bilhões em 2027 e R$ 5,330 bilhões em 2028. Também calcula perda de R$ 38,4 milhões na arrecadação da taxa de fiscalização entre setembro e dezembro deste ano e de R$ 115,2 milhões em cada um dos dois anos seguintes — cerca de R$ 268,8 milhões no triênio. Segundo o Executivo, os efeitos de 2026 serão considerados no próximo Relatório de Avaliação Bimestral. Para 2027 e 2028, deverão ser encaminhadas informações adicionais ao projeto da Lei Orçamentária de 2027 para os ajustes nas receitas projetadas. Não haverá, segundo a exposição de motivos, perda relativa às outorgas já concedidas, porque os valores correspondentes foram integralmente pagos. Como nas demais propostas em tramitação no Senado, a população pode se manifestar sobre a MP por meio do Portal e-Cidadania. Até o momento da publicação desta matéria, quase 199 mil pessoas haviam opinado a favor da medida e 70,6 mil, contra.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/28/mp-proibe-bets-e-determina-encerramento-das-operacoes-em-30-dias",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-09-28T13:51:51Z",
+      "impacto": "alto",
+      "tags": [
+        "Prazo/Obrigação",
+        "Multa/Penalidade"
+      ],
+      "coletado_em": "2026-09-29T11:04:58",
+      "primeira_vez_em": "2026-09-29T11:04:58"
+    },
+    {
+      "id": "04949879f90b99d5",
+      "titulo": "Secretaria de Política Econômica projeta crescimento de 2% para o PIB em 2026 e 2,3% em 2027",
+      "resumo": "Estimativas constam do Boletim Macrofiscal de Setembro, divulgado nesta terça-feira (22/9)",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/secretaria-de-politica-economica-projeta-crescimento-de-2-para-o-pib-em-2026-e-2-3-em-2027",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "22/09/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-29T11:04:55",
+      "primeira_vez_em": "2026-09-23T11:03:36"
+    },
+    {
+      "id": "df996d0b9a71ff23",
+      "titulo": "Governo reduz contenção total das despesas em 2026 para R$ 16,1 bilhões",
+      "resumo": "Bloqueio diminuiu para R$ 2,4 bilhões e se soma a contingenciamento de R$ 13,6 bilhões; valores incorporam reajuste do Bolsa Família, ganhos de eficiência na Previdência e subsídios ao diesel",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/governo-reduz-contencao-total-das-despesas-em-2026-para-r-16-1-bilhoes",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "24/09/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-29T11:04:55",
+      "primeira_vez_em": "2026-09-25T11:03:57"
+    },
+    {
+      "id": "cbd9ff2907d67e2f",
+      "titulo": "Webinário gratuito ajuda empresas a acessar financiamento para economia circular",
+      "resumo": "Capacitação promovida pelo projeto PromEC ensina empresas a identificar linhas de crédito, editais e chamadas públicas e a estruturar propostas competitivas para financiar projetos de economia circular",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/webinario-gratuito-ajuda-empresas-a-acessar-financiamento-para-economia-circular",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "24/09/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-29T11:04:55",
+      "primeira_vez_em": "2026-09-25T11:03:57"
+    },
+    {
+      "id": "9f8c3a561dc3ff15",
+      "titulo": "Receita divulga novo balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "resumo": "Números registram mais de 328 mil solicitações pelo Simples Nacional e 447 mil pelo regime regular do IBS e da CBS.",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-divulga-novo-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "25/09/2026",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "Simples Nacional"
+      ],
+      "coletado_em": "2026-09-29T11:04:55",
+      "primeira_vez_em": "2026-09-26T11:03:28"
+    },
+    {
+      "id": "52e4dac25e6b82b4",
+      "titulo": "Receita Federal tira dúvida sobre opção pelo Simei, que permanece com prazo definido para janeiro",
+      "resumo": "A alteração do prazo de opção para setembro aplica-se ao Simples Nacional, e não ao Simei",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-federal-tira-duvida-sobre-opcao-pelo-simei-que-permanece-com-prazo-definido-para-janeiro",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "25/09/2026",
+      "impacto": "médio",
+      "tags": [
+        "Simples Nacional",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-09-29T11:04:55",
+      "primeira_vez_em": "2026-09-26T11:03:28"
+    },
+    {
+      "id": "c7c2321c84d08324",
+      "titulo": "Investimentos no Tesouro Direto somam R$ 15 bilhões em agosto",
+      "resumo": "Foram realizadas 1.320.001 operações de investimento em títulos do Tesouro Direto, totalizando 15 bilhões, o maior valor da série histórica",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/investimentos-no-tesouro-direto-somam-r-S-15-bilhoes-em-agosto",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "25/09/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-29T11:04:55",
+      "primeira_vez_em": "2026-09-26T11:03:28"
+    },
+    {
+      "id": "432d02075047561e",
+      "titulo": "Dívida Pública Federal totaliza R$ 9,29 trilhões em agosto",
+      "resumo": "Participação de títulos remunerados por taxa flutuante chega a 52,74%, maior percentual da série histórica iniciada em dezembro de 2000",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/divida-publica-federal-totaliza-r-9-29-trilhoes-em-agosto",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "28/09/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-29T11:04:55",
+      "primeira_vez_em": "2026-09-29T11:04:55"
+    },
+    {
+      "id": "62fb71c4160a376c",
+      "titulo": "Receita atualiza o balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "resumo": "Dados apresentam quantidade de solicitações recebidas e serão atualizados à medida que novos pedidos forem realizados",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-atualiza-o-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "28/09/2026",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "Simples Nacional"
+      ],
+      "coletado_em": "2026-09-29T11:04:55",
+      "primeira_vez_em": "2026-09-29T11:04:55"
+    },
+    {
+      "id": "4baf6d16f5f6d474",
+      "titulo": "Novo acesso ao Regularize para representantes de empresas",
+      "resumo": "Responsáveis por PJ já podem acessar serviços diretamente do Regularize por meio da conta gov.br",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/novo-acesso-ao-regularize-para-representantes-de-empresas",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "17/09/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-29T11:04:54",
+      "primeira_vez_em": "2026-09-17T15:43:05"
+    },
+    {
+      "id": "8af9031daf5b35f0",
+      "titulo": "Operação Bomba Oculta visa postos de combustíveis clandestinos",
+      "resumo": "Ação é desdobramento da Operação Carbono Oculto e conta com colaboração entre PGFN e diversas instituições",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/operacao-bomba-oculta-visa-postos-de-combustiveis-clandestinos",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "28/08/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-29T11:04:54",
+      "primeira_vez_em": "2026-09-17T15:43:05"
+    },
+    {
+      "id": "96e91c67f56c632d",
+      "titulo": "Seleção Nacional de Estagiários",
+      "resumo": "Inscrições são gratuitas e vão de 20 de agosto a 3 de setembro",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/selecao-nacional-de-estagiarios",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "19/08/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-29T11:04:54",
+      "primeira_vez_em": "2026-09-17T15:43:05"
+    },
+    {
+      "id": "34948173140ec564",
+      "titulo": "Informamos que não haverá atendimento nas unidades da PGFN em todo o Brasil, na terça-feira, 11 de agosto.",
+      "resumo": "Informamos que não haverá atendimento nas unidades da PGFN em todo o Brasil, na terça-feira, 11 de agosto.",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/informamos-que-nao-havera-atendimento-na-terca-feira-11-de-agosto",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "07/08/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-29T11:04:54",
+      "primeira_vez_em": "2026-09-17T15:43:05"
+    },
+    {
+      "id": "8bd7518c825c9b11",
+      "titulo": "Defeso Eleitoral 2026",
+      "resumo": "Links importantes que continuam ativos",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/defeso-eleitoral-2026",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "09/07/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-29T11:04:54",
+      "primeira_vez_em": "2026-09-17T15:43:05"
+    },
+    {
+      "id": "2b0c4bb2793ed187",
+      "titulo": "Novos editais de transação da PGFN estão disponíveis",
+      "resumo": "Contribuintes podem regularizar situação fiscal, inclusive no âmbito do Programa Desenrola Rural",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/novos-editais-de-transacao-da-pgfn-estao-disponiveis",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "22/06/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-29T11:04:54",
+      "primeira_vez_em": "2026-09-17T15:43:05"
+    },
+    {
+      "id": "b081958b5f7506fe",
+      "titulo": "Publicado o Perguntas e Respostas da NFS-e",
+      "resumo": "O material foi compilado com base nas dúvidas recebidas de Municípios, contribuintes e empresas de desenvolvimento",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/publicado-o-perguntas-e-respostas-da-nfs-e",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "16/09/2026",
+      "impacto": "médio",
+      "tags": [
+        "NFSe"
+      ],
+      "coletado_em": "2026-09-29T11:04:53",
+      "primeira_vez_em": "2026-09-17T15:43:04"
+    },
+    {
+      "id": "b329be74653055a3",
+      "titulo": "Secretaria Executiva do CGNFS-e participa de homologação de novas funcionalidades da Nota Fiscal de Serviço Eletrônica para a Reforma Tributária",
+      "resumo": "Atividades aconteceram na sede do Serpro em Belo Horizonte (MG)",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/secretaria-executiva-do-cgnfs-e-participa-de-homologacao-de-novas-funcionalidades-da-nota-fiscal-de-servico-eletronica-para-a-reforma-tributaria",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "05/09/2026",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NFSe"
+      ],
+      "coletado_em": "2026-09-29T11:04:53",
+      "primeira_vez_em": "2026-09-17T15:43:04"
+    },
+    {
+      "id": "46f050b2bd9a044c",
+      "titulo": "Comitê Gestor do Simples Nacional prorroga a obrigatoriedade de emissão de notas fiscais de serviço pelo Emissor Nacional da NFS-e",
+      "resumo": "Comitê Gestor do Simples Nacional prorroga a obrigatoriedade de emissão de notas fiscais de serviço pelo Emissor Nacional da NFS-e",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/comite-gestor-do-simples-nacional-prorroga-a-obrigatoriedade-de-emissao-de-notas-fiscais-de-servico-pelo-emissor-nacional-da-nfs-e",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "11/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "NFSe",
+        "Simples Nacional",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-09-29T11:04:53",
+      "primeira_vez_em": "2026-09-17T15:43:04"
+    },
+    {
+      "id": "b9c9daabd31b6e3e",
+      "titulo": "CGNFS-e orienta sobre os prazos para destaque de IBS/CBS nas notas fiscais de serviço",
+      "resumo": "Comitê Gestor do IBS e Receita Federal flexibilizaram a obrigatoriedade de informações nos documentos fiscais. Regras de validação que exigem informações do IBS e da CBS foram alteradas para evitar rejeição de documentos fiscais.",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/cgnfs-e-orienta-sobre-os-prazos-para%20destaque-de-ibs-cbs-nas-notas-fiscais-de-servico",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "07/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "NFSe",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-09-29T11:04:53",
+      "primeira_vez_em": "2026-09-17T15:43:04"
+    },
+    {
+      "id": "8ad9456dba6ac974",
+      "titulo": "Plataforma NFS-e disponibiliza novas evoluções em Produção Restrita e divulga cronograma de implantação",
+      "resumo": "Entre as evoluções estão o CNPJ Alfanumérico e os grupos IBS/CBS no Emissor Web",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/plataforma-nfs-e-disponibiliza-novas-evolucoes-em-producao-restrita-e-divulga-cronograma-de-implantacao",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "28/07/2026",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "NFSe"
+      ],
+      "coletado_em": "2026-09-29T11:04:53",
+      "primeira_vez_em": "2026-09-17T15:43:04"
+    },
+    {
+      "id": "0b7a31ff3defd6f2",
+      "titulo": "Manutenção no ambiente do CNPJ neste sábado (25) não afetará os principais serviços da NFS-e",
+      "resumo": "Apenas os serviços de criação de usuário e recuperação de senha do Portal do Contribuinte serão afetados",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/manutencao-no-ambiente-do-cnpj-neste-sabado-25-nao-afetara-os-principais-servicos-da-nfs-e",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "23/07/2026",
+      "impacto": "médio",
+      "tags": [
+        "NFSe"
+      ],
+      "coletado_em": "2026-09-29T11:04:53",
+      "primeira_vez_em": "2026-09-17T15:43:04"
+    },
+    {
+      "id": "d448d576b31f4e14",
+      "titulo": "DANFSE: novos ajustes e prorrogação do prazo para adequação",
+      "resumo": "Novo prazo passa a ser 3 de agosto de 2026",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/danfse-novos-ajustes-de-leiaute-e-prorrogacao-do-prazo-para-adequacao",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "14/07/2026",
+      "impacto": "médio",
+      "tags": [
+        "NFSe",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-09-29T11:04:53",
+      "primeira_vez_em": "2026-09-17T15:43:04"
+    },
+    {
+      "id": "21a7f1ac3d421137",
+      "titulo": "Nova funcionalidade no Painel Administrativo Municipal permite antecipar a adoção do Emissor Nacional para optantes pelo Simples Nacional",
+      "resumo": "Nova funcionalidade no Painel Administrativo Municipal permite antecipar a adoção do Emissor Nacional para optantes pelo Simples Nacional",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/nova-funcionalidade-no-painel-administrativo-municipal-permite-antecipar-a-adocao-do-emissor-nacional-para-optantes-pelo-simples-nacional",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "28/09/2026",
+      "impacto": "médio",
+      "tags": [
+        "Simples Nacional"
+      ],
+      "coletado_em": "2026-09-29T11:04:53",
+      "primeira_vez_em": "2026-09-29T11:04:53"
+    },
+    {
+      "id": "61e71ca77fffd240",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 009",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-009-se-cgnfse-v1-0-1.pdf",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:04:52",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "0c1964e9f04584db",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 008",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre o DANFSe.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-008-se-cgnfse-danfse-20260714-v1-02.pdf",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:04:52",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "046e01fae8b56c6d",
+      "titulo": "AnexoVIII versão 1.01.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
+      "resumo": "AnexoVIII versão 1.01.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/anexoviii-correlacaoitemnbsindopcclasstrib_ibscbs_v1-01-00.xlsx",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-29T11:04:52",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "f6ee5f1d56c00209",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 007",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e e esclarecimentos acerca da plataforma NFS-e.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-007-se-cgnfse-v1-0.pdf",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:04:52",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "d00ea00b82d8e1fa",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 006",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e Via, dado o contexto da Reforma Tributária do Consumo.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-006-se-cgnfse-leiaute-nfse-via.pdf",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:04:52",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "09a31ac05b22905c",
+      "titulo": "AnexoVIII versão 1.00.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
+      "resumo": "AnexoVIII versão 1.00.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/anexoviii-correlacaoitemnbsindopcclasstrib_ibscbs_v1-00-00.xlsx",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-29T11:04:52",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "e03b66d584fbef2c",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 005",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-005-se-cgnfse-novo-layout-rtc.pdf",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:04:52",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "2112c58dfa782067",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 004",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/producao-restrita/nt-004-se-cgnfse-novo-layout-rtc-v2-00-20251210.pdf",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:04:52",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "4adf744f945fd69f",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 003",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-003-1-2-se-cgnfse-novo-layout-rtc.pdf",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:04:52",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "78ad827b6b8ebe84",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 002",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nota-tecnica-se-cgnfs-e-no-002-de-28-de-fevereiro-de-2025",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-09-29T11:04:52",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "08398f1e2c89c97b",
+      "titulo": "Receita Federal disponibilizará a versão web da DITR 2026",
+      "resumo": "Serviço permite preencher, transmitir, retificar e consultar a Declaração do Imposto sobre a Propriedade Territorial Rural de forma on-line.",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-disponibilizara-a-versao-web-da-ditr-2026",
+      "fonte": "Receita Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-07-22T16:51:56Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-29T11:04:35",
+      "primeira_vez_em": "2026-09-17T15:42:58"
+    },
+    {
+      "id": "246d24ac1d0cd774",
+      "titulo": "Receita Federal informa parada programada do Sistema de Leilão Eletrônico",
+      "resumo": "Serviço ficará indisponível no dia 23 de julho de 2026, das 6h às 16h, para implantação do CNPJ Alfanumérico",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-informa-parada-programada-do-sistema-de-leilao-eletronico",
+      "fonte": "Receita Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-07-20T19:54:16Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-29T11:04:35",
+      "primeira_vez_em": "2026-09-17T15:42:58"
+    },
+    {
+      "id": "2de55424d6f704af",
+      "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+      "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+      "fonte": "Receita Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-07-22T17:02:38Z",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "CBS",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-09-29T11:04:35",
+      "primeira_vez_em": "2026-09-17T15:42:58"
+    },
     {
       "id": "4cb90c79835b4cd1",
       "titulo": "WebServices de Distribuição e Alteração cadastral do PAA disponíveis na SVRS",
@@ -368,359 +1358,6 @@ const RADAR_DADOS = {
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     {
-      "id": "222b7164033dafb3",
-      "titulo": "Governo de MT suspende notícias institucionais do Portal em cumprimento às normas eleitorais Veja Mais",
-      "resumo": "Governo de MT suspende notícias institucionais do Portal em cumprimento às normas eleitorais Veja Mais",
-      "link": "https://www5.sefaz.mt.gov.br/web/mt/w/governo-de-mt-suspende-not%C3%ADcias-institucionais-do-portal-em-cumprimento-%C3%A0s-normas-eleitorais",
-      "fonte": "SEFAZ MT",
-      "esfera": "estadual",
-      "uf": "MT",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-28T11:05:46",
-      "primeira_vez_em": "2026-09-17T15:43:41"
-    },
-    {
-      "id": "8b919b7384234279",
-      "titulo": "Consulta de Notas Fiscais",
-      "resumo": "Consulta de Notas Fiscais",
-      "link": "https://sefaz.es.gov.br/consultanota",
-      "fonte": "SEFAZ ES",
-      "esfera": "estadual",
-      "uf": "ES",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-28T11:05:23",
-      "primeira_vez_em": "2026-09-17T15:43:36"
-    },
-    {
-      "id": "f3fce5f00b2dda14",
-      "titulo": "Nota Técnica 2026.001 v.1.00 - Publicada em 04/02/2026",
-      "resumo": "Divulga especificação técnica para vinculação entre DF-e e transação financeira sujeita ao split payment",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=uMPDzXnMsk4=",
-      "fonte": "NFGas - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:35",
-      "primeira_vez_em": "2026-09-17T15:43:13"
-    },
-    {
-      "id": "1c95e3cfa05a4c5c",
-      "titulo": "Nota Técnica 2026.002 v.1.01a - Publicada em 14/08/2026",
-      "resumo": "Nota Técnica 2026.002 v.1.01a - Publicada em 14/08/2026",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=yoV266/AUt0=",
-      "fonte": "NFCom - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:33",
-      "primeira_vez_em": "2026-09-17T15:43:13"
-    },
-    {
-      "id": "77284a5831435b93",
-      "titulo": "Nota Técnica 2026.002 v.1.01 - Publicada em 01/08/2026 - Publicada em 01/08/2026",
-      "resumo": "Nota Técnica 2026.002 v.1.01 - Publicada em 01/08/2026 - Publicada em 01/08/2026",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=JXMz63INn4E=",
-      "fonte": "NF3e - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:31",
-      "primeira_vez_em": "2026-09-17T15:43:12"
-    },
-    {
-      "id": "8edf3d8590ef2ea3",
-      "titulo": "Nota Técnica 2025.001 v.1.14a - Publicada em 12/03/2026",
-      "resumo": "Nota Técnica 2025.001 v.1.14a - Publicada em 12/03/2026",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=2zh6tdrFcGg=",
-      "fonte": "NF3e - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:31",
-      "primeira_vez_em": "2026-09-17T15:43:12"
-    },
-    {
-      "id": "db0e168e9dc70ff3",
-      "titulo": "Nota Técnica 2026.001 v.1.01 - Publicada em 02/03/2026 - Publicada em 02/03/2026",
-      "resumo": "Nota Técnica 2026.001 v.1.01 - Publicada em 02/03/2026 - Publicada em 02/03/2026",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=8jS1eZoTbbs=",
-      "fonte": "NF3e - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:31",
-      "primeira_vez_em": "2026-09-17T15:43:12"
-    },
-    {
-      "id": "a271f22fd8b60fbd",
-      "titulo": "Nota Técnica 2026.002 v.1.00 - Publicada em 10/06/2026",
-      "resumo": "Divulga alterações de leiaute e regras de validação",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=Wld322n6MEU=",
-      "fonte": "NFAg - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:30",
-      "primeira_vez_em": "2026-09-17T15:43:11"
-    },
-    {
-      "id": "c3ebc4e3910e68c9",
-      "titulo": "Nota Técnica 2026.001 v.1.01 - Publicada em 02/03/2026",
-      "resumo": "Divulga especificação técnica para vinculação entre DF-e e transação financeira sujeita ao split payment",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=MyOfjogTTIo=",
-      "fonte": "NFAg - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:30",
-      "primeira_vez_em": "2026-09-17T15:43:11"
-    },
-    {
-      "id": "cf3d354183a6412b",
-      "titulo": "Nota Técnica 2026.001 v.1.00 - Publicado em 04/02/2026",
-      "resumo": "Divulga especificação técnica para vinculação entre DF-e e transação financeira sujeita ao split payment",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=f9R6A 5SmSE=",
-      "fonte": "NFAg - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:30",
-      "primeira_vez_em": "2026-09-17T15:43:11"
-    },
-    {
-      "id": "07af53545ad6a955",
-      "titulo": "Nota Técnica 2026.009 v.1.00 - Publicada em 09/09/2026",
-      "resumo": "Divulga correção em regra de validação",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=ADlgg2xjMZI=",
-      "fonte": "NF-e - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:28",
-      "primeira_vez_em": "2026-09-17T15:43:10"
-    },
-    {
-      "id": "e38892674e142a10",
-      "titulo": "Nota Técnica 2026.002 v.1.10a - Publicada em 25/08/2026",
-      "resumo": "Operações de vendas presenciais e não presenciais com impressão do DANFE Simplificado Tipo 2",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=8zOzIahvn8I=",
-      "fonte": "NF-e - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NFe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:28",
-      "primeira_vez_em": "2026-09-17T15:43:10"
-    },
-    {
-      "id": "81db86e8434c0e4f",
-      "titulo": "Nota Técnica 2026.006 v.1.00 - Publicada em 25/08/2026",
-      "resumo": "Divulga especificação técnica para vinculação entre NF-e e transação financeira sujeita ao split payment",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=k7zG06n5M6I=",
-      "fonte": "NF-e - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NFe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:28",
-      "primeira_vez_em": "2026-09-17T15:43:10"
-    },
-    {
-      "id": "e2a50ae8eccfe1a8",
-      "titulo": "Nota Técnica 2014.001 v.1.41 - Publicada em 04/08/2026",
-      "resumo": "Divulga especificação técnica para emissão do Evento Prévio de Emissão em Contingência (EPEC)",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=9hgG  cH8gA=",
-      "fonte": "NF-e - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:28",
-      "primeira_vez_em": "2026-09-17T15:43:10"
-    },
-    {
-      "id": "e4937f762f128a36",
-      "titulo": "Nota Técnica 2026.007 v.1.00 - Publicada em 04/08/2026",
-      "resumo": "Regras de validação e atualiza regras existentes da NF-e/NFC-e para verificação dos cadastros na Lista Centralizada de Contribuintes da RFB (LCC-RFB) e no Cadastro Centralizado de Contribuintes (CCC).",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=jVEAeMhv83w=",
-      "fonte": "NF-e - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NFe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:28",
-      "primeira_vez_em": "2026-09-17T15:43:10"
-    },
-    {
-      "id": "c79576affbd403f5",
-      "titulo": "Nota Técnica 2025.002 v.1.51 - Publicada em 04/08/2026",
-      "resumo": "Nota técnica de adequação dos leiautes da NF-e e da NFC-e para inclusão dos campos e das regras de validação referentes à Reforma Tributária do Consumo - RTC",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=AKD/muSmiIY=",
-      "fonte": "NF-e - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:28",
-      "primeira_vez_em": "2026-09-17T15:43:10"
-    },
-    {
-      "id": "7f41fe5f1640b502",
-      "titulo": "Nota Técnica 2026.001 v.1.02b - Publicada em 31/07/2026",
-      "resumo": "Especifica o Provedor de Assinatura e Autorização (PAA) no âmbito da NF-e.",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=AlgHfV6gpAU=",
-      "fonte": "NF-e - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NFe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:28",
-      "primeira_vez_em": "2026-09-17T15:43:10"
-    },
-    {
-      "id": "8640ac9406476bfb",
-      "titulo": "Nota Técnica 2014.002 - v.1.40 - Publicada em 03/07/2026",
-      "resumo": "Web Service de distribuição de documentos fiscais eletrônicos.",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=uWO2d/gTuWg=",
-      "fonte": "NF-e - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:28",
-      "primeira_vez_em": "2026-09-17T15:43:10"
-    },
-    {
-      "id": "875f51f99732d992",
-      "titulo": "Nota Técnica 2021.003 - v.1.50 - Publicada em 25/09/2026",
-      "resumo": "Divulga alteração nas regras de validação do GTIN",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=ENot2yWE72Q=",
-      "fonte": "NF-e - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:28",
-      "primeira_vez_em": "2026-09-26T11:03:34"
-    },
-    {
-      "id": "4b70d64501a39e0c",
-      "titulo": "Nota Técnica 2023.003 v.1.40 - Publicada em 25/09/2026",
-      "resumo": "Alteração de regras de validação.",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=JSxhEY85vRU=",
-      "fonte": "NF-e - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:28",
-      "primeira_vez_em": "2026-09-26T11:03:34"
-    },
-    {
-      "id": "ab536155901eba7a",
-      "titulo": "Editadas medidas provisórias contra bets e endividamento das famílias",
-      "resumo": "Foram editadas pela Presidência da República nesta sexta-feira (25) duas medidas provisórias: a MP 1.393, com ações para aliviar a situação de endividamento das famílias, programa batizado como Desenrola Brasil 3.0; e a MP 1.394, proibindo as chamadas loterias de apostas de quota fixa, conhecidas como bets. No mesmo evento em São Paulo que tratou da edição das MPs, também foi anunciado um projeto de lei de iniciativa do Poder Executivo, que tipifica crimes relacionados aos jogos de azar on-line. As MPs passaram a valer a partir de sua publicação, em edição extra do Diário Oficial da União. Calendário A partir da publicação da MP, não serão mais permitidas as apostas on-line no país. No caso de aportes já feitos, a MP prevê a devolução dos saldos em contas em sites desse tipo. Também a partir da entrada em vigor do texto, não será permitida nova contratação de publicidade de apostas. O que já foi contratado poderá ser veiculado até o dia 5 de outubro, quando também deverá ocorrer a retirada dos sinais visíveis de patrocínio. Veja algumas datas do calendário da MP. 5 de outubro: prazo para os usuários retirarem voluntariamente o dinheiro dos aportes que fizeram nas plataformas. 6 de outubro: sites de apostas serão bloqueados no país, redirecionando à informação sobre a devolução de valores. 7 e 8 de outubro: empresas de apostas informarão aos bancos os saldos das contas dos apostadores. 9 a 14 de outubro: os bancos farão a devolução dos valores aos apostadores que tiverem contas. A partir de 14 de outubro: em caso de algum impedimento no processo, a Caixa Econômica Federal intermediará a devolução aos apostadores. Proteção Segundo o ministro da Saúde, Alexandre Padilha, entre 2018 e 2025 os atendimentos no Sistema Único de Saúde (SUS) cresceram cerca de 140% para questões ligadas ao jogo patológico. O ministro do Planejamento e Orçamento, Bruno Moretti, explicou no evento de apresentação das medidas provisórias que o público-alvo da MP para redução do endividamento são as famílias com dívidas em atraso de dois anos a quatro anos e meio. A estimativa é que as dívidas dessas famílias cheguem a R$ 300 bilhões. O objetivo é reduzir em 50% esse valor. De acordo com o ministro da Justiça, Wellington Lima e Silva, o governo reforçará a remoção de sites ilegais e investigações das movimentações financeiras. Veja algumas medidas previstas na MP do fim das bets: Força-tarefa composta por diversos órgãos do governo; Integração de forças e compartilhamento de informações estratégicas; Reforço da estrutura do Ministério da Justiça e da Polícia Federal sobre o tema; Oferecimento do canal www.gov.br/falabr para denúncias sobre bets e jogos on-line. Projeto de lei O governo anunciou que vai enviar ao Legislativo um projeto de lei que tipifica crimes específicos relacionados aos jogos on line. De acordo com a minuta do projeto, a pena será de quatro até seis anos de cadeia, além de multa, para quem operar ou explorar as bets de forma irregular. Influenciadores que lucram com a divulgação de apostas ilegais também poderão ser responsabilizados pela proposta, com pena de até quatro anos de prisão. O texto também vai, segundo o Executivo, transformar em crime o uso de dados pessoais com o objetivo de captar apostadores ou direcionar publicidade de bets. A pessoa que fornecer, negociar, comercializar ou utilizar cadastros e listas de dados para essa finalidade poderá pegar de dois a quatro anos de cadeia, além de multa. As MPs são editadas pelo governo federal e passam a ter efeito imediatamente, mas precisam ser aprovadas pela Câmara dos Deputados e pelo Senado em até 120 dias para continuarem em vigor. Se não forem votadas nesse período, perdem a eficácia.",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/25/poder-executivo-anuncia-mps-contra-bets-e-endividamento-das-familias",
-      "fonte": "Senado Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-09-25T23:27:54Z",
-      "impacto": "alto",
-      "tags": [
-        "Prazo/Obrigação",
-        "Multa/Penalidade"
-      ],
-      "coletado_em": "2026-09-28T11:04:25",
-      "primeira_vez_em": "2026-09-26T11:03:32"
-    },
-    {
-      "id": "b3aa59c37e8bdebb",
-      "titulo": "Sessão destaca excelência do ensino da Escola Superior de Ciências da Saúde",
-      "resumo": "O Senado fez nesta sexta-feira (25) sessão especial em homenagem aos 25 anos da Fundação de Ensino e Pesquisa em Ciências da Saúde (Fepecs) e da Escola Superior de Ciências da Saúde (a ESCS, mantida pela fundação). O autor da homenagem foi o senador Izalci Lucas (PL-DF), que destacou a relevância das instituições públicas de ensino do Distrito Federal para a inovação tecnológica e o fortalecimento do Sistema Único de Saúde (SUS). Izalci ressaltou ainda que o ensino da ESCS expõe os alunos à realidade e lembrou que mais de 2 mil médicos e enfermeiros já foram formados pela instituição, criada para formar profissionais alinhados aos princípios do Sistema Único de Saúde (SUS). Em 2007, disse Izalci, a medicina da ESCS foi uma das oito instituições do Brasil a obter nota máxima no Exame Nacional de Desempenho dos Estudantes (Enad), o que se repetiu em 2023, ao lado da Universidade de Brasília (UnB). A enfermagem, por sua vez, nunca perdeu a nota máxima desde a sua primeira avaliação, em 2013, repetindo o resultado em 2016, 2019 e 2023. — Mais do que sorte, isso é método: formar dentro do Sistema [Único de Saúde] para o Sistema, com o professor que também está de plantão e o aluno que aprende olhando para o paciente, não para ilustrações desenhadas em um quadro — afirmou. A senadora Damares Alves (Republicanos-DF), por sua vez, defendeu o fortalecimento da Fepecs e da ESCS e a valorização de seus profissionais: — Sempre defendi o investimento em pesquisa; nossa nação precisa pensar em mais pesquisa. O Distrito Federal pode ser o maior centro de pesquisa do país. Nós nunca vamos competir com Mato Grosso na agricultura, no turismo com o Nordeste, com a indústria de São Paulo, mas nós podemos ser o maior polo e o maior centro de pesquisa, e isso ser visto como geração de renda, emprego e PIB. 'Missão clara' Diretora-executiva da Fepecs, Vanessa Dalva Guimarães Campos disse que instituição nasceu com uma missão muito clara: aproximar educação, ciência e saúde pública, formando profissionais e produzindo conhecimento e pesquisa a partir das necessidades sociais da população do Distrito Federal. — Ao longo desses 25 anos, várias pessoas ajudaram a construir essa história. Gestores, servidores, docentes, preceptores, pesquisadores, estudantes, residentes deixaram na Fepecs e na Secretaria de Saúde [do DF] sua contribuição. Muitos chegaram como alunos e hoje são profissionais que cuidam da população, ensinam novas gerações e contribuem para o SUS. Por isso esse jubileu de prata pertence a todos eles. Projeto inovador Diretora-substituta da ESCS, Cláudia Regina Zaramella disse que a sessão especial representa o reconhecimento da instituição e de uma história construída por pessoas comprometidas com a saúde da população do DF. Ela prestou homenagem à memória do médico Jofran Frejat, secretário de Saúde do Distrito Federal cuja atuação foi decisiva para a criação da Fepecs e da ESCS, em 2001. — Sua visão e seu compromisso com a saúde pública lançaram as bases de um projeto educacional inovador e ousado, que aproxima a formação de médico e enfermeiros das necessidades da população e do SUS — declarou a diretora. Modelo de ensino A sessão solene abriu espaço para a manifestação de representantes dos estudantes. Presidente do centro acadêmico do curso de enfermagem da ESCS, Kécyo Dayvid Lopes Gomes destacou o modelo de ensino público que revolucionou a formação em saúde no Distrito Federal e no Brasil. — Carregar o símbolo da ESCS no jaleco representa uma grande responsabilidade, mas que se traduz em excelência, respeito e trabalho duro. Somos frutos de uma escola que ousou ensinar diferente, colocando-nos desde os primeiros passos em contato direto com a comunidade através da metodologia ativa e do aprendizado baseado em problemas. Representante do centro acadêmico do curso de medicina da ESCS, Marcos Eduardo Vieira de Paula destacou que a proposta de construção da escola desafiou o ceticismo tradicional para edificar uma instituição de ensino superior dotada de uma singularidade: nasceu sob o signo de um propósito estrito, perene e irrenunciável de formar profissionais para a saúde pública. — A ESCS foi gestada para ser uma escola do SUS, para o SUS e pelo SUS. Não fomos erguidos para habitar uma torre de marfim do academicismo estéril, não fomos criados para formar profissionais alheios à dor social, encastelados em gabinetes isolados. A ESCS nasceu das entranhas do serviço público, foi concebida no chão batido da assistência — afirmou. Vieira de Paula também defendeu a aprovação de projeto de lei complementar, elaborado pela Procuradoria-Geral do Distrito Federal, que assegura à ESCS a preservação de sua identidade institucional e a restituição plena de sua autonomia didática-científica, administrativa e de gestão. Sonho coletivo Ex-coordenador do curso de enfermagem da ESCS, Rinaldo de Souza Neves disse que se sente honrado em fazer parte da história da instituição e de confirmar a concretização de um sonho coletivo. — Ao longo dessa trajetória, tive o privilégio de servir a nossa instituição em múltiplos papéis e muitos desafios também. É uma honra imensa comemorar este momento histórico e poder vivenciar juntos essa linda história. Professor do curso de medicina da ESCS, Alécio de Oliveira e Silva disse que celebrar a existência da instituição é reafirmar não só o compromisso de ensino de qualidade de medicina e de enfermagem, mas também a luta diária e de resistência contra todas as adversidades. — A gente precisa manter a integridade da ESCS, a alma essencial desde a sua fundação, para manter esse ensino de qualidade. É a primeira escola com nota máxima no DF. É importante a gente ver que [a escola] se tornou um patrimônio do DF. Somos o único curso do DF com nota máxima no Enamed [Exame Nacional de Avaliação da Formação Médica]. Ao final das manifestações, Izalci Lucas entregou aos participantes da sessão um diploma comemorativo em alusão aos 25 anos da ESCS e da Fepecs. A sessão foi encerrada com apresentação da bateria Histeria, do curso de enfermagem, e da bateria Bicuda, do curso de graduação de medicina da ESCS.",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/25/sessao-destaca-excelencia-do-ensino-da-escola-superior-de-ciencias-da-saude",
-      "fonte": "Senado Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-09-25T21:09:52Z",
-      "impacto": "baixo",
-      "tags": [],
-      "coletado_em": "2026-09-28T11:04:25",
-      "primeira_vez_em": "2026-09-26T11:03:32"
-    },
-    {
       "id": "f475bdaea7a9858c",
       "titulo": "Eleições 2026: Guia prático para eleitores",
       "resumo": "Eleições 2026: Guia prático para eleitores",
@@ -777,20 +1414,6 @@ const RADAR_DADOS = {
       "primeira_vez_em": "2026-09-26T11:03:32"
     },
     {
-      "id": "04949879f90b99d5",
-      "titulo": "Secretaria de Política Econômica projeta crescimento de 2% para o PIB em 2026 e 2,3% em 2027",
-      "resumo": "Estimativas constam do Boletim Macrofiscal de Setembro, divulgado nesta terça-feira (22/9)",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/secretaria-de-politica-economica-projeta-crescimento-de-2-para-o-pib-em-2026-e-2-3-em-2027",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "22/09/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-28T11:04:22",
-      "primeira_vez_em": "2026-09-23T11:03:36"
-    },
-    {
       "id": "6a7f50db16b34e5d",
       "titulo": "Arrecadação federal em agosto totaliza R$ 235,566 bilhões, apontam dados divulgados pela Receita Federal",
       "resumo": "Valor representa crescimento real de 8,25% em relação a agosto de 2025, segundo a Receita Federal",
@@ -824,288 +1447,6 @@ const RADAR_DADOS = {
       "primeira_vez_em": "2026-09-23T11:03:36"
     },
     {
-      "id": "df996d0b9a71ff23",
-      "titulo": "Governo reduz contenção total das despesas em 2026 para R$ 16,1 bilhões",
-      "resumo": "Bloqueio diminuiu para R$ 2,4 bilhões e se soma a contingenciamento de R$ 13,6 bilhões; valores incorporam reajuste do Bolsa Família, ganhos de eficiência na Previdência e subsídios ao diesel",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/governo-reduz-contencao-total-das-despesas-em-2026-para-r-16-1-bilhoes",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "24/09/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-28T11:04:22",
-      "primeira_vez_em": "2026-09-25T11:03:57"
-    },
-    {
-      "id": "cbd9ff2907d67e2f",
-      "titulo": "Webinário gratuito ajuda empresas a acessar financiamento para economia circular",
-      "resumo": "Capacitação promovida pelo projeto PromEC ensina empresas a identificar linhas de crédito, editais e chamadas públicas e a estruturar propostas competitivas para financiar projetos de economia circular",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/webinario-gratuito-ajuda-empresas-a-acessar-financiamento-para-economia-circular",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "24/09/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-28T11:04:22",
-      "primeira_vez_em": "2026-09-25T11:03:57"
-    },
-    {
-      "id": "9f8c3a561dc3ff15",
-      "titulo": "Receita divulga novo balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
-      "resumo": "Números registram mais de 328 mil solicitações pelo Simples Nacional e 447 mil pelo regime regular do IBS e da CBS.",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-divulga-novo-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "25/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "CBS",
-        "Simples Nacional"
-      ],
-      "coletado_em": "2026-09-28T11:04:22",
-      "primeira_vez_em": "2026-09-26T11:03:28"
-    },
-    {
-      "id": "52e4dac25e6b82b4",
-      "titulo": "Receita Federal tira dúvida sobre opção pelo Simei, que permanece com prazo definido para janeiro",
-      "resumo": "A alteração do prazo de opção para setembro aplica-se ao Simples Nacional, e não ao Simei",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-federal-tira-duvida-sobre-opcao-pelo-simei-que-permanece-com-prazo-definido-para-janeiro",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "25/09/2026",
-      "impacto": "médio",
-      "tags": [
-        "Simples Nacional",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-09-28T11:04:22",
-      "primeira_vez_em": "2026-09-26T11:03:28"
-    },
-    {
-      "id": "c7c2321c84d08324",
-      "titulo": "Investimentos no Tesouro Direto somam R$ 15 bilhões em agosto",
-      "resumo": "Foram realizadas 1.320.001 operações de investimento em títulos do Tesouro Direto, totalizando 15 bilhões, o maior valor da série histórica",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/investimentos-no-tesouro-direto-somam-r-S-15-bilhoes-em-agosto",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "25/09/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-28T11:04:22",
-      "primeira_vez_em": "2026-09-26T11:03:28"
-    },
-    {
-      "id": "4baf6d16f5f6d474",
-      "titulo": "Novo acesso ao Regularize para representantes de empresas",
-      "resumo": "Responsáveis por PJ já podem acessar serviços diretamente do Regularize por meio da conta gov.br",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/novo-acesso-ao-regularize-para-representantes-de-empresas",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "17/09/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-28T11:04:20",
-      "primeira_vez_em": "2026-09-17T15:43:05"
-    },
-    {
-      "id": "8af9031daf5b35f0",
-      "titulo": "Operação Bomba Oculta visa postos de combustíveis clandestinos",
-      "resumo": "Ação é desdobramento da Operação Carbono Oculto e conta com colaboração entre PGFN e diversas instituições",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/operacao-bomba-oculta-visa-postos-de-combustiveis-clandestinos",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "28/08/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-28T11:04:20",
-      "primeira_vez_em": "2026-09-17T15:43:05"
-    },
-    {
-      "id": "96e91c67f56c632d",
-      "titulo": "Seleção Nacional de Estagiários",
-      "resumo": "Inscrições são gratuitas e vão de 20 de agosto a 3 de setembro",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/selecao-nacional-de-estagiarios",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "19/08/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-28T11:04:20",
-      "primeira_vez_em": "2026-09-17T15:43:05"
-    },
-    {
-      "id": "34948173140ec564",
-      "titulo": "Informamos que não haverá atendimento nas unidades da PGFN em todo o Brasil, na terça-feira, 11 de agosto.",
-      "resumo": "Informamos que não haverá atendimento nas unidades da PGFN em todo o Brasil, na terça-feira, 11 de agosto.",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/informamos-que-nao-havera-atendimento-na-terca-feira-11-de-agosto",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "07/08/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-28T11:04:20",
-      "primeira_vez_em": "2026-09-17T15:43:05"
-    },
-    {
-      "id": "8bd7518c825c9b11",
-      "titulo": "Defeso Eleitoral 2026",
-      "resumo": "Links importantes que continuam ativos",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/defeso-eleitoral-2026",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "09/07/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-28T11:04:20",
-      "primeira_vez_em": "2026-09-17T15:43:05"
-    },
-    {
-      "id": "2b0c4bb2793ed187",
-      "titulo": "Novos editais de transação da PGFN estão disponíveis",
-      "resumo": "Contribuintes podem regularizar situação fiscal, inclusive no âmbito do Programa Desenrola Rural",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/novos-editais-de-transacao-da-pgfn-estao-disponiveis",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "22/06/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-28T11:04:20",
-      "primeira_vez_em": "2026-09-17T15:43:05"
-    },
-    {
-      "id": "b081958b5f7506fe",
-      "titulo": "Publicado o Perguntas e Respostas da NFS-e",
-      "resumo": "O material foi compilado com base nas dúvidas recebidas de Municípios, contribuintes e empresas de desenvolvimento",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/publicado-o-perguntas-e-respostas-da-nfs-e",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "16/09/2026",
-      "impacto": "médio",
-      "tags": [
-        "NFSe"
-      ],
-      "coletado_em": "2026-09-28T11:04:19",
-      "primeira_vez_em": "2026-09-17T15:43:04"
-    },
-    {
-      "id": "b329be74653055a3",
-      "titulo": "Secretaria Executiva do CGNFS-e participa de homologação de novas funcionalidades da Nota Fiscal de Serviço Eletrônica para a Reforma Tributária",
-      "resumo": "Atividades aconteceram na sede do Serpro em Belo Horizonte (MG)",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/secretaria-executiva-do-cgnfs-e-participa-de-homologacao-de-novas-funcionalidades-da-nota-fiscal-de-servico-eletronica-para-a-reforma-tributaria",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "05/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFSe"
-      ],
-      "coletado_em": "2026-09-28T11:04:19",
-      "primeira_vez_em": "2026-09-17T15:43:04"
-    },
-    {
-      "id": "46f050b2bd9a044c",
-      "titulo": "Comitê Gestor do Simples Nacional prorroga a obrigatoriedade de emissão de notas fiscais de serviço pelo Emissor Nacional da NFS-e",
-      "resumo": "Comitê Gestor do Simples Nacional prorroga a obrigatoriedade de emissão de notas fiscais de serviço pelo Emissor Nacional da NFS-e",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/comite-gestor-do-simples-nacional-prorroga-a-obrigatoriedade-de-emissao-de-notas-fiscais-de-servico-pelo-emissor-nacional-da-nfs-e",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "11/08/2026",
-      "impacto": "alto",
-      "tags": [
-        "NFSe",
-        "Simples Nacional",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-09-28T11:04:19",
-      "primeira_vez_em": "2026-09-17T15:43:04"
-    },
-    {
-      "id": "b9c9daabd31b6e3e",
-      "titulo": "CGNFS-e orienta sobre os prazos para destaque de IBS/CBS nas notas fiscais de serviço",
-      "resumo": "Comitê Gestor do IBS e Receita Federal flexibilizaram a obrigatoriedade de informações nos documentos fiscais. Regras de validação que exigem informações do IBS e da CBS foram alteradas para evitar rejeição de documentos fiscais.",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/cgnfs-e-orienta-sobre-os-prazos-para%20destaque-de-ibs-cbs-nas-notas-fiscais-de-servico",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "07/08/2026",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "CBS",
-        "NFSe",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-09-28T11:04:19",
-      "primeira_vez_em": "2026-09-17T15:43:04"
-    },
-    {
-      "id": "8ad9456dba6ac974",
-      "titulo": "Plataforma NFS-e disponibiliza novas evoluções em Produção Restrita e divulga cronograma de implantação",
-      "resumo": "Entre as evoluções estão o CNPJ Alfanumérico e os grupos IBS/CBS no Emissor Web",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/plataforma-nfs-e-disponibiliza-novas-evolucoes-em-producao-restrita-e-divulga-cronograma-de-implantacao",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "28/07/2026",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "CBS",
-        "NFSe"
-      ],
-      "coletado_em": "2026-09-28T11:04:19",
-      "primeira_vez_em": "2026-09-17T15:43:04"
-    },
-    {
-      "id": "0b7a31ff3defd6f2",
-      "titulo": "Manutenção no ambiente do CNPJ neste sábado (25) não afetará os principais serviços da NFS-e",
-      "resumo": "Apenas os serviços de criação de usuário e recuperação de senha do Portal do Contribuinte serão afetados",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/manutencao-no-ambiente-do-cnpj-neste-sabado-25-nao-afetara-os-principais-servicos-da-nfs-e",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "23/07/2026",
-      "impacto": "médio",
-      "tags": [
-        "NFSe"
-      ],
-      "coletado_em": "2026-09-28T11:04:19",
-      "primeira_vez_em": "2026-09-17T15:43:04"
-    },
-    {
-      "id": "d448d576b31f4e14",
-      "titulo": "DANFSE: novos ajustes e prorrogação do prazo para adequação",
-      "resumo": "Novo prazo passa a ser 3 de agosto de 2026",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/danfse-novos-ajustes-de-leiaute-e-prorrogacao-do-prazo-para-adequacao",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "14/07/2026",
-      "impacto": "médio",
-      "tags": [
-        "NFSe",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-09-28T11:04:19",
-      "primeira_vez_em": "2026-09-17T15:43:04"
-    },
-    {
       "id": "990de00c70b0bcde",
       "titulo": "NFS-e Via: Publicada nova API para consulta de alíquotas do ISS",
       "resumo": "As Administrações Municipais poderão consultar alíquotas de ISS por trecho e data",
@@ -1122,176 +1463,6 @@ const RADAR_DADOS = {
       ],
       "coletado_em": "2026-09-28T11:04:19",
       "primeira_vez_em": "2026-09-17T15:43:04"
-    },
-    {
-      "id": "61e71ca77fffd240",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 009",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-009-se-cgnfse-v1-0-1.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:18",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "0c1964e9f04584db",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 008",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre o DANFSe.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-008-se-cgnfse-danfse-20260714-v1-02.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:18",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "046e01fae8b56c6d",
-      "titulo": "AnexoVIII versão 1.01.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
-      "resumo": "AnexoVIII versão 1.01.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/anexoviii-correlacaoitemnbsindopcclasstrib_ibscbs_v1-01-00.xlsx",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-28T11:04:18",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "f6ee5f1d56c00209",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 007",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e e esclarecimentos acerca da plataforma NFS-e.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-007-se-cgnfse-v1-0.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:18",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "d00ea00b82d8e1fa",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 006",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e Via, dado o contexto da Reforma Tributária do Consumo.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-006-se-cgnfse-leiaute-nfse-via.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:18",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "09a31ac05b22905c",
-      "titulo": "AnexoVIII versão 1.00.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
-      "resumo": "AnexoVIII versão 1.00.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/anexoviii-correlacaoitemnbsindopcclasstrib_ibscbs_v1-00-00.xlsx",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-28T11:04:18",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "e03b66d584fbef2c",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 005",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-005-se-cgnfse-novo-layout-rtc.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:18",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "2112c58dfa782067",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 004",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/producao-restrita/nt-004-se-cgnfse-novo-layout-rtc-v2-00-20251210.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:18",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "4adf744f945fd69f",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 003",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-003-1-2-se-cgnfse-novo-layout-rtc.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:18",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "78ad827b6b8ebe84",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 002",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nota-tecnica-se-cgnfs-e-no-002-de-28-de-fevereiro-de-2025",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-28T11:04:18",
-      "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
       "id": "6e748567f4cb33c5",
@@ -1436,52 +1607,6 @@ const RADAR_DADOS = {
       ],
       "coletado_em": "2026-09-28T11:04:17",
       "primeira_vez_em": "2026-09-25T11:03:52"
-    },
-    {
-      "id": "08398f1e2c89c97b",
-      "titulo": "Receita Federal disponibilizará a versão web da DITR 2026",
-      "resumo": "Serviço permite preencher, transmitir, retificar e consultar a Declaração do Imposto sobre a Propriedade Territorial Rural de forma on-line.",
-      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-disponibilizara-a-versao-web-da-ditr-2026",
-      "fonte": "Receita Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-07-22T16:51:56Z",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-28T11:04:13",
-      "primeira_vez_em": "2026-09-17T15:42:58"
-    },
-    {
-      "id": "246d24ac1d0cd774",
-      "titulo": "Receita Federal informa parada programada do Sistema de Leilão Eletrônico",
-      "resumo": "Serviço ficará indisponível no dia 23 de julho de 2026, das 6h às 16h, para implantação do CNPJ Alfanumérico",
-      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-informa-parada-programada-do-sistema-de-leilao-eletronico",
-      "fonte": "Receita Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-07-20T19:54:16Z",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-28T11:04:13",
-      "primeira_vez_em": "2026-09-17T15:42:58"
-    },
-    {
-      "id": "2de55424d6f704af",
-      "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
-      "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
-      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
-      "fonte": "Receita Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-07-22T17:02:38Z",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "CBS",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-09-28T11:04:13",
-      "primeira_vez_em": "2026-09-17T15:42:58"
     },
     {
       "id": "5a2a272341f6a971",
