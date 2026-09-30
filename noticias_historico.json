@@ -11,7 +11,7 @@
       "data_publicacao": "23/07/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-28T11:04:12",
+      "coletado_em": "2026-09-30T11:04:51",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "1ca5429d7569b551": {
@@ -28,7 +28,7 @@
         "NFe",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-28T11:04:12",
+      "coletado_em": "2026-09-30T11:04:51",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "73b214f6161b9cb9": {
@@ -45,7 +45,7 @@
         "Reforma Tributária",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-28T11:04:12",
+      "coletado_em": "2026-09-30T11:04:51",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "607173e000fc3989": {
@@ -59,7 +59,7 @@
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-28T11:04:12",
+      "coletado_em": "2026-09-30T11:04:51",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "a9b85ebff2d35b2f": {
@@ -75,7 +75,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-28T11:04:12",
+      "coletado_em": "2026-09-30T11:04:51",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "74129502b829908e": {
@@ -93,7 +93,7 @@
         "CBS",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-28T11:04:12",
+      "coletado_em": "2026-09-30T11:04:51",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "e5fc5ae97dc8d1c2": {
@@ -107,7 +107,7 @@
       "data_publicacao": "14/01/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-28T11:04:12",
+      "coletado_em": "2026-09-30T11:04:51",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "07591671a87026e9": {
@@ -123,7 +123,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-09-28T11:04:12",
+      "coletado_em": "2026-09-30T11:04:51",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "08398f1e2c89c97b": {
@@ -137,7 +137,7 @@
       "data_publicacao": "2026-07-22T16:51:56Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-29T11:04:35",
+      "coletado_em": "2026-09-30T11:04:52",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     "246d24ac1d0cd774": {
@@ -151,7 +151,7 @@
       "data_publicacao": "2026-07-20T19:54:16Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-29T11:04:35",
+      "coletado_em": "2026-09-30T11:04:52",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     "2de55424d6f704af": {
@@ -169,7 +169,7 @@
         "CBS",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-29T11:04:35",
+      "coletado_em": "2026-09-30T11:04:52",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     "6e748567f4cb33c5": {
@@ -186,7 +186,7 @@
         "Reforma Tributária",
         "IBS"
       ],
-      "coletado_em": "2026-09-28T11:04:17",
+      "coletado_em": "2026-09-30T11:04:55",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
     "7b0095e4b757d45c": {
@@ -205,7 +205,7 @@
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-28T11:04:17",
+      "coletado_em": "2026-09-30T11:04:55",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
     "c2d217bc7764521d": {
@@ -221,7 +221,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-09-28T11:04:17",
+      "coletado_em": "2026-09-30T11:04:55",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
     "cb6ef015a7926445": {
@@ -237,7 +237,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-09-28T11:04:17",
+      "coletado_em": "2026-09-30T11:04:55",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
     "e7081cf0f4b1e195": {
@@ -336,7 +336,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:04:52",
+      "coletado_em": "2026-09-30T11:04:56",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "0c1964e9f04584db": {
@@ -353,7 +353,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:04:52",
+      "coletado_em": "2026-09-30T11:04:56",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "046e01fae8b56c6d": {
@@ -367,7 +367,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-29T11:04:52",
+      "coletado_em": "2026-09-30T11:04:56",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "f6ee5f1d56c00209": {
@@ -384,7 +384,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:04:52",
+      "coletado_em": "2026-09-30T11:04:56",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "d00ea00b82d8e1fa": {
@@ -402,7 +402,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:04:52",
+      "coletado_em": "2026-09-30T11:04:56",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "09a31ac05b22905c": {
@@ -416,7 +416,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-29T11:04:52",
+      "coletado_em": "2026-09-30T11:04:56",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "e03b66d584fbef2c": {
@@ -434,7 +434,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:04:52",
+      "coletado_em": "2026-09-30T11:04:56",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "2112c58dfa782067": {
@@ -452,7 +452,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:04:52",
+      "coletado_em": "2026-09-30T11:04:56",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "4adf744f945fd69f": {
@@ -470,7 +470,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:04:52",
+      "coletado_em": "2026-09-30T11:04:56",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "78ad827b6b8ebe84": {
@@ -488,7 +488,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:04:52",
+      "coletado_em": "2026-09-30T11:04:56",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "b081958b5f7506fe": {
@@ -504,7 +504,7 @@
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-09-29T11:04:53",
+      "coletado_em": "2026-09-30T11:04:57",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     "b329be74653055a3": {
@@ -521,7 +521,7 @@
         "Reforma Tributária",
         "NFSe"
       ],
-      "coletado_em": "2026-09-29T11:04:53",
+      "coletado_em": "2026-09-30T11:04:57",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     "46f050b2bd9a044c": {
@@ -539,7 +539,7 @@
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-29T11:04:53",
+      "coletado_em": "2026-09-30T11:04:57",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     "b9c9daabd31b6e3e": {
@@ -558,7 +558,7 @@
         "NFSe",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-29T11:04:53",
+      "coletado_em": "2026-09-30T11:04:57",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     "8ad9456dba6ac974": {
@@ -576,7 +576,7 @@
         "CBS",
         "NFSe"
       ],
-      "coletado_em": "2026-09-29T11:04:53",
+      "coletado_em": "2026-09-30T11:04:57",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     "0b7a31ff3defd6f2": {
@@ -592,7 +592,7 @@
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-09-29T11:04:53",
+      "coletado_em": "2026-09-30T11:04:57",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     "d448d576b31f4e14": {
@@ -609,7 +609,7 @@
         "NFSe",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-29T11:04:53",
+      "coletado_em": "2026-09-30T11:04:57",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     "990de00c70b0bcde": {
@@ -641,7 +641,7 @@
       "data_publicacao": "17/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-29T11:04:54",
+      "coletado_em": "2026-09-30T11:04:58",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     "8af9031daf5b35f0": {
@@ -655,7 +655,7 @@
       "data_publicacao": "28/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-29T11:04:54",
+      "coletado_em": "2026-09-30T11:04:58",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     "96e91c67f56c632d": {
@@ -669,7 +669,7 @@
       "data_publicacao": "19/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-29T11:04:54",
+      "coletado_em": "2026-09-30T11:04:58",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     "34948173140ec564": {
@@ -683,7 +683,7 @@
       "data_publicacao": "07/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-29T11:04:54",
+      "coletado_em": "2026-09-30T11:04:58",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     "8bd7518c825c9b11": {
@@ -697,7 +697,7 @@
       "data_publicacao": "09/07/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-29T11:04:54",
+      "coletado_em": "2026-09-30T11:04:58",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     "2b0c4bb2793ed187": {
@@ -711,7 +711,7 @@
       "data_publicacao": "22/06/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-29T11:04:54",
+      "coletado_em": "2026-09-30T11:04:58",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     "7ec70af6910740c7": {
@@ -939,7 +939,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:05:01",
+      "coletado_em": "2026-09-30T11:05:04",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "e38892674e142a10": {
@@ -956,7 +956,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:05:01",
+      "coletado_em": "2026-09-30T11:05:04",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "81db86e8434c0e4f": {
@@ -973,7 +973,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:05:01",
+      "coletado_em": "2026-09-30T11:05:04",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "e2a50ae8eccfe1a8": {
@@ -989,7 +989,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:05:01",
+      "coletado_em": "2026-09-30T11:05:04",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "e4937f762f128a36": {
@@ -1006,7 +1006,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:05:01",
+      "coletado_em": "2026-09-30T11:05:04",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "c79576affbd403f5": {
@@ -1024,7 +1024,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:05:01",
+      "coletado_em": "2026-09-30T11:05:04",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "7f41fe5f1640b502": {
@@ -1041,7 +1041,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:05:01",
+      "coletado_em": "2026-09-30T11:05:04",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "0859ec432b231549": {
@@ -1073,7 +1073,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:05:01",
+      "coletado_em": "2026-09-30T11:05:04",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "b4d2823b992dc0cb": {
@@ -1106,7 +1106,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:05:02",
+      "coletado_em": "2026-09-30T11:05:06",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "c3ebc4e3910e68c9": {
@@ -1122,7 +1122,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:05:02",
+      "coletado_em": "2026-09-30T11:05:06",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "cf3d354183a6412b": {
@@ -1138,7 +1138,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:05:02",
+      "coletado_em": "2026-09-30T11:05:06",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "77284a5831435b93": {
@@ -1154,7 +1154,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:05:04",
+      "coletado_em": "2026-09-30T11:05:07",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "8edf3d8590ef2ea3": {
@@ -1170,7 +1170,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:05:04",
+      "coletado_em": "2026-09-30T11:05:07",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "db0e168e9dc70ff3": {
@@ -1186,7 +1186,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:05:04",
+      "coletado_em": "2026-09-30T11:05:07",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "1c95e3cfa05a4c5c": {
@@ -1202,7 +1202,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:05:06",
+      "coletado_em": "2026-09-30T11:05:09",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     "f3fce5f00b2dda14": {
@@ -1218,7 +1218,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:05:07",
+      "coletado_em": "2026-09-30T11:05:11",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     "6e178b35e99185d5": {
@@ -1365,7 +1365,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-29T11:05:56",
+      "coletado_em": "2026-09-30T11:05:56",
       "primeira_vez_em": "2026-09-17T15:43:36"
     },
     "222b7164033dafb3": {
@@ -1379,7 +1379,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-29T11:06:17",
+      "coletado_em": "2026-09-30T11:06:16",
       "primeira_vez_em": "2026-09-17T15:43:41"
     },
     "f94584d6e23d07ae": {
@@ -1395,7 +1395,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-28T11:07:55",
+      "coletado_em": "2026-09-30T11:07:58",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     "c4bd59e18d311f35": {
@@ -1411,7 +1411,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-28T11:07:55",
+      "coletado_em": "2026-09-30T11:07:58",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     "e680433d3eefe8cd": {
@@ -1427,7 +1427,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-28T11:07:57",
+      "coletado_em": "2026-09-30T11:07:59",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     "ce7ddd9753d793fb": {
@@ -1443,7 +1443,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-28T11:07:57",
+      "coletado_em": "2026-09-30T11:07:59",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     "da3b5c5a1cc32cf3": {
@@ -1459,7 +1459,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-28T11:07:57",
+      "coletado_em": "2026-09-30T11:07:59",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     "be8638660c3332cb": {
@@ -1473,7 +1473,7 @@
       "data_publicacao": "29/05/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-28T11:07:59",
+      "coletado_em": "2026-09-30T11:08:01",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "5794323834606a06": {
@@ -1489,7 +1489,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-28T11:07:59",
+      "coletado_em": "2026-09-30T11:08:01",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "bc7500769f467d84": {
@@ -1505,7 +1505,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-28T11:07:59",
+      "coletado_em": "2026-09-30T11:08:01",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "552f0735a0423c26": {
@@ -1519,7 +1519,7 @@
       "data_publicacao": "26/11/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-28T11:08:01",
+      "coletado_em": "2026-09-30T11:08:02",
       "primeira_vez_em": "2026-09-17T15:44:34"
     },
     "58e10eba2750e488": {
@@ -1535,7 +1535,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-28T11:08:02",
+      "coletado_em": "2026-09-30T11:08:03",
       "primeira_vez_em": "2026-09-17T15:44:35"
     },
     "a4607235adf1b80f": {
@@ -1551,7 +1551,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-28T11:08:04",
+      "coletado_em": "2026-09-30T11:08:04",
       "primeira_vez_em": "2026-09-17T15:44:36"
     },
     "b676f2adf3c22d0a": {
@@ -1567,7 +1567,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-28T11:08:05",
+      "coletado_em": "2026-09-30T11:08:06",
       "primeira_vez_em": "2026-09-17T15:44:37"
     },
     "5af4c5ee52d4ce9c": {
@@ -1581,7 +1581,7 @@
       "data_publicacao": "30/03/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-28T11:08:07",
+      "coletado_em": "2026-09-30T11:08:07",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "a454d4d897b3839f": {
@@ -1595,7 +1595,7 @@
       "data_publicacao": "04/05/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-28T11:08:07",
+      "coletado_em": "2026-09-30T11:08:07",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "23085cc0899edc3f": {
@@ -1609,7 +1609,7 @@
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-28T11:08:07",
+      "coletado_em": "2026-09-30T11:08:07",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "fd3d7b1235ebc490": {
@@ -1625,7 +1625,7 @@
       "tags": [
         "Simples Nacional"
       ],
-      "coletado_em": "2026-09-28T11:08:07",
+      "coletado_em": "2026-09-30T11:08:07",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "98a8cf0b506f52a9": {
@@ -1639,7 +1639,7 @@
       "data_publicacao": "10/01/2024",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-28T11:08:07",
+      "coletado_em": "2026-09-30T11:08:07",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "7ce12346e4b886ec": {
@@ -1653,7 +1653,7 @@
       "data_publicacao": "15/12/2023",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-28T11:08:07",
+      "coletado_em": "2026-09-30T11:08:07",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "2d256ec029c6add1": {
@@ -1669,7 +1669,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-28T11:08:10",
+      "coletado_em": "2026-09-30T11:08:10",
       "primeira_vez_em": "2026-09-17T15:44:40"
     },
     "e31b387cddf7fd5d": {
@@ -1683,7 +1683,7 @@
       "data_publicacao": "19/10/2022",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-28T11:08:12",
+      "coletado_em": "2026-09-30T11:08:11",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     "c067fe8403247755": {
@@ -1699,7 +1699,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-28T11:08:12",
+      "coletado_em": "2026-09-30T11:08:11",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     "4cb90c79835b4cd1": {
@@ -1715,7 +1715,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-28T11:08:13",
+      "coletado_em": "2026-09-30T11:08:12",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "485fb61a2a751098": {
@@ -1729,7 +1729,7 @@
       "data_publicacao": "10/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-28T11:08:13",
+      "coletado_em": "2026-09-30T11:08:12",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "0b1cf5b29af11e57": {
@@ -1745,7 +1745,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-28T11:08:13",
+      "coletado_em": "2026-09-30T11:08:12",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "97ffee449e510079": {
@@ -1842,7 +1842,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-09-28T11:04:17",
+      "coletado_em": "2026-09-30T11:04:55",
       "primeira_vez_em": "2026-09-19T11:03:30"
     },
     "cdbae4c5e44c6aef": {
@@ -2075,7 +2075,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-28T11:04:17",
+      "coletado_em": "2026-09-30T11:04:55",
       "primeira_vez_em": "2026-09-22T11:03:37"
     },
     "2f86464c831b5b1b": {
@@ -2089,7 +2089,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-28T11:04:17",
+      "coletado_em": "2026-09-30T11:04:55",
       "primeira_vez_em": "2026-09-22T11:03:37"
     },
     "dec7cd7735d42415": {
@@ -2739,7 +2739,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-09-28T11:04:17",
+      "coletado_em": "2026-09-30T11:04:55",
       "primeira_vez_em": "2026-09-25T11:03:52"
     },
     "df996d0b9a71ff23": {
@@ -2753,7 +2753,7 @@
       "data_publicacao": "24/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-29T11:04:55",
+      "coletado_em": "2026-09-30T11:04:59",
       "primeira_vez_em": "2026-09-25T11:03:57"
     },
     "cbd9ff2907d67e2f": {
@@ -2890,7 +2890,7 @@
         "CBS",
         "Simples Nacional"
       ],
-      "coletado_em": "2026-09-29T11:04:55",
+      "coletado_em": "2026-09-30T11:04:59",
       "primeira_vez_em": "2026-09-26T11:03:28"
     },
     "52e4dac25e6b82b4": {
@@ -2907,7 +2907,7 @@
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-29T11:04:55",
+      "coletado_em": "2026-09-30T11:04:59",
       "primeira_vez_em": "2026-09-26T11:03:28"
     },
     "c7c2321c84d08324": {
@@ -2921,7 +2921,7 @@
       "data_publicacao": "25/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-29T11:04:55",
+      "coletado_em": "2026-09-30T11:04:59",
       "primeira_vez_em": "2026-09-26T11:03:28"
     },
     "ab536155901eba7a": {
@@ -3024,7 +3024,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:05:01",
+      "coletado_em": "2026-09-30T11:05:04",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     "4b70d64501a39e0c": {
@@ -3040,7 +3040,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-29T11:05:01",
+      "coletado_em": "2026-09-30T11:05:04",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     "827ee718aa512330": {
@@ -3145,7 +3145,7 @@
       "tags": [
         "Simples Nacional"
       ],
-      "coletado_em": "2026-09-29T11:04:53",
+      "coletado_em": "2026-09-30T11:04:57",
       "primeira_vez_em": "2026-09-29T11:04:53"
     },
     "432d02075047561e": {
@@ -3159,7 +3159,7 @@
       "data_publicacao": "28/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-29T11:04:55",
+      "coletado_em": "2026-09-30T11:04:59",
       "primeira_vez_em": "2026-09-29T11:04:55"
     },
     "62fb71c4160a376c": {
@@ -3177,7 +3177,7 @@
         "CBS",
         "Simples Nacional"
       ],
-      "coletado_em": "2026-09-29T11:04:55",
+      "coletado_em": "2026-09-30T11:04:59",
       "primeira_vez_em": "2026-09-29T11:04:55"
     },
     "3b04813b7185b2f7": {
@@ -3193,7 +3193,7 @@
       "tags": [
         "Multa/Penalidade"
       ],
-      "coletado_em": "2026-09-29T11:04:58",
+      "coletado_em": "2026-09-30T11:05:03",
       "primeira_vez_em": "2026-09-29T11:04:58"
     },
     "72996b81c4fcac16": {
@@ -3207,7 +3207,7 @@
       "data_publicacao": "2026-09-28T17:52:09Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-29T11:04:58",
+      "coletado_em": "2026-09-30T11:05:03",
       "primeira_vez_em": "2026-09-29T11:04:58"
     },
     "28b712bf9e155263": {
@@ -3223,7 +3223,7 @@
       "tags": [
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-09-29T11:04:58",
+      "coletado_em": "2026-09-30T11:05:03",
       "primeira_vez_em": "2026-09-29T11:04:58"
     },
     "5616c435958b6930": {
@@ -3256,6 +3256,111 @@
       ],
       "coletado_em": "2026-09-29T11:04:58",
       "primeira_vez_em": "2026-09-29T11:04:58"
+    },
+    "c2291b33ecd78178": {
+      "id": "c2291b33ecd78178",
+      "titulo": "Declaração de Regimes Específicos: CGIBS e Receita Federal divulgam endpoints do ambiente de produção",
+      "resumo": "Declaração de Regimes Específicos: CGIBS e Receita Federal divulgam endpoints do ambiente de produção",
+      "link": "https://www.cgibs.gov.br/dere-cgibs-e-receita-federal-divulgam-endpoints-do-ambiente-de-producao",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-09-30T11:04:55",
+      "primeira_vez_em": "2026-09-30T11:04:55"
+    },
+    "b0e4458054eae6a9": {
+      "id": "b0e4458054eae6a9",
+      "titulo": "Governo Central registra em agosto déficit primário de R$ 13,6 bilhões, aponta o Resultado do Tesouro Nacional",
+      "resumo": "Em agosto do ano passado, o déficit foi de R$ 15,5 bilhões, em valores correntes",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/governo-central-registra-em-agosto-deficit-primario-de-r-13-6-bilhoes-aponta-o-resultado-do-tesouro-nacional",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "29/09/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-30T11:04:59",
+      "primeira_vez_em": "2026-09-30T11:04:59"
+    },
+    "72cdc9b42d3d2f77": {
+      "id": "72cdc9b42d3d2f77",
+      "titulo": "Simples Nacional 2027 tem novos prazos para microempresas e empresas de pequeno porte",
+      "resumo": "Resolução com as novas datas foi publicada na segunda-feira (28/09)",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/simples-nacional-2027-tem-novos-prazos-para-microempresas-e-empresas-de-pequeno-porte",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "29/09/2026",
+      "impacto": "médio",
+      "tags": [
+        "Simples Nacional",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-09-30T11:04:59",
+      "primeira_vez_em": "2026-09-30T11:04:59"
+    },
+    "e86c50832302f9ed": {
+      "id": "e86c50832302f9ed",
+      "titulo": "Lei determina avaliação da qualidade de hospitais",
+      "resumo": "A partir de agora, hospitais particulares deverão passar por avaliações da vigilância sanitária sobre a qualidade dos serviços de saúde, com divulgação periódica dos resultados. É o que estabelece a Lei 15.524, que cria a Estratégia Nacional de Controle e Avaliação da Qualidade da Assistência à Saúde prestada pela Iniciativa Privada. A nova norma foi sancionada pela Presidência da República e publicada no Diário Oficial da União (DOU) desta terça-feira (29). Os padrões de qualidade e atributos de qualificação deverão ser definidos pelo órgão nacional de vigilância sanitária, diz o texto. Os estabelecimentos que descumprirem as regras poderão receber multa diária entre R$ 5 mil e 500 mil. A penalidade será aplicada sem prejuízo da responsabilidade civil por danos à saúde do paciente ou por descumprimento de normas de proteção ao consumidor. De acordo com a lei, os padrões de qualidade e os atributos de qualificação deverão observar no mínimo as seguintes diretrizes: garantia da segurança do paciente, por meio da adoção de tratamentos efetivos, conforme comprovação científica, e dos mecanismos necessários para prevenção e recuperação de sua saúde; disponibilização de recursos institucionais (corpo técnico, estruturas e processos de cuidado) em quantitativo suficiente para atendimento ágil dos pacientes, evitando-se longas esperas e atrasos potencialmente danosos à saúde; cuidado responsivo e centrado no paciente; equidade, sendo vedadas distinções de tratamento, especialmente em virtude de gênero, religião, etnia, localização geográfica e condição socioeconômica; cumprimento efetivo das normas expedidas pela Agência Nacional de Vigilância Sanitária (Anvisa) e pela Agência Nacional de Saúde Suplementar (ANS). Os padrões de qualidade previstos na nova lei aplicam-se também aos estabelecimentos públicos de saúde, que devem ser alvo de avaliação e divulgação dos resultados, na forma de regulamento. Origem da lei A norma jurídica teve origem no Projeto de Lei (PL) 287/2024, apresentado pelo então senador e atual ministro do Supremo Tribunal Federal (STF) Flávio Dino. Com relatório favorável do senador Veneziano Vital do Rêgo (MDB-PB), o texto foi aprovado pela Comissão de Assuntos Sociais (CAS) em 2025. Em seguida, a matéria foi encaminhada à Câmara dos Deputados, onde foi aprovada neste mês e encaminhada à sanção presidencial. Em 2012, o ex-senador Flávio Dino perdeu o filho Marcelo, de 13 anos. O garoto havia sido internado em um hospital de Brasília após uma crise de asma. Dino e a mãe de Marcelo, Deane Fonseca, processaram o hospital e a equipe médica. Na ação, eles argumentam que a médica responsável pelo atendimento abandonou o posto da UTI pediátrica, o que provocou demora no atendimento. Em outubro de 2025, o hospital foi condenado a pagar uma indenização aos pais. Com Agência Câmara",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/29/lei-determina-avaliacao-da-qualidade-de-hospitais",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-09-29T19:27:47Z",
+      "impacto": "alto",
+      "tags": [
+        "Multa/Penalidade"
+      ],
+      "coletado_em": "2026-09-30T11:05:03",
+      "primeira_vez_em": "2026-09-30T11:05:03"
+    },
+    "640da689f5af15f2": {
+      "id": "640da689f5af15f2",
+      "titulo": "Lei reduz CSLL de resseguradoras locais para 9% a partir de 2027",
+      "resumo": "As resseguradoras locais — ou seja, aquelas sediadas no Brasil — pagarão uma Contribuição Social sobre o Lucro Líquido (CSLL) menor a partir de 1º de janeiro de 2027: a alíquota cairá dos atuais 15% para 9%. Além disso, a partir de 2030 essas empresas ficarão livres do adicional de 10% do Imposto de Renda. É o que determina a Lei 15.525, de 2026, que foi sancionada pela Presidência da República na segunda-feira (28). O texto foi publicado no Diário Oficial da União desta terça-feira (29). Resseguradoras são empresas que assumem parte dos riscos das seguradoras, sobretudo em situações de possível prejuízo elevado. São uma espécie de “seguro do seguro”. A nova lei teve origem em um projeto do deputado federal Isnaldo Bulhões Jr. (MDB-AL): o PL 3.540/2026. Durante sua tramitação no Senado, o projeto teve Camilo Santana (PT-CE) como relator — o encarregado de analisar a matéria e recomendar a aprovação (com ou sem alterações) ou a rejeição do texto. Na época, Camilo Santana argumentou que a tributação (anterior à nova lei) incentivava a contratação de resseguradoras estrangeiras — que, segundo ele, atuam sob regimes tributários mais competitivos —, prejudicando a manutenção de capital no Brasil. De acordo com a Superintendência de Seguros Privados (Susep), em julho havia 18 companhias no país. Compensação de prejuízos Além da redução da CSLL, as resseguradoras locais terão outro benefício a partir de 1º de janeiro de 2027: elas não estarão mais sujeitas ao limite de 30% na compensação de prejuízos fiscais de Imposto de Renda e de bases de cálculo negativas da CSLL. Quando uma empresa tem mais despesas dedutíveis do que receitas em um período, ela apura prejuízo fiscal ou base negativa. Pela regra geral, esse prejuízo acumulado pode ser usado para diminuir o tributo a pagar nos anos em que a empresa voltar a ter lucro, mas com um limite: o abatimento não pode reduzir em mais de 30% o lucro de cada ano. A nova lei cria uma exceção para as resseguradoras locais: se o prejuízo acumulado não for totalmente compensado em três anos, o saldo remanescente deixará de ficar sujeito ao limite de 30%, podendo ser utilizado para abater o imposto sobre o lucro nos anos seguintes. Imposto de Renda As resseguradoras locais estarão livres, a partir de 1º de janeiro de 2030, do Imposto de Renda adicional de 10% — que é aplicado quando o lucro é maior que os patamares previstos na legislação (que variam conforme o período de apuração do tributo). Esse adicional é cobrado apenas sobre o valor que superar o respectivo patamar. Um exemplo: quando o imposto é apurado com base no lucro presumido, o adicional é cobrado quando a empresa lucra mais de R$ 60 mil por trimestre. A alíquota do Imposto de Renda Pessoa Jurídica (IRPJ) continua em 15%. Lei complementar Esses benefícios foram viabilizados pela Lei Complementar 237, de 2026, que permite exceções às regras de concessões de benefícios fiscais para resseguradoras.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/29/lei-reduz-csll-de-resseguradoras-locais-para-9-a-partir-de-2027",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-09-29T19:21:39Z",
+      "impacto": "alto",
+      "tags": [],
+      "coletado_em": "2026-09-30T11:05:03",
+      "primeira_vez_em": "2026-09-30T11:05:03"
+    },
+    "4592d995d311b4dc": {
+      "id": "4592d995d311b4dc",
+      "titulo": "Sancionado repasse de loterias para Comitê Brasileiro de Clubes",
+      "resumo": "Foi sancionada a lei que transfere ao Comitê Brasileiro de Clubes (CBC) 0,01% da arrecadação de jogos de loteria federal, percentual que era destinado à Federação Nacional dos Clubes (Fenaclubes). Os recursos serão aplicados na formação de gestores de clubes esportivos. O texto foi publicado no Diário Oficial da União desta terça-feira (29). A Lei 15.523, de 2026, teve origem no PL 2.584/2025, aprovado no início de setembro no Plenário do Senado, com relatório da senadora Leila Barros (PDT-DF). A proposta altera a Lei das Loterias (Lei 13.756, de 2018) justamente para mudar o destinatário desse percentual da arrecadação. Assim, os 0,01% que eram repassados à Fenaclubes passam a ser destinados ao CBC, sem aumento do volume global de recursos previstos para os clubes. A alteração foi resultado de consenso entre as duas entidades e mantém a finalidade de qualificação profissional dos gestores esportivos. Fiscalização A nova lei também retira a Fenaclubes da lista de entidades fiscalizadas pelo Tribunal de Contas da União (TCU). O CBC já integra a relação de entidades sujeitas à fiscalização do tribunal. Segundo a justificativa do projeto, a alteração busca adequar a legislação à organização do esporte no país, já que o CBC integra o Sistema Nacional do Esporte (Sinesp). A transferência dos recursos aproveita a estrutura já mantida pelo CBC para ações de capacitação e formação de gestores de clubes. Durante a tramitação no Senado, a relatora, Leila Barros, afirmou que a mudança promove um ajuste na destinação dos recursos das loterias sem ampliar o volume global previsto na legislação.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/29/sancionado-repasse-de-loterias-para-comite-brasileiro-de-clubes",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-09-29T13:34:15Z",
+      "impacto": "alto",
+      "tags": [],
+      "coletado_em": "2026-09-30T11:05:03",
+      "primeira_vez_em": "2026-09-30T11:05:03"
+    },
+    "b63a6a7f78a5ddb4": {
+      "id": "b63a6a7f78a5ddb4",
+      "titulo": "Lei torna futebol feminino prioridade na política de esporte",
+      "resumo": "Entrou em vigor a lei que torna o desenvolvimento do futebol feminino prioridade na política pública esportiva nacional, com foco na profissionalização e na igualdade de oportunidades. Publicada no Diário Oficial da União desta terça-feira (29), a norma estabelece atribuições para o Estado, a Confederação Brasileira de Futebol (CBF), federações e clubes e define diretrizes nacionais para o desenvolvimento da modalidade. De acordo com a Lei 15.522, de 2026, as entidades formadoras de atletas de futebol deverão manter também equipes femininas. A exigência, no entanto, entrará em vigor 180 dias após a publicação da norma e poderá ser prorrogada por igual período. As organizações esportivas formadoras de futebol feminino terão os mesmos direitos e benefícios assegurados às entidades formadoras do futebol masculino. A nova lei também altera a Lei das Sociedades Anônimas do Futebol (SAF) para determinar que o clube interessado em se constituir como SAF forme atletas de futebol feminino e masculino, ou apenas feminino. Ministério do Esporte Segundo a lei, compete ao Ministério do Esporte promover condições favoráveis ao desenvolvimento do futebol feminino profissional e amador. Entre as atribuições estão o estímulo à participação de meninas na modalidade, o fortalecimento das competições de formação em todas as idades e o apoio à criação e à manutenção de equipes profissionais e de base. O ministério deverá ainda estimular a inclusão do futebol feminino em programas de formação esportiva e incentivar a elaboração de calendários de competições com antecedência, de forma a favorecer o planejamento de clubes, atletas e demais profissionais. Também caberá ao ministério, em articulação com a CBF, federações, clubes e outras entidades públicas e privadas, elaborar protocolos de prevenção e enfrentamento ao racismo, à discriminação, ao preconceito e à violência contra as mulheres no futebol. As medidas abrangem atletas, árbitras, treinadoras, torcedoras, gestoras, profissionais de educação física e outras mulheres que atuam na modalidade. A norma prevê ainda o estímulo a parcerias entre escolas, universidades e clubes para a identificação e a formação de novos talentos, além de ações de capacitação e empregabilidade de mulheres em áreas como arbitragem, treinamento, gestão, direção esportiva e educação física. Profissionalização A lei estabelece limites para a participação de atletas não profissionais nas competições oficiais de futebol feminino. Na principal divisão nacional, cada equipe poderá inscrever até quatro atletas não profissionais. Nas demais divisões nacionais e na principal divisão estadual, o limite será de seis. Nas demais competições profissionais, poderão ser inscritas até oito atletas não profissionais. A quantidade deverá ser reduzida progressivamente. A lei determina que ato do Poder Executivo federal estabeleça os parâmetros para essa redução até a total profissionalização das competições oficiais de futebol feminino. Entre as diretrizes da política nacional estão a garantia do direito ao esporte para meninas e mulheres; a promoção da igualdade de oportunidades; o incentivo a ações e medidas destinadas à igualdade salarial entre homens e mulheres no futebol; o combate à discriminação, ao racismo, à intolerância e à violência contra as mulheres; a ampliação da participação feminina em cargos de gestão, direção técnica e arbitragem; e a proteção dos direitos relacionados à gravidez e à maternidade. A legislação também prevê a cooperação entre União, estados, Distrito Federal e municípios para o fortalecimento do futebol feminino. Lei Geral do Esporte A nova legislação altera dispositivos da Lei Geral do Esporte para exigir das entidades esportivas programas permanentes de prevenção e combate à violência contra a mulher e protocolos de enfrentamento à discriminação e à intolerância. As entidades também deverão assegurar igualdade de condições para atletas mulheres e homens em formação esportiva, inclusive quanto a espaços, equipamentos e equipes de profissionais de suporte. A manutenção de equipes femininas de futebol passa a ser requisito para a obtenção de determinadas certificações esportivas. Essa exigência entrará em vigor em 180 dias e poderá ser prorrogada por igual período. Copa do Mundo A lei determina ainda a elaboração de um plano de legado social, esportivo e financeiro da Copa do Mundo Feminina da Fifa 2027, alinhado às estratégias nacionais de desenvolvimento do futebol feminino. A competição será realizada no Brasil entre 24 de junho e 25 de julho de 2027, em Belo Horizonte, Brasília, Fortaleza, Porto Alegre, Recife, Rio de Janeiro, Salvador e São Paulo. A lei teve origem no PL 4.578/2025, do Poder Executivo, aprovado pelo Senado no começo de setembro com relatoria da senadora Teresa Leitão (PT-PE). Com Agência Brasil",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/29/lei-torna-futebol-feminino-prioridade-na-politica-de-esporte-1",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-09-29T12:53:48Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-09-30T11:05:03",
+      "primeira_vez_em": "2026-09-30T11:05:03"
     }
   }
 }
