@@ -1,5 +1,5 @@
 const RADAR_DADOS = {
-  "geradoEm": "2026-09-30T11:08:17",
+  "geradoEm": "2026-10-01T11:08:55",
   "noticias": [
     {
       "id": "4cb90c79835b4cd1",
@@ -14,7 +14,7 @@ const RADAR_DADOS = {
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-30T11:08:12",
+      "coletado_em": "2026-10-01T11:08:51",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     {
@@ -28,7 +28,7 @@ const RADAR_DADOS = {
       "data_publicacao": "10/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-30T11:08:12",
+      "coletado_em": "2026-10-01T11:08:51",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     {
@@ -44,7 +44,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-30T11:08:12",
+      "coletado_em": "2026-10-01T11:08:51",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     {
@@ -58,7 +58,7 @@ const RADAR_DADOS = {
       "data_publicacao": "19/10/2022",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-30T11:08:11",
+      "coletado_em": "2026-10-01T11:08:49",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     {
@@ -74,7 +74,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-30T11:08:11",
+      "coletado_em": "2026-10-01T11:08:49",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     {
@@ -90,7 +90,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-30T11:08:10",
+      "coletado_em": "2026-10-01T11:08:48",
       "primeira_vez_em": "2026-09-17T15:44:40"
     },
     {
@@ -104,7 +104,7 @@ const RADAR_DADOS = {
       "data_publicacao": "30/03/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-30T11:08:07",
+      "coletado_em": "2026-10-01T11:08:45",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -118,7 +118,7 @@ const RADAR_DADOS = {
       "data_publicacao": "04/05/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-30T11:08:07",
+      "coletado_em": "2026-10-01T11:08:45",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -132,7 +132,7 @@ const RADAR_DADOS = {
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-30T11:08:07",
+      "coletado_em": "2026-10-01T11:08:45",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -148,7 +148,7 @@ const RADAR_DADOS = {
       "tags": [
         "Simples Nacional"
       ],
-      "coletado_em": "2026-09-30T11:08:07",
+      "coletado_em": "2026-10-01T11:08:45",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -162,7 +162,7 @@ const RADAR_DADOS = {
       "data_publicacao": "10/01/2024",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-30T11:08:07",
+      "coletado_em": "2026-10-01T11:08:45",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -176,7 +176,7 @@ const RADAR_DADOS = {
       "data_publicacao": "15/12/2023",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-30T11:08:07",
+      "coletado_em": "2026-10-01T11:08:45",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -192,7 +192,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-30T11:08:06",
+      "coletado_em": "2026-10-01T11:08:44",
       "primeira_vez_em": "2026-09-17T15:44:37"
     },
     {
@@ -208,7 +208,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-30T11:08:04",
+      "coletado_em": "2026-10-01T11:08:42",
       "primeira_vez_em": "2026-09-17T15:44:36"
     },
     {
@@ -224,7 +224,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-30T11:08:03",
+      "coletado_em": "2026-10-01T11:08:41",
       "primeira_vez_em": "2026-09-17T15:44:35"
     },
     {
@@ -238,7 +238,7 @@ const RADAR_DADOS = {
       "data_publicacao": "26/11/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-30T11:08:02",
+      "coletado_em": "2026-10-01T11:08:40",
       "primeira_vez_em": "2026-09-17T15:44:34"
     },
     {
@@ -252,7 +252,7 @@ const RADAR_DADOS = {
       "data_publicacao": "29/05/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-30T11:08:01",
+      "coletado_em": "2026-10-01T11:08:39",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     {
@@ -268,7 +268,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-30T11:08:01",
+      "coletado_em": "2026-10-01T11:08:39",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     {
@@ -284,7 +284,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-30T11:08:01",
+      "coletado_em": "2026-10-01T11:08:39",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     {
@@ -300,7 +300,7 @@ const RADAR_DADOS = {
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-09-30T11:07:59",
+      "coletado_em": "2026-10-01T11:08:37",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     {
@@ -316,7 +316,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-30T11:07:59",
+      "coletado_em": "2026-10-01T11:08:37",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     {
@@ -332,7 +332,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-30T11:07:59",
+      "coletado_em": "2026-10-01T11:08:37",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     {
@@ -348,7 +348,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-30T11:07:58",
+      "coletado_em": "2026-10-01T11:08:36",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     {
@@ -364,7 +364,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-09-30T11:07:58",
+      "coletado_em": "2026-10-01T11:08:36",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     {
@@ -378,7 +378,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-30T11:06:16",
+      "coletado_em": "2026-10-01T11:06:54",
       "primeira_vez_em": "2026-09-17T15:43:41"
     },
     {
@@ -392,7 +392,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-09-30T11:05:56",
+      "coletado_em": "2026-10-01T11:06:35",
       "primeira_vez_em": "2026-09-17T15:43:36"
     },
     {
@@ -408,7 +408,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-30T11:05:11",
+      "coletado_em": "2026-10-01T11:05:52",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     {
@@ -424,7 +424,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-30T11:05:09",
+      "coletado_em": "2026-10-01T11:05:50",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     {
@@ -440,7 +440,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-30T11:05:07",
+      "coletado_em": "2026-10-01T11:05:49",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     {
@@ -456,7 +456,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-30T11:05:07",
+      "coletado_em": "2026-10-01T11:05:49",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     {
@@ -472,7 +472,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-30T11:05:07",
+      "coletado_em": "2026-10-01T11:05:49",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     {
@@ -488,7 +488,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-30T11:05:06",
+      "coletado_em": "2026-10-01T11:05:47",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     {
@@ -504,7 +504,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-30T11:05:06",
+      "coletado_em": "2026-10-01T11:05:47",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     {
@@ -520,7 +520,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-30T11:05:06",
+      "coletado_em": "2026-10-01T11:05:47",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     {
@@ -536,7 +536,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-30T11:05:04",
+      "coletado_em": "2026-10-01T11:05:46",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     {
@@ -553,7 +553,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-30T11:05:04",
+      "coletado_em": "2026-10-01T11:05:46",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     {
@@ -570,7 +570,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-30T11:05:04",
+      "coletado_em": "2026-10-01T11:05:46",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     {
@@ -586,7 +586,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-30T11:05:04",
+      "coletado_em": "2026-10-01T11:05:46",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     {
@@ -603,7 +603,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-30T11:05:04",
+      "coletado_em": "2026-10-01T11:05:46",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     {
@@ -621,7 +621,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-30T11:05:04",
+      "coletado_em": "2026-10-01T11:05:46",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     {
@@ -638,7 +638,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-30T11:05:04",
+      "coletado_em": "2026-10-01T11:05:46",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     {
@@ -654,7 +654,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-30T11:05:04",
+      "coletado_em": "2026-10-01T11:05:46",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     {
@@ -670,7 +670,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-30T11:05:04",
+      "coletado_em": "2026-10-01T11:05:46",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     {
@@ -686,8 +686,952 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-09-30T11:05:04",
+      "coletado_em": "2026-10-01T11:05:46",
       "primeira_vez_em": "2026-09-26T11:03:34"
+    },
+    {
+      "id": "e86c50832302f9ed",
+      "titulo": "Lei determina avaliação da qualidade de hospitais",
+      "resumo": "A partir de agora, hospitais particulares deverão passar por avaliações da vigilância sanitária sobre a qualidade dos serviços de saúde, com divulgação periódica dos resultados. É o que estabelece a Lei 15.524, que cria a Estratégia Nacional de Controle e Avaliação da Qualidade da Assistência à Saúde prestada pela Iniciativa Privada. A nova norma foi sancionada pela Presidência da República e publicada no Diário Oficial da União (DOU) desta terça-feira (29). Os padrões de qualidade e atributos de qualificação deverão ser definidos pelo órgão nacional de vigilância sanitária, diz o texto. Os estabelecimentos que descumprirem as regras poderão receber multa diária entre R$ 5 mil e 500 mil. A penalidade será aplicada sem prejuízo da responsabilidade civil por danos à saúde do paciente ou por descumprimento de normas de proteção ao consumidor. De acordo com a lei, os padrões de qualidade e os atributos de qualificação deverão observar no mínimo as seguintes diretrizes: garantia da segurança do paciente, por meio da adoção de tratamentos efetivos, conforme comprovação científica, e dos mecanismos necessários para prevenção e recuperação de sua saúde; disponibilização de recursos institucionais (corpo técnico, estruturas e processos de cuidado) em quantitativo suficiente para atendimento ágil dos pacientes, evitando-se longas esperas e atrasos potencialmente danosos à saúde; cuidado responsivo e centrado no paciente; equidade, sendo vedadas distinções de tratamento, especialmente em virtude de gênero, religião, etnia, localização geográfica e condição socioeconômica; cumprimento efetivo das normas expedidas pela Agência Nacional de Vigilância Sanitária (Anvisa) e pela Agência Nacional de Saúde Suplementar (ANS). Os padrões de qualidade previstos na nova lei aplicam-se também aos estabelecimentos públicos de saúde, que devem ser alvo de avaliação e divulgação dos resultados, na forma de regulamento. Origem da lei A norma jurídica teve origem no Projeto de Lei (PL) 287/2024, apresentado pelo então senador e atual ministro do Supremo Tribunal Federal (STF) Flávio Dino. Com relatório favorável do senador Veneziano Vital do Rêgo (MDB-PB), o texto foi aprovado pela Comissão de Assuntos Sociais (CAS) em 2025. Em seguida, a matéria foi encaminhada à Câmara dos Deputados, onde foi aprovada neste mês e encaminhada à sanção presidencial. Em 2012, o ex-senador Flávio Dino perdeu o filho Marcelo, de 13 anos. O garoto havia sido internado em um hospital de Brasília após uma crise de asma. Dino e a mãe de Marcelo, Deane Fonseca, processaram o hospital e a equipe médica. Na ação, eles argumentam que a médica responsável pelo atendimento abandonou o posto da UTI pediátrica, o que provocou demora no atendimento. Em outubro de 2025, o hospital foi condenado a pagar uma indenização aos pais. Com Agência Câmara",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/29/lei-determina-avaliacao-da-qualidade-de-hospitais",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-09-29T19:27:47Z",
+      "impacto": "alto",
+      "tags": [
+        "Multa/Penalidade"
+      ],
+      "coletado_em": "2026-10-01T11:05:44",
+      "primeira_vez_em": "2026-09-30T11:05:03"
+    },
+    {
+      "id": "640da689f5af15f2",
+      "titulo": "Lei reduz CSLL de resseguradoras locais para 9% a partir de 2027",
+      "resumo": "As resseguradoras locais — ou seja, aquelas sediadas no Brasil — pagarão uma Contribuição Social sobre o Lucro Líquido (CSLL) menor a partir de 1º de janeiro de 2027: a alíquota cairá dos atuais 15% para 9%. Além disso, a partir de 2030 essas empresas ficarão livres do adicional de 10% do Imposto de Renda. É o que determina a Lei 15.525, de 2026, que foi sancionada na segunda-feira (28) e publicada no Diário Oficial da União desta terça-feira (29). Resseguradoras são empresas que assumem parte dos riscos das seguradoras, sobretudo em situações de possível prejuízo elevado. São uma espécie de “seguro do seguro”. A nova lei teve origem em um projeto do deputado federal Isnaldo Bulhões Jr. (MDB-AL): o PL 3.540/2026. Durante sua tramitação no Senado, o projeto teve Camilo Santana (PT-CE) como relator — o encarregado de analisar a matéria e recomendar a aprovação (com ou sem alterações) ou a rejeição do texto. Na época, Camilo Santana argumentou que a tributação (anterior à nova lei) incentivava a contratação de resseguradoras estrangeiras — que, segundo ele, atuam sob regimes tributários mais competitivos —, prejudicando a manutenção de capital no Brasil. De acordo com a Superintendência de Seguros Privados (Susep), em julho havia 18 companhias no país. Compensação de prejuízos Além da redução da CSLL, as resseguradoras locais terão outro benefício a partir de 1º de janeiro de 2027: elas não estarão mais sujeitas ao limite de 30% na compensação de prejuízos fiscais de Imposto de Renda e de bases de cálculo negativas da CSLL. Quando uma empresa tem mais despesas dedutíveis do que receitas em um período, ela apura prejuízo fiscal ou base negativa. Pela regra geral, esse prejuízo acumulado pode ser usado para diminuir o tributo a pagar nos anos em que a empresa voltar a ter lucro, mas com um limite: o abatimento não pode reduzir em mais de 30% o lucro de cada ano. A nova lei cria uma exceção para as resseguradoras locais: se o prejuízo acumulado não for totalmente compensado em três anos, o saldo remanescente deixará de ficar sujeito ao limite de 30%, podendo ser utilizado para abater o imposto sobre o lucro nos anos seguintes. Imposto de Renda As resseguradoras locais estarão livres, a partir de 1º de janeiro de 2030, do Imposto de Renda adicional de 10% — que é aplicado quando o lucro é maior que os patamares previstos na legislação (que variam conforme o período de apuração do tributo). Esse adicional é cobrado apenas sobre o valor que superar o respectivo patamar. Um exemplo: quando o imposto é apurado com base no lucro presumido, o adicional é cobrado quando a empresa lucra mais de R$ 60 mil por trimestre. A alíquota do Imposto de Renda Pessoa Jurídica (IRPJ) continua em 15%. Lei complementar Esses benefícios foram viabilizados pela Lei Complementar 237, de 2026, que permite exceções às regras de concessões de benefícios fiscais para resseguradoras.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/29/lei-reduz-csll-de-resseguradoras-locais-para-9-a-partir-de-2027",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-09-29T19:21:39Z",
+      "impacto": "alto",
+      "tags": [],
+      "coletado_em": "2026-10-01T11:05:44",
+      "primeira_vez_em": "2026-09-30T11:05:03"
+    },
+    {
+      "id": "4592d995d311b4dc",
+      "titulo": "Sancionado repasse de loterias para Comitê Brasileiro de Clubes",
+      "resumo": "Foi sancionada a lei que transfere ao Comitê Brasileiro de Clubes (CBC) 0,01% da arrecadação de jogos de loteria federal, percentual que era destinado à Federação Nacional dos Clubes (Fenaclubes). Os recursos serão aplicados na formação de gestores de clubes esportivos. O texto foi publicado no Diário Oficial da União desta terça-feira (29). A Lei 15.523, de 2026, teve origem no PL 2.584/2025, aprovado no início de setembro no Plenário do Senado, com relatório da senadora Leila Barros (PDT-DF). A proposta altera a Lei das Loterias (Lei 13.756, de 2018) justamente para mudar o destinatário desse percentual da arrecadação. Assim, os 0,01% que eram repassados à Fenaclubes passam a ser destinados ao CBC, sem aumento do volume global de recursos previstos para os clubes. A alteração foi resultado de consenso entre as duas entidades e mantém a finalidade de qualificação profissional dos gestores esportivos. Fiscalização A nova lei também retira a Fenaclubes da lista de entidades fiscalizadas pelo Tribunal de Contas da União (TCU). O CBC já integra a relação de entidades sujeitas à fiscalização do tribunal. Segundo a justificativa do projeto, a alteração busca adequar a legislação à organização do esporte no país, já que o CBC integra o Sistema Nacional do Esporte (Sinesp). A transferência dos recursos aproveita a estrutura já mantida pelo CBC para ações de capacitação e formação de gestores de clubes. Durante a tramitação no Senado, a relatora, Leila Barros, afirmou que a mudança promove um ajuste na destinação dos recursos das loterias sem ampliar o volume global previsto na legislação.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/29/sancionado-repasse-de-loterias-para-comite-brasileiro-de-clubes",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-09-29T13:34:15Z",
+      "impacto": "alto",
+      "tags": [],
+      "coletado_em": "2026-10-01T11:05:44",
+      "primeira_vez_em": "2026-09-30T11:05:03"
+    },
+    {
+      "id": "12bfa17db8299e4a",
+      "titulo": "Lei fortalece seguro rural e fundo para catástrofes que atinjam a produção",
+      "resumo": "O apoio financeiro do poder público às empresas de seguro rural passa a ser despesa obrigatória e livre do contingenciamento, entre outras medidas de incentivo ao setor. É o que determina a Lei 15.526, sancionada com vetos nesta terça-feira (29) e publicada no Diário Oficial da União na quarta-feira (30). A norma busca tirar do papel o chamado “Fundo Catástrofe”, criado em 2010 para socorrer as seguradoras do setor em casos extraordinários de prejuízo às colheitas e outras atividades rurais, mas até hoje inoperante. O texto teve origem no Projeto de Lei (PL) 2.951/2024, apresentado pela senadora Tereza Cristina (PP-MS). Para ela, a lei dá mais estabilidade para as atividades no campo. “Um seguro rural mais eficiente ajuda a enfrentar as adversidades, preservar a produção e garantir a continuidade do abastecimento. Quando protegemos quem produz, protegemos também a segurança alimentar de todos os brasileiros”, afirmou a senadora em publicação nas redes sociais nesta quarta. No Senado, o projeto foi aprovado em 3 de setembro, sob relatoria do senador Jaime Bagattoli (PL-RO), que manteve a maior parte do substitutivo (versão alternativa) dos deputados. Seguro mais barato Segundo o texto, as subvenções econômicas concedidas a cada ano serão “limitadas ao montante previsto no projeto de lei orçamentária anual encaminhado pelo Poder Executivo federal ao Congresso Nacional”. Deverá haver articulação com estados e municípios para que estes complementem o auxílio às seguradoras, para baratear o seguro. Em nível federal, o apoio ocorre por meio do Programa de Subvenção ao Prêmio do Seguro Rural (PSR). Fundo Catástrofe Ao apresentar o projeto, Tereza Cristina apontou que o Fundo Catástrofe, criado pela Lei Complementar 137, de 2010, não prosperou por falta de regulamentação e de aportes contínuos de recursos. A nova norma permite que o Executivo designe provisoriamente uma instituição existente para organizar o fundo. Além disso, prevê: o fim do limite da contribuição da União ao fundo. Antes, o limite era de R$ 2 bilhões na adesão ao fundo, e R$ 4 bilhões em títulos públicos; o incentivo do investimento de sociedades seguradoras com cotista, que será requisito para obter a subvenção econômica do PSR; contribuição da União por meio de ações de empresas ou imóveis. O fundo poderá diluir os riscos para empresas resseguradoras ou para o mercado financeiro, por meio de Letra de Risco de Seguros (LRS). Vetos O governo federal barrou trecho que explicitava que o setor seria isento de “todos os tributos federais incidentes, direta ou indiretamente, sobre o seguro rural”. Para o Poder Executivo, a medida diminuiria a arrecadação federal sem obedecer a legislação fiscal, que exige estudo do impacto orçamentário e medidas de compensação. Conforme o rito legislativo, os parlamentares ainda deverão decidir se derrubam ou mantêm o veto. Empréstimos Os produtores que possuem seguro rural terão prioridade nas linhas de crédito criadas pelo governo para prorrogar ou renegociar dívidas. Agora o poder público poderá exigir a contratação de seguro rural como condição para acesso ao crédito de custeio agropecuário. A exigência era proibida pela Lei 10.823, de 2003 (Lei do Seguro Rural). Para o relator Bagattoli, os tomadores de empréstimo terão mais segurança para usar o contrato de seguro como garantia de que honrarão as parcelas. O banco ainda poderá exigir as indenizações da seguradora, caso ocorra um sinistro, como a perda da lavoura. Isso poderá diminuir os juros dos financiamentos e torná-los mais acessíveis, na avaliação do senador.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/30/lei-fortalece-seguro-rural-e-fundo-para-catastrofes-que-atinjam-a-producao",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-09-30T20:32:54Z",
+      "impacto": "alto",
+      "tags": [],
+      "coletado_em": "2026-10-01T11:05:44",
+      "primeira_vez_em": "2026-10-01T11:05:44"
+    },
+    {
+      "id": "d1e70670d1a75d96",
+      "titulo": "Renzo Braz toma posse como senador por Minas Gerais",
+      "resumo": "O ex-deputado federal Renzo Braz (PP) tomou posse nesta quarta-feira (30) como senador por Minas Gerais. Braz foi eleito em 2018 primeiro suplente na chapa de Rodrigo Pacheco. Ex-presidente do Senado, Pacheco assumiu, horas antes, o cargo de ministro do Tribunal de Contas da União (TCU). Em seu discurso de posse, Braz salientou o “inestimável legado” de Pacheco nos dois períodos em que presidiu o Senado. Afirmou que assume o mandato em nome de uma geração que pede reformas, e disse estar comprometido com o desenvolvimento de Minas Gerais e o futuro do Brasil. — A política só se justifica se for para melhorar a vida das pessoas. Radicalismo, polarização, disputas no campo político apenas tiram o foco do que é mais importante: trabalhar para o crescimento do Brasil. Precisamos de equilíbrio para dialogar com firmeza e destravar os problemas reais do país — disse. O novo senador completará o mandato de Pacheco, que se encerra em fevereiro de 2027. Segundo a senadora Damares Alves (Republicanos-DF), que deu posse a Braz, apesar de curto, o período demandará importantes decisões parlamentares. — Temos grandes matérias que virão à pauta. Temos grandes discussões para fazer ainda, até o final desta legislatura — afirmou Damares. Biografia Renzo do Amaral Braz nasceu em Muriaé (MG), em 11 de abril de 1980. Empresário e administrador, é formado em administração de empresas pela Universidade Iguaçu (Unig) e especialista em gerência de custos logísticos pela Universidade Federal do Rio de Janeiro (UFRJ). É acionista do Grupo Líder, que atua nos setores de veículos e motocicletas, seguros e mobilidade urbana. Também trabalha nas áreas de logística e transporte e de construção civil e desenvolvimento imobiliário. Renzo Braz iniciou a carreira política em 2010, quando foi eleito deputado federal por Minas Gerais, com mais de 100 mil votos. Exerceu o mandato entre 2011 e 2015 e foi reeleito para a legislatura seguinte, com quase 110 mil votos. Na Câmara dos Deputados, destinou recursos para obras de infraestrutura e para a área da saúde em seu estado. Também apoiou ações destinadas a hospitais filantrópicos. Durante os mandatos, votou a favor de medidas como a Emenda Constitucional que estabeleceu o teto de gastos públicos e a reforma trabalhista de 2017. Nas eleições de 2018, a chapa de Renzo Braz, encabeçada por Rodrigo Pacheco, recebeu 3.616.864 votos.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/30/renzo-braz-toma-posse-como-senador-por-minas-gerais",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-09-30T19:44:10Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-01T11:05:44",
+      "primeira_vez_em": "2026-10-01T11:05:44"
+    },
+    {
+      "id": "4a74ce6507fab26e",
+      "titulo": "Confira o que pode e o que não pode até o dia da votação",
+      "resumo": "No próximo dia 4 de outubro, mais de 158 milhões de brasileiros estarão aptos a votar para eleger presidente da República, governadores, senadores e deputados federais, estaduais e distritais. Até lá, eleitores, candidatos, partidos e equipes de campanha precisam observar os prazos e as restrições que entram em vigor gradualmente nos últimos dias da campanha. Comícios, debates, propaganda no rádio e na televisão, anúncios na imprensa, impulsionamento na internet e atos de rua têm datas diferentes para terminar. No dia da eleição, algumas manifestações políticas são permitidas, desde que individuais e silenciosas. Quinta-feira De acordo com o calendário do Tribunal Superior Eleitoral (TSE), quinta-feira (1º) será o último dia para a veiculação da propaganda eleitoral gratuita no rádio e na televisão. O horário eleitoral gratuito começou a ser exibido nos veículos em 28 de agosto. Também termina na quinta-feira o prazo para a realização de comícios e para o uso de aparelhos de som fixos, entre 8h e meia-noite. No comício de encerramento da campanha, o horário poderá ser prorrogado por mais duas horas. Os debates no rádio e na televisão também poderão ser realizados até quinta-feira. A programação poderá avançar pela madrugada, desde que termine até as 7h de sexta-feira (2). Também termina na quinta-feira o prazo para a circulação paga ou impulsionada de propaganda eleitoral na internet. A partir de quinta-feira e até as 17h de 5 de outubro, também ficará proibida a publicação ou republicação, com ou sem impulsionamento, de novos conteúdos produzidos por inteligência artificial que utilizem imagem, voz ou manifestação de candidato ou de pessoa pública. Isso vale inclusive quando o material estiver devidamente identificado como artificial. Sexta-feira Já na sexta-feira (2) será o último dia para a divulgação paga de propaganda eleitoral na imprensa escrita e para a reprodução, na internet, dos anúncios publicados em jornais impressos. Também a partir de sexta-feira a força armada deverá permanecer a pelo menos 100 metros das seções eleitorais. A entrada ou aproximação do local de votação só será permitida mediante ordem judicial ou da presidência da mesa receptora de votos. A regra não se aplica para a integrantes das forças de segurança que estejam a serviço da Justiça Eleitoral ou em atividade de policiamento no dia da eleição. Outra exceção é para estabelecimentos penais e unidades de internação de adolescentes, desde que o sigilo do voto seja preservado. Sábado Na véspera da eleição, candidatos, partidos, federações e coligações poderão utilizar alto-falantes e amplificadores de som das 8h às 22h. Para isso, é preciso respeitar a distância mínima de 200 metros de sedes dos Poderes Executivo e Legislativo, tribunais, quartéis, hospitais, escolas, bibliotecas, igrejas e teatros em funcionamento. Até as 22h também serão permitidas a distribuição de material gráfico e a realização de caminhadas, carreatas e passeatas, acompanhadas ou não por carros de som ou minitrios. De sábado até segunda-feira (5), colecionadores, atiradores e caçadores ficam proibidos de transportar armas e munições em todo o território nacional. Domingo, dia da eleição No domingo (4), dia da eleição, a votação ocorrerá das 8h às 17h, pelo horário de Brasília. Quem estiver na fila às 17h receberá uma senha e poderá votar. A divulgação dos resultados poderá começar a partir desse horário. Neste dia, o eleitor poderá manifestar sua preferência política de forma individual e silenciosa, por meio de bandeiras, broches, adesivos e dísticos, que são inscrições ou dizeres da preferência política do eleitor. São proibidas manifestações coletivas, aglomerações com roupas padronizadas, distribuição de material de campanha, abordagem ou tentativa de convencimento de eleitores, comícios, carreatas e uso de alto-falantes. O celular, a máquina fotográfica, a filmadora e qualquer equipamento que possa comprometer o sigilo do voto não poderão ser levados à cabine. Os aparelhos deverão ser desligados e deixados no local indicado pelos mesários. As mesas receptoras de justificativa funcionarão das 8h às 17h. Quem estiver fora do domicílio eleitoral também poderá justificar a ausência pelo aplicativo e-Título, conforme as regras da Justiça Eleitoral. O transporte público coletivo deverá ser oferecido gratuitamente no dia da votação. Também serão permitidos o transporte regular, táxis e veículos de aplicativos, além do uso de veículo particular pelo proprietário para conduzir integrantes da própria família. É proibido o transporte de eleitores organizado com finalidade eleitoral.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/30/confira-o-que-pode-e-o-que-nao-pode-ate-o-dia-da-votacao",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-09-30T15:00:35Z",
+      "impacto": "médio",
+      "tags": [
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-10-01T11:05:44",
+      "primeira_vez_em": "2026-10-01T11:05:44"
+    },
+    {
+      "id": "0c89bcd8a857dbf2",
+      "titulo": "Fim das bets",
+      "resumo": "Fim das bets",
+      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/09/fim-das-bets",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-09-30T13:13:15Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-01T11:05:44",
+      "primeira_vez_em": "2026-10-01T11:05:44"
+    },
+    {
+      "id": "9f8c3a561dc3ff15",
+      "titulo": "Receita divulga novo balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "resumo": "Números registram mais de 328 mil solicitações pelo Simples Nacional e 447 mil pelo regime regular do IBS e da CBS.",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-divulga-novo-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "25/09/2026",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "Simples Nacional"
+      ],
+      "coletado_em": "2026-10-01T11:05:41",
+      "primeira_vez_em": "2026-09-26T11:03:28"
+    },
+    {
+      "id": "52e4dac25e6b82b4",
+      "titulo": "Receita Federal tira dúvida sobre opção pelo Simei, que permanece com prazo definido para janeiro",
+      "resumo": "A alteração do prazo de opção para setembro aplica-se ao Simples Nacional, e não ao Simei",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-federal-tira-duvida-sobre-opcao-pelo-simei-que-permanece-com-prazo-definido-para-janeiro",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "25/09/2026",
+      "impacto": "médio",
+      "tags": [
+        "Simples Nacional",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-10-01T11:05:41",
+      "primeira_vez_em": "2026-09-26T11:03:28"
+    },
+    {
+      "id": "432d02075047561e",
+      "titulo": "Dívida Pública Federal totaliza R$ 9,29 trilhões em agosto",
+      "resumo": "Participação de títulos remunerados por taxa flutuante chega a 52,74%, maior percentual da série histórica iniciada em dezembro de 2000",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/divida-publica-federal-totaliza-r-9-29-trilhoes-em-agosto",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "28/09/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-01T11:05:41",
+      "primeira_vez_em": "2026-09-29T11:04:55"
+    },
+    {
+      "id": "62fb71c4160a376c",
+      "titulo": "Receita atualiza o balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "resumo": "Dados apresentam quantidade de solicitações recebidas e serão atualizados à medida que novos pedidos forem realizados",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-atualiza-o-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "28/09/2026",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "Simples Nacional"
+      ],
+      "coletado_em": "2026-10-01T11:05:41",
+      "primeira_vez_em": "2026-09-29T11:04:55"
+    },
+    {
+      "id": "b0e4458054eae6a9",
+      "titulo": "Governo Central registra em agosto déficit primário de R$ 13,6 bilhões, aponta o Resultado do Tesouro Nacional",
+      "resumo": "Em agosto do ano passado, o déficit foi de R$ 15,5 bilhões, em valores correntes",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/governo-central-registra-em-agosto-deficit-primario-de-r-13-6-bilhoes-aponta-o-resultado-do-tesouro-nacional",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "29/09/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-01T11:05:41",
+      "primeira_vez_em": "2026-09-30T11:04:59"
+    },
+    {
+      "id": "72cdc9b42d3d2f77",
+      "titulo": "Simples Nacional 2027 tem novos prazos para microempresas e empresas de pequeno porte",
+      "resumo": "Resolução com as novas datas foi publicada na segunda-feira (28/09)",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/simples-nacional-2027-tem-novos-prazos-para-microempresas-e-empresas-de-pequeno-porte",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "29/09/2026",
+      "impacto": "médio",
+      "tags": [
+        "Simples Nacional",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-10-01T11:05:41",
+      "primeira_vez_em": "2026-09-30T11:04:59"
+    },
+    {
+      "id": "70ae17e8fd24bf0c",
+      "titulo": "Receita publica novo balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "resumo": "Dados trazem o número mais atual e serão atualizados à medida que novos pedidos forem realizados",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-publica-novo-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "30/09/2026",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "Simples Nacional"
+      ],
+      "coletado_em": "2026-10-01T11:05:41",
+      "primeira_vez_em": "2026-10-01T11:05:41"
+    },
+    {
+      "id": "581415c95a1a92ee",
+      "titulo": "Saldo de operações de crédito garantidas pela União atinge R$ 353,64 bilhões no 2º quadrimestre de 2026",
+      "resumo": "Os dados foram publicados nesta quarta-feira (30/09) pelo Tesouro Nacional no Relatório Quadrimestral de Operações de Crédito Garantidas",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/saldo-de-operacoes-de-credito-garantidas-pela-uniao-atinge-r-353-64-bilhoes-no-2o-quadrimestre-de-2026",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "30/09/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-01T11:05:41",
+      "primeira_vez_em": "2026-10-01T11:05:41"
+    },
+    {
+      "id": "4baf6d16f5f6d474",
+      "titulo": "Novo acesso ao Regularize para representantes de empresas",
+      "resumo": "Responsáveis por PJ já podem acessar serviços diretamente do Regularize por meio da conta gov.br",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/novo-acesso-ao-regularize-para-representantes-de-empresas",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "17/09/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-01T11:05:40",
+      "primeira_vez_em": "2026-09-17T15:43:05"
+    },
+    {
+      "id": "8af9031daf5b35f0",
+      "titulo": "Operação Bomba Oculta visa postos de combustíveis clandestinos",
+      "resumo": "Ação é desdobramento da Operação Carbono Oculto e conta com colaboração entre PGFN e diversas instituições",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/operacao-bomba-oculta-visa-postos-de-combustiveis-clandestinos",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "28/08/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-01T11:05:40",
+      "primeira_vez_em": "2026-09-17T15:43:05"
+    },
+    {
+      "id": "96e91c67f56c632d",
+      "titulo": "Seleção Nacional de Estagiários",
+      "resumo": "Inscrições são gratuitas e vão de 20 de agosto a 3 de setembro",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/selecao-nacional-de-estagiarios",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "19/08/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-01T11:05:40",
+      "primeira_vez_em": "2026-09-17T15:43:05"
+    },
+    {
+      "id": "34948173140ec564",
+      "titulo": "Informamos que não haverá atendimento nas unidades da PGFN em todo o Brasil, na terça-feira, 11 de agosto.",
+      "resumo": "Informamos que não haverá atendimento nas unidades da PGFN em todo o Brasil, na terça-feira, 11 de agosto.",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/informamos-que-nao-havera-atendimento-na-terca-feira-11-de-agosto",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "07/08/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-01T11:05:40",
+      "primeira_vez_em": "2026-09-17T15:43:05"
+    },
+    {
+      "id": "8bd7518c825c9b11",
+      "titulo": "Defeso Eleitoral 2026",
+      "resumo": "Links importantes que continuam ativos",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/defeso-eleitoral-2026",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "09/07/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-01T11:05:40",
+      "primeira_vez_em": "2026-09-17T15:43:05"
+    },
+    {
+      "id": "bb8a5d4e64f78243",
+      "titulo": "Atraso no débito automático exige atenção de contribuintes nesta quarta (30)",
+      "resumo": "Parcelas com vencimento em 30/9 podem não ter sido debitadas por atraso no processamento do débito automático; veja como manter a negociação em dia",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/atraso-no-debito-automatico-exige-atencao-de-contribuintes-nesta-quarta-30",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "30/09/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-01T11:05:40",
+      "primeira_vez_em": "2026-10-01T11:05:40"
+    },
+    {
+      "id": "b081958b5f7506fe",
+      "titulo": "Publicado o Perguntas e Respostas da NFS-e",
+      "resumo": "O material foi compilado com base nas dúvidas recebidas de Municípios, contribuintes e empresas de desenvolvimento",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/publicado-o-perguntas-e-respostas-da-nfs-e",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "16/09/2026",
+      "impacto": "médio",
+      "tags": [
+        "NFSe"
+      ],
+      "coletado_em": "2026-10-01T11:05:39",
+      "primeira_vez_em": "2026-09-17T15:43:04"
+    },
+    {
+      "id": "b329be74653055a3",
+      "titulo": "Secretaria Executiva do CGNFS-e participa de homologação de novas funcionalidades da Nota Fiscal de Serviço Eletrônica para a Reforma Tributária",
+      "resumo": "Atividades aconteceram na sede do Serpro em Belo Horizonte (MG)",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/secretaria-executiva-do-cgnfs-e-participa-de-homologacao-de-novas-funcionalidades-da-nota-fiscal-de-servico-eletronica-para-a-reforma-tributaria",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "05/09/2026",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NFSe"
+      ],
+      "coletado_em": "2026-10-01T11:05:39",
+      "primeira_vez_em": "2026-09-17T15:43:04"
+    },
+    {
+      "id": "46f050b2bd9a044c",
+      "titulo": "Comitê Gestor do Simples Nacional prorroga a obrigatoriedade de emissão de notas fiscais de serviço pelo Emissor Nacional da NFS-e",
+      "resumo": "Comitê Gestor do Simples Nacional prorroga a obrigatoriedade de emissão de notas fiscais de serviço pelo Emissor Nacional da NFS-e",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/comite-gestor-do-simples-nacional-prorroga-a-obrigatoriedade-de-emissao-de-notas-fiscais-de-servico-pelo-emissor-nacional-da-nfs-e",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "11/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "NFSe",
+        "Simples Nacional",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-10-01T11:05:39",
+      "primeira_vez_em": "2026-09-17T15:43:04"
+    },
+    {
+      "id": "b9c9daabd31b6e3e",
+      "titulo": "CGNFS-e orienta sobre os prazos para destaque de IBS/CBS nas notas fiscais de serviço",
+      "resumo": "Comitê Gestor do IBS e Receita Federal flexibilizaram a obrigatoriedade de informações nos documentos fiscais. Regras de validação que exigem informações do IBS e da CBS foram alteradas para evitar rejeição de documentos fiscais.",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/cgnfs-e-orienta-sobre-os-prazos-para%20destaque-de-ibs-cbs-nas-notas-fiscais-de-servico",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "07/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "NFSe",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-10-01T11:05:39",
+      "primeira_vez_em": "2026-09-17T15:43:04"
+    },
+    {
+      "id": "8ad9456dba6ac974",
+      "titulo": "Plataforma NFS-e disponibiliza novas evoluções em Produção Restrita e divulga cronograma de implantação",
+      "resumo": "Entre as evoluções estão o CNPJ Alfanumérico e os grupos IBS/CBS no Emissor Web",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/plataforma-nfs-e-disponibiliza-novas-evolucoes-em-producao-restrita-e-divulga-cronograma-de-implantacao",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "28/07/2026",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "NFSe"
+      ],
+      "coletado_em": "2026-10-01T11:05:39",
+      "primeira_vez_em": "2026-09-17T15:43:04"
+    },
+    {
+      "id": "0b7a31ff3defd6f2",
+      "titulo": "Manutenção no ambiente do CNPJ neste sábado (25) não afetará os principais serviços da NFS-e",
+      "resumo": "Apenas os serviços de criação de usuário e recuperação de senha do Portal do Contribuinte serão afetados",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/manutencao-no-ambiente-do-cnpj-neste-sabado-25-nao-afetara-os-principais-servicos-da-nfs-e",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "23/07/2026",
+      "impacto": "médio",
+      "tags": [
+        "NFSe"
+      ],
+      "coletado_em": "2026-10-01T11:05:39",
+      "primeira_vez_em": "2026-09-17T15:43:04"
+    },
+    {
+      "id": "d448d576b31f4e14",
+      "titulo": "DANFSE: novos ajustes e prorrogação do prazo para adequação",
+      "resumo": "Novo prazo passa a ser 3 de agosto de 2026",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/danfse-novos-ajustes-de-leiaute-e-prorrogacao-do-prazo-para-adequacao",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "14/07/2026",
+      "impacto": "médio",
+      "tags": [
+        "NFSe",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-10-01T11:05:39",
+      "primeira_vez_em": "2026-09-17T15:43:04"
+    },
+    {
+      "id": "21a7f1ac3d421137",
+      "titulo": "Nova funcionalidade no Painel Administrativo Municipal permite antecipar a adoção do Emissor Nacional para optantes pelo Simples Nacional",
+      "resumo": "Nova funcionalidade no Painel Administrativo Municipal permite antecipar a adoção do Emissor Nacional para optantes pelo Simples Nacional",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/nova-funcionalidade-no-painel-administrativo-municipal-permite-antecipar-a-adocao-do-emissor-nacional-para-optantes-pelo-simples-nacional",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "28/09/2026",
+      "impacto": "médio",
+      "tags": [
+        "Simples Nacional"
+      ],
+      "coletado_em": "2026-10-01T11:05:39",
+      "primeira_vez_em": "2026-09-29T11:04:53"
+    },
+    {
+      "id": "61e71ca77fffd240",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 009",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-009-se-cgnfse-v1-0-1.pdf",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-10-01T11:05:38",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "0c1964e9f04584db",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 008",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre o DANFSe.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-008-se-cgnfse-danfse-20260714-v1-02.pdf",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-10-01T11:05:38",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "046e01fae8b56c6d",
+      "titulo": "AnexoVIII versão 1.01.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
+      "resumo": "AnexoVIII versão 1.01.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/anexoviii-correlacaoitemnbsindopcclasstrib_ibscbs_v1-01-00.xlsx",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-01T11:05:38",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "f6ee5f1d56c00209",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 007",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e e esclarecimentos acerca da plataforma NFS-e.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-007-se-cgnfse-v1-0.pdf",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-10-01T11:05:38",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "d00ea00b82d8e1fa",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 006",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e Via, dado o contexto da Reforma Tributária do Consumo.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-006-se-cgnfse-leiaute-nfse-via.pdf",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-10-01T11:05:38",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "09a31ac05b22905c",
+      "titulo": "AnexoVIII versão 1.00.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
+      "resumo": "AnexoVIII versão 1.00.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/anexoviii-correlacaoitemnbsindopcclasstrib_ibscbs_v1-00-00.xlsx",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-01T11:05:38",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "e03b66d584fbef2c",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 005",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-005-se-cgnfse-novo-layout-rtc.pdf",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-10-01T11:05:38",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "2112c58dfa782067",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 004",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/producao-restrita/nt-004-se-cgnfse-novo-layout-rtc-v2-00-20251210.pdf",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-10-01T11:05:38",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "4adf744f945fd69f",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 003",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-003-1-2-se-cgnfse-novo-layout-rtc.pdf",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-10-01T11:05:38",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "78ad827b6b8ebe84",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 002",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nota-tecnica-se-cgnfs-e-no-002-de-28-de-fevereiro-de-2025",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-10-01T11:05:38",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "6e748567f4cb33c5",
+      "titulo": "CGIBS debate Reforma Tributária e administração pública em evento do Tribunal de Justiça de São Paulo",
+      "resumo": "CGIBS debate Reforma Tributária e administração pública em evento do Tribunal de Justiça de São Paulo",
+      "link": "https://www.cgibs.gov.br/cgibs-debate-reforma-tributaria-em-evento-do-tribunal-de-justica-de-sao-paulo",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "IBS"
+      ],
+      "coletado_em": "2026-10-01T11:05:37",
+      "primeira_vez_em": "2026-09-17T15:43:02"
+    },
+    {
+      "id": "7b0095e4b757d45c",
+      "titulo": "Prazo para opção pelo Simples Nacional e do modelo de recolhimento do IBS e da CBS para 2027 termina no dia 30/09",
+      "resumo": "Prazo para opção pelo Simples Nacional e do modelo de recolhimento do IBS e da CBS para 2027 termina no dia 30/09",
+      "link": "https://www.cgibs.gov.br/prazo-para-opcao-pelo-simples-nacional-e-escolha-do-modelo-de-recolhimento-do-ibs-e-da-cbs-em-2027-termina-em-30-de-setembro",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "Simples Nacional",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-10-01T11:05:37",
+      "primeira_vez_em": "2026-09-17T15:43:02"
+    },
+    {
+      "id": "c2d217bc7764521d",
+      "titulo": "Comitê Gestor do IBS publica Editais de Chamamento Público para a celebração de Acordos de Cooperação Técnica",
+      "resumo": "Comitê Gestor do IBS publica Editais de Chamamento Público para a celebração de Acordos de Cooperação Técnica",
+      "link": "https://www.cgibs.gov.br/comite-gestor-publica-editais-de-chamamento-publico-para-a",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-10-01T11:05:37",
+      "primeira_vez_em": "2026-09-17T15:43:02"
+    },
+    {
+      "id": "63dff167c306e0a2",
+      "titulo": "Presidente e segunda vice do CGIBS participam de missão à OCDE em Paris sobre IVA e modernização tributária",
+      "resumo": "Presidente e segunda vice do CGIBS participam de missão à OCDE em Paris sobre IVA e modernização tributária",
+      "link": "https://www.cgibs.gov.br/presidente-e-segunda-vice-do-cgibs-participam-de-missao-a-ocde-sobre-iva-e-modernizacao-tributaria",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-10-01T11:05:37",
+      "primeira_vez_em": "2026-09-19T11:03:30"
+    },
+    {
+      "id": "606eb4007464d320",
+      "titulo": "Receita Federal e Comitê Gestor do IBS divulgam Orientação Conjunta destinada às sociedades cooperativas",
+      "resumo": "Receita Federal e Comitê Gestor do IBS divulgam Orientação Conjunta destinada às sociedades cooperativas",
+      "link": "https://www.cgibs.gov.br/receita-federal-e-comite-gestor-do-imposto-sobre-bens-e-servicos-divulgam-orientacao-conjunta",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-10-01T11:05:37",
+      "primeira_vez_em": "2026-09-22T11:03:37"
+    },
+    {
+      "id": "2f86464c831b5b1b",
+      "titulo": "Regimes Específicos: veja atualização dos esquemas XSD dos eventos D-1011 e D-1101 na Produção Restrita",
+      "resumo": "Regimes Específicos: veja atualização dos esquemas XSD dos eventos D-1011 e D-1101 na Produção Restrita",
+      "link": "https://www.cgibs.gov.br/dere-atualizacao-dos-esquemas-xsd-dos-eventos-d-1011-e-d-1101-na-producao-restrita",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-01T11:05:37",
+      "primeira_vez_em": "2026-09-22T11:03:37"
+    },
+    {
+      "id": "e0eaa5a24d485f65",
+      "titulo": "Informe: conta do Comitê Gestor do IBS no Instagram (cgibs.oficial) passa por instabilidade temporária",
+      "resumo": "Informe: conta do Comitê Gestor do IBS no Instagram (cgibs.oficial) passa por instabilidade temporária",
+      "link": "https://www.cgibs.gov.br/informe-instabilidade-da-conta-do-cgibs-no-instagram",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-10-01T11:05:37",
+      "primeira_vez_em": "2026-09-25T11:03:52"
+    },
+    {
+      "id": "c2291b33ecd78178",
+      "titulo": "Declaração de Regimes Específicos: CGIBS e Receita Federal divulgam endpoints do ambiente de produção",
+      "resumo": "Declaração de Regimes Específicos: CGIBS e Receita Federal divulgam endpoints do ambiente de produção",
+      "link": "https://www.cgibs.gov.br/dere-cgibs-e-receita-federal-divulgam-endpoints-do-ambiente-de-producao",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-10-01T11:05:37",
+      "primeira_vez_em": "2026-09-30T11:04:55"
+    },
+    {
+      "id": "eeba35f26cd1b78e",
+      "titulo": "Opção do contribuinte por Simples Nacional ou pelo regime regular de CBS e IBS para 2027 tem novos prazos",
+      "resumo": "Opção do contribuinte por Simples Nacional ou pelo regime regular de CBS e IBS para 2027 tem novos prazos",
+      "link": "https://www.cgibs.gov.br/embora-os-periodos-sejam-parecidos-tratam-de-escolhas-diferentes-por-isso-e-importante-entender-cada-situacao",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "Simples Nacional",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-10-01T11:05:37",
+      "primeira_vez_em": "2026-10-01T11:05:37"
+    },
+    {
+      "id": "08398f1e2c89c97b",
+      "titulo": "Receita Federal disponibilizará a versão web da DITR 2026",
+      "resumo": "Serviço permite preencher, transmitir, retificar e consultar a Declaração do Imposto sobre a Propriedade Territorial Rural de forma on-line.",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-disponibilizara-a-versao-web-da-ditr-2026",
+      "fonte": "Receita Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-07-22T16:51:56Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-01T11:05:34",
+      "primeira_vez_em": "2026-09-17T15:42:58"
+    },
+    {
+      "id": "246d24ac1d0cd774",
+      "titulo": "Receita Federal informa parada programada do Sistema de Leilão Eletrônico",
+      "resumo": "Serviço ficará indisponível no dia 23 de julho de 2026, das 6h às 16h, para implantação do CNPJ Alfanumérico",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-informa-parada-programada-do-sistema-de-leilao-eletronico",
+      "fonte": "Receita Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-07-20T19:54:16Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-01T11:05:34",
+      "primeira_vez_em": "2026-09-17T15:42:58"
+    },
+    {
+      "id": "2de55424d6f704af",
+      "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+      "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+      "fonte": "Receita Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-07-22T17:02:38Z",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "CBS",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-10-01T11:05:34",
+      "primeira_vez_em": "2026-09-17T15:42:58"
+    },
+    {
+      "id": "5a2a272341f6a971",
+      "titulo": "CNPJ Alfanumérico: operação normal",
+      "resumo": "Publicado por Coordenação Técnica do ENCAT",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/2982",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "23/07/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-01T11:05:32",
+      "primeira_vez_em": "2026-09-17T15:42:57"
+    },
+    {
+      "id": "1ca5429d7569b551",
+      "titulo": "ATENÇÃO: CNPJ de Teste para Alfanumérico (Novidade: Adicionados NFe e e NFCe)",
+      "resumo": "Publicado por SEFAZ Virtual RS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/2978",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "29/05/2026",
+      "impacto": "médio",
+      "tags": [
+        "NFe",
+        "API/Sistemas Gov"
+      ],
+      "coletado_em": "2026-10-01T11:05:32",
+      "primeira_vez_em": "2026-09-17T15:42:57"
+    },
+    {
+      "id": "73b214f6161b9cb9",
+      "titulo": "Implantação no ambiente de produção da versão 1.13 da NT da Reforma Tributária",
+      "resumo": "Publicado por SVRS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/2974",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "03/03/2026",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-10-01T11:05:32",
+      "primeira_vez_em": "2026-09-17T15:42:57"
+    },
+    {
+      "id": "607173e000fc3989",
+      "titulo": "Novidade: Link para o MOC Online",
+      "resumo": "Publicado por Coordenação Técnica do ENCAT",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Noticias/3007",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "10/09/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-01T11:05:32",
+      "primeira_vez_em": "2026-09-17T15:42:57"
+    },
+    {
+      "id": "a9b85ebff2d35b2f",
+      "titulo": "Implantadas NTs 2026.002 em PRODUÇÃO na SVRS",
+      "resumo": "Publicado por SEFAZ Virtual RS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Noticias/3005",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "31/08/2026",
+      "impacto": "médio",
+      "tags": [
+        "API/Sistemas Gov"
+      ],
+      "coletado_em": "2026-10-01T11:05:32",
+      "primeira_vez_em": "2026-09-17T15:42:57"
+    },
+    {
+      "id": "74129502b829908e",
+      "titulo": "Implantada a regra de validação de exigencia de IBS e CBS no ambiente de homologação",
+      "resumo": "Publicado por SEFAZ Virtual RS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Noticias/2981",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "06/07/2026",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "API/Sistemas Gov"
+      ],
+      "coletado_em": "2026-10-01T11:05:32",
+      "primeira_vez_em": "2026-09-17T15:42:57"
+    },
+    {
+      "id": "e5fc5ae97dc8d1c2",
+      "titulo": "Lei Complementar 227 de 13 de Janeiro de 2026",
+      "resumo": "Publicado por Ajustes SINIEF",
+      "link": "http://www.in.gov.br/web/dou/-/lei-complementar-n-227-de-13-de-janeiro-de-2026-681157850",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "14/01/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-01T11:05:32",
+      "primeira_vez_em": "2026-09-17T15:42:57"
+    },
+    {
+      "id": "07591671a87026e9",
+      "titulo": "ATO CONJUNTO RFB/CGIBS Nº 1, DE 22 DE DEZEMBRO DE 2025",
+      "resumo": "Publicado por Ato Conjunto RFB/CGIBS",
+      "link": "https://www.in.gov.br/web/dou/-/ato-conjunto-rfb/cgibs-n-1-de-22-de-dezembro-de-2025-677624586",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "23/12/2025",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-10-01T11:05:32",
+      "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
       "id": "3b04813b7185b2f7",
@@ -736,50 +1680,6 @@ const RADAR_DADOS = {
       "primeira_vez_em": "2026-09-29T11:04:58"
     },
     {
-      "id": "e86c50832302f9ed",
-      "titulo": "Lei determina avaliação da qualidade de hospitais",
-      "resumo": "A partir de agora, hospitais particulares deverão passar por avaliações da vigilância sanitária sobre a qualidade dos serviços de saúde, com divulgação periódica dos resultados. É o que estabelece a Lei 15.524, que cria a Estratégia Nacional de Controle e Avaliação da Qualidade da Assistência à Saúde prestada pela Iniciativa Privada. A nova norma foi sancionada pela Presidência da República e publicada no Diário Oficial da União (DOU) desta terça-feira (29). Os padrões de qualidade e atributos de qualificação deverão ser definidos pelo órgão nacional de vigilância sanitária, diz o texto. Os estabelecimentos que descumprirem as regras poderão receber multa diária entre R$ 5 mil e 500 mil. A penalidade será aplicada sem prejuízo da responsabilidade civil por danos à saúde do paciente ou por descumprimento de normas de proteção ao consumidor. De acordo com a lei, os padrões de qualidade e os atributos de qualificação deverão observar no mínimo as seguintes diretrizes: garantia da segurança do paciente, por meio da adoção de tratamentos efetivos, conforme comprovação científica, e dos mecanismos necessários para prevenção e recuperação de sua saúde; disponibilização de recursos institucionais (corpo técnico, estruturas e processos de cuidado) em quantitativo suficiente para atendimento ágil dos pacientes, evitando-se longas esperas e atrasos potencialmente danosos à saúde; cuidado responsivo e centrado no paciente; equidade, sendo vedadas distinções de tratamento, especialmente em virtude de gênero, religião, etnia, localização geográfica e condição socioeconômica; cumprimento efetivo das normas expedidas pela Agência Nacional de Vigilância Sanitária (Anvisa) e pela Agência Nacional de Saúde Suplementar (ANS). Os padrões de qualidade previstos na nova lei aplicam-se também aos estabelecimentos públicos de saúde, que devem ser alvo de avaliação e divulgação dos resultados, na forma de regulamento. Origem da lei A norma jurídica teve origem no Projeto de Lei (PL) 287/2024, apresentado pelo então senador e atual ministro do Supremo Tribunal Federal (STF) Flávio Dino. Com relatório favorável do senador Veneziano Vital do Rêgo (MDB-PB), o texto foi aprovado pela Comissão de Assuntos Sociais (CAS) em 2025. Em seguida, a matéria foi encaminhada à Câmara dos Deputados, onde foi aprovada neste mês e encaminhada à sanção presidencial. Em 2012, o ex-senador Flávio Dino perdeu o filho Marcelo, de 13 anos. O garoto havia sido internado em um hospital de Brasília após uma crise de asma. Dino e a mãe de Marcelo, Deane Fonseca, processaram o hospital e a equipe médica. Na ação, eles argumentam que a médica responsável pelo atendimento abandonou o posto da UTI pediátrica, o que provocou demora no atendimento. Em outubro de 2025, o hospital foi condenado a pagar uma indenização aos pais. Com Agência Câmara",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/29/lei-determina-avaliacao-da-qualidade-de-hospitais",
-      "fonte": "Senado Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-09-29T19:27:47Z",
-      "impacto": "alto",
-      "tags": [
-        "Multa/Penalidade"
-      ],
-      "coletado_em": "2026-09-30T11:05:03",
-      "primeira_vez_em": "2026-09-30T11:05:03"
-    },
-    {
-      "id": "640da689f5af15f2",
-      "titulo": "Lei reduz CSLL de resseguradoras locais para 9% a partir de 2027",
-      "resumo": "As resseguradoras locais — ou seja, aquelas sediadas no Brasil — pagarão uma Contribuição Social sobre o Lucro Líquido (CSLL) menor a partir de 1º de janeiro de 2027: a alíquota cairá dos atuais 15% para 9%. Além disso, a partir de 2030 essas empresas ficarão livres do adicional de 10% do Imposto de Renda. É o que determina a Lei 15.525, de 2026, que foi sancionada pela Presidência da República na segunda-feira (28). O texto foi publicado no Diário Oficial da União desta terça-feira (29). Resseguradoras são empresas que assumem parte dos riscos das seguradoras, sobretudo em situações de possível prejuízo elevado. São uma espécie de “seguro do seguro”. A nova lei teve origem em um projeto do deputado federal Isnaldo Bulhões Jr. (MDB-AL): o PL 3.540/2026. Durante sua tramitação no Senado, o projeto teve Camilo Santana (PT-CE) como relator — o encarregado de analisar a matéria e recomendar a aprovação (com ou sem alterações) ou a rejeição do texto. Na época, Camilo Santana argumentou que a tributação (anterior à nova lei) incentivava a contratação de resseguradoras estrangeiras — que, segundo ele, atuam sob regimes tributários mais competitivos —, prejudicando a manutenção de capital no Brasil. De acordo com a Superintendência de Seguros Privados (Susep), em julho havia 18 companhias no país. Compensação de prejuízos Além da redução da CSLL, as resseguradoras locais terão outro benefício a partir de 1º de janeiro de 2027: elas não estarão mais sujeitas ao limite de 30% na compensação de prejuízos fiscais de Imposto de Renda e de bases de cálculo negativas da CSLL. Quando uma empresa tem mais despesas dedutíveis do que receitas em um período, ela apura prejuízo fiscal ou base negativa. Pela regra geral, esse prejuízo acumulado pode ser usado para diminuir o tributo a pagar nos anos em que a empresa voltar a ter lucro, mas com um limite: o abatimento não pode reduzir em mais de 30% o lucro de cada ano. A nova lei cria uma exceção para as resseguradoras locais: se o prejuízo acumulado não for totalmente compensado em três anos, o saldo remanescente deixará de ficar sujeito ao limite de 30%, podendo ser utilizado para abater o imposto sobre o lucro nos anos seguintes. Imposto de Renda As resseguradoras locais estarão livres, a partir de 1º de janeiro de 2030, do Imposto de Renda adicional de 10% — que é aplicado quando o lucro é maior que os patamares previstos na legislação (que variam conforme o período de apuração do tributo). Esse adicional é cobrado apenas sobre o valor que superar o respectivo patamar. Um exemplo: quando o imposto é apurado com base no lucro presumido, o adicional é cobrado quando a empresa lucra mais de R$ 60 mil por trimestre. A alíquota do Imposto de Renda Pessoa Jurídica (IRPJ) continua em 15%. Lei complementar Esses benefícios foram viabilizados pela Lei Complementar 237, de 2026, que permite exceções às regras de concessões de benefícios fiscais para resseguradoras.",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/29/lei-reduz-csll-de-resseguradoras-locais-para-9-a-partir-de-2027",
-      "fonte": "Senado Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-09-29T19:21:39Z",
-      "impacto": "alto",
-      "tags": [],
-      "coletado_em": "2026-09-30T11:05:03",
-      "primeira_vez_em": "2026-09-30T11:05:03"
-    },
-    {
-      "id": "4592d995d311b4dc",
-      "titulo": "Sancionado repasse de loterias para Comitê Brasileiro de Clubes",
-      "resumo": "Foi sancionada a lei que transfere ao Comitê Brasileiro de Clubes (CBC) 0,01% da arrecadação de jogos de loteria federal, percentual que era destinado à Federação Nacional dos Clubes (Fenaclubes). Os recursos serão aplicados na formação de gestores de clubes esportivos. O texto foi publicado no Diário Oficial da União desta terça-feira (29). A Lei 15.523, de 2026, teve origem no PL 2.584/2025, aprovado no início de setembro no Plenário do Senado, com relatório da senadora Leila Barros (PDT-DF). A proposta altera a Lei das Loterias (Lei 13.756, de 2018) justamente para mudar o destinatário desse percentual da arrecadação. Assim, os 0,01% que eram repassados à Fenaclubes passam a ser destinados ao CBC, sem aumento do volume global de recursos previstos para os clubes. A alteração foi resultado de consenso entre as duas entidades e mantém a finalidade de qualificação profissional dos gestores esportivos. Fiscalização A nova lei também retira a Fenaclubes da lista de entidades fiscalizadas pelo Tribunal de Contas da União (TCU). O CBC já integra a relação de entidades sujeitas à fiscalização do tribunal. Segundo a justificativa do projeto, a alteração busca adequar a legislação à organização do esporte no país, já que o CBC integra o Sistema Nacional do Esporte (Sinesp). A transferência dos recursos aproveita a estrutura já mantida pelo CBC para ações de capacitação e formação de gestores de clubes. Durante a tramitação no Senado, a relatora, Leila Barros, afirmou que a mudança promove um ajuste na destinação dos recursos das loterias sem ampliar o volume global previsto na legislação.",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/29/sancionado-repasse-de-loterias-para-comite-brasileiro-de-clubes",
-      "fonte": "Senado Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-09-29T13:34:15Z",
-      "impacto": "alto",
-      "tags": [],
-      "coletado_em": "2026-09-30T11:05:03",
-      "primeira_vez_em": "2026-09-30T11:05:03"
-    },
-    {
       "id": "b63a6a7f78a5ddb4",
       "titulo": "Lei torna futebol feminino prioridade na política de esporte",
       "resumo": "Entrou em vigor a lei que torna o desenvolvimento do futebol feminino prioridade na política pública esportiva nacional, com foco na profissionalização e na igualdade de oportunidades. Publicada no Diário Oficial da União desta terça-feira (29), a norma estabelece atribuições para o Estado, a Confederação Brasileira de Futebol (CBF), federações e clubes e define diretrizes nacionais para o desenvolvimento da modalidade. De acordo com a Lei 15.522, de 2026, as entidades formadoras de atletas de futebol deverão manter também equipes femininas. A exigência, no entanto, entrará em vigor 180 dias após a publicação da norma e poderá ser prorrogada por igual período. As organizações esportivas formadoras de futebol feminino terão os mesmos direitos e benefícios assegurados às entidades formadoras do futebol masculino. A nova lei também altera a Lei das Sociedades Anônimas do Futebol (SAF) para determinar que o clube interessado em se constituir como SAF forme atletas de futebol feminino e masculino, ou apenas feminino. Ministério do Esporte Segundo a lei, compete ao Ministério do Esporte promover condições favoráveis ao desenvolvimento do futebol feminino profissional e amador. Entre as atribuições estão o estímulo à participação de meninas na modalidade, o fortalecimento das competições de formação em todas as idades e o apoio à criação e à manutenção de equipes profissionais e de base. O ministério deverá ainda estimular a inclusão do futebol feminino em programas de formação esportiva e incentivar a elaboração de calendários de competições com antecedência, de forma a favorecer o planejamento de clubes, atletas e demais profissionais. Também caberá ao ministério, em articulação com a CBF, federações, clubes e outras entidades públicas e privadas, elaborar protocolos de prevenção e enfrentamento ao racismo, à discriminação, ao preconceito e à violência contra as mulheres no futebol. As medidas abrangem atletas, árbitras, treinadoras, torcedoras, gestoras, profissionais de educação física e outras mulheres que atuam na modalidade. A norma prevê ainda o estímulo a parcerias entre escolas, universidades e clubes para a identificação e a formação de novos talentos, além de ações de capacitação e empregabilidade de mulheres em áreas como arbitragem, treinamento, gestão, direção esportiva e educação física. Profissionalização A lei estabelece limites para a participação de atletas não profissionais nas competições oficiais de futebol feminino. Na principal divisão nacional, cada equipe poderá inscrever até quatro atletas não profissionais. Nas demais divisões nacionais e na principal divisão estadual, o limite será de seis. Nas demais competições profissionais, poderão ser inscritas até oito atletas não profissionais. A quantidade deverá ser reduzida progressivamente. A lei determina que ato do Poder Executivo federal estabeleça os parâmetros para essa redução até a total profissionalização das competições oficiais de futebol feminino. Entre as diretrizes da política nacional estão a garantia do direito ao esporte para meninas e mulheres; a promoção da igualdade de oportunidades; o incentivo a ações e medidas destinadas à igualdade salarial entre homens e mulheres no futebol; o combate à discriminação, ao racismo, à intolerância e à violência contra as mulheres; a ampliação da participação feminina em cargos de gestão, direção técnica e arbitragem; e a proteção dos direitos relacionados à gravidez e à maternidade. A legislação também prevê a cooperação entre União, estados, Distrito Federal e municípios para o fortalecimento do futebol feminino. Lei Geral do Esporte A nova legislação altera dispositivos da Lei Geral do Esporte para exigir das entidades esportivas programas permanentes de prevenção e combate à violência contra a mulher e protocolos de enfrentamento à discriminação e à intolerância. As entidades também deverão assegurar igualdade de condições para atletas mulheres e homens em formação esportiva, inclusive quanto a espaços, equipamentos e equipes de profissionais de suporte. A manutenção de equipes femininas de futebol passa a ser requisito para a obtenção de determinadas certificações esportivas. Essa exigência entrará em vigor em 180 dias e poderá ser prorrogada por igual período. Copa do Mundo A lei determina ainda a elaboração de um plano de legado social, esportivo e financeiro da Copa do Mundo Feminina da Fifa 2027, alinhado às estratégias nacionais de desenvolvimento do futebol feminino. A competição será realizada no Brasil entre 24 de junho e 25 de julho de 2027, em Belo Horizonte, Brasília, Fortaleza, Porto Alegre, Recife, Rio de Janeiro, Salvador e São Paulo. A lei teve origem no PL 4.578/2025, do Poder Executivo, aprovado pelo Senado no começo de setembro com relatoria da senadora Teresa Leitão (PT-PE). Com Agência Brasil",
@@ -808,41 +1708,6 @@ const RADAR_DADOS = {
       "primeira_vez_em": "2026-09-25T11:03:57"
     },
     {
-      "id": "9f8c3a561dc3ff15",
-      "titulo": "Receita divulga novo balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
-      "resumo": "Números registram mais de 328 mil solicitações pelo Simples Nacional e 447 mil pelo regime regular do IBS e da CBS.",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-divulga-novo-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "25/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "CBS",
-        "Simples Nacional"
-      ],
-      "coletado_em": "2026-09-30T11:04:59",
-      "primeira_vez_em": "2026-09-26T11:03:28"
-    },
-    {
-      "id": "52e4dac25e6b82b4",
-      "titulo": "Receita Federal tira dúvida sobre opção pelo Simei, que permanece com prazo definido para janeiro",
-      "resumo": "A alteração do prazo de opção para setembro aplica-se ao Simples Nacional, e não ao Simei",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-federal-tira-duvida-sobre-opcao-pelo-simei-que-permanece-com-prazo-definido-para-janeiro",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "25/09/2026",
-      "impacto": "médio",
-      "tags": [
-        "Simples Nacional",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-09-30T11:04:59",
-      "primeira_vez_em": "2026-09-26T11:03:28"
-    },
-    {
       "id": "c7c2321c84d08324",
       "titulo": "Investimentos no Tesouro Direto somam R$ 15 bilhões em agosto",
       "resumo": "Foram realizadas 1.320.001 operações de investimento em títulos do Tesouro Direto, totalizando 15 bilhões, o maior valor da série histórica",
@@ -855,139 +1720,6 @@ const RADAR_DADOS = {
       "tags": [],
       "coletado_em": "2026-09-30T11:04:59",
       "primeira_vez_em": "2026-09-26T11:03:28"
-    },
-    {
-      "id": "432d02075047561e",
-      "titulo": "Dívida Pública Federal totaliza R$ 9,29 trilhões em agosto",
-      "resumo": "Participação de títulos remunerados por taxa flutuante chega a 52,74%, maior percentual da série histórica iniciada em dezembro de 2000",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/divida-publica-federal-totaliza-r-9-29-trilhoes-em-agosto",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "28/09/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-30T11:04:59",
-      "primeira_vez_em": "2026-09-29T11:04:55"
-    },
-    {
-      "id": "62fb71c4160a376c",
-      "titulo": "Receita atualiza o balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
-      "resumo": "Dados apresentam quantidade de solicitações recebidas e serão atualizados à medida que novos pedidos forem realizados",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-atualiza-o-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "28/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "CBS",
-        "Simples Nacional"
-      ],
-      "coletado_em": "2026-09-30T11:04:59",
-      "primeira_vez_em": "2026-09-29T11:04:55"
-    },
-    {
-      "id": "b0e4458054eae6a9",
-      "titulo": "Governo Central registra em agosto déficit primário de R$ 13,6 bilhões, aponta o Resultado do Tesouro Nacional",
-      "resumo": "Em agosto do ano passado, o déficit foi de R$ 15,5 bilhões, em valores correntes",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/governo-central-registra-em-agosto-deficit-primario-de-r-13-6-bilhoes-aponta-o-resultado-do-tesouro-nacional",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "29/09/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-30T11:04:59",
-      "primeira_vez_em": "2026-09-30T11:04:59"
-    },
-    {
-      "id": "72cdc9b42d3d2f77",
-      "titulo": "Simples Nacional 2027 tem novos prazos para microempresas e empresas de pequeno porte",
-      "resumo": "Resolução com as novas datas foi publicada na segunda-feira (28/09)",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/simples-nacional-2027-tem-novos-prazos-para-microempresas-e-empresas-de-pequeno-porte",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "29/09/2026",
-      "impacto": "médio",
-      "tags": [
-        "Simples Nacional",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-09-30T11:04:59",
-      "primeira_vez_em": "2026-09-30T11:04:59"
-    },
-    {
-      "id": "4baf6d16f5f6d474",
-      "titulo": "Novo acesso ao Regularize para representantes de empresas",
-      "resumo": "Responsáveis por PJ já podem acessar serviços diretamente do Regularize por meio da conta gov.br",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/novo-acesso-ao-regularize-para-representantes-de-empresas",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "17/09/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-30T11:04:58",
-      "primeira_vez_em": "2026-09-17T15:43:05"
-    },
-    {
-      "id": "8af9031daf5b35f0",
-      "titulo": "Operação Bomba Oculta visa postos de combustíveis clandestinos",
-      "resumo": "Ação é desdobramento da Operação Carbono Oculto e conta com colaboração entre PGFN e diversas instituições",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/operacao-bomba-oculta-visa-postos-de-combustiveis-clandestinos",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "28/08/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-30T11:04:58",
-      "primeira_vez_em": "2026-09-17T15:43:05"
-    },
-    {
-      "id": "96e91c67f56c632d",
-      "titulo": "Seleção Nacional de Estagiários",
-      "resumo": "Inscrições são gratuitas e vão de 20 de agosto a 3 de setembro",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/selecao-nacional-de-estagiarios",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "19/08/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-30T11:04:58",
-      "primeira_vez_em": "2026-09-17T15:43:05"
-    },
-    {
-      "id": "34948173140ec564",
-      "titulo": "Informamos que não haverá atendimento nas unidades da PGFN em todo o Brasil, na terça-feira, 11 de agosto.",
-      "resumo": "Informamos que não haverá atendimento nas unidades da PGFN em todo o Brasil, na terça-feira, 11 de agosto.",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/informamos-que-nao-havera-atendimento-na-terca-feira-11-de-agosto",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "07/08/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-30T11:04:58",
-      "primeira_vez_em": "2026-09-17T15:43:05"
-    },
-    {
-      "id": "8bd7518c825c9b11",
-      "titulo": "Defeso Eleitoral 2026",
-      "resumo": "Links importantes que continuam ativos",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/defeso-eleitoral-2026",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "09/07/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-30T11:04:58",
-      "primeira_vez_em": "2026-09-17T15:43:05"
     },
     {
       "id": "2b0c4bb2793ed187",
@@ -1004,365 +1736,6 @@ const RADAR_DADOS = {
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     {
-      "id": "b081958b5f7506fe",
-      "titulo": "Publicado o Perguntas e Respostas da NFS-e",
-      "resumo": "O material foi compilado com base nas dúvidas recebidas de Municípios, contribuintes e empresas de desenvolvimento",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/publicado-o-perguntas-e-respostas-da-nfs-e",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "16/09/2026",
-      "impacto": "médio",
-      "tags": [
-        "NFSe"
-      ],
-      "coletado_em": "2026-09-30T11:04:57",
-      "primeira_vez_em": "2026-09-17T15:43:04"
-    },
-    {
-      "id": "b329be74653055a3",
-      "titulo": "Secretaria Executiva do CGNFS-e participa de homologação de novas funcionalidades da Nota Fiscal de Serviço Eletrônica para a Reforma Tributária",
-      "resumo": "Atividades aconteceram na sede do Serpro em Belo Horizonte (MG)",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/secretaria-executiva-do-cgnfs-e-participa-de-homologacao-de-novas-funcionalidades-da-nota-fiscal-de-servico-eletronica-para-a-reforma-tributaria",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "05/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFSe"
-      ],
-      "coletado_em": "2026-09-30T11:04:57",
-      "primeira_vez_em": "2026-09-17T15:43:04"
-    },
-    {
-      "id": "46f050b2bd9a044c",
-      "titulo": "Comitê Gestor do Simples Nacional prorroga a obrigatoriedade de emissão de notas fiscais de serviço pelo Emissor Nacional da NFS-e",
-      "resumo": "Comitê Gestor do Simples Nacional prorroga a obrigatoriedade de emissão de notas fiscais de serviço pelo Emissor Nacional da NFS-e",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/comite-gestor-do-simples-nacional-prorroga-a-obrigatoriedade-de-emissao-de-notas-fiscais-de-servico-pelo-emissor-nacional-da-nfs-e",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "11/08/2026",
-      "impacto": "alto",
-      "tags": [
-        "NFSe",
-        "Simples Nacional",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-09-30T11:04:57",
-      "primeira_vez_em": "2026-09-17T15:43:04"
-    },
-    {
-      "id": "b9c9daabd31b6e3e",
-      "titulo": "CGNFS-e orienta sobre os prazos para destaque de IBS/CBS nas notas fiscais de serviço",
-      "resumo": "Comitê Gestor do IBS e Receita Federal flexibilizaram a obrigatoriedade de informações nos documentos fiscais. Regras de validação que exigem informações do IBS e da CBS foram alteradas para evitar rejeição de documentos fiscais.",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/cgnfs-e-orienta-sobre-os-prazos-para%20destaque-de-ibs-cbs-nas-notas-fiscais-de-servico",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "07/08/2026",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "CBS",
-        "NFSe",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-09-30T11:04:57",
-      "primeira_vez_em": "2026-09-17T15:43:04"
-    },
-    {
-      "id": "8ad9456dba6ac974",
-      "titulo": "Plataforma NFS-e disponibiliza novas evoluções em Produção Restrita e divulga cronograma de implantação",
-      "resumo": "Entre as evoluções estão o CNPJ Alfanumérico e os grupos IBS/CBS no Emissor Web",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/plataforma-nfs-e-disponibiliza-novas-evolucoes-em-producao-restrita-e-divulga-cronograma-de-implantacao",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "28/07/2026",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "CBS",
-        "NFSe"
-      ],
-      "coletado_em": "2026-09-30T11:04:57",
-      "primeira_vez_em": "2026-09-17T15:43:04"
-    },
-    {
-      "id": "0b7a31ff3defd6f2",
-      "titulo": "Manutenção no ambiente do CNPJ neste sábado (25) não afetará os principais serviços da NFS-e",
-      "resumo": "Apenas os serviços de criação de usuário e recuperação de senha do Portal do Contribuinte serão afetados",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/manutencao-no-ambiente-do-cnpj-neste-sabado-25-nao-afetara-os-principais-servicos-da-nfs-e",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "23/07/2026",
-      "impacto": "médio",
-      "tags": [
-        "NFSe"
-      ],
-      "coletado_em": "2026-09-30T11:04:57",
-      "primeira_vez_em": "2026-09-17T15:43:04"
-    },
-    {
-      "id": "d448d576b31f4e14",
-      "titulo": "DANFSE: novos ajustes e prorrogação do prazo para adequação",
-      "resumo": "Novo prazo passa a ser 3 de agosto de 2026",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/danfse-novos-ajustes-de-leiaute-e-prorrogacao-do-prazo-para-adequacao",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "14/07/2026",
-      "impacto": "médio",
-      "tags": [
-        "NFSe",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-09-30T11:04:57",
-      "primeira_vez_em": "2026-09-17T15:43:04"
-    },
-    {
-      "id": "21a7f1ac3d421137",
-      "titulo": "Nova funcionalidade no Painel Administrativo Municipal permite antecipar a adoção do Emissor Nacional para optantes pelo Simples Nacional",
-      "resumo": "Nova funcionalidade no Painel Administrativo Municipal permite antecipar a adoção do Emissor Nacional para optantes pelo Simples Nacional",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/nova-funcionalidade-no-painel-administrativo-municipal-permite-antecipar-a-adocao-do-emissor-nacional-para-optantes-pelo-simples-nacional",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "28/09/2026",
-      "impacto": "médio",
-      "tags": [
-        "Simples Nacional"
-      ],
-      "coletado_em": "2026-09-30T11:04:57",
-      "primeira_vez_em": "2026-09-29T11:04:53"
-    },
-    {
-      "id": "61e71ca77fffd240",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 009",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-009-se-cgnfse-v1-0-1.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-30T11:04:56",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "0c1964e9f04584db",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 008",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre o DANFSe.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-008-se-cgnfse-danfse-20260714-v1-02.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-30T11:04:56",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "046e01fae8b56c6d",
-      "titulo": "AnexoVIII versão 1.01.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
-      "resumo": "AnexoVIII versão 1.01.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/anexoviii-correlacaoitemnbsindopcclasstrib_ibscbs_v1-01-00.xlsx",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-30T11:04:56",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "f6ee5f1d56c00209",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 007",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e e esclarecimentos acerca da plataforma NFS-e.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-007-se-cgnfse-v1-0.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-30T11:04:56",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "d00ea00b82d8e1fa",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 006",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e Via, dado o contexto da Reforma Tributária do Consumo.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-006-se-cgnfse-leiaute-nfse-via.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-30T11:04:56",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "09a31ac05b22905c",
-      "titulo": "AnexoVIII versão 1.00.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
-      "resumo": "AnexoVIII versão 1.00.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/anexoviii-correlacaoitemnbsindopcclasstrib_ibscbs_v1-00-00.xlsx",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-30T11:04:56",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "e03b66d584fbef2c",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 005",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-005-se-cgnfse-novo-layout-rtc.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-30T11:04:56",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "2112c58dfa782067",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 004",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/producao-restrita/nt-004-se-cgnfse-novo-layout-rtc-v2-00-20251210.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-30T11:04:56",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "4adf744f945fd69f",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 003",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-003-1-2-se-cgnfse-novo-layout-rtc.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-30T11:04:56",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "78ad827b6b8ebe84",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 002",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nota-tecnica-se-cgnfs-e-no-002-de-28-de-fevereiro-de-2025",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-30T11:04:56",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "6e748567f4cb33c5",
-      "titulo": "CGIBS debate Reforma Tributária e administração pública em evento do Tribunal de Justiça de São Paulo",
-      "resumo": "CGIBS debate Reforma Tributária e administração pública em evento do Tribunal de Justiça de São Paulo",
-      "link": "https://www.cgibs.gov.br/cgibs-debate-reforma-tributaria-em-evento-do-tribunal-de-justica-de-sao-paulo",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "IBS"
-      ],
-      "coletado_em": "2026-09-30T11:04:55",
-      "primeira_vez_em": "2026-09-17T15:43:02"
-    },
-    {
-      "id": "7b0095e4b757d45c",
-      "titulo": "Prazo para opção pelo Simples Nacional e do modelo de recolhimento do IBS e da CBS para 2027 termina no dia 30/09",
-      "resumo": "Prazo para opção pelo Simples Nacional e do modelo de recolhimento do IBS e da CBS para 2027 termina no dia 30/09",
-      "link": "https://www.cgibs.gov.br/prazo-para-opcao-pelo-simples-nacional-e-escolha-do-modelo-de-recolhimento-do-ibs-e-da-cbs-em-2027-termina-em-30-de-setembro",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "CBS",
-        "Simples Nacional",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-09-30T11:04:55",
-      "primeira_vez_em": "2026-09-17T15:43:02"
-    },
-    {
-      "id": "c2d217bc7764521d",
-      "titulo": "Comitê Gestor do IBS publica Editais de Chamamento Público para a celebração de Acordos de Cooperação Técnica",
-      "resumo": "Comitê Gestor do IBS publica Editais de Chamamento Público para a celebração de Acordos de Cooperação Técnica",
-      "link": "https://www.cgibs.gov.br/comite-gestor-publica-editais-de-chamamento-publico-para-a",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "IBS"
-      ],
-      "coletado_em": "2026-09-30T11:04:55",
-      "primeira_vez_em": "2026-09-17T15:43:02"
-    },
-    {
       "id": "cb6ef015a7926445",
       "titulo": "CGIBS e Receita Federal publicam versão 1.2.0 da documentação técnica da Declaração de Regimes Específicos",
       "resumo": "CGIBS e Receita Federal publicam versão 1.2.0 da documentação técnica da Declaração de Regimes Específicos",
@@ -1377,254 +1750,6 @@ const RADAR_DADOS = {
       ],
       "coletado_em": "2026-09-30T11:04:55",
       "primeira_vez_em": "2026-09-17T15:43:02"
-    },
-    {
-      "id": "63dff167c306e0a2",
-      "titulo": "Presidente e segunda vice do CGIBS participam de missão à OCDE em Paris sobre IVA e modernização tributária",
-      "resumo": "Presidente e segunda vice do CGIBS participam de missão à OCDE em Paris sobre IVA e modernização tributária",
-      "link": "https://www.cgibs.gov.br/presidente-e-segunda-vice-do-cgibs-participam-de-missao-a-ocde-sobre-iva-e-modernizacao-tributaria",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "IBS"
-      ],
-      "coletado_em": "2026-09-30T11:04:55",
-      "primeira_vez_em": "2026-09-19T11:03:30"
-    },
-    {
-      "id": "606eb4007464d320",
-      "titulo": "Receita Federal e Comitê Gestor divulgam Orientação Conjunta destinada às cooperativas",
-      "resumo": "Receita Federal e Comitê Gestor divulgam Orientação Conjunta destinada às cooperativas",
-      "link": "https://www.cgibs.gov.br/receita-federal-e-comite-gestor-do-imposto-sobre-bens-e-servicos-divulgam-orientacao-conjunta",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-30T11:04:55",
-      "primeira_vez_em": "2026-09-22T11:03:37"
-    },
-    {
-      "id": "2f86464c831b5b1b",
-      "titulo": "Regimes Específicos: veja atualização dos esquemas XSD dos eventos D-1011 e D-1101 na Produção Restrita",
-      "resumo": "Regimes Específicos: veja atualização dos esquemas XSD dos eventos D-1011 e D-1101 na Produção Restrita",
-      "link": "https://www.cgibs.gov.br/dere-atualizacao-dos-esquemas-xsd-dos-eventos-d-1011-e-d-1101-na-producao-restrita",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-30T11:04:55",
-      "primeira_vez_em": "2026-09-22T11:03:37"
-    },
-    {
-      "id": "e0eaa5a24d485f65",
-      "titulo": "Informe: conta do Comitê Gestor do IBS no Instagram (cgibs.oficial) passa por instabilidade temporária",
-      "resumo": "Informe: conta do Comitê Gestor do IBS no Instagram (cgibs.oficial) passa por instabilidade temporária",
-      "link": "https://www.cgibs.gov.br/informe-instabilidade-da-conta-do-cgibs-no-instagram",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "IBS"
-      ],
-      "coletado_em": "2026-09-30T11:04:55",
-      "primeira_vez_em": "2026-09-25T11:03:52"
-    },
-    {
-      "id": "c2291b33ecd78178",
-      "titulo": "Declaração de Regimes Específicos: CGIBS e Receita Federal divulgam endpoints do ambiente de produção",
-      "resumo": "Declaração de Regimes Específicos: CGIBS e Receita Federal divulgam endpoints do ambiente de produção",
-      "link": "https://www.cgibs.gov.br/dere-cgibs-e-receita-federal-divulgam-endpoints-do-ambiente-de-producao",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "IBS"
-      ],
-      "coletado_em": "2026-09-30T11:04:55",
-      "primeira_vez_em": "2026-09-30T11:04:55"
-    },
-    {
-      "id": "08398f1e2c89c97b",
-      "titulo": "Receita Federal disponibilizará a versão web da DITR 2026",
-      "resumo": "Serviço permite preencher, transmitir, retificar e consultar a Declaração do Imposto sobre a Propriedade Territorial Rural de forma on-line.",
-      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-disponibilizara-a-versao-web-da-ditr-2026",
-      "fonte": "Receita Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-07-22T16:51:56Z",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-30T11:04:52",
-      "primeira_vez_em": "2026-09-17T15:42:58"
-    },
-    {
-      "id": "246d24ac1d0cd774",
-      "titulo": "Receita Federal informa parada programada do Sistema de Leilão Eletrônico",
-      "resumo": "Serviço ficará indisponível no dia 23 de julho de 2026, das 6h às 16h, para implantação do CNPJ Alfanumérico",
-      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-informa-parada-programada-do-sistema-de-leilao-eletronico",
-      "fonte": "Receita Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-07-20T19:54:16Z",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-30T11:04:52",
-      "primeira_vez_em": "2026-09-17T15:42:58"
-    },
-    {
-      "id": "2de55424d6f704af",
-      "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
-      "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
-      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
-      "fonte": "Receita Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-07-22T17:02:38Z",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "CBS",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-09-30T11:04:52",
-      "primeira_vez_em": "2026-09-17T15:42:58"
-    },
-    {
-      "id": "5a2a272341f6a971",
-      "titulo": "CNPJ Alfanumérico: operação normal",
-      "resumo": "Publicado por Coordenação Técnica do ENCAT",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/2982",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "23/07/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-30T11:04:51",
-      "primeira_vez_em": "2026-09-17T15:42:57"
-    },
-    {
-      "id": "1ca5429d7569b551",
-      "titulo": "ATENÇÃO: CNPJ de Teste para Alfanumérico (Novidade: Adicionados NFe e e NFCe)",
-      "resumo": "Publicado por SEFAZ Virtual RS",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/2978",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "29/05/2026",
-      "impacto": "médio",
-      "tags": [
-        "NFe",
-        "API/Sistemas Gov"
-      ],
-      "coletado_em": "2026-09-30T11:04:51",
-      "primeira_vez_em": "2026-09-17T15:42:57"
-    },
-    {
-      "id": "73b214f6161b9cb9",
-      "titulo": "Implantação no ambiente de produção da versão 1.13 da NT da Reforma Tributária",
-      "resumo": "Publicado por SVRS",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/2974",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "03/03/2026",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-09-30T11:04:51",
-      "primeira_vez_em": "2026-09-17T15:42:57"
-    },
-    {
-      "id": "607173e000fc3989",
-      "titulo": "Novidade: Link para o MOC Online",
-      "resumo": "Publicado por Coordenação Técnica do ENCAT",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Noticias/3007",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "10/09/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-30T11:04:51",
-      "primeira_vez_em": "2026-09-17T15:42:57"
-    },
-    {
-      "id": "a9b85ebff2d35b2f",
-      "titulo": "Implantadas NTs 2026.002 em PRODUÇÃO na SVRS",
-      "resumo": "Publicado por SEFAZ Virtual RS",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Noticias/3005",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "31/08/2026",
-      "impacto": "médio",
-      "tags": [
-        "API/Sistemas Gov"
-      ],
-      "coletado_em": "2026-09-30T11:04:51",
-      "primeira_vez_em": "2026-09-17T15:42:57"
-    },
-    {
-      "id": "74129502b829908e",
-      "titulo": "Implantada a regra de validação de exigencia de IBS e CBS no ambiente de homologação",
-      "resumo": "Publicado por SEFAZ Virtual RS",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Noticias/2981",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "06/07/2026",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "CBS",
-        "API/Sistemas Gov"
-      ],
-      "coletado_em": "2026-09-30T11:04:51",
-      "primeira_vez_em": "2026-09-17T15:42:57"
-    },
-    {
-      "id": "e5fc5ae97dc8d1c2",
-      "titulo": "Lei Complementar 227 de 13 de Janeiro de 2026",
-      "resumo": "Publicado por Ajustes SINIEF",
-      "link": "http://www.in.gov.br/web/dou/-/lei-complementar-n-227-de-13-de-janeiro-de-2026-681157850",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "14/01/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-30T11:04:51",
-      "primeira_vez_em": "2026-09-17T15:42:57"
-    },
-    {
-      "id": "07591671a87026e9",
-      "titulo": "ATO CONJUNTO RFB/CGIBS Nº 1, DE 22 DE DEZEMBRO DE 2025",
-      "resumo": "Publicado por Ato Conjunto RFB/CGIBS",
-      "link": "https://www.in.gov.br/web/dou/-/ato-conjunto-rfb/cgibs-n-1-de-22-de-dezembro-de-2025-677624586",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "23/12/2025",
-      "impacto": "alto",
-      "tags": [
-        "IBS"
-      ],
-      "coletado_em": "2026-09-30T11:04:51",
-      "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
       "id": "ab536155901eba7a",
