@@ -290,7 +290,7 @@
       <label for="filtro-data">Período</label>
       <select id="filtro-data">
         <option value="">Todos</option>
-        <option value="hoje">Hoje</option>
+        <option value="hoje" selected>Hoje</option>
         <option value="7">Últimos 7 dias</option>
         <option value="30">Últimos 30 dias</option>
       </select>
@@ -383,13 +383,16 @@
     "Atualizado manualmente em " + (dados.reforma.atualizado_em || "-") + " · dados de progresso são revisados com base nas notícias oficiais coletadas";
 
   // ---------- Destaque: ultima Nota Tecnica publicada, uma por fonte ----------
-  // dados.noticias preserva a ordem de raspagem (mais recente primeiro) dentro de cada
-  // fonte, entao o primeiro item de cada fonte e a NT mais recentemente publicada nela.
+  // Escolhe, por fonte, a NT com a data de referencia mais recente (nao basta pegar o
+  // primeiro item da lista: a ordem de raspagem nem sempre reflete a ordem de publicacao).
   const notasTecnicasPorFonte = new Map();
   dados.noticias
     .filter(function (n) { return n.tags.indexOf("NT (Nota Técnica)") !== -1; })
     .forEach(function (n) {
-      if (!notasTecnicasPorFonte.has(n.fonte)) notasTecnicasPorFonte.set(n.fonte, n);
+      const atual = notasTecnicasPorFonte.get(n.fonte);
+      if (!atual || dataDeReferenciaParaFiltro(n) > dataDeReferenciaParaFiltro(atual)) {
+        notasTecnicasPorFonte.set(n.fonte, n);
+      }
     });
   const ultimasNotasTecnicas = Array.from(notasTecnicasPorFonte.values())
     .sort(function (a, b) { return a.fonte.localeCompare(b.fonte); });

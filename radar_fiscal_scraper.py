@@ -51,6 +51,14 @@ PREFIXO_DATA_LONGA = re.compile(
     r"^\d{1,2}\s+de\s+[A-Za-zçÇãÃéÉ]+\s+de\s+\d{4}(\s*[àa]s\s*\d{1,2}[:h]\d{2})?\s+", re.IGNORECASE
 )
 PREFIXO_ETIQUETA_MAIUSCULA = re.compile(r"^[A-ZÀ-Ü][A-ZÀ-Ü\s\-/]{2,49}\s+(?=[A-ZÀ-Ü][a-zà-ü])")
+DATA_DDMMYYYY_NO_TEXTO = re.compile(r"\b(\d{2}/\d{2}/\d{4})\b")
+
+
+def extrair_data_do_texto(texto: str) -> str:
+    """Extrai uma data dd/mm/aaaa embutida no texto (ex.: titulos de Notas Tecnicas que
+    trazem 'Publicada em 25/09/2026'), usada quando o buscador nao retorna data_publicacao."""
+    encontrada = DATA_DDMMYYYY_NO_TEXTO.search(texto)
+    return encontrada.group(1) if encontrada else ""
 
 
 def limpar_prefixos_ruido(titulo: str) -> str:
@@ -365,6 +373,7 @@ def processar_fonte(fonte: dict, classificacao: dict) -> list[dict]:
     noticias = []
     for item in itens_filtrados:
         texto_lower = f"{item['titulo']} {item['resumo']}".lower()
+        data_publicacao = item["data_publicacao"] or extrair_data_do_texto(item["titulo"])
         noticias.append(
             {
                 "id": gerar_id_noticia(item["link"]),
@@ -374,7 +383,7 @@ def processar_fonte(fonte: dict, classificacao: dict) -> list[dict]:
                 "fonte": fonte["nome"],
                 "esfera": fonte["esfera"],
                 "uf": fonte.get("uf", ""),
-                "data_publicacao": item["data_publicacao"],
+                "data_publicacao": data_publicacao,
                 "impacto": classificar_impacto(texto_lower, classificacao),
                 "tags": classificar_tags(texto_lower, classificacao),
                 "coletado_em": datetime.now().isoformat(timespec="seconds"),
