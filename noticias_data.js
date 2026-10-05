@@ -1,5 +1,5 @@
 const RADAR_DADOS = {
-  "geradoEm": "2026-10-04T17:25:36",
+  "geradoEm": "2026-10-05T11:08:50",
   "noticias": [
     {
       "id": "4cb90c79835b4cd1",
@@ -14,7 +14,7 @@ const RADAR_DADOS = {
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-10-04T17:25:31",
+      "coletado_em": "2026-10-05T11:08:45",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     {
@@ -28,7 +28,7 @@ const RADAR_DADOS = {
       "data_publicacao": "10/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-04T17:25:31",
+      "coletado_em": "2026-10-05T11:08:45",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     {
@@ -44,7 +44,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-04T17:25:31",
+      "coletado_em": "2026-10-05T11:08:45",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     {
@@ -58,7 +58,7 @@ const RADAR_DADOS = {
       "data_publicacao": "19/10/2022",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-04T17:25:29",
+      "coletado_em": "2026-10-05T11:08:44",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     {
@@ -74,7 +74,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-04T17:25:29",
+      "coletado_em": "2026-10-05T11:08:44",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     {
@@ -90,7 +90,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-04T17:25:28",
+      "coletado_em": "2026-10-05T11:08:43",
       "primeira_vez_em": "2026-09-17T15:44:40"
     },
     {
@@ -104,7 +104,7 @@ const RADAR_DADOS = {
       "data_publicacao": "30/03/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-04T17:25:24",
+      "coletado_em": "2026-10-05T11:08:40",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -118,7 +118,7 @@ const RADAR_DADOS = {
       "data_publicacao": "04/05/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-04T17:25:24",
+      "coletado_em": "2026-10-05T11:08:40",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -132,7 +132,7 @@ const RADAR_DADOS = {
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-04T17:25:24",
+      "coletado_em": "2026-10-05T11:08:40",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -148,7 +148,7 @@ const RADAR_DADOS = {
       "tags": [
         "Simples Nacional"
       ],
-      "coletado_em": "2026-10-04T17:25:24",
+      "coletado_em": "2026-10-05T11:08:40",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -162,7 +162,7 @@ const RADAR_DADOS = {
       "data_publicacao": "10/01/2024",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-04T17:25:24",
+      "coletado_em": "2026-10-05T11:08:40",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -176,7 +176,7 @@ const RADAR_DADOS = {
       "data_publicacao": "15/12/2023",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-04T17:25:24",
+      "coletado_em": "2026-10-05T11:08:40",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -192,7 +192,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-04T17:25:22",
+      "coletado_em": "2026-10-05T11:08:39",
       "primeira_vez_em": "2026-09-17T15:44:37"
     },
     {
@@ -208,7 +208,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-04T17:25:20",
+      "coletado_em": "2026-10-05T11:08:37",
       "primeira_vez_em": "2026-09-17T15:44:36"
     },
     {
@@ -224,7 +224,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-04T17:25:19",
+      "coletado_em": "2026-10-05T11:08:36",
       "primeira_vez_em": "2026-09-17T15:44:35"
     },
     {
@@ -238,7 +238,7 @@ const RADAR_DADOS = {
       "data_publicacao": "26/11/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-04T17:25:17",
+      "coletado_em": "2026-10-05T11:08:35",
       "primeira_vez_em": "2026-09-17T15:44:34"
     },
     {
@@ -252,7 +252,7 @@ const RADAR_DADOS = {
       "data_publicacao": "29/05/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-04T17:25:16",
+      "coletado_em": "2026-10-05T11:08:34",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     {
@@ -268,7 +268,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-04T17:25:16",
+      "coletado_em": "2026-10-05T11:08:34",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     {
@@ -284,7 +284,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-04T17:25:16",
+      "coletado_em": "2026-10-05T11:08:34",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     {
@@ -300,7 +300,7 @@ const RADAR_DADOS = {
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-10-04T17:25:14",
+      "coletado_em": "2026-10-05T11:08:32",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     {
@@ -316,7 +316,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-04T17:25:14",
+      "coletado_em": "2026-10-05T11:08:32",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     {
@@ -332,7 +332,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-04T17:25:14",
+      "coletado_em": "2026-10-05T11:08:32",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     {
@@ -348,7 +348,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-04T17:25:12",
+      "coletado_em": "2026-10-05T11:08:31",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     {
@@ -364,7 +364,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-04T17:25:12",
+      "coletado_em": "2026-10-05T11:08:31",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     {
@@ -378,7 +378,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-04T17:23:20",
+      "coletado_em": "2026-10-05T11:06:48",
       "primeira_vez_em": "2026-09-17T15:43:41"
     },
     {
@@ -392,7 +392,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-04T17:22:46",
+      "coletado_em": "2026-10-05T11:06:28",
       "primeira_vez_em": "2026-09-17T15:43:36"
     },
     {
@@ -408,7 +408,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-04T17:21:54",
+      "coletado_em": "2026-10-05T11:06:02",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     {
@@ -424,7 +424,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-04T17:21:52",
+      "coletado_em": "2026-10-05T11:06:01",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     {
@@ -440,7 +440,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-04T17:21:50",
+      "coletado_em": "2026-10-05T11:05:59",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     {
@@ -456,7 +456,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-04T17:21:50",
+      "coletado_em": "2026-10-05T11:05:59",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     {
@@ -472,7 +472,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-04T17:21:50",
+      "coletado_em": "2026-10-05T11:05:59",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     {
@@ -488,7 +488,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-04T17:21:47",
+      "coletado_em": "2026-10-05T11:05:58",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     {
@@ -504,7 +504,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-04T17:21:47",
+      "coletado_em": "2026-10-05T11:05:58",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     {
@@ -520,7 +520,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-04T17:21:47",
+      "coletado_em": "2026-10-05T11:05:58",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     {
@@ -536,7 +536,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-04T17:21:47",
+      "coletado_em": "2026-10-05T11:05:58",
       "primeira_vez_em": "2026-10-02T11:04:32"
     },
     {
@@ -552,7 +552,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-04T17:21:45",
+      "coletado_em": "2026-10-05T11:05:57",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     {
@@ -569,7 +569,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-04T17:21:45",
+      "coletado_em": "2026-10-05T11:05:57",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     {
@@ -585,7 +585,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-04T17:21:45",
+      "coletado_em": "2026-10-05T11:05:57",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     {
@@ -601,7 +601,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-04T17:21:45",
+      "coletado_em": "2026-10-05T11:05:57",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     {
@@ -617,7 +617,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-04T17:21:45",
+      "coletado_em": "2026-10-05T11:05:57",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     {
@@ -634,7 +634,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-04T17:21:45",
+      "coletado_em": "2026-10-05T11:05:57",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     {
@@ -650,7 +650,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-04T17:21:45",
+      "coletado_em": "2026-10-05T11:05:57",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     {
@@ -667,7 +667,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-04T17:21:45",
+      "coletado_em": "2026-10-05T11:05:57",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     {
@@ -685,7 +685,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-04T17:21:45",
+      "coletado_em": "2026-10-05T11:05:57",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     {
@@ -702,8 +702,922 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-04T17:21:45",
+      "coletado_em": "2026-10-05T11:05:57",
       "primeira_vez_em": "2026-10-02T11:04:31"
+    },
+    {
+      "id": "2a79170358973559",
+      "titulo": "Em 2027, Senado terá 40 senadores novos e 14 reeleitos",
+      "resumo": "A eleição deste domingo (4) definiu os ocupantes de 54 das 81 cadeiras do Senado para os próximos oito anos. Quarenta vagas serão renovadas, o equivalente a 74% das cadeiras em disputa. As demais serão ocupadas por senadores que conseguiram se reeleger. Dos 32 atuais senadores que tentaram a reeleição, 14 conseguiram um novo mandato, o que corresponde a 43,7%. Antes mesmo da apuração, já se sabia que haveria mudança significativa na composição da Casa a partir de 2027. Isso porque, entre os ocupantes das 54 cadeiras em disputa, 13 não eram candidatos e outros 9 disputaram cargos diferentes ou participaram das eleições como suplentes. Com o resultado das urnas, a renovação foi ampliada pela derrota de 18 dos 32 senadores que tentavam permanecer no cargo. Foram reeleitos, em ordem alfabética: Alessandro Vieira (MDB-SE), Carlos Portinho (PL-RJ), Cid Gomes (PSB-CE), Eduardo Braga (MDB-AM), Eduardo Gomes (PL-TO), Humberto Costa (PT-PE), Jaques Wagner (PT-BA), Lucas Barreto (PSD-AP), Marcelo Castro (MDB-PI), Marcio Bittar (PL-AC), Plínio Valério (PSDB-AM), Rogério Carvalho (PT-SE), Styvenson Valentim (Podemos-RN) e Veneziano Vital do Rêgo (MDB-PB). Números A disputa de 2026 repete um dado de 2018: nos dois pleitos, 32 titulares tentaram continuar no Senado. Em 2018, porém, apenas 8 foram reeleitos, e a renovação alcançou 46 das 54 cadeiras, ou 85,19%. Em 2026, o índice de reeleição foi maior, e a taxa de renovação, menor. As outras 27 cadeiras do Senado não estavam em disputa neste ano porque foram preenchidas na eleição de 2022 e têm mandato até janeiro de 2031. Ainda assim, algumas terão mudança a partir do próximo ano. Cleitinho (Republicanos-MG) e Sergio Moro (PL-PR) foram eleitos governadores, enquanto Alan Rick (Republicanos-AC), Omar Aziz (PSD-AM) e Professora Dorinha Seabra (União-TO) avançaram para o segundo turno nos respectivos estados. O Senado é renovado alternadamente a cada quatro anos: em uma eleição são escolhidos dois terços da Casa e, na seguinte, um terço.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/05/em-2027-senado-tera-40-senadores-novos-e-14-reeleitos",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-10-05T03:04:02Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:54",
+      "primeira_vez_em": "2026-10-05T11:05:54"
+    },
+    {
+      "id": "3bde3116ecada663",
+      "titulo": "Eleição para governador será decidida no segundo turno em seis estados e no DF",
+      "resumo": "A eleição para governador será decidida em segundo turno em seis estados e no Distrito Federal. Veja abaixo a tabela com todos os estados em que a eleição não foi decidida no primeiro turno e os candidatos que ainda estão na disputa. O segundo turno das eleições de 2026 está marcado para o último domingo de outubro (25). Este é o menor número de estados que ficaram com eleição indefinida no primeiro turno desde a redemocratização. Antes, o maior número era o de 2010, com 9 estados, seguido por 2006, com 10 governadores eleitos em primeiro turno. Acre Mailza Assis (PP) Alan Rick (Republicanos) Amazonas Omar Aziz (PSD) Professora Maria do Carmo (PL) Distrito Federal Celina Leão (PP) Leandro Grass (PT) Espírito Santo Lorenzo Pazolini (Republicanos) Ricardo Ferraço (MDB) Rio de Janeiro Douglas Ruas (PL) Eduardo Paes (PSD) Rio Grande do Norte Allyson Bezerra (União) Cadu de Lula (PT) Tocantins Professora Dorinha (União) Vicentinho Júnior (PP)",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/04/eleicao-para-governador-sera-decidida-em-segundo-turno-em-seis-estados-e-no-df",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-10-05T02:56:40Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:54",
+      "primeira_vez_em": "2026-10-05T11:05:54"
+    },
+    {
+      "id": "924aa2f64da7d6d5",
+      "titulo": "TSE destaca normalidade no 1º turno e redução das denúncias de desinformação",
+      "resumo": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, avaliou que o primeiro turno das eleições deste domingo (4) transcorreu dentro da normalidade, sem ocorrências capazes de comprometer o exercício do voto. Ao fazer o balanço do pleito, o ministro também destacou a abstenção de 21,07% do eleitorado, o equivalente a mais de 33,4 milhões de eleitores. Em 2022, a abstenção no primeiro turno foi de 20,95%. Apesar de considerar o índice dentro do esperado, Nunes Marques reconheceu que o percentual não é o ideal e defendeu a intensificação de ações para ampliar o comparecimento no segundo turno. — Não é o ideal. A ideia é intensificar e aperfeiçoar todos os mecanismos disponíveis à Justiça Eleitoral para que a gente possa diminuir esse percentual no segundo turno — afirmou. De acordo com Nunes Marques, entre os grupos para os quais o voto é facultativo, a abstenção chega a cerca de 50% entre os maiores de 70 anos e a 20% entre os jovens de 16 e 17 anos. Atraso O presidente do TSE afirmou que a apuração e a totalização dos votos ocorreram como esperado. Ele reconheceu, no entanto, um atraso de cerca de 50 minutos na atualização dos resultados no painel geral de divulgação. Segundo Nunes Marques, houve um fluxo de dados acima do normal, que provocou congestionamento em um dos sistemas. O ministro afirmou que o tribunal manteve o controle da situação durante todo o período, mas precisou seguir os protocolos de segurança e realizar a checagem dos sistemas antes de normalizar a divulgação. — Antes da rapidez, prezamos pela segurança. No que é essencial, nosso sistema mostrou-se absolutamente confiável e, como sempre, os resultados estão sendo divulgados de forma transparente, pública e segura — disse Nunes Marques. Segundo Nunes Marques, o e-Título se consolidou como uma importante ferramenta de apoio ao eleitorado. Até as 19h deste domingo, foram registradas aproximadamente 8,6 milhões de emissões do documento somente no dia da eleição, além de mais de 22 milhões de consultas a locais de votação. O aplicativo também recebeu cerca de 4,3 milhões de justificativas eleitorais. Desinformação O Sistema de Alertas de Desinformação Eleitoral registrou queda expressiva no número de denúncias relacionadas à integridade do processo eleitoral e a possíveis tentativas de supressão do voto. Entre 1º de agosto e a véspera da votação de 2022, foram registradas 18.487 denúncias. No mesmo período de 2026, foram 2.606, uma redução de aproximadamente 86%. — A redução é significativa e merece ser reconhecida, mas ela não significa que devamos baixar a guarda. A defesa da verdade, da informação de qualidade e da liberdade de escolha do eleitor exige vigilância permanente — declarou Nunes Marques. Para o presidente do TSE, a redução também é resultado do diálogo com as plataformas digitais, que, segundo ele, colaboraram para a aplicação das regras eleitorais, a criação de mecanismos de denúncia e a retirada de conteúdos ilegais. Crimes eleitorais Dados apresentados pelo Ministério da Justiça e Segurança Pública apontaram o registro de 907 crimes eleitorais em todo o país e a apreensão de aproximadamente R$ 626 mil. As ocorrências mais frequentes foram de boca de urna, com 311 registros, e de propaganda eleitoral irregular, com 272 ocorrências. Para garantir a segurança durante o pleito, foram mobilizados mais de 300 mil integrantes das forças de segurança pública. O efetivo incluiu mais de 305 mil agentes das forças estaduais, mais de 6 mil policiais federais, 2,7 mil policiais rodoviários federais e 142 integrantes da Força Nacional, além de mais de 6,5 mil profissionais em regime de sobreaviso. As forças de segurança apreenderam cerca de R$ 380 mil em espécie neste domingo. Desde janeiro, de acordo com o balanço apresentado, as apreensões em dinheiro superavam R$ 30 milhões. Ainda de acordo com o TSE, 1.861 das 499.248 urnas foram substituídas nestas eleições. São Paulo, Rio de Janeiro, Paraná e Minas Gerais foram os estados que mais registraram ocorrência desse tipo. Nenhuma seção registrou votação em processo manual. Questionado sobre denúncias envolvendo candidatos com possíveis vínculos com o crime organizado, Nunes Marques informou que recursos relacionados ao tema deverão ser analisados pelo TSE nas próximas semanas. Observadores O presidente do TSE também destacou a presença de missões internacionais de observação eleitoral. Segundo ele, relatórios parciais e manifestações de organismos como o Parlamento do Mercosul (Parlasul) e a Organização dos Estados Americanos (OEA) apontaram transparência e normalidade no processo eleitoral brasileiro. De acordo com o ministro, os observadores relataram ter recebido acesso às informações necessárias para acompanhar o pleito e conhecer o funcionamento do sistema eleitoral brasileiro. Questionado sobre o procedimento preliminar de inteligência aberto pela Polícia Federal (PF) para investigar uma suposta interferência estrangeira nas eleições brasileiras, Nunes Marques informou que, até o momento, as missões de observação informaram não ter identificado incidentes graves relacionados às urnas eletrônicas, à identificação dos eleitores ou ao transporte. Clima Nunes Marques destacou ainda a atuação da Sala Nacional de Situação Climática, criada para monitorar condições meteorológicas que pudessem afetar as eleições e apoiar os tribunais regionais na prevenção e na resposta a eventuais problemas. Segundo o ministro, o Paraná foi o único estado a registrar ocorrências relacionadas ao clima, em razão de fortes chuvas, ventos e interrupções no fornecimento de energia elétrica. Mesmo assim, as urnas continuaram funcionando com baterias e geradores, o que permitiu a conclusão da votação e da transmissão dos dados. Segundo turno O presidente do TSE reforçou o compromisso do tribunal com o trabalho para a realização do segundo turno, previsto para 25 de outubro. — A eleição não termina quando a votação é encerrada. Ela se completa quando a vontade soberana do eleitorado é reconhecida e respeitada. Vamos agora trabalhar para termos um segundo turno com a mesma tranquilidade e normalidade que tivemos neste primeiro turno — concluiu.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/04/tse-destaca-normalidade-no-1o-turno-e-reducao-das-denuncias-de-desinformacao",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-10-05T02:50:14Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:54",
+      "primeira_vez_em": "2026-10-05T11:05:54"
+    },
+    {
+      "id": "e4d8b80705cc8947",
+      "titulo": "PL terá maior bancada em início de legislatura no Senado desde 1988",
+      "resumo": "O PL deverá ser o maior partido no Senado a partir do início de 2027, após eleger 19 senadores nas eleições deste domingo (4). A bancada do partido deverá ter 28 membros. A de nenhum outro partido deve chegar a um terço desse total: o PT, com 9 senadores, e o MDB, com 8, são as bancadas seguintes em número de integrantes. Caso esse número se confirme em fevereiro, quando os novos senadores tomarem posse, isso também fará do PL a maior bancada partidária do Senado ao início de uma legislatura desde a promulgação da Constituição de 1988. O recorde anterior era de 1999, do MDB (então PMDB), que iniciou a legislatura com 27 senadores na sua bancada. O cálculo das bancadas para o próximo ano considera que dois senadores com mandato até 2031 foram eleitos para os governos dos seus estados, deixando a cadeira para os suplentes: Cleitinho (Republicanos-MG): o primeiro suplente é Alex Diniz (PL) Sergio Moro (PL-PR): o primeiro suplente é Luís Felipe Cunha (União) Além disso, há um senador que atualmente está sem partido: Romário (RJ). Esses números são uma previsão, embasada nas atuais bancadas do Senado e nos resultados eleitorais deste domingo. Tanto os candidatos eleitos quanto os senadores que já têm mandato podem trocar de partido ou assumir ministérios antes do início da próxima legislatura, em fevereiro, o que alteraria os números projetados. Outros acontecimentos podem afetar a projeção das bancadas para o ano que vem: Senadores que concorrem a governador: Três dos atuais senadores com mais quatro anos de mandato disputam os governos de seus estados no segundo turno, no próximo dia 25. Se forem eleitos, os suplentes assumem o lugar no Senado. No caso de dois deles, essa substituição vai acarretar em alteração no panorama das bancadas: Alan Rick (Republicanos-AC), cujo primeiro suplente é Gemil Júnior (PSD); e Omar Aziz (PSD-AM), cuja primeira suplente é Cheila Moreira (PT). A senadora Professora Dorinha Seabra (União-TO) também disputa o segundo turno, mas sua primeira suplente, Professora Lu, é do mesmo partido. Candidatura sub judice: Deltan Dallagnol (Novo), eleito no Paraná, foi declarado inelegível pelo Tribunal Superior Eleitoral (TSE) em 2023 porque havia renunciado ao cargo de procurador da República enquanto respondia a processo disciplinar. O Tribunal Regional Eleitoral (TRE) confirmou a candidatura de Dellagnol, mas a acusação recorreu ao TSE. O ministro relator, Floriano de Azevedo, chegou a indeferir o registro de Dallagnol em decisão monocrática, no sábado (3), mas a decisão foi suspensa pelo presidente do tribunal, ministro Kassio Nunes Marques, até que o plenário do TSE analise o caso. Se a inelegibilidade for confirmada, será preciso promover uma nova eleição no respectivo estado para a vaga. Suplentes em exercício temporário: Jussara Lima (PSD-PI) exerce o mandato no lugar de Wellington Dias (PT), que é ministro do Desenvolvimento e Assistência Social. Se Dias deixar o ministério e retornar ao Senado, a cadeira muda de bancada. Lourdinha Pereira (PSB-MA) exerce o mandato no lugar de Ana Paula Lobato (PSB), que está licenciada até novembro. Como elas são do mesmo partido, o retorno da senadora titular não vai alterar a composição das bancadas. Sargento Reginauro (PSDB-CE) exerce o mandato no lugar de Eduardo Girão (Novo), que foi candidato a vice-presidente. O mandato se encerra em janeiro e, portanto, não entra na projeção das bancadas a partir de 2027. Comparação A configuração de forças no Plenário do Senado se altera significativamente com esse resultado eleitoral. Na comparação com o início da legislatura, em 2023, e com o início deste ano, o “primeiro escalão” do Senado deixa de ser composto por um conjunto de bancadas de tamanhos próximos. Apesar da maior concentração de senadores em um único partido, o Senado deverá ter mais bancadas no início do próximo ano do que tinha quando a legislatura atual começou: serão 13 em 2027, contra 12 em 2023. O partido que mais perdeu cadeiras do Senado com as eleições de 2026 foi o PSD. A legenda tinha 15 senadores no início da legislatura atual e 13 no começo deste ano, e deverá contar com apenas 5 membros a partir de 2027. PP e União compõem a federação União Progressista, registrada no TSE desde março deste ano. No Senado, porém, os dois partidos são contados como bancadas independentes. Números dos eleitos A marca de 19 novos senadores eleitos pelo PL também se destaca por ser a primeira vez sob a Constituição de 1988 que um partido elege tantos senadores num mesmo pleito. O recorde anterior era de 14, atingido pelo PMDB em 1994 e em 2010 e pelo extinto PFL em 2002. Proporcionalmente, o PL elegeu 35,2% das 54 cadeiras do Senado em disputa neste ano. O resultado só é inferior aos 44,4% atingidos pelo PMDB em 1998, ano em que apenas 27 cadeiras estavam em jogo. Além disso, o partido fez cinco “dobradinhas”, elegendo os dois senadores de um mesmo estado: Distrito Federal, Mato Grosso do Sul, Rio de Janeiro, Rondônia e Santa Catarina. No período pós-1988, o número máximo de “dobradinhas” que um partido havia conseguido fazer em uma mesma eleição era de três: o PFL fez em 1994 e também em 2002. Dos 32 senadores que concorreram à reeleição em 2026, 14 tiveram sucesso. Dois senadores foram eleitos aos governos de seus estados já no primeiro turno Doze candidatas mulheres foram eleitas, a maior marca da história. A bancada feminina deve ter 18 senadoras no início de 2027, a maior até hoje. O resultado das urnas de 2026 revela um cenário partidário muito mais consolidado do que eleição de 2018, a última que renovou dois terços dos assentos do Senado. Naquela ocasião, nada menos do que 20 partidos elegeram ao menos um candidato. Desta vez, foram 13 partidos. Das legendas que fizeram senadores em 2018, sete foram extintas desde então, participando de fusões ou incorporações com outros partidos: DEM e PSL deram origem ao União Brasil PSC e PHS foram incorporados pelo Podemos O PROS foi incorporado pelo Solidariedade O PTB fundiu-se ao Patriota para formar o PRD O PRP havia sido incorporado ao Patriota antes da fusão Outras três legendas mudaram sua identidade, e hoje disputam eleições com outros nomes: PR: hoje PL PPS: hoje Cidadania PRB: hoje Republicanos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/04/pl-tera-maior-bancada-em-inicio-de-legislatura-no-senado-desde-1988",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-10-05T02:32:38Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:54",
+      "primeira_vez_em": "2026-10-05T11:05:54"
+    },
+    {
+      "id": "d1c70ff7ae37934d",
+      "titulo": "Doze mulheres são eleitas para o Senado",
+      "resumo": "Os brasileiros elegeram neste domingo (4) 12 mulheres para o Senado, entre as 54 vagas em disputa. É o maior número de senadoras eleitas em um mesmo pleito desde a redemocratização. Até então, o recorde havia sido registrado em 2002, quando oito mulheres conquistaram cadeiras na Casa. Em 2018, última eleição em que também foram renovados dois terços do Senado, sete mulheres foram eleitas. Com o resultado, a bancada feminina deve passar das atuais 15 para 18 integrantes a partir de 2027 (considerando também as suplentes que estiverem no exercício do mandato). Se esse número se confirmar, elas representarão 22,2% das 81 cadeiras do Senado. Em 2026, a Casa chegou a ter 16 senadoras simultaneamente em exercício, o equivalente a 19,8% das cadeiras. O pleito deste ano também estabeleceu outro marco, com a vitória de duas mulheres no Distrito Federal. Até então, nenhuma unidade da Federação havia elegido duas mulheres para o Senado na mesma eleição. As 12 eleitas iniciarão tomarão posse no Senado em fevereiro de 2027, com mandatos até 2035. Veja quem são elas: Novas senadoras UF Eleita(s) AC Mara Rocha (Republicanos) AL Marina JHC (PSDB) AP Rayssa Furlan (Podemos) CE Luizianne (Rede) DF Michelle Bolsonaro e Bia Kicis (ambas do PL) GO Gracinha Caiado (União) MG Marília Campos (PT) PE Marília Arraes (PDT) RN Samanda de Lula (PT) RR Teresa Surita (MDB) SC Carol de Toni (PL) Além das eleitas neste domingo, seis mulheres ocupam atualmente cadeiras com mandato até 2031: Damares Alves (Republicanos-DF), Professora Dorinha Seabra (União-TO), Teresa Leitão (PT-PE) e Tereza Cristina (PP-MS), eleitas titulares em 2022, além de Jussara Lima (PSD-PI) e Lourdinha Pereira (PSB-MA), que exercem o mandato na condição de suplentes. Nenhuma das atuais senadoras que concorriam a novo mandato conseguiu se reeleger neste domingo. Em 2027, deixarão a atual composição da bancada Leila Barros (PDT-DF), Eliziane Gama (PSD-MA), Soraya Thronicke (PSB-MS) e Mara Gabrilli (PSD-SP), além de Dra. Eudócia (PSDB-AL), Daniella Ribeiro (PP-PB), Roberta Acioly (Republicanos-RR) e Ivete da Silveira (MDB-SC). Dupla feminina A presença simultânea de duas mulheres na bancada de uma mesma unidade da Federação não é novidade no Senado. O primeiro caso ocorreu no Amazonas, em 2015, quando Vanessa Grazziotin (PCdoB), eleita em 2010, passou a dividir a representação do estado com Sandra Braga (MDB), primeira suplente de Eduardo Braga (MDB), que assumiu o mandato durante a licença do titular para comandar o Ministério de Minas e Energia. Em 2019, Mato Grosso do Sul também passou a ter duas senadoras entre seus três representantes, com Simone Tebet (MDB) e Soraya Thronicke (PSB). Naquele momento, era a única unidade da Federação com maioria feminina na bancada. Em 2023, o Distrito Federal e o Maranhão se juntaram a esse grupo, ao passarem também a contar com duas mulheres simultaneamente no Senado. Presença nos estados O resultado de 2026 modifica o mapa histórico da presença feminina no Senado. Com a eleição de Rayssa Furlan, a primeira senadora pelo Amapá, o Piauí passa a ser a única unidade da Federação que nunca elegeu uma mulher para a Casa. A eleição ocorreu em um ano de crescimento do número de candidaturas femininas ao Senado. Dados do Tribunal Superior Eleitoral (TSE) registravam 70 mulheres na disputa, o equivalente a 21,94% das candidaturas ao cargo. Em números absolutos, era o maior total das três últimas eleições: foram 58 candidatas em 2022 e 63 em 2018. A presença feminina na Casa, no entanto, não depende apenas do resultado das urnas. A composição da bancada pode mudar ao longo da legislatura com a posse de suplentes. Em 2023, por exemplo, a previsão inicial era de 11 senadoras, mas o número chegou a 15 com a posse de quatro suplentes de parlamentares nomeados ministros. Considerando também as suplentes que exerceram o mandato, todas as unidades da Federação já tiveram mulheres no Senado. A primeira foi Eunice Michiles, que assumiu como suplente em 1979. As primeiras mulheres eleitas diretamente para a Casa foram Júnia Marise (MG) e Marluce Pinto (RR), em 1990. Série histórica A presença de mulheres no Senado cresceu de forma gradual nas últimas décadas, embora com oscilações. No início da sessão legislativa de 1980, havia apenas uma senadora em exercício. O número chegou a 5 em 1995, 10 em 2007 e 14 em 2015. Em 2026, alcançou 16, o maior patamar da série histórica até agora. Bancada Feminina ano a ano Obs.: Número representa o início da sessão legislativa, conforme oficializado no Relatório da Presidência, e inclui todas as senadoras em exercício, não apenas as que foram eleitas como titulares (ou seja, inclui suplentes também) Ano Bancada 1980 1 1981 1 1982 2 1983 1 1984 1 1985 1 1986 1 1987 0 1988 0 1989 0 1990 0 1991 2 1992 2 1993 3 1994 3 1995 5 1996 5 1997 6 1998 6 1999 6 2000 6 2001 5 2002 5 2003 9 2004 9 2005 9 2006 9 2007 10 2008 10 2009 11 2010 10 2011 12 2012 10 2013 8 2014 9 2015 14 2016 12 2017 13 2018 13 2019 12 2020 11 2021 12 2022 13 2023 11 2024 14 2025 13 2026 16 2027 18 (projeção)",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/04/doze-mulheres-sao-eleitas-para-o-senado",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-10-05T02:27:25Z",
+      "impacto": "alto",
+      "tags": [
+        "Multa/Penalidade"
+      ],
+      "coletado_em": "2026-10-05T11:05:54",
+      "primeira_vez_em": "2026-10-05T11:05:54"
+    },
+    {
+      "id": "886fd9c08eaf1ff7",
+      "titulo": "Eleição para governador é definida em primeiro turno em 20 estados",
+      "resumo": "Os eleitores de 20 estados resolveram a eleição para governador já no primeiro turno. Este é o número recorde de definição dos governos na primeira votação desde a redemocratização. Antes, o maior número era o de 2010, com 18 estados, seguido por 2006, com 17 governadores eleitos em primeiro turno. De acordo com a Constituição de 1988, o candidato precisa ter mais de 50% dos votos válidos para ser eleito sem a necessidade de uma segunda votação. Outros 7 estados terão segundo turno, com a votação marcada para 25 de outubro. O candidato com a maior porcentagem de votos válidos foi Rafael Fonteles (PT), do Piauí, que está matematicamente reeleito governador com 70,9% dos votos válidos, seguido por Jorginho Melo (PL), de Santa Catarina, com 69,98% dos votos. Já o Paraná e o Pará registraram as vitória mais apertada em primeiro turno. O senador Sergio Moro (PL) foi eleito governador do Paraná com 50,1% dos votos válidos. Alagoas JHC (PSDB), como é conhecido João Henrique Caldas, foi eleito governador de Alagoas com 52,2% dos votos. Nascido em 1987, em Maceió (AL), ele é formado em Direito, com mestrado em Administração Pública. Filho da senadora Dra. Eudócia (PSDB-AL), ele foi eleito deputado estatual em 2010, deputado federal em 2014 e 2018 e prefeito de Maceió em 2020, tendo sito reeleito em 2024. Deixou o cargo de prefeito em abril de 2026 para concorrer ao governo. Sua vice é Célia Rocha (PSDB) Amapá Dr. Furlan (PSD) será o novo governador do Amapá e foi eleito com 57,11% dos votos. Nascido em San José, na Costa Rica, em 1973, ele foi criado no Pará e é cirurgião cardiovascular. Seu primeiro mandato eletivo foi conquistado nas eleições de 2014, quando se elegeu deputado estadual pelo Amapá. Foi reeleito em 2018 e dois anos depois, em 2020, foi eleito prefeito de Macapá, cargo para o qual se reelegeu em 2024. Em março de 2026, renunciou ao cargo para disputar a eleição para o governo do estado. Sua vice é Luciana Gurgel (PL). Bahia Jerônimo Rodrigues (PT) está matematicamente reeleito governador da Bahia, com 55,77% dos votos. Jerônimo é indígena e nasceu em 1965, em Aiquara (BA). É engenheiro agrônomo e professor licenciado da Universidade Estadual de Feira de Santana (UEFS). Foi secretário de Desenvolvimento Rural e de Educação no governo da Bahia. Foi eleito governador em 2022, na primeira eleição que disputou. Seu vice continuará sendo Geraldo Júnior (MDB). Ceará Elmano de Freitas (PT) está matematicamente reeleito governador, com 53,19% dos votos. Ele nasceu em 1970, em Baturité (CE). Advogado, ele é filiado ao Partido dos Trabalhadores desde 1989. Atuou na Rede Nacional de Advogados Populares (Renap) e na defesa jurídica e política do Movimento dos Trabalhadores Rurais Sem Terra (MST), além de ter sido secretário de Educação de Fortaleza (CE). Foi eleito deputado estadual duas vezes, em 2024 e 2018. Em 2022 foi eleito governador do Ceará. Sua vice é Gabriella Aguiar (PSD). Goiás Daniel Vilela (MDB) foi eleito com 59,17% dos votos e continuará no governo de Goiás. O governador eleito nasceu em Jataí (GO), em 1983 e é filho do ex-senador e ex-governador Maguito Vilela. Formado em direito, ele atuou como jogador de futebol profissional. Foi eleito vereador Goiânia (2008), deputado estadual (2010) e deputado federal (2014). Em 2018 disputou, sem sucesso, a eleição para o governo de Goiás. Em 2022, foi eleito vice-governador e assumiu o governo em março de 2026, no lugar de Ronaldo Caiado, que renunciou ao mandato para candidatar-se a presidente da República. Seu vice é Luiz do Carmo (PSD). Maranhão Eduardo Braide (PSD) está matematicamente eleito governador com 54,05% dos votos. Natural de São Luís (MA), ele nasceu em 1976 e é advogado. Antes de ocupar mandatos eletivos, foi presidente da Companhia de Saneamento Ambiental do Maranhão e secretário Municipal de Orçamento Participativo de São Luís. Foi eleito deputado estadual em 2010 e reeleito em 2014. Em 2018, elegeu-se deputado federal e em 2020 foi eleito prefeito de São Luís. Foi reeleito prefeito em 2024 e renunciou ao cargo em março de 2026 para disputar o governo do estado. Ele tem como vice Elaine Carneiro (PSD). Mato Grosso Otaviano Pivetta (Republicanos) continuará no governo de Mato Grosso, com 60,77% dos votos. Ele nasceu em Caiçara (RS), em 1959, tem ensino fundamental completo e é produtor agropecuário e empresário do agronegócio. Foieleito três vezes prefeito de Lucas do Rio Verde (MT), em 1996, 2000 e 2012. Também já foi deputado estadual, eleito em 2006, e vice governador de Mato Grosso, eleito em 2018 e 2022. Assumiu o governo em 2026, após o afastamento de Mauro Mendes para concorrer ao Senado. Ele terá como vice Gisela Simona (União Brasil). Mato Grosso do Sul Eduardo Riedel (PP) foi reeleito governador com 67,07% dos votos. O governador nasceu no Rio de Janeiro (RJ) em 1969 e é formado em biologia. Produtor rural, presidiu a Federação da Agricultura e Pecuária de Mato Grosso do Sul e foi diretor da Confederação Nacional da Agricultura e Pecuária (CNA). Entre 2015 e 2021, foi secretário estadual de Governo e Gestão Estratégica e entre 2021 e 2022 foi secretário de Infraestrutura. Foi eleito governador em 2022. Seu vice é Barbosinha (Republicanos). Minas Gerais O senador Cleitinho (Republicanos) será o novo governador de Minas Gerais. Ele está matematicamente eleito com 55,4% dos votos. Nascido em 1982, em Divinópolis (MG), ele tem ensino médio completo e foi empresário, comerciante e músico. Em 2016 foi eleito pela primeira vez para um mandato como vereador em sua cidade natal. Em 2018, elegeu-se deputado estadual. Em 2022 foi eleito senador. Entre seus projetos está o que cria o cashback tributário para produtos manufaturados no Brasil (PLP 148/2026). Seu vice é Falcão (Republicanos). Pará Dr. Daniel (Podemos) está matematicamente eleito 51,37% % dos votos e será o novo governador do Pará. Nascido em Açailândia (MA), em 1986, ele é médico ginecologista e obstetra. Foi eleito vereador de Ananindeua em 2012 e 2014 e presidiu a Câmara de vereadores do município entre 2017 e 2018. Em 2018 se elegeu deputado estadual e presidiu a Assembleia Legislativa do Pará entre 2019 e 2020, quando foi eleito prefeito de Ananindeua. Foi reeleito em 2024 e deixou o mandado em abril de 2026 para concorrer ao governo. Sua vice é Ellayne D Almeida (PL). Paraíba Lucas Ribeiro (PP) continuará no governo da Paraíba. Ele está matematicamente eleito com 64,3% dos votos. Nascido em João Pessoa (PB) em 1989, é filho da senadora Daniella Ribeiro (PP-PB) e trabalhou como advogado e professor universitário. Em 2017 venceu a primeira eleição para vereador de Campina Grande. Entre 2029 e 2020, foi secretário de Ciência, Tecnologia e Inovação e em 2020 foi eleito vice-prefeito da cidade. A eleição para vice-governador se deu em 2022. Em abril de 2026, assumiu o cargo de governador após a renúncia de João Azevêdo, em função de sua candidatura ao Senado. Sua vice é Lígia Feliciano (União). Paraná O senador Sergio Moro (PL) foi eleito governador do Paraná com 50,1% dos votos. Ele nasceu em 1972 em Maringá (PR) e é doutor em direito. Atuou como professor e foi juiz federal por 22 anos. Ficou conhecido pela condução de processos da Operação Lava Jato. Em 2019, encerrou a carreira na magistratura e assumiu o Ministério da Justiça no governo de Jair Bolsonaro. Em 2020, pediu exoneração após apontar interferência política na Polícia Federal. Em 2022, Moro foi eleito senador, cargo que ainda ocupa. Sérgio Moro terá como vice-governador Edson Vasconcelos (PL). Pernambuco Raquel Lyra (PSD) foi reeleita governadora de Pernambuco, com 53,27% dos votos. Ela nasceu em 1978, em Recife e é formada em direito com especialização em direito econômico e de empresas. Lyra foi delegada da Polícia Federal e chefe da Procuradoria de Apoio Jurídico e Legislativo do governo da Paraíba. A primeira eleição foi como deputada estadual em 2010, sendo reeleita em 2014. Elegeu-se prefeita de Caruaru em 2016 e conseguiu a reeleição em 2020. Em 2022, foi eleita governadora. A vice-governadora eleita é Priscila Krause (PSD). Piauí Rafael Fonteles (PT) foi reeleito governador do Piauí com 70,9% dos votos. Nascido em Teresina (PI), em 1985, ele é formado em matemática, tem mestrado em economia matemática e atuou como professor, empreendedor e consultor de investimentos. Foi secretário estadual da Fazenda (2015-2022) e presidiu por dois mandatos o Conselho Nacional dos Secretários de Fazenda (Confaz) entre 2019 e 2022, quando foi eleito para o governo do estado. Seu vice eleito é Washington Bandeira (PT). Rondônia Marcos Rogério (PL) foi eleito governador com 56,86% dos votos. Nascido em Ji-Paraná (RO) em 1978, é formado em direito e jornalismo e mestre em administração pública e trabalhou como radialista e repórter de TV. A primeira eleição foi para vereador em Ji-Paraná (2009) e depois ele foi eleito duas vezes deputado federal, em 2010 e em 2014. Na Câmara dos Deputados, foi relator, no Conselho de Ética, do processo que cassou o ex-presidente Eduardo Cunha. Em 2018, foi eleito senador, cargo que ainda ocupa. Nas eleições de 2022, candidatou-se para o governo de Rondônia, sem sucesso. O governador eleito tem como vice Delegado Camargo (Podemos). Roraima Arthur Henrique (PL) foi eleito com 69,13% dos votos. Ele nasceu em Boa Vista (RR), em 1981, tem nível superior incompleto e trabalhou em multinacionais de tecnologia. Foi Secretário de Inclusão Digital de Boa Vista. Em 2016 foi eleito vice-prefeito de Boa Vista e, em 2019, assumiu a Secretaria de Educação. Foi eleito prefeito da capital de Roraima em 2020 e reeleito em 2024. Em maio de 2026, venceu a eleição suplementar para o cargo de governador de Roraima, após a cassação dos mandatos do então governador e do vice. Ele não chegou a tomar posse porque o registro de candidatura havia sido rejeitado pelo Tribunal Regional Eleitoral de Roraima. O vice-governador eleito é Haroldo Cathedral (Novo). Santa Catarina Jorginho Mello (PL) foi reeleito governador de Santa Catarina com 69,98% dos votos. Nascido em Ibicaré, em 1956, é bancário, administrador e advogado. Foi gerente e diretor do Banco do Estado de Santa Catarina. Na vida política, começou como vereador de Herval d’Oeste (SC) entre 1976 e 1980 e presidiu a Câmara Municipal. Depois, foi eleito quatro vezes deputado estadual (1994, 1998, 2002 e 2006) e duas vezes deputado federal (2010 e 2014). Em 2018, foi eleito senador por Santa Catarina. Em 2022, elegeu-se governador de Santa Catarina, o que o fez deixar o mandato de senador. Seu vice é Adriano Silva (Novo) São Paulo Tarcísio de Freitas (Republicanos) foi reeleito governador de São Paulo com 62,65% dos votos. Ele nasceu em 1975, no Rio de Janeiro (RJ) e é engenheiro com mestrado em transportes, militar da reserva, ex-analista de finanças e controle da Controladoria-Geral da União (CGU) e servidor de carreira da consultoria legislativa da Câmara dos Deputados. Foi diretor executivo e geral do Departamento Nacional de Infraestrutura de Transportes (Dnit) entre 2011 e 2015, no governo de Dilma Roussef, e ministro da Infraestrutura de 2019 a 2022, no governo Jair Bolsonaro. Em 2022 foi eleito pela primeira vez governador de São Paulo. O vice-governador eleito é Felicio Ramuth (MDB). Rio Grande do Sul Luciano Zucco (PL) conquistou 58,04 % dos votos e será o novo governador do Rio Grande do Sul. Nascido em Alegrete (RS), em 1974, ele é formado em Ciências Militares pela Academia Militar das Agulhas Negras (AMAN). Militar de carreira, ele é Tenente-coronel da reserva do Exército Brasileiro. Foi eleito pela primeira vez em 2018, como deputado estadual. Em 2022, elegeu-se deputado federal e durante o mandato atuou como líder da Oposição na Câmara dos Deputados (2025). Sua vice é Silvana Covatti (PP). Sergipe Fábio Mitidieri (PSD) foi reeleito governador de Sergipe com 59,27% dos votos. Nascido em Aracaju (SE) em 1977, ele é formado em administração de empresas e atuou na área até 2008, quando foi eleito vereador na capital sergipana. Em 2011, assumiu a Secretaria Municipal de Esporte e Lazer e em 2013 comandou a Secretaria Estadual do Trabalho de Sergipe. Foi eleito deputado federal em 2014 e reeleito em 2018. A eleição para o governo do estado veio em 2022. Seu vice é Jeferson Andrade (PSD).",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/04/eleicao-para-governador-e-definida-em-primeiro-turno-em-20-estados",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-10-05T02:25:47Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:54",
+      "primeira_vez_em": "2026-10-05T11:05:54"
+    },
+    {
+      "id": "5ec2f21bc66aef37",
+      "titulo": "Flávio Bolsonaro e Lula disputam o segundo turno das eleições para presidente",
+      "resumo": "A disputa pela Presidência da República terá um segundo turno com Luiz Inácio Lula da Silva (PT), que busca a reeleição, e o senador Flávio Bolsonaro (PL). Com 99,97% das urnas apuradas, Flávio chegou na frente, com 47,04% dos votos válidos, alcançando 56.098.457 milhões de votos, enquanto Lula obteve 45,15% dos votos válidos, equivalentes a 53.846.396 milhões de votos. A nova votação ocorrerá dia 25 de outubro. O comparecimento às urnas foi de 78,92% dos eleitores inscritos, com abstenção de 21,08%. O Escritor Augusto Cury (Avante) ficou em terceiro lugar, com 3.447.885 votos, num total de 2,89% de votos válidos. Renan Santos (Missão) teve 2.675.584 votos — 2,25% dos votos válidos. Brancos e nulos alcançaram 1,84% e 2,93%. Flávio Bolsonaro Aos 45 anos de idade, Flávio Nantes Bolsonaro concorre pela primeira vez à Presidência da República. Atualmente é senador pelo estado do Rio de Janeiro, com mandato de 2019 a 2026, e preside a Comissão de Segurança Pública (CSP). Flávio foi o relator do texto que resultou na Lei 14.843, de 2024, que restringe a saída temporária de presos, e do que modernizou a legislação nacional do turismo — Lei 14.978, de 2024. A escolha de Flávio como candidato do Partido Liberal (PL) partiu de seu pai, o ex-presidente Jair Bolsonaro, declarado inelegível pelo TSE por abuso de poder político e de comunicação nas eleições de 2022 e posteriormente condenado pelo Supremo Tribunal Federal (STF) por tentativa de golpe de Estado. Nascido em Resende (RJ) em 1981, Flávio formou-se em direito. Iniciou a carreira pública como deputado estadual em 2003, reelegendo-se quatro vezes seguidas. Saiu da Assembleia Legislativa em 2019 para o Senado. O vice-presidente na chapa de Flávio é Alfredo Gaspar (PL), ex-promotor de justiça de Alagoas, que se tornou deputado federal pela primeira vez em 2023. Em 2025, foi relator da CPMI do INSS, que investigou fraudes em aposentadorias e pensões. Lula Aos 80 anos de idade, Luiz Inácio Lula da Silva busca a reeleição. Nasceu em Garanhuns (PE) em 27 de outubro de 1945. Aos sete anos, migrou com a família para São Paulo. Tornou-se presidente do Sindicato dos Metalúrgicos de São Bernardo do Campo e Diadema. Em 1979, durante a ditadura, liderou greves na região do ABC Paulista, tornando-se nacionalmente conhecido. Lula é um dos fundadores do Partido dos Trabalhadores (PT) em 1980. Foi eleito deputado federal por São Paulo em 1986 e participou da elaboração da Constituição de 1988, como deputado constituinte. Depois, concorreu três vezes a presidente, perdendo no segundo turno para Fernando Collor, em 1989, e chegando em segundo lugar no primeiro turno nas disputas com Fernando Henrique Cardoso, em 1994 e 1998. Lula exerce seu terceiro mandato como presidente. Eleito primeiramente em 2002, foi reeleito e deixou o poder em 2010, com alta popularidade. Voltou ao cargo em 2023, derrotando Jair Bolsonaro. Em 2018, havia sido impedido de concorrer com base da Lei da Ficha Limpa, tendo sido condenado por corrupção passiva pela 14ª Vara Federal, de Curitiba. Em 2021, após as revelações de conversas entre então juiz federal Sérgio Moro e os promotores responsáveis pela Operação Lava Jato, o STF anulou a condenação de Lula, que recuperou os direitos políticos. O vice na chapa de Lula é Geraldo Alckmin (PSB), que começou a carreira política em 1973, como vereador em Pindamonhangaba (SP). Alckmin foi governador de São Paulo de 2001 a 2006 e de 2011 a 2018. Tentou a Presidência em 2006, quando perdeu para Lula, e em 2018, quando chegou em quarto lugar. Resultados A votação dos candidatos à Presidência neste primeiro turno ficou assim: em 1º lugar, Flávio Bolsonaro (PL), com 47,05% dos votos válidos; em 2º lugar, Lula (PT), com 45,14%; em 3º lugar, Escritor Augusto Cury (Avante), com 2,89% em 4º lugar, Renan Santos (Missão), com 2,24%; em 5º lugar, Ronaldo Caiado (PSD), com 2,18%; em 6º lugar, Zema (Novo), com 0,27%; em 7º lugar, Samara (UP), com 0,10%; em 8º lugar, Hertz Dias (PSTU), com 0,04%; em 9º lugar, Clariana Barão (DC), com 0,03%; em 10º lugar, Edmilson Costa (PCB), com 0,02%; em 11º lugar, Veterinário Wilson Grassi (Democrata), com 0,01%; em 12º lugar, Rui Costa Pimenta (PCO), 0,01%.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/04/flavio-bolsonaro-e-lula-disputam-o-segundo-turno-das-eleicoes-para-presidente",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-10-05T02:02:34Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:54",
+      "primeira_vez_em": "2026-10-05T11:05:54"
+    },
+    {
+      "id": "13feb5928fe272e3",
+      "titulo": "Conheça os 54 senadores eleitos neste domingo",
+      "resumo": "Neste domingo (4), os eleitores do país escolheram 54 senadores. Eles terão mandato de oito anos, entre 1º de fevereiro de 2027 e 31 de janeiro de 2035. Para saber mais sobre os eleitos, clique nos links de cada estado na tabela abaixo. Senadores eleitos por estado Acre Marcio Bittar (PL) e Mara Rocha (Republicanos) Alagoas Arthur Lira (PP) e Marina JHC (PSDB) Amapá Rayssa Furlan (Podemos) e Lucas Barreto (PSD) Amazonas Eduardo Braga (MDB) e Plínio Valério (PSDB) Bahia Rui Costa (PT) e Jaques Wagner (PT) Ceará Cid Gomes (PSB) e Luizianne Lins (Rede) Distrito Federal Michelle Bolsonaro (PL) e Bia Kicis (PL) Espírito Santo Renato Casagrande (PSB) e Evair de Melo (Republicanos) Goiás Gustavo Gayer (PL) e Gracinha Caiado (União) Maranhão André Fufuca (PP) e Lahesio Bonfim (Novo) Mato Grosso Mauro Mendes (União) e Zé Medeiros (PL) Mato Grosso do Sul Reinaldo Azambuja (PL) e Capitão Contar (PL) Minas Gerais Domingos Sávio (PL) e Marília Campos (PT) Pará Helder Barbalho (MDB) e Chicão (União) Paraíba João Azevêdo (PSB) e Veneziano Vital do Rêgo (MDB) Paraná Filipe Barros (PL) e Deltan Dallagnol (Novo) Pernambuco Humberto Costa (PT) e Marília Arraes (PDT) Piauí Marcelo Castro (MDB) e Júlio César (PSD) Rio de Janeiro Carlos Portinho (PL) e Carlos Jordy (PL) Rio Grande do Norte Styvenson Valentim (Podemos) e Samanda de Lula (PT) Rio Grande do Sul Ubiratan Sanderson (PL) e Marcel Van Hattem (Novo) Rondônia Fernando Máximo (PL) e Bruno Scheid (PL) Roraima Nicoletti (PL) e Teresa Surita (MDB) Santa Catarina Carol de Toni (PL) e Carlos Bolsonaro (PL) São Paulo Guilherme Derrite (PP) e André do Prado (PL) Sergipe Rogério Carvalho (PT) e Alessandro Vieira (MDB) Tocantins Eduardo Gomes (PL) e Alexandre Guimarães (MDB)",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/04/conheca-os-54-senadores-eleitos-neste-domingo",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-10-05T01:51:36Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:54",
+      "primeira_vez_em": "2026-10-05T11:05:54"
+    },
+    {
+      "id": "70ae17e8fd24bf0c",
+      "titulo": "Receita publica novo balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "resumo": "Dados trazem o número mais atual e serão atualizados à medida que novos pedidos forem realizados",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-publica-novo-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "30/09/2026",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "Simples Nacional"
+      ],
+      "coletado_em": "2026-10-05T11:05:51",
+      "primeira_vez_em": "2026-10-01T11:05:41"
+    },
+    {
+      "id": "6a0bc309a56feb2a",
+      "titulo": "Segundo trimestre de 2026 registra necessidade líquida de financiamento do Governo Geral de 9,2% do PIB",
+      "resumo": "Resultado é explicado pelo crescimento nominal de 12,41% da receita, parcialmente compensado pelo crescimento nominal de 12,33% da despesa em relação ao mesmo período de 2026",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/segundo-trimestre-de-2026-registra-necessidade-liquida-de-financiamento-do-governo-geral-de-9-2-do-pib",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "01/10/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:51",
+      "primeira_vez_em": "2026-10-01T15:54:22"
+    },
+    {
+      "id": "8889ee50993067f1",
+      "titulo": "Receita Federal atualiza legislação do Adicional da CSLL e incorpora nova Regra Simplificadora",
+      "resumo": "Alteração da IN RFB nº 2228/2024 introduz a Regra Simplificadora Globe para Incentivo Fiscal baseado na Substância e amplia o período de aplicabilidade da Regra Simplificadora Globe de Transição",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-federal-atualiza-legislacao-do-adicional-da-csll-e-incorpora-nova-regra-simplificadora",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "01/10/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:51",
+      "primeira_vez_em": "2026-10-01T15:54:22"
+    },
+    {
+      "id": "16e8e3bc95ffc29d",
+      "titulo": "Saiba como denunciar irregularidades relacionadas a bets pelo Fala.BR",
+      "resumo": "Canal oficial permite registrar denúncias e encaminhar informações para apuração",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/saiba-como-denunciar-irregularidades-relacionadas-a-bets-pelo-fala.br",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "01/10/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:51",
+      "primeira_vez_em": "2026-10-02T11:04:25"
+    },
+    {
+      "id": "8eab90f42ded9a0a",
+      "titulo": "Receita atualiza balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "resumo": "Dados trazem o número de pedidos até esta sexta-feira, 2/10, e serão atualizados à medida que novos pedidos forem realizados",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-atualiza-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "02/10/2026",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "Simples Nacional"
+      ],
+      "coletado_em": "2026-10-05T11:05:51",
+      "primeira_vez_em": "2026-10-03T11:59:08"
+    },
+    {
+      "id": "c4a587047b0c3120",
+      "titulo": "PGFN lança dois novos editais e prorroga adesão a outros três de renegociação de dívidas",
+      "resumo": "Um dos editais se destina a empregadores com débitos do FGTS; o segundo é relacionado a pequenos valores dos MEIs",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/pgfn-lanca-dois-novos-editais-e-prorroga-adesao-a-outros-tres-de-renegociacao-de-dividas",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "02/10/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:51",
+      "primeira_vez_em": "2026-10-03T11:59:08"
+    },
+    {
+      "id": "51562769896574e1",
+      "titulo": "Receita Federal publica a primeira edição do Perguntas e Respostas do Adicional da CSLL",
+      "resumo": "Nova publicação reúne informações sobre a aplicação da Lei nº 15.079/2024 e da IN RFB nº 2.228/2024",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-federal-publica-a-primeira-edicao-do-perguntas-e-respostas-do-adicional-da-csll",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "02/10/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:51",
+      "primeira_vez_em": "2026-10-03T11:59:08"
+    },
+    {
+      "id": "4baf6d16f5f6d474",
+      "titulo": "Novo acesso ao Regularize para representantes de empresas",
+      "resumo": "Responsáveis por PJ já podem acessar serviços diretamente do Regularize por meio da conta gov.br",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/novo-acesso-ao-regularize-para-representantes-de-empresas",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "17/09/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:50",
+      "primeira_vez_em": "2026-09-17T15:43:05"
+    },
+    {
+      "id": "8af9031daf5b35f0",
+      "titulo": "Operação Bomba Oculta visa postos de combustíveis clandestinos",
+      "resumo": "Ação é desdobramento da Operação Carbono Oculto e conta com colaboração entre PGFN e diversas instituições",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/operacao-bomba-oculta-visa-postos-de-combustiveis-clandestinos",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "28/08/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:50",
+      "primeira_vez_em": "2026-09-17T15:43:05"
+    },
+    {
+      "id": "96e91c67f56c632d",
+      "titulo": "Seleção Nacional de Estagiários",
+      "resumo": "Inscrições são gratuitas e vão de 20 de agosto a 3 de setembro",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/selecao-nacional-de-estagiarios",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "19/08/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:50",
+      "primeira_vez_em": "2026-09-17T15:43:05"
+    },
+    {
+      "id": "34948173140ec564",
+      "titulo": "Informamos que não haverá atendimento nas unidades da PGFN em todo o Brasil, na terça-feira, 11 de agosto.",
+      "resumo": "Informamos que não haverá atendimento nas unidades da PGFN em todo o Brasil, na terça-feira, 11 de agosto.",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/informamos-que-nao-havera-atendimento-na-terca-feira-11-de-agosto",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "07/08/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:50",
+      "primeira_vez_em": "2026-09-17T15:43:05"
+    },
+    {
+      "id": "bb8a5d4e64f78243",
+      "titulo": "Atraso no débito automático exige atenção de contribuintes nesta quarta (30)",
+      "resumo": "Parcelas com vencimento em 30/9 podem não ter sido debitadas por atraso no processamento do débito automático; veja como manter a negociação em dia",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/atraso-no-debito-automatico-exige-atencao-de-contribuintes-nesta-quarta-30",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "30/09/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:50",
+      "primeira_vez_em": "2026-10-01T11:05:40"
+    },
+    {
+      "id": "100b03d2302e3752",
+      "titulo": "Novos editais da PGFN para renegociação de dívidas",
+      "resumo": "Novos editais da PGFN para renegociação de dívidas",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/novos-editais-da-pgfn-para-renegociacao-de-dividas",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "02/10/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:50",
+      "primeira_vez_em": "2026-10-03T11:59:07"
+    },
+    {
+      "id": "b081958b5f7506fe",
+      "titulo": "Publicado o Perguntas e Respostas da NFS-e",
+      "resumo": "O material foi compilado com base nas dúvidas recebidas de Municípios, contribuintes e empresas de desenvolvimento",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/publicado-o-perguntas-e-respostas-da-nfs-e",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "16/09/2026",
+      "impacto": "médio",
+      "tags": [
+        "NFSe"
+      ],
+      "coletado_em": "2026-10-05T11:05:49",
+      "primeira_vez_em": "2026-09-17T15:43:04"
+    },
+    {
+      "id": "b329be74653055a3",
+      "titulo": "Secretaria Executiva do CGNFS-e participa de homologação de novas funcionalidades da Nota Fiscal de Serviço Eletrônica para a Reforma Tributária",
+      "resumo": "Atividades aconteceram na sede do Serpro em Belo Horizonte (MG)",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/secretaria-executiva-do-cgnfs-e-participa-de-homologacao-de-novas-funcionalidades-da-nota-fiscal-de-servico-eletronica-para-a-reforma-tributaria",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "05/09/2026",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NFSe"
+      ],
+      "coletado_em": "2026-10-05T11:05:49",
+      "primeira_vez_em": "2026-09-17T15:43:04"
+    },
+    {
+      "id": "46f050b2bd9a044c",
+      "titulo": "Comitê Gestor do Simples Nacional prorroga a obrigatoriedade de emissão de notas fiscais de serviço pelo Emissor Nacional da NFS-e",
+      "resumo": "Comitê Gestor do Simples Nacional prorroga a obrigatoriedade de emissão de notas fiscais de serviço pelo Emissor Nacional da NFS-e",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/comite-gestor-do-simples-nacional-prorroga-a-obrigatoriedade-de-emissao-de-notas-fiscais-de-servico-pelo-emissor-nacional-da-nfs-e",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "11/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "NFSe",
+        "Simples Nacional",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-10-05T11:05:49",
+      "primeira_vez_em": "2026-09-17T15:43:04"
+    },
+    {
+      "id": "b9c9daabd31b6e3e",
+      "titulo": "CGNFS-e orienta sobre os prazos para destaque de IBS/CBS nas notas fiscais de serviço",
+      "resumo": "Comitê Gestor do IBS e Receita Federal flexibilizaram a obrigatoriedade de informações nos documentos fiscais. Regras de validação que exigem informações do IBS e da CBS foram alteradas para evitar rejeição de documentos fiscais.",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/cgnfs-e-orienta-sobre-os-prazos-para%20destaque-de-ibs-cbs-nas-notas-fiscais-de-servico",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "07/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "NFSe",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-10-05T11:05:49",
+      "primeira_vez_em": "2026-09-17T15:43:04"
+    },
+    {
+      "id": "8ad9456dba6ac974",
+      "titulo": "Plataforma NFS-e disponibiliza novas evoluções em Produção Restrita e divulga cronograma de implantação",
+      "resumo": "Entre as evoluções estão o CNPJ Alfanumérico e os grupos IBS/CBS no Emissor Web",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/plataforma-nfs-e-disponibiliza-novas-evolucoes-em-producao-restrita-e-divulga-cronograma-de-implantacao",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "28/07/2026",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "NFSe"
+      ],
+      "coletado_em": "2026-10-05T11:05:49",
+      "primeira_vez_em": "2026-09-17T15:43:04"
+    },
+    {
+      "id": "0b7a31ff3defd6f2",
+      "titulo": "Manutenção no ambiente do CNPJ neste sábado (25) não afetará os principais serviços da NFS-e",
+      "resumo": "Apenas os serviços de criação de usuário e recuperação de senha do Portal do Contribuinte serão afetados",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/manutencao-no-ambiente-do-cnpj-neste-sabado-25-nao-afetara-os-principais-servicos-da-nfs-e",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "23/07/2026",
+      "impacto": "médio",
+      "tags": [
+        "NFSe"
+      ],
+      "coletado_em": "2026-10-05T11:05:49",
+      "primeira_vez_em": "2026-09-17T15:43:04"
+    },
+    {
+      "id": "21a7f1ac3d421137",
+      "titulo": "Nova funcionalidade no Painel Administrativo Municipal permite antecipar a adoção do Emissor Nacional para optantes pelo Simples Nacional",
+      "resumo": "Nova funcionalidade no Painel Administrativo Municipal permite antecipar a adoção do Emissor Nacional para optantes pelo Simples Nacional",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/nova-funcionalidade-no-painel-administrativo-municipal-permite-antecipar-a-adocao-do-emissor-nacional-para-optantes-pelo-simples-nacional",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "28/09/2026",
+      "impacto": "médio",
+      "tags": [
+        "Simples Nacional"
+      ],
+      "coletado_em": "2026-10-05T11:05:49",
+      "primeira_vez_em": "2026-09-29T11:04:53"
+    },
+    {
+      "id": "b22c32886dc039f5",
+      "titulo": "Comitê Gestor da NFS-e e Fiscos da União, Estados e Municípios reúnem-se em São Paulo",
+      "resumo": "Comitê Gestor da NFS-e e Fiscos da União, Estados e Municípios reúnem-se em São Paulo",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/comite-gestor-da-nfs-e-e-fiscos-da-uniao-estados-e-municipios-reunem-se-em-sao-paulo",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "01/10/2026",
+      "impacto": "médio",
+      "tags": [
+        "NFSe"
+      ],
+      "coletado_em": "2026-10-05T11:05:49",
+      "primeira_vez_em": "2026-10-01T15:54:20"
+    },
+    {
+      "id": "0c1964e9f04584db",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 008",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre o DANFSe.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-008-se-cgnfse-danfse-20260714-v1-02.pdf",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-10-05T11:05:48",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "046e01fae8b56c6d",
+      "titulo": "AnexoVIII versão 1.01.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
+      "resumo": "AnexoVIII versão 1.01.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/anexoviii-correlacaoitemnbsindopcclasstrib_ibscbs_v1-01-00.xlsx",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:48",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "f6ee5f1d56c00209",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 007",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e e esclarecimentos acerca da plataforma NFS-e.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-007-se-cgnfse-v1-0.pdf",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-10-05T11:05:48",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "d00ea00b82d8e1fa",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 006",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e Via, dado o contexto da Reforma Tributária do Consumo.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-006-se-cgnfse-leiaute-nfse-via.pdf",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-10-05T11:05:48",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "09a31ac05b22905c",
+      "titulo": "AnexoVIII versão 1.00.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
+      "resumo": "AnexoVIII versão 1.00.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/anexoviii-correlacaoitemnbsindopcclasstrib_ibscbs_v1-00-00.xlsx",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:48",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "e03b66d584fbef2c",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 005",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-005-se-cgnfse-novo-layout-rtc.pdf",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-10-05T11:05:48",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "2112c58dfa782067",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 004",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/producao-restrita/nt-004-se-cgnfse-novo-layout-rtc-v2-00-20251210.pdf",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-10-05T11:05:48",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "4adf744f945fd69f",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 003",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-003-1-2-se-cgnfse-novo-layout-rtc.pdf",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-10-05T11:05:48",
+      "primeira_vez_em": "2026-09-17T15:43:03"
+    },
+    {
+      "id": "1145066e44f69ff9",
+      "titulo": "Nota Técnica SE/CGNFS-e nº 009 versão 1.01 (01/10/2026)",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
+      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nota-tecnica-009-se-cgnfs-e-v-1-01.pdf",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "01/10/2026",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-10-05T11:05:48",
+      "primeira_vez_em": "2026-10-01T15:54:19"
+    },
+    {
+      "id": "a7086811f0b75d7a",
+      "titulo": "Nota Técnica 010 SE/CGNFS-e nº 010 versão 1.00",
+      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do leiaute da NFS-e Via e do Evento de Manifestação do Adquirente.",
+      "link": "https://www.gov.br/nfse/pt-br/nfs-e-via/documentacao-tecnica/notas-tecnicas/nt-010-se-cgnfse-leiaute-nfse-via-v-1.00.pdf",
+      "fonte": "NFSe - Notas Técnicas RTC",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [
+        "NFSe",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-10-05T11:05:48",
+      "primeira_vez_em": "2026-10-03T11:59:05"
+    },
+    {
+      "id": "6e748567f4cb33c5",
+      "titulo": "CGIBS debate Reforma Tributária e administração pública em evento do Tribunal de Justiça de São Paulo",
+      "resumo": "CGIBS debate Reforma Tributária e administração pública em evento do Tribunal de Justiça de São Paulo",
+      "link": "https://www.cgibs.gov.br/cgibs-debate-reforma-tributaria-em-evento-do-tribunal-de-justica-de-sao-paulo",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "IBS"
+      ],
+      "coletado_em": "2026-10-05T11:05:47",
+      "primeira_vez_em": "2026-09-17T15:43:02"
+    },
+    {
+      "id": "7b0095e4b757d45c",
+      "titulo": "Prazo para opção pelo Simples Nacional e do modelo de recolhimento do IBS e da CBS para 2027 termina no dia 30/09",
+      "resumo": "Prazo para opção pelo Simples Nacional e do modelo de recolhimento do IBS e da CBS para 2027 termina no dia 30/09",
+      "link": "https://www.cgibs.gov.br/prazo-para-opcao-pelo-simples-nacional-e-escolha-do-modelo-de-recolhimento-do-ibs-e-da-cbs-em-2027-termina-em-30-de-setembro",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "Simples Nacional",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-10-05T11:05:47",
+      "primeira_vez_em": "2026-09-17T15:43:02"
+    },
+    {
+      "id": "63dff167c306e0a2",
+      "titulo": "Presidente e segunda vice do CGIBS participam de missão à OCDE em Paris sobre IVA e modernização tributária",
+      "resumo": "Presidente e segunda vice do CGIBS participam de missão à OCDE em Paris sobre IVA e modernização tributária",
+      "link": "https://www.cgibs.gov.br/presidente-e-segunda-vice-do-cgibs-participam-de-missao-a-ocde-sobre-iva-e-modernizacao-tributaria",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-10-05T11:05:47",
+      "primeira_vez_em": "2026-09-19T11:03:30"
+    },
+    {
+      "id": "606eb4007464d320",
+      "titulo": "Receita Federal e Comitê Gestor do IBS divulgam Orientação Conjunta destinada às sociedades cooperativas",
+      "resumo": "Receita Federal e Comitê Gestor do IBS divulgam Orientação Conjunta destinada às sociedades cooperativas",
+      "link": "https://www.cgibs.gov.br/receita-federal-e-comite-gestor-do-imposto-sobre-bens-e-servicos-divulgam-orientacao-conjunta",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-10-05T11:05:47",
+      "primeira_vez_em": "2026-09-22T11:03:37"
+    },
+    {
+      "id": "2f86464c831b5b1b",
+      "titulo": "Regimes Específicos: veja atualização dos esquemas XSD dos eventos D-1011 e D-1101 na Produção Restrita",
+      "resumo": "Regimes Específicos: veja atualização dos esquemas XSD dos eventos D-1011 e D-1101 na Produção Restrita",
+      "link": "https://www.cgibs.gov.br/dere-atualizacao-dos-esquemas-xsd-dos-eventos-d-1011-e-d-1101-na-producao-restrita",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:47",
+      "primeira_vez_em": "2026-09-22T11:03:37"
+    },
+    {
+      "id": "e0eaa5a24d485f65",
+      "titulo": "Informe: conta do Comitê Gestor do IBS no Instagram (cgibs.oficial) passa por instabilidade temporária",
+      "resumo": "Informe: conta do Comitê Gestor do IBS no Instagram (cgibs.oficial) passa por instabilidade temporária",
+      "link": "https://www.cgibs.gov.br/informe-instabilidade-da-conta-do-cgibs-no-instagram",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-10-05T11:05:47",
+      "primeira_vez_em": "2026-09-25T11:03:52"
+    },
+    {
+      "id": "c2291b33ecd78178",
+      "titulo": "Declaração de Regimes Específicos: CGIBS e Receita Federal divulgam endpoints do ambiente de produção",
+      "resumo": "Declaração de Regimes Específicos: CGIBS e Receita Federal divulgam endpoints do ambiente de produção",
+      "link": "https://www.cgibs.gov.br/dere-cgibs-e-receita-federal-divulgam-endpoints-do-ambiente-de-producao",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-10-05T11:05:47",
+      "primeira_vez_em": "2026-09-30T11:04:55"
+    },
+    {
+      "id": "eeba35f26cd1b78e",
+      "titulo": "Opção do contribuinte por Simples Nacional ou pelo regime regular de CBS e IBS para 2027 tem novos prazos",
+      "resumo": "Opção do contribuinte por Simples Nacional ou pelo regime regular de CBS e IBS para 2027 tem novos prazos",
+      "link": "https://www.cgibs.gov.br/embora-os-periodos-sejam-parecidos-tratam-de-escolhas-diferentes-por-isso-e-importante-entender-cada-situacao",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "Simples Nacional",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-10-05T11:05:47",
+      "primeira_vez_em": "2026-10-01T11:05:37"
+    },
+    {
+      "id": "5b5a92e25b015235",
+      "titulo": "DeRE: CGIBS e Receita Federal publicam versão 1.3.0 da documentação técnica e disponibilizam Manual do Usuário",
+      "resumo": "DeRE: CGIBS e Receita Federal publicam versão 1.3.0 da documentação técnica e disponibilizam Manual do Usuário",
+      "link": "https://www.cgibs.gov.br/dere-cgibs-e-receita-federal-publicam-versao-1-3-0-da-documentacao-tecnica-e-disponibilizam-manual-do-usuario",
+      "fonte": "CGIBS - Comitê Gestor do IBS",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "IBS"
+      ],
+      "coletado_em": "2026-10-05T11:05:47",
+      "primeira_vez_em": "2026-10-04T17:21:33"
+    },
+    {
+      "id": "08398f1e2c89c97b",
+      "titulo": "Receita Federal disponibilizará a versão web da DITR 2026",
+      "resumo": "Serviço permite preencher, transmitir, retificar e consultar a Declaração do Imposto sobre a Propriedade Territorial Rural de forma on-line.",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-disponibilizara-a-versao-web-da-ditr-2026",
+      "fonte": "Receita Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-07-22T16:51:56Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:44",
+      "primeira_vez_em": "2026-09-17T15:42:58"
+    },
+    {
+      "id": "246d24ac1d0cd774",
+      "titulo": "Receita Federal informa parada programada do Sistema de Leilão Eletrônico",
+      "resumo": "Serviço ficará indisponível no dia 23 de julho de 2026, das 6h às 16h, para implantação do CNPJ Alfanumérico",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-informa-parada-programada-do-sistema-de-leilao-eletronico",
+      "fonte": "Receita Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-07-20T19:54:16Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:44",
+      "primeira_vez_em": "2026-09-17T15:42:58"
+    },
+    {
+      "id": "2de55424d6f704af",
+      "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+      "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+      "fonte": "Receita Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-07-22T17:02:38Z",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "CBS",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-10-05T11:05:44",
+      "primeira_vez_em": "2026-09-17T15:42:58"
+    },
+    {
+      "id": "5a2a272341f6a971",
+      "titulo": "CNPJ Alfanumérico: operação normal",
+      "resumo": "Publicado por Coordenação Técnica do ENCAT",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/2982",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "23/07/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:43",
+      "primeira_vez_em": "2026-09-17T15:42:57"
+    },
+    {
+      "id": "1ca5429d7569b551",
+      "titulo": "ATENÇÃO: CNPJ de Teste para Alfanumérico (Novidade: Adicionados NFe e e NFCe)",
+      "resumo": "Publicado por SEFAZ Virtual RS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/2978",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "29/05/2026",
+      "impacto": "médio",
+      "tags": [
+        "NFe",
+        "API/Sistemas Gov"
+      ],
+      "coletado_em": "2026-10-05T11:05:43",
+      "primeira_vez_em": "2026-09-17T15:42:57"
+    },
+    {
+      "id": "73b214f6161b9cb9",
+      "titulo": "Implantação no ambiente de produção da versão 1.13 da NT da Reforma Tributária",
+      "resumo": "Publicado por SVRS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/2974",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "03/03/2026",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-10-05T11:05:43",
+      "primeira_vez_em": "2026-09-17T15:42:57"
+    },
+    {
+      "id": "607173e000fc3989",
+      "titulo": "Novidade: Link para o MOC Online",
+      "resumo": "Publicado por Coordenação Técnica do ENCAT",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Noticias/3007",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "10/09/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:43",
+      "primeira_vez_em": "2026-09-17T15:42:57"
+    },
+    {
+      "id": "a9b85ebff2d35b2f",
+      "titulo": "Implantadas NTs 2026.002 em PRODUÇÃO na SVRS",
+      "resumo": "Publicado por SEFAZ Virtual RS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Noticias/3005",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "31/08/2026",
+      "impacto": "médio",
+      "tags": [
+        "API/Sistemas Gov"
+      ],
+      "coletado_em": "2026-10-05T11:05:43",
+      "primeira_vez_em": "2026-09-17T15:42:57"
+    },
+    {
+      "id": "74129502b829908e",
+      "titulo": "Implantada a regra de validação de exigencia de IBS e CBS no ambiente de homologação",
+      "resumo": "Publicado por SEFAZ Virtual RS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Noticias/2981",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "06/07/2026",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS",
+        "API/Sistemas Gov"
+      ],
+      "coletado_em": "2026-10-05T11:05:43",
+      "primeira_vez_em": "2026-09-17T15:42:57"
+    },
+    {
+      "id": "e5fc5ae97dc8d1c2",
+      "titulo": "Lei Complementar 227 de 13 de Janeiro de 2026",
+      "resumo": "Publicado por Ajustes SINIEF",
+      "link": "http://www.in.gov.br/web/dou/-/lei-complementar-n-227-de-13-de-janeiro-de-2026-681157850",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "14/01/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-05T11:05:43",
+      "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
       "id": "66ce6fb20284ea87",
@@ -764,806 +1678,6 @@ const RADAR_DADOS = {
       "tags": [],
       "coletado_em": "2026-10-04T17:21:42",
       "primeira_vez_em": "2026-10-03T11:59:12"
-    },
-    {
-      "id": "70ae17e8fd24bf0c",
-      "titulo": "Receita publica novo balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
-      "resumo": "Dados trazem o número mais atual e serão atualizados à medida que novos pedidos forem realizados",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-publica-novo-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "30/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "CBS",
-        "Simples Nacional"
-      ],
-      "coletado_em": "2026-10-04T17:21:39",
-      "primeira_vez_em": "2026-10-01T11:05:41"
-    },
-    {
-      "id": "6a0bc309a56feb2a",
-      "titulo": "Segundo trimestre de 2026 registra necessidade líquida de financiamento do Governo Geral de 9,2% do PIB",
-      "resumo": "Resultado é explicado pelo crescimento nominal de 12,41% da receita, parcialmente compensado pelo crescimento nominal de 12,33% da despesa em relação ao mesmo período de 2026",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/segundo-trimestre-de-2026-registra-necessidade-liquida-de-financiamento-do-governo-geral-de-9-2-do-pib",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "01/10/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-04T17:21:39",
-      "primeira_vez_em": "2026-10-01T15:54:22"
-    },
-    {
-      "id": "8889ee50993067f1",
-      "titulo": "Receita Federal atualiza legislação do Adicional da CSLL e incorpora nova Regra Simplificadora",
-      "resumo": "Alteração da IN RFB nº 2228/2024 introduz a Regra Simplificadora Globe para Incentivo Fiscal baseado na Substância e amplia o período de aplicabilidade da Regra Simplificadora Globe de Transição",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-federal-atualiza-legislacao-do-adicional-da-csll-e-incorpora-nova-regra-simplificadora",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "01/10/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-04T17:21:39",
-      "primeira_vez_em": "2026-10-01T15:54:22"
-    },
-    {
-      "id": "16e8e3bc95ffc29d",
-      "titulo": "Saiba como denunciar irregularidades relacionadas a bets pelo Fala.BR",
-      "resumo": "Canal oficial permite registrar denúncias e encaminhar informações para apuração",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/saiba-como-denunciar-irregularidades-relacionadas-a-bets-pelo-fala.br",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "01/10/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-04T17:21:39",
-      "primeira_vez_em": "2026-10-02T11:04:25"
-    },
-    {
-      "id": "8eab90f42ded9a0a",
-      "titulo": "Receita atualiza balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
-      "resumo": "Dados trazem o número de pedidos até esta sexta-feira, 2/10, e serão atualizados à medida que novos pedidos forem realizados",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-atualiza-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "02/10/2026",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "CBS",
-        "Simples Nacional"
-      ],
-      "coletado_em": "2026-10-04T17:21:39",
-      "primeira_vez_em": "2026-10-03T11:59:08"
-    },
-    {
-      "id": "c4a587047b0c3120",
-      "titulo": "PGFN lança dois novos editais e prorroga adesão a outros três de renegociação de dívidas",
-      "resumo": "Um dos editais se destina a empregadores com débitos do FGTS; o segundo é relacionado a pequenos valores dos MEIs",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/pgfn-lanca-dois-novos-editais-e-prorroga-adesao-a-outros-tres-de-renegociacao-de-dividas",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "02/10/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-04T17:21:39",
-      "primeira_vez_em": "2026-10-03T11:59:08"
-    },
-    {
-      "id": "51562769896574e1",
-      "titulo": "Receita Federal publica a primeira edição do Perguntas e Respostas do Adicional da CSLL",
-      "resumo": "Nova publicação reúne informações sobre a aplicação da Lei nº 15.079/2024 e da IN RFB nº 2.228/2024",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-federal-publica-a-primeira-edicao-do-perguntas-e-respostas-do-adicional-da-csll",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "02/10/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-04T17:21:39",
-      "primeira_vez_em": "2026-10-03T11:59:08"
-    },
-    {
-      "id": "4baf6d16f5f6d474",
-      "titulo": "Novo acesso ao Regularize para representantes de empresas",
-      "resumo": "Responsáveis por PJ já podem acessar serviços diretamente do Regularize por meio da conta gov.br",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/novo-acesso-ao-regularize-para-representantes-de-empresas",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "17/09/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-04T17:21:37",
-      "primeira_vez_em": "2026-09-17T15:43:05"
-    },
-    {
-      "id": "8af9031daf5b35f0",
-      "titulo": "Operação Bomba Oculta visa postos de combustíveis clandestinos",
-      "resumo": "Ação é desdobramento da Operação Carbono Oculto e conta com colaboração entre PGFN e diversas instituições",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/operacao-bomba-oculta-visa-postos-de-combustiveis-clandestinos",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "28/08/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-04T17:21:37",
-      "primeira_vez_em": "2026-09-17T15:43:05"
-    },
-    {
-      "id": "96e91c67f56c632d",
-      "titulo": "Seleção Nacional de Estagiários",
-      "resumo": "Inscrições são gratuitas e vão de 20 de agosto a 3 de setembro",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/selecao-nacional-de-estagiarios",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "19/08/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-04T17:21:37",
-      "primeira_vez_em": "2026-09-17T15:43:05"
-    },
-    {
-      "id": "34948173140ec564",
-      "titulo": "Informamos que não haverá atendimento nas unidades da PGFN em todo o Brasil, na terça-feira, 11 de agosto.",
-      "resumo": "Informamos que não haverá atendimento nas unidades da PGFN em todo o Brasil, na terça-feira, 11 de agosto.",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/informamos-que-nao-havera-atendimento-na-terca-feira-11-de-agosto",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "07/08/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-04T17:21:37",
-      "primeira_vez_em": "2026-09-17T15:43:05"
-    },
-    {
-      "id": "bb8a5d4e64f78243",
-      "titulo": "Atraso no débito automático exige atenção de contribuintes nesta quarta (30)",
-      "resumo": "Parcelas com vencimento em 30/9 podem não ter sido debitadas por atraso no processamento do débito automático; veja como manter a negociação em dia",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/atraso-no-debito-automatico-exige-atencao-de-contribuintes-nesta-quarta-30",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "30/09/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-04T17:21:37",
-      "primeira_vez_em": "2026-10-01T11:05:40"
-    },
-    {
-      "id": "100b03d2302e3752",
-      "titulo": "Novos editais da PGFN para renegociação de dívidas",
-      "resumo": "Novos editais da PGFN para renegociação de dívidas",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/novos-editais-da-pgfn-para-renegociacao-de-dividas",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "02/10/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-04T17:21:37",
-      "primeira_vez_em": "2026-10-03T11:59:07"
-    },
-    {
-      "id": "b081958b5f7506fe",
-      "titulo": "Publicado o Perguntas e Respostas da NFS-e",
-      "resumo": "O material foi compilado com base nas dúvidas recebidas de Municípios, contribuintes e empresas de desenvolvimento",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/publicado-o-perguntas-e-respostas-da-nfs-e",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "16/09/2026",
-      "impacto": "médio",
-      "tags": [
-        "NFSe"
-      ],
-      "coletado_em": "2026-10-04T17:21:36",
-      "primeira_vez_em": "2026-09-17T15:43:04"
-    },
-    {
-      "id": "b329be74653055a3",
-      "titulo": "Secretaria Executiva do CGNFS-e participa de homologação de novas funcionalidades da Nota Fiscal de Serviço Eletrônica para a Reforma Tributária",
-      "resumo": "Atividades aconteceram na sede do Serpro em Belo Horizonte (MG)",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/secretaria-executiva-do-cgnfs-e-participa-de-homologacao-de-novas-funcionalidades-da-nota-fiscal-de-servico-eletronica-para-a-reforma-tributaria",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "05/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFSe"
-      ],
-      "coletado_em": "2026-10-04T17:21:36",
-      "primeira_vez_em": "2026-09-17T15:43:04"
-    },
-    {
-      "id": "46f050b2bd9a044c",
-      "titulo": "Comitê Gestor do Simples Nacional prorroga a obrigatoriedade de emissão de notas fiscais de serviço pelo Emissor Nacional da NFS-e",
-      "resumo": "Comitê Gestor do Simples Nacional prorroga a obrigatoriedade de emissão de notas fiscais de serviço pelo Emissor Nacional da NFS-e",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/comite-gestor-do-simples-nacional-prorroga-a-obrigatoriedade-de-emissao-de-notas-fiscais-de-servico-pelo-emissor-nacional-da-nfs-e",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "11/08/2026",
-      "impacto": "alto",
-      "tags": [
-        "NFSe",
-        "Simples Nacional",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-10-04T17:21:36",
-      "primeira_vez_em": "2026-09-17T15:43:04"
-    },
-    {
-      "id": "b9c9daabd31b6e3e",
-      "titulo": "CGNFS-e orienta sobre os prazos para destaque de IBS/CBS nas notas fiscais de serviço",
-      "resumo": "Comitê Gestor do IBS e Receita Federal flexibilizaram a obrigatoriedade de informações nos documentos fiscais. Regras de validação que exigem informações do IBS e da CBS foram alteradas para evitar rejeição de documentos fiscais.",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/cgnfs-e-orienta-sobre-os-prazos-para%20destaque-de-ibs-cbs-nas-notas-fiscais-de-servico",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "07/08/2026",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "CBS",
-        "NFSe",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-10-04T17:21:36",
-      "primeira_vez_em": "2026-09-17T15:43:04"
-    },
-    {
-      "id": "8ad9456dba6ac974",
-      "titulo": "Plataforma NFS-e disponibiliza novas evoluções em Produção Restrita e divulga cronograma de implantação",
-      "resumo": "Entre as evoluções estão o CNPJ Alfanumérico e os grupos IBS/CBS no Emissor Web",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/plataforma-nfs-e-disponibiliza-novas-evolucoes-em-producao-restrita-e-divulga-cronograma-de-implantacao",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "28/07/2026",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "CBS",
-        "NFSe"
-      ],
-      "coletado_em": "2026-10-04T17:21:36",
-      "primeira_vez_em": "2026-09-17T15:43:04"
-    },
-    {
-      "id": "0b7a31ff3defd6f2",
-      "titulo": "Manutenção no ambiente do CNPJ neste sábado (25) não afetará os principais serviços da NFS-e",
-      "resumo": "Apenas os serviços de criação de usuário e recuperação de senha do Portal do Contribuinte serão afetados",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/manutencao-no-ambiente-do-cnpj-neste-sabado-25-nao-afetara-os-principais-servicos-da-nfs-e",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "23/07/2026",
-      "impacto": "médio",
-      "tags": [
-        "NFSe"
-      ],
-      "coletado_em": "2026-10-04T17:21:36",
-      "primeira_vez_em": "2026-09-17T15:43:04"
-    },
-    {
-      "id": "21a7f1ac3d421137",
-      "titulo": "Nova funcionalidade no Painel Administrativo Municipal permite antecipar a adoção do Emissor Nacional para optantes pelo Simples Nacional",
-      "resumo": "Nova funcionalidade no Painel Administrativo Municipal permite antecipar a adoção do Emissor Nacional para optantes pelo Simples Nacional",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/nova-funcionalidade-no-painel-administrativo-municipal-permite-antecipar-a-adocao-do-emissor-nacional-para-optantes-pelo-simples-nacional",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "28/09/2026",
-      "impacto": "médio",
-      "tags": [
-        "Simples Nacional"
-      ],
-      "coletado_em": "2026-10-04T17:21:36",
-      "primeira_vez_em": "2026-09-29T11:04:53"
-    },
-    {
-      "id": "b22c32886dc039f5",
-      "titulo": "Comitê Gestor da NFS-e e Fiscos da União, Estados e Municípios reúnem-se em São Paulo",
-      "resumo": "Comitê Gestor da NFS-e e Fiscos da União, Estados e Municípios reúnem-se em São Paulo",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/comite-gestor-da-nfs-e-e-fiscos-da-uniao-estados-e-municipios-reunem-se-em-sao-paulo",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "01/10/2026",
-      "impacto": "médio",
-      "tags": [
-        "NFSe"
-      ],
-      "coletado_em": "2026-10-04T17:21:36",
-      "primeira_vez_em": "2026-10-01T15:54:20"
-    },
-    {
-      "id": "0c1964e9f04584db",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 008",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre o DANFSe.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-008-se-cgnfse-danfse-20260714-v1-02.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-10-04T17:21:34",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "046e01fae8b56c6d",
-      "titulo": "AnexoVIII versão 1.01.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
-      "resumo": "AnexoVIII versão 1.01.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/anexoviii-correlacaoitemnbsindopcclasstrib_ibscbs_v1-01-00.xlsx",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-04T17:21:34",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "f6ee5f1d56c00209",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 007",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e e esclarecimentos acerca da plataforma NFS-e.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-007-se-cgnfse-v1-0.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-10-04T17:21:34",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "d00ea00b82d8e1fa",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 006",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e Via, dado o contexto da Reforma Tributária do Consumo.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-006-se-cgnfse-leiaute-nfse-via.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-10-04T17:21:34",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "09a31ac05b22905c",
-      "titulo": "AnexoVIII versão 1.00.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
-      "resumo": "AnexoVIII versão 1.00.00 - Correlação entre Item de Serv., NBS, cClassTrib e cIndOp (AnexoVII)",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/anexoviii-correlacaoitemnbsindopcclasstrib_ibscbs_v1-00-00.xlsx",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-04T17:21:34",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "e03b66d584fbef2c",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 005",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-005-se-cgnfse-novo-layout-rtc.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-10-04T17:21:34",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "2112c58dfa782067",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 004",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/producao-restrita/nt-004-se-cgnfse-novo-layout-rtc-v2-00-20251210.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-10-04T17:21:34",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "4adf744f945fd69f",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 003",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-003-1-2-se-cgnfse-novo-layout-rtc.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-10-04T17:21:34",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
-    {
-      "id": "1145066e44f69ff9",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 009 versão 1.01 (01/10/2026)",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nota-tecnica-009-se-cgnfs-e-v-1-01.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "01/10/2026",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-10-04T17:21:34",
-      "primeira_vez_em": "2026-10-01T15:54:19"
-    },
-    {
-      "id": "a7086811f0b75d7a",
-      "titulo": "Nota Técnica 010 SE/CGNFS-e nº 010 versão 1.00",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do leiaute da NFS-e Via e do Evento de Manifestação do Adquirente.",
-      "link": "https://www.gov.br/nfse/pt-br/nfs-e-via/documentacao-tecnica/notas-tecnicas/nt-010-se-cgnfse-leiaute-nfse-via-v-1.00.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-10-04T17:21:34",
-      "primeira_vez_em": "2026-10-03T11:59:05"
-    },
-    {
-      "id": "6e748567f4cb33c5",
-      "titulo": "CGIBS debate Reforma Tributária e administração pública em evento do Tribunal de Justiça de São Paulo",
-      "resumo": "CGIBS debate Reforma Tributária e administração pública em evento do Tribunal de Justiça de São Paulo",
-      "link": "https://www.cgibs.gov.br/cgibs-debate-reforma-tributaria-em-evento-do-tribunal-de-justica-de-sao-paulo",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "IBS"
-      ],
-      "coletado_em": "2026-10-04T17:21:33",
-      "primeira_vez_em": "2026-09-17T15:43:02"
-    },
-    {
-      "id": "7b0095e4b757d45c",
-      "titulo": "Prazo para opção pelo Simples Nacional e do modelo de recolhimento do IBS e da CBS para 2027 termina no dia 30/09",
-      "resumo": "Prazo para opção pelo Simples Nacional e do modelo de recolhimento do IBS e da CBS para 2027 termina no dia 30/09",
-      "link": "https://www.cgibs.gov.br/prazo-para-opcao-pelo-simples-nacional-e-escolha-do-modelo-de-recolhimento-do-ibs-e-da-cbs-em-2027-termina-em-30-de-setembro",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "CBS",
-        "Simples Nacional",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-10-04T17:21:33",
-      "primeira_vez_em": "2026-09-17T15:43:02"
-    },
-    {
-      "id": "63dff167c306e0a2",
-      "titulo": "Presidente e segunda vice do CGIBS participam de missão à OCDE em Paris sobre IVA e modernização tributária",
-      "resumo": "Presidente e segunda vice do CGIBS participam de missão à OCDE em Paris sobre IVA e modernização tributária",
-      "link": "https://www.cgibs.gov.br/presidente-e-segunda-vice-do-cgibs-participam-de-missao-a-ocde-sobre-iva-e-modernizacao-tributaria",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "IBS"
-      ],
-      "coletado_em": "2026-10-04T17:21:33",
-      "primeira_vez_em": "2026-09-19T11:03:30"
-    },
-    {
-      "id": "606eb4007464d320",
-      "titulo": "Receita Federal e Comitê Gestor do IBS divulgam Orientação Conjunta destinada às sociedades cooperativas",
-      "resumo": "Receita Federal e Comitê Gestor do IBS divulgam Orientação Conjunta destinada às sociedades cooperativas",
-      "link": "https://www.cgibs.gov.br/receita-federal-e-comite-gestor-do-imposto-sobre-bens-e-servicos-divulgam-orientacao-conjunta",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "IBS"
-      ],
-      "coletado_em": "2026-10-04T17:21:33",
-      "primeira_vez_em": "2026-09-22T11:03:37"
-    },
-    {
-      "id": "2f86464c831b5b1b",
-      "titulo": "Regimes Específicos: veja atualização dos esquemas XSD dos eventos D-1011 e D-1101 na Produção Restrita",
-      "resumo": "Regimes Específicos: veja atualização dos esquemas XSD dos eventos D-1011 e D-1101 na Produção Restrita",
-      "link": "https://www.cgibs.gov.br/dere-atualizacao-dos-esquemas-xsd-dos-eventos-d-1011-e-d-1101-na-producao-restrita",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-04T17:21:33",
-      "primeira_vez_em": "2026-09-22T11:03:37"
-    },
-    {
-      "id": "e0eaa5a24d485f65",
-      "titulo": "Informe: conta do Comitê Gestor do IBS no Instagram (cgibs.oficial) passa por instabilidade temporária",
-      "resumo": "Informe: conta do Comitê Gestor do IBS no Instagram (cgibs.oficial) passa por instabilidade temporária",
-      "link": "https://www.cgibs.gov.br/informe-instabilidade-da-conta-do-cgibs-no-instagram",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "IBS"
-      ],
-      "coletado_em": "2026-10-04T17:21:33",
-      "primeira_vez_em": "2026-09-25T11:03:52"
-    },
-    {
-      "id": "c2291b33ecd78178",
-      "titulo": "Declaração de Regimes Específicos: CGIBS e Receita Federal divulgam endpoints do ambiente de produção",
-      "resumo": "Declaração de Regimes Específicos: CGIBS e Receita Federal divulgam endpoints do ambiente de produção",
-      "link": "https://www.cgibs.gov.br/dere-cgibs-e-receita-federal-divulgam-endpoints-do-ambiente-de-producao",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "IBS"
-      ],
-      "coletado_em": "2026-10-04T17:21:33",
-      "primeira_vez_em": "2026-09-30T11:04:55"
-    },
-    {
-      "id": "eeba35f26cd1b78e",
-      "titulo": "Opção do contribuinte por Simples Nacional ou pelo regime regular de CBS e IBS para 2027 tem novos prazos",
-      "resumo": "Opção do contribuinte por Simples Nacional ou pelo regime regular de CBS e IBS para 2027 tem novos prazos",
-      "link": "https://www.cgibs.gov.br/embora-os-periodos-sejam-parecidos-tratam-de-escolhas-diferentes-por-isso-e-importante-entender-cada-situacao",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "CBS",
-        "Simples Nacional",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-10-04T17:21:33",
-      "primeira_vez_em": "2026-10-01T11:05:37"
-    },
-    {
-      "id": "5b5a92e25b015235",
-      "titulo": "DeRE: CGIBS e Receita Federal publicam versão 1.3.0 da documentação técnica e disponibilizam Manual do Usuário",
-      "resumo": "DeRE: CGIBS e Receita Federal publicam versão 1.3.0 da documentação técnica e disponibilizam Manual do Usuário",
-      "link": "https://www.cgibs.gov.br/dere-cgibs-e-receita-federal-publicam-versao-1-3-0-da-documentacao-tecnica-e-disponibilizam-manual-do-usuario",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "IBS"
-      ],
-      "coletado_em": "2026-10-04T17:21:33",
-      "primeira_vez_em": "2026-10-04T17:21:33"
-    },
-    {
-      "id": "08398f1e2c89c97b",
-      "titulo": "Receita Federal disponibilizará a versão web da DITR 2026",
-      "resumo": "Serviço permite preencher, transmitir, retificar e consultar a Declaração do Imposto sobre a Propriedade Territorial Rural de forma on-line.",
-      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-disponibilizara-a-versao-web-da-ditr-2026",
-      "fonte": "Receita Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-07-22T16:51:56Z",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-04T17:21:29",
-      "primeira_vez_em": "2026-09-17T15:42:58"
-    },
-    {
-      "id": "246d24ac1d0cd774",
-      "titulo": "Receita Federal informa parada programada do Sistema de Leilão Eletrônico",
-      "resumo": "Serviço ficará indisponível no dia 23 de julho de 2026, das 6h às 16h, para implantação do CNPJ Alfanumérico",
-      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-informa-parada-programada-do-sistema-de-leilao-eletronico",
-      "fonte": "Receita Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-07-20T19:54:16Z",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-04T17:21:29",
-      "primeira_vez_em": "2026-09-17T15:42:58"
-    },
-    {
-      "id": "2de55424d6f704af",
-      "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
-      "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
-      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
-      "fonte": "Receita Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-07-22T17:02:38Z",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "CBS",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-10-04T17:21:29",
-      "primeira_vez_em": "2026-09-17T15:42:58"
-    },
-    {
-      "id": "5a2a272341f6a971",
-      "titulo": "CNPJ Alfanumérico: operação normal",
-      "resumo": "Publicado por Coordenação Técnica do ENCAT",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/2982",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "23/07/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-04T17:21:28",
-      "primeira_vez_em": "2026-09-17T15:42:57"
-    },
-    {
-      "id": "1ca5429d7569b551",
-      "titulo": "ATENÇÃO: CNPJ de Teste para Alfanumérico (Novidade: Adicionados NFe e e NFCe)",
-      "resumo": "Publicado por SEFAZ Virtual RS",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/2978",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "29/05/2026",
-      "impacto": "médio",
-      "tags": [
-        "NFe",
-        "API/Sistemas Gov"
-      ],
-      "coletado_em": "2026-10-04T17:21:28",
-      "primeira_vez_em": "2026-09-17T15:42:57"
-    },
-    {
-      "id": "73b214f6161b9cb9",
-      "titulo": "Implantação no ambiente de produção da versão 1.13 da NT da Reforma Tributária",
-      "resumo": "Publicado por SVRS",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/2974",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "03/03/2026",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-10-04T17:21:28",
-      "primeira_vez_em": "2026-09-17T15:42:57"
-    },
-    {
-      "id": "607173e000fc3989",
-      "titulo": "Novidade: Link para o MOC Online",
-      "resumo": "Publicado por Coordenação Técnica do ENCAT",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Noticias/3007",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "10/09/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-04T17:21:28",
-      "primeira_vez_em": "2026-09-17T15:42:57"
-    },
-    {
-      "id": "a9b85ebff2d35b2f",
-      "titulo": "Implantadas NTs 2026.002 em PRODUÇÃO na SVRS",
-      "resumo": "Publicado por SEFAZ Virtual RS",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Noticias/3005",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "31/08/2026",
-      "impacto": "médio",
-      "tags": [
-        "API/Sistemas Gov"
-      ],
-      "coletado_em": "2026-10-04T17:21:28",
-      "primeira_vez_em": "2026-09-17T15:42:57"
-    },
-    {
-      "id": "74129502b829908e",
-      "titulo": "Implantada a regra de validação de exigencia de IBS e CBS no ambiente de homologação",
-      "resumo": "Publicado por SEFAZ Virtual RS",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Noticias/2981",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "06/07/2026",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "CBS",
-        "API/Sistemas Gov"
-      ],
-      "coletado_em": "2026-10-04T17:21:28",
-      "primeira_vez_em": "2026-09-17T15:42:57"
-    },
-    {
-      "id": "e5fc5ae97dc8d1c2",
-      "titulo": "Lei Complementar 227 de 13 de Janeiro de 2026",
-      "resumo": "Publicado por Ajustes SINIEF",
-      "link": "http://www.in.gov.br/web/dou/-/lei-complementar-n-227-de-13-de-janeiro-de-2026-681157850",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "14/01/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-04T17:21:28",
-      "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
       "id": "c2d217bc7764521d",
