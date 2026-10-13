@@ -1,6 +1,370 @@
 const RADAR_DADOS = {
-  "geradoEm": "2026-10-12T11:16:07",
+  "geradoEm": "2026-10-13T11:12:07",
   "noticias": [
+    {
+      "id": "4cb90c79835b4cd1",
+      "titulo": "WebServices de Distribuição e Alteração cadastral do PAA disponíveis na SVRS",
+      "resumo": "Publicado por SEFAZ Virtual RS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Pes/Noticias/3004",
+      "fonte": "PES - Plataforma de Emissão Simplificada (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "24/08/2026",
+      "impacto": "médio",
+      "tags": [
+        "API/Sistemas Gov"
+      ],
+      "coletado_em": "2026-10-13T11:12:02",
+      "primeira_vez_em": "2026-09-17T15:44:42"
+    },
+    {
+      "id": "485fb61a2a751098",
+      "titulo": "Ajuste SINIEF 46 de 2025",
+      "resumo": "Publicado por Ajustes SINIEF",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ046_25",
+      "fonte": "PES - Plataforma de Emissão Simplificada (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "10/08/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-13T11:12:02",
+      "primeira_vez_em": "2026-09-17T15:44:42"
+    },
+    {
+      "id": "0b1cf5b29af11e57",
+      "titulo": "ATO COTEPE/ICMS 173/23",
+      "resumo": "Publicado por Atos COTEPE",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2023-1/ato-cotepe-icms-173-23",
+      "fonte": "PES - Plataforma de Emissão Simplificada (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "15/12/2023",
+      "impacto": "médio",
+      "tags": [
+        "ICMS"
+      ],
+      "coletado_em": "2026-10-13T11:12:02",
+      "primeira_vez_em": "2026-09-17T15:44:42"
+    },
+    {
+      "id": "e31b387cddf7fd5d",
+      "titulo": "AVISO 01/2022",
+      "resumo": "Publicado por Coordenação Técnica do ENCAT",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Difal/Avisos/2855",
+      "fonte": "DIFAL (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "19/10/2022",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-13T11:12:00",
+      "primeira_vez_em": "2026-09-17T15:44:41"
+    },
+    {
+      "id": "c067fe8403247755",
+      "titulo": "CONVÊNIO ICMS Nº 235, DE 27 DE DEZEMBRO DE 2021",
+      "resumo": "Publicado por Convênios",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV235_21",
+      "fonte": "DIFAL (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "09/09/2022",
+      "impacto": "médio",
+      "tags": [
+        "ICMS"
+      ],
+      "coletado_em": "2026-10-13T11:12:00",
+      "primeira_vez_em": "2026-09-17T15:44:41"
+    },
+    {
+      "id": "2d256ec029c6add1",
+      "titulo": "ATO COTEPE/ICMS 83/21",
+      "resumo": "Publicado por Atos COTEPE",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2021-1/ac83_21",
+      "fonte": "DCe - Declaração de Conteúdo Eletrônica (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "19/04/2024",
+      "impacto": "médio",
+      "tags": [
+        "ICMS"
+      ],
+      "coletado_em": "2026-10-13T11:11:59",
+      "primeira_vez_em": "2026-09-17T15:44:40"
+    },
+    {
+      "id": "a881467e852d7257",
+      "titulo": "COMUNICADO – ATIVAÇÃO DE REGRA DE VALIDAÇÃO C02-30 DA DC-e",
+      "resumo": "Publicado por SEFAZ PR",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Dce/Avisos/3009",
+      "fonte": "DCe - Declaração de Conteúdo Eletrônica (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "06/10/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-13T11:11:59",
+      "primeira_vez_em": "2026-10-07T11:09:33"
+    },
+    {
+      "id": "5af4c5ee52d4ce9c",
+      "titulo": "Atualização da Política de Privacidade do Nota Fiscal Fácil",
+      "resumo": "Publicado por Coordenação Técnica do ENCAT",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Nff/Avisos/2975",
+      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "30/03/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-13T11:11:56",
+      "primeira_vez_em": "2026-09-17T15:44:38"
+    },
+    {
+      "id": "a454d4d897b3839f",
+      "titulo": "Publicadas Notas Técnicas de CT-e e MDF-e para NFF",
+      "resumo": "Publicado por Coordenação Técnica do ENCAT",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Nff/Avisos/1377",
+      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "04/05/2020",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-13T11:11:56",
+      "primeira_vez_em": "2026-09-17T15:44:38"
+    },
+    {
+      "id": "23085cc0899edc3f",
+      "titulo": "Novidade: Emissor Web da NFF",
+      "resumo": "Publicado por Coordenação Técnica do ENCAT",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Nff/Noticias/3006",
+      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "10/09/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-13T11:11:56",
+      "primeira_vez_em": "2026-09-17T15:44:38"
+    },
+    {
+      "id": "fd3d7b1235ebc490",
+      "titulo": "NFF MEI e Simples Nacional liberados para o Piauí",
+      "resumo": "Publicado por Coordenação Técnica do ENCAT",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Nff/Noticias/2921",
+      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "21/03/2024",
+      "impacto": "médio",
+      "tags": [
+        "Simples Nacional"
+      ],
+      "coletado_em": "2026-10-13T11:11:56",
+      "primeira_vez_em": "2026-09-17T15:44:38"
+    },
+    {
+      "id": "98a8cf0b506f52a9",
+      "titulo": "NFF do Produtor Rural liberada para o estado do Pará",
+      "resumo": "Publicado por Coordenação Técnica do ENCAT",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Nff/Noticias/2917",
+      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "10/01/2024",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-13T11:11:56",
+      "primeira_vez_em": "2026-09-17T15:44:38"
+    },
+    {
+      "id": "7ce12346e4b886ec",
+      "titulo": "AJUSTE SINIEF 44/23",
+      "resumo": "Publicado por Ajustes SINIEF",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2023/ajuste-sinief-03-23-1",
+      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "15/12/2023",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-13T11:11:56",
+      "primeira_vez_em": "2026-09-17T15:44:38"
+    },
+    {
+      "id": "b676f2adf3c22d0a",
+      "titulo": "CONVÊNIO ICMS 32/12",
+      "resumo": "Publicado por Convênios",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV032_12",
+      "fonte": "NFe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "30/03/2012",
+      "impacto": "médio",
+      "tags": [
+        "ICMS"
+      ],
+      "coletado_em": "2026-10-13T11:11:54",
+      "primeira_vez_em": "2026-09-17T15:44:37"
+    },
+    {
+      "id": "a4607235adf1b80f",
+      "titulo": "ATO COTEPE/ICMS 129/24",
+      "resumo": "Publicado por Atos COTEPE",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2024-2/ato-cotepe-icms-129-24",
+      "fonte": "NFCom (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "15/10/2024",
+      "impacto": "médio",
+      "tags": [
+        "ICMS"
+      ],
+      "coletado_em": "2026-10-13T11:11:52",
+      "primeira_vez_em": "2026-09-17T15:44:36"
+    },
+    {
+      "id": "58e10eba2750e488",
+      "titulo": "ATO COTEPE/ICMS 60/21",
+      "resumo": "Publicado por Atos COTEPE",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2021-1/ac060_21",
+      "fonte": "NF3e (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "17/09/2021",
+      "impacto": "médio",
+      "tags": [
+        "ICMS"
+      ],
+      "coletado_em": "2026-10-13T11:11:50",
+      "primeira_vez_em": "2026-09-17T15:44:35"
+    },
+    {
+      "id": "552f0735a0423c26",
+      "titulo": "ATO COTEPE 69/20",
+      "resumo": "Publicado por Atos COTEPE",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2020/ato-cotepe-icms-69-20",
+      "fonte": "NFCe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "26/11/2020",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-13T11:11:48",
+      "primeira_vez_em": "2026-09-17T15:44:34"
+    },
+    {
+      "id": "be8638660c3332cb",
+      "titulo": "Ajuste SINIEF 03 de 2026",
+      "resumo": "Publicado por Ajustes SINIEF",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ003_26",
+      "fonte": "MDFe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "29/05/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-13T11:11:46",
+      "primeira_vez_em": "2026-09-17T15:44:33"
+    },
+    {
+      "id": "5794323834606a06",
+      "titulo": "ATO COTEPE/ICMS 124/22",
+      "resumo": "Publicado por Atos COTEPE",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2022/ato-cotepe-icms-124-22",
+      "fonte": "MDFe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "07/12/2022",
+      "impacto": "médio",
+      "tags": [
+        "ICMS"
+      ],
+      "coletado_em": "2026-10-13T11:11:46",
+      "primeira_vez_em": "2026-09-17T15:44:33"
+    },
+    {
+      "id": "bc7500769f467d84",
+      "titulo": "Convênio ICMS 92/2012",
+      "resumo": "Publicado por Convênios",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV092_12",
+      "fonte": "MDFe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "04/10/2012",
+      "impacto": "médio",
+      "tags": [
+        "ICMS"
+      ],
+      "coletado_em": "2026-10-13T11:11:46",
+      "primeira_vez_em": "2026-09-17T15:44:33"
+    },
+    {
+      "id": "ce7ddd9753d793fb",
+      "titulo": "ATO COTEPE/ICMS 123/22",
+      "resumo": "Publicado por Atos COTEPE",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2022/ato-cotepe-icms-123-22",
+      "fonte": "CTe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "07/12/2022",
+      "impacto": "médio",
+      "tags": [
+        "ICMS"
+      ],
+      "coletado_em": "2026-10-13T11:11:45",
+      "primeira_vez_em": "2026-09-17T15:44:32"
+    },
+    {
+      "id": "da3b5c5a1cc32cf3",
+      "titulo": "Convênio ICMS 93/12",
+      "resumo": "Publicado por Convênios",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV093_12",
+      "fonte": "CTe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "28/09/2012",
+      "impacto": "médio",
+      "tags": [
+        "ICMS"
+      ],
+      "coletado_em": "2026-10-13T11:11:45",
+      "primeira_vez_em": "2026-09-17T15:44:32"
+    },
+    {
+      "id": "f94584d6e23d07ae",
+      "titulo": "Implantada NT 2026.002 em HMLE",
+      "resumo": "Publicado por SVRS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Bpe/Noticias/2984",
+      "fonte": "BPe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "03/08/2026",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-10-13T11:11:43",
+      "primeira_vez_em": "2026-09-17T15:44:31"
+    },
+    {
+      "id": "c4bd59e18d311f35",
+      "titulo": "ATO COTEPE/ICMS 28/19",
+      "resumo": "Publicado por Atos COTEPE",
+      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2019/ato-cotepe-icms-28-19",
+      "fonte": "BPe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "12/06/2019",
+      "impacto": "médio",
+      "tags": [
+        "ICMS"
+      ],
+      "coletado_em": "2026-10-13T11:11:43",
+      "primeira_vez_em": "2026-09-17T15:44:31"
+    },
     {
       "id": "2ff2ed7a2b94c51d",
       "titulo": "Publicado há 2 meses 3 de Agosto de 2026 14:29 Receita Estadual Reforma Tributária: emissão de notas fiscais com CBS e IBS entra em vigor no Paraná nesta segunda-feira (03) Compartilhe:",
@@ -17,7 +381,7 @@ const RADAR_DADOS = {
         "CBS",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-10-12T11:10:51",
+      "coletado_em": "2026-10-13T11:10:29",
       "primeira_vez_em": "2026-10-09T11:07:36"
     },
     {
@@ -31,7 +395,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:10:51",
+      "coletado_em": "2026-10-13T11:10:29",
       "primeira_vez_em": "2026-10-09T11:07:36"
     },
     {
@@ -45,7 +409,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:10:51",
+      "coletado_em": "2026-10-13T11:10:29",
       "primeira_vez_em": "2026-10-09T11:07:36"
     },
     {
@@ -59,7 +423,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:10:51",
+      "coletado_em": "2026-10-13T11:10:29",
       "primeira_vez_em": "2026-10-09T11:07:36"
     },
     {
@@ -73,7 +437,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:10:51",
+      "coletado_em": "2026-10-13T11:10:29",
       "primeira_vez_em": "2026-10-09T11:07:36"
     },
     {
@@ -87,7 +451,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:10:51",
+      "coletado_em": "2026-10-13T11:10:29",
       "primeira_vez_em": "2026-10-09T11:07:36"
     },
     {
@@ -101,7 +465,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:10:51",
+      "coletado_em": "2026-10-13T11:10:29",
       "primeira_vez_em": "2026-10-09T11:07:36"
     },
     {
@@ -115,7 +479,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:10:51",
+      "coletado_em": "2026-10-13T11:10:29",
       "primeira_vez_em": "2026-10-09T11:07:36"
     },
     {
@@ -129,7 +493,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:10:51",
+      "coletado_em": "2026-10-13T11:10:29",
       "primeira_vez_em": "2026-10-10T11:05:40"
     },
     {
@@ -143,7 +507,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:10:51",
+      "coletado_em": "2026-10-13T11:10:29",
       "primeira_vez_em": "2026-10-10T11:05:40"
     },
     {
@@ -157,7 +521,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:10:21",
+      "coletado_em": "2026-10-13T11:09:57",
       "primeira_vez_em": "2026-10-08T11:07:44"
     },
     {
@@ -171,7 +535,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:10:21",
+      "coletado_em": "2026-10-13T11:09:57",
       "primeira_vez_em": "2026-10-08T11:07:44"
     },
     {
@@ -185,7 +549,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:10:15",
+      "coletado_em": "2026-10-13T11:09:48",
       "primeira_vez_em": "2026-10-09T11:06:59"
     },
     {
@@ -199,7 +563,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:10:15",
+      "coletado_em": "2026-10-13T11:09:48",
       "primeira_vez_em": "2026-10-09T11:06:59"
     },
     {
@@ -213,7 +577,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-10-12T11:10:15",
+      "coletado_em": "2026-10-13T11:09:48",
       "primeira_vez_em": "2026-10-10T11:05:01"
     },
     {
@@ -227,7 +591,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:09:56",
+      "coletado_em": "2026-10-13T11:09:25",
       "primeira_vez_em": "2026-09-17T15:43:36"
     },
     {
@@ -241,7 +605,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:09:38",
+      "coletado_em": "2026-10-13T11:09:06",
       "primeira_vez_em": "2026-09-17T15:43:33"
     },
     {
@@ -258,7 +622,7 @@ const RADAR_DADOS = {
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-10-12T11:09:38",
+      "coletado_em": "2026-10-13T11:09:06",
       "primeira_vez_em": "2026-10-09T11:06:21"
     },
     {
@@ -272,7 +636,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:09:38",
+      "coletado_em": "2026-10-13T11:09:06",
       "primeira_vez_em": "2026-10-09T11:06:21"
     },
     {
@@ -286,7 +650,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:09:14",
+      "coletado_em": "2026-10-13T11:08:49",
       "primeira_vez_em": "2026-10-10T11:03:55"
     },
     {
@@ -300,7 +664,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:09:14",
+      "coletado_em": "2026-10-13T11:08:49",
       "primeira_vez_em": "2026-10-10T11:03:55"
     },
     {
@@ -314,7 +678,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:09:14",
+      "coletado_em": "2026-10-13T11:08:49",
       "primeira_vez_em": "2026-10-10T11:03:55"
     },
     {
@@ -330,7 +694,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:51",
+      "coletado_em": "2026-10-13T11:08:23",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     {
@@ -346,7 +710,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:50",
+      "coletado_em": "2026-10-13T11:08:22",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     {
@@ -362,7 +726,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:48",
+      "coletado_em": "2026-10-13T11:08:20",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     {
@@ -378,7 +742,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:48",
+      "coletado_em": "2026-10-13T11:08:20",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     {
@@ -394,7 +758,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:48",
+      "coletado_em": "2026-10-13T11:08:20",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     {
@@ -410,7 +774,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:47",
+      "coletado_em": "2026-10-13T11:08:18",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     {
@@ -426,7 +790,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:47",
+      "coletado_em": "2026-10-13T11:08:18",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     {
@@ -442,7 +806,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:47",
+      "coletado_em": "2026-10-13T11:08:18",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     {
@@ -458,7 +822,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:47",
+      "coletado_em": "2026-10-13T11:08:18",
       "primeira_vez_em": "2026-10-02T11:04:32"
     },
     {
@@ -474,7 +838,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:45",
+      "coletado_em": "2026-10-13T11:08:16",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     {
@@ -491,7 +855,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:45",
+      "coletado_em": "2026-10-13T11:08:16",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     {
@@ -507,7 +871,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:45",
+      "coletado_em": "2026-10-13T11:08:16",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     {
@@ -523,7 +887,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:45",
+      "coletado_em": "2026-10-13T11:08:16",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     {
@@ -539,7 +903,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:45",
+      "coletado_em": "2026-10-13T11:08:16",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     {
@@ -556,7 +920,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:45",
+      "coletado_em": "2026-10-13T11:08:16",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     {
@@ -572,7 +936,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:45",
+      "coletado_em": "2026-10-13T11:08:16",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     {
@@ -589,7 +953,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:45",
+      "coletado_em": "2026-10-13T11:08:16",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     {
@@ -607,7 +971,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:45",
+      "coletado_em": "2026-10-13T11:08:16",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     {
@@ -624,7 +988,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:45",
+      "coletado_em": "2026-10-13T11:08:16",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     {
@@ -638,7 +1002,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-10-09T21:39:05Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:08:43",
+      "coletado_em": "2026-10-13T11:08:14",
       "primeira_vez_em": "2026-10-10T11:03:33"
     },
     {
@@ -652,7 +1016,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-10-09T21:16:34Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:08:43",
+      "coletado_em": "2026-10-13T11:08:14",
       "primeira_vez_em": "2026-10-10T11:03:33"
     },
     {
@@ -666,7 +1030,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-10-09T19:56:31Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:08:43",
+      "coletado_em": "2026-10-13T11:08:14",
       "primeira_vez_em": "2026-10-10T11:03:33"
     },
     {
@@ -680,7 +1044,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-10-09T18:44:09Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:08:43",
+      "coletado_em": "2026-10-13T11:08:14",
       "primeira_vez_em": "2026-10-10T11:03:33"
     },
     {
@@ -694,7 +1058,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-10-09T18:05:58Z",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-10-12T11:08:43",
+      "coletado_em": "2026-10-13T11:08:14",
       "primeira_vez_em": "2026-10-10T11:03:33"
     },
     {
@@ -708,7 +1072,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-10-09T17:04:01Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:08:43",
+      "coletado_em": "2026-10-13T11:08:14",
       "primeira_vez_em": "2026-10-10T11:03:33"
     },
     {
@@ -722,7 +1086,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-10-09T15:31:07Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:08:43",
+      "coletado_em": "2026-10-13T11:08:14",
       "primeira_vez_em": "2026-10-10T11:03:33"
     },
     {
@@ -738,7 +1102,7 @@ const RADAR_DADOS = {
       "tags": [
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-10-12T11:08:43",
+      "coletado_em": "2026-10-13T11:08:14",
       "primeira_vez_em": "2026-10-10T11:03:33"
     },
     {
@@ -752,7 +1116,7 @@ const RADAR_DADOS = {
       "data_publicacao": "06/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:08:40",
+      "coletado_em": "2026-10-13T11:08:10",
       "primeira_vez_em": "2026-10-07T11:06:02"
     },
     {
@@ -770,7 +1134,7 @@ const RADAR_DADOS = {
         "CBS",
         "Simples Nacional"
       ],
-      "coletado_em": "2026-10-12T11:08:40",
+      "coletado_em": "2026-10-13T11:08:10",
       "primeira_vez_em": "2026-10-08T11:05:58"
     },
     {
@@ -784,7 +1148,7 @@ const RADAR_DADOS = {
       "data_publicacao": "07/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:08:40",
+      "coletado_em": "2026-10-13T11:08:10",
       "primeira_vez_em": "2026-10-08T11:05:58"
     },
     {
@@ -801,7 +1165,7 @@ const RADAR_DADOS = {
         "IBS",
         "CBS"
       ],
-      "coletado_em": "2026-10-12T11:08:40",
+      "coletado_em": "2026-10-13T11:08:10",
       "primeira_vez_em": "2026-10-08T11:05:58"
     },
     {
@@ -815,7 +1179,7 @@ const RADAR_DADOS = {
       "data_publicacao": "09/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:08:40",
+      "coletado_em": "2026-10-13T11:08:10",
       "primeira_vez_em": "2026-10-10T11:03:29"
     },
     {
@@ -829,7 +1193,7 @@ const RADAR_DADOS = {
       "data_publicacao": "09/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:08:40",
+      "coletado_em": "2026-10-13T11:08:10",
       "primeira_vez_em": "2026-10-10T11:03:29"
     },
     {
@@ -846,7 +1210,7 @@ const RADAR_DADOS = {
         "Reforma Tributária",
         "CBS"
       ],
-      "coletado_em": "2026-10-12T11:08:40",
+      "coletado_em": "2026-10-13T11:08:10",
       "primeira_vez_em": "2026-10-10T11:03:29"
     },
     {
@@ -860,7 +1224,7 @@ const RADAR_DADOS = {
       "data_publicacao": "09/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:08:40",
+      "coletado_em": "2026-10-13T11:08:10",
       "primeira_vez_em": "2026-10-10T11:03:29"
     },
     {
@@ -874,7 +1238,7 @@ const RADAR_DADOS = {
       "data_publicacao": "17/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:08:39",
+      "coletado_em": "2026-10-13T11:08:09",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     {
@@ -888,7 +1252,7 @@ const RADAR_DADOS = {
       "data_publicacao": "28/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:08:39",
+      "coletado_em": "2026-10-13T11:08:09",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     {
@@ -902,7 +1266,7 @@ const RADAR_DADOS = {
       "data_publicacao": "19/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:08:39",
+      "coletado_em": "2026-10-13T11:08:09",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     {
@@ -916,7 +1280,7 @@ const RADAR_DADOS = {
       "data_publicacao": "30/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:08:39",
+      "coletado_em": "2026-10-13T11:08:09",
       "primeira_vez_em": "2026-10-01T11:05:40"
     },
     {
@@ -930,7 +1294,7 @@ const RADAR_DADOS = {
       "data_publicacao": "02/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:08:39",
+      "coletado_em": "2026-10-13T11:08:09",
       "primeira_vez_em": "2026-10-03T11:59:07"
     },
     {
@@ -944,7 +1308,7 @@ const RADAR_DADOS = {
       "data_publicacao": "06/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:08:39",
+      "coletado_em": "2026-10-13T11:08:09",
       "primeira_vez_em": "2026-10-07T11:06:00"
     },
     {
@@ -960,7 +1324,7 @@ const RADAR_DADOS = {
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-10-12T11:08:38",
+      "coletado_em": "2026-10-13T11:08:08",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     {
@@ -977,7 +1341,7 @@ const RADAR_DADOS = {
         "Reforma Tributária",
         "NFSe"
       ],
-      "coletado_em": "2026-10-12T11:08:38",
+      "coletado_em": "2026-10-13T11:08:08",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     {
@@ -995,7 +1359,7 @@ const RADAR_DADOS = {
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-10-12T11:08:38",
+      "coletado_em": "2026-10-13T11:08:08",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     {
@@ -1014,7 +1378,7 @@ const RADAR_DADOS = {
         "NFSe",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-10-12T11:08:38",
+      "coletado_em": "2026-10-13T11:08:08",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     {
@@ -1030,7 +1394,7 @@ const RADAR_DADOS = {
       "tags": [
         "Simples Nacional"
       ],
-      "coletado_em": "2026-10-12T11:08:38",
+      "coletado_em": "2026-10-13T11:08:08",
       "primeira_vez_em": "2026-09-29T11:04:53"
     },
     {
@@ -1046,7 +1410,7 @@ const RADAR_DADOS = {
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-10-12T11:08:38",
+      "coletado_em": "2026-10-13T11:08:08",
       "primeira_vez_em": "2026-10-01T15:54:20"
     },
     {
@@ -1065,7 +1429,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:38",
+      "coletado_em": "2026-10-13T11:08:08",
       "primeira_vez_em": "2026-10-10T11:03:27"
     },
     {
@@ -1082,7 +1446,7 @@ const RADAR_DADOS = {
         "Reforma Tributária",
         "NFSe"
       ],
-      "coletado_em": "2026-10-12T11:08:38",
+      "coletado_em": "2026-10-13T11:08:08",
       "primeira_vez_em": "2026-10-10T11:03:27"
     },
     {
@@ -1099,7 +1463,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:37",
+      "coletado_em": "2026-10-13T11:08:06",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1113,7 +1477,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:08:37",
+      "coletado_em": "2026-10-13T11:08:06",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1130,7 +1494,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:37",
+      "coletado_em": "2026-10-13T11:08:06",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1148,7 +1512,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:37",
+      "coletado_em": "2026-10-13T11:08:06",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1162,7 +1526,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-12T11:08:37",
+      "coletado_em": "2026-10-13T11:08:06",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1180,7 +1544,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:37",
+      "coletado_em": "2026-10-13T11:08:06",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1198,7 +1562,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:37",
+      "coletado_em": "2026-10-13T11:08:06",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1216,7 +1580,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:37",
+      "coletado_em": "2026-10-13T11:08:06",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1234,7 +1598,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:37",
+      "coletado_em": "2026-10-13T11:08:06",
       "primeira_vez_em": "2026-10-01T15:54:19"
     },
     {
@@ -1251,418 +1615,8 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-12T11:08:37",
+      "coletado_em": "2026-10-13T11:08:06",
       "primeira_vez_em": "2026-10-03T11:59:05"
-    },
-    {
-      "id": "08398f1e2c89c97b",
-      "titulo": "Receita Federal disponibilizará a versão web da DITR 2026",
-      "resumo": "Serviço permite preencher, transmitir, retificar e consultar a Declaração do Imposto sobre a Propriedade Territorial Rural de forma on-line.",
-      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-disponibilizara-a-versao-web-da-ditr-2026",
-      "fonte": "Receita Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-07-22T16:51:56Z",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-12T11:08:20",
-      "primeira_vez_em": "2026-09-17T15:42:58"
-    },
-    {
-      "id": "246d24ac1d0cd774",
-      "titulo": "Receita Federal informa parada programada do Sistema de Leilão Eletrônico",
-      "resumo": "Serviço ficará indisponível no dia 23 de julho de 2026, das 6h às 16h, para implantação do CNPJ Alfanumérico",
-      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-informa-parada-programada-do-sistema-de-leilao-eletronico",
-      "fonte": "Receita Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-07-20T19:54:16Z",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-12T11:08:20",
-      "primeira_vez_em": "2026-09-17T15:42:58"
-    },
-    {
-      "id": "2de55424d6f704af",
-      "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
-      "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
-      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
-      "fonte": "Receita Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-07-22T17:02:38Z",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "CBS",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-10-12T11:08:20",
-      "primeira_vez_em": "2026-09-17T15:42:58"
-    },
-    {
-      "id": "4cb90c79835b4cd1",
-      "titulo": "WebServices de Distribuição e Alteração cadastral do PAA disponíveis na SVRS",
-      "resumo": "Publicado por SEFAZ Virtual RS",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Pes/Noticias/3004",
-      "fonte": "PES - Plataforma de Emissão Simplificada (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "24/08/2026",
-      "impacto": "médio",
-      "tags": [
-        "API/Sistemas Gov"
-      ],
-      "coletado_em": "2026-10-11T11:07:54",
-      "primeira_vez_em": "2026-09-17T15:44:42"
-    },
-    {
-      "id": "485fb61a2a751098",
-      "titulo": "Ajuste SINIEF 46 de 2025",
-      "resumo": "Publicado por Ajustes SINIEF",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ046_25",
-      "fonte": "PES - Plataforma de Emissão Simplificada (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "10/08/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-11T11:07:54",
-      "primeira_vez_em": "2026-09-17T15:44:42"
-    },
-    {
-      "id": "0b1cf5b29af11e57",
-      "titulo": "ATO COTEPE/ICMS 173/23",
-      "resumo": "Publicado por Atos COTEPE",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2023-1/ato-cotepe-icms-173-23",
-      "fonte": "PES - Plataforma de Emissão Simplificada (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "15/12/2023",
-      "impacto": "médio",
-      "tags": [
-        "ICMS"
-      ],
-      "coletado_em": "2026-10-11T11:07:54",
-      "primeira_vez_em": "2026-09-17T15:44:42"
-    },
-    {
-      "id": "e31b387cddf7fd5d",
-      "titulo": "AVISO 01/2022",
-      "resumo": "Publicado por Coordenação Técnica do ENCAT",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Difal/Avisos/2855",
-      "fonte": "DIFAL (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "19/10/2022",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-11T11:07:53",
-      "primeira_vez_em": "2026-09-17T15:44:41"
-    },
-    {
-      "id": "c067fe8403247755",
-      "titulo": "CONVÊNIO ICMS Nº 235, DE 27 DE DEZEMBRO DE 2021",
-      "resumo": "Publicado por Convênios",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV235_21",
-      "fonte": "DIFAL (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "09/09/2022",
-      "impacto": "médio",
-      "tags": [
-        "ICMS"
-      ],
-      "coletado_em": "2026-10-11T11:07:53",
-      "primeira_vez_em": "2026-09-17T15:44:41"
-    },
-    {
-      "id": "2d256ec029c6add1",
-      "titulo": "ATO COTEPE/ICMS 83/21",
-      "resumo": "Publicado por Atos COTEPE",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2021-1/ac83_21",
-      "fonte": "DCe - Declaração de Conteúdo Eletrônica (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "19/04/2024",
-      "impacto": "médio",
-      "tags": [
-        "ICMS"
-      ],
-      "coletado_em": "2026-10-11T11:07:51",
-      "primeira_vez_em": "2026-09-17T15:44:40"
-    },
-    {
-      "id": "a881467e852d7257",
-      "titulo": "COMUNICADO – ATIVAÇÃO DE REGRA DE VALIDAÇÃO C02-30 DA DC-e",
-      "resumo": "Publicado por SEFAZ PR",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Dce/Avisos/3009",
-      "fonte": "DCe - Declaração de Conteúdo Eletrônica (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "06/10/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-11T11:07:51",
-      "primeira_vez_em": "2026-10-07T11:09:33"
-    },
-    {
-      "id": "5af4c5ee52d4ce9c",
-      "titulo": "Atualização da Política de Privacidade do Nota Fiscal Fácil",
-      "resumo": "Publicado por Coordenação Técnica do ENCAT",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Nff/Avisos/2975",
-      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "30/03/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-11T11:07:48",
-      "primeira_vez_em": "2026-09-17T15:44:38"
-    },
-    {
-      "id": "a454d4d897b3839f",
-      "titulo": "Publicadas Notas Técnicas de CT-e e MDF-e para NFF",
-      "resumo": "Publicado por Coordenação Técnica do ENCAT",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Nff/Avisos/1377",
-      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "04/05/2020",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-11T11:07:48",
-      "primeira_vez_em": "2026-09-17T15:44:38"
-    },
-    {
-      "id": "23085cc0899edc3f",
-      "titulo": "Novidade: Emissor Web da NFF",
-      "resumo": "Publicado por Coordenação Técnica do ENCAT",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Nff/Noticias/3006",
-      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "10/09/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-11T11:07:48",
-      "primeira_vez_em": "2026-09-17T15:44:38"
-    },
-    {
-      "id": "fd3d7b1235ebc490",
-      "titulo": "NFF MEI e Simples Nacional liberados para o Piauí",
-      "resumo": "Publicado por Coordenação Técnica do ENCAT",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Nff/Noticias/2921",
-      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "21/03/2024",
-      "impacto": "médio",
-      "tags": [
-        "Simples Nacional"
-      ],
-      "coletado_em": "2026-10-11T11:07:48",
-      "primeira_vez_em": "2026-09-17T15:44:38"
-    },
-    {
-      "id": "98a8cf0b506f52a9",
-      "titulo": "NFF do Produtor Rural liberada para o estado do Pará",
-      "resumo": "Publicado por Coordenação Técnica do ENCAT",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Nff/Noticias/2917",
-      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "10/01/2024",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-11T11:07:48",
-      "primeira_vez_em": "2026-09-17T15:44:38"
-    },
-    {
-      "id": "7ce12346e4b886ec",
-      "titulo": "AJUSTE SINIEF 44/23",
-      "resumo": "Publicado por Ajustes SINIEF",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2023/ajuste-sinief-03-23-1",
-      "fonte": "NFF - Nota Fiscal Fácil (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "15/12/2023",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-11T11:07:48",
-      "primeira_vez_em": "2026-09-17T15:44:38"
-    },
-    {
-      "id": "b676f2adf3c22d0a",
-      "titulo": "CONVÊNIO ICMS 32/12",
-      "resumo": "Publicado por Convênios",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV032_12",
-      "fonte": "NFe (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "30/03/2012",
-      "impacto": "médio",
-      "tags": [
-        "ICMS"
-      ],
-      "coletado_em": "2026-10-11T11:07:45",
-      "primeira_vez_em": "2026-09-17T15:44:37"
-    },
-    {
-      "id": "a4607235adf1b80f",
-      "titulo": "ATO COTEPE/ICMS 129/24",
-      "resumo": "Publicado por Atos COTEPE",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2024-2/ato-cotepe-icms-129-24",
-      "fonte": "NFCom (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "15/10/2024",
-      "impacto": "médio",
-      "tags": [
-        "ICMS"
-      ],
-      "coletado_em": "2026-10-11T11:07:44",
-      "primeira_vez_em": "2026-09-17T15:44:36"
-    },
-    {
-      "id": "58e10eba2750e488",
-      "titulo": "ATO COTEPE/ICMS 60/21",
-      "resumo": "Publicado por Atos COTEPE",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2021-1/ac060_21",
-      "fonte": "NF3e (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "17/09/2021",
-      "impacto": "médio",
-      "tags": [
-        "ICMS"
-      ],
-      "coletado_em": "2026-10-11T11:07:42",
-      "primeira_vez_em": "2026-09-17T15:44:35"
-    },
-    {
-      "id": "552f0735a0423c26",
-      "titulo": "ATO COTEPE 69/20",
-      "resumo": "Publicado por Atos COTEPE",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2020/ato-cotepe-icms-69-20",
-      "fonte": "NFCe (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "26/11/2020",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-11T11:07:40",
-      "primeira_vez_em": "2026-09-17T15:44:34"
-    },
-    {
-      "id": "be8638660c3332cb",
-      "titulo": "Ajuste SINIEF 03 de 2026",
-      "resumo": "Publicado por Ajustes SINIEF",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ003_26",
-      "fonte": "MDFe (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "29/05/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-11T11:07:39",
-      "primeira_vez_em": "2026-09-17T15:44:33"
-    },
-    {
-      "id": "5794323834606a06",
-      "titulo": "ATO COTEPE/ICMS 124/22",
-      "resumo": "Publicado por Atos COTEPE",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2022/ato-cotepe-icms-124-22",
-      "fonte": "MDFe (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "07/12/2022",
-      "impacto": "médio",
-      "tags": [
-        "ICMS"
-      ],
-      "coletado_em": "2026-10-11T11:07:39",
-      "primeira_vez_em": "2026-09-17T15:44:33"
-    },
-    {
-      "id": "bc7500769f467d84",
-      "titulo": "Convênio ICMS 92/2012",
-      "resumo": "Publicado por Convênios",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV092_12",
-      "fonte": "MDFe (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "04/10/2012",
-      "impacto": "médio",
-      "tags": [
-        "ICMS"
-      ],
-      "coletado_em": "2026-10-11T11:07:39",
-      "primeira_vez_em": "2026-09-17T15:44:33"
-    },
-    {
-      "id": "ce7ddd9753d793fb",
-      "titulo": "ATO COTEPE/ICMS 123/22",
-      "resumo": "Publicado por Atos COTEPE",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2022/ato-cotepe-icms-123-22",
-      "fonte": "CTe (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "07/12/2022",
-      "impacto": "médio",
-      "tags": [
-        "ICMS"
-      ],
-      "coletado_em": "2026-10-11T11:07:37",
-      "primeira_vez_em": "2026-09-17T15:44:32"
-    },
-    {
-      "id": "da3b5c5a1cc32cf3",
-      "titulo": "Convênio ICMS 93/12",
-      "resumo": "Publicado por Convênios",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV093_12",
-      "fonte": "CTe (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "28/09/2012",
-      "impacto": "médio",
-      "tags": [
-        "ICMS"
-      ],
-      "coletado_em": "2026-10-11T11:07:37",
-      "primeira_vez_em": "2026-09-17T15:44:32"
-    },
-    {
-      "id": "f94584d6e23d07ae",
-      "titulo": "Implantada NT 2026.002 em HMLE",
-      "resumo": "Publicado por SVRS",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Bpe/Noticias/2984",
-      "fonte": "BPe (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "03/08/2026",
-      "impacto": "médio",
-      "tags": [
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-10-11T11:07:35",
-      "primeira_vez_em": "2026-09-17T15:44:31"
-    },
-    {
-      "id": "c4bd59e18d311f35",
-      "titulo": "ATO COTEPE/ICMS 28/19",
-      "resumo": "Publicado por Atos COTEPE",
-      "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2019/ato-cotepe-icms-28-19",
-      "fonte": "BPe (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "12/06/2019",
-      "impacto": "médio",
-      "tags": [
-        "ICMS"
-      ],
-      "coletado_em": "2026-10-11T11:07:35",
-      "primeira_vez_em": "2026-09-17T15:44:31"
     },
     {
       "id": "6e748567f4cb33c5",
@@ -1678,7 +1632,7 @@ const RADAR_DADOS = {
         "Reforma Tributária",
         "IBS"
       ],
-      "coletado_em": "2026-10-11T11:03:54",
+      "coletado_em": "2026-10-13T11:08:05",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
     {
@@ -1694,7 +1648,7 @@ const RADAR_DADOS = {
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-11T11:03:54",
+      "coletado_em": "2026-10-13T11:08:05",
       "primeira_vez_em": "2026-09-19T11:03:30"
     },
     {
@@ -1710,7 +1664,7 @@ const RADAR_DADOS = {
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-11T11:03:54",
+      "coletado_em": "2026-10-13T11:08:05",
       "primeira_vez_em": "2026-09-22T11:03:37"
     },
     {
@@ -1724,7 +1678,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-11T11:03:54",
+      "coletado_em": "2026-10-13T11:08:05",
       "primeira_vez_em": "2026-09-22T11:03:37"
     },
     {
@@ -1740,7 +1694,7 @@ const RADAR_DADOS = {
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-11T11:03:54",
+      "coletado_em": "2026-10-13T11:08:05",
       "primeira_vez_em": "2026-09-25T11:03:52"
     },
     {
@@ -1756,7 +1710,7 @@ const RADAR_DADOS = {
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-11T11:03:54",
+      "coletado_em": "2026-10-13T11:08:05",
       "primeira_vez_em": "2026-09-30T11:04:55"
     },
     {
@@ -1775,7 +1729,7 @@ const RADAR_DADOS = {
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-10-11T11:03:54",
+      "coletado_em": "2026-10-13T11:08:05",
       "primeira_vez_em": "2026-10-01T11:05:37"
     },
     {
@@ -1791,7 +1745,7 @@ const RADAR_DADOS = {
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-11T11:03:54",
+      "coletado_em": "2026-10-13T11:08:05",
       "primeira_vez_em": "2026-10-04T17:21:33"
     },
     {
@@ -1808,8 +1762,54 @@ const RADAR_DADOS = {
         "IBS",
         "CBS"
       ],
-      "coletado_em": "2026-10-11T11:03:54",
+      "coletado_em": "2026-10-13T11:08:05",
       "primeira_vez_em": "2026-10-07T11:05:57"
+    },
+    {
+      "id": "08398f1e2c89c97b",
+      "titulo": "Receita Federal disponibilizará a versão web da DITR 2026",
+      "resumo": "Serviço permite preencher, transmitir, retificar e consultar a Declaração do Imposto sobre a Propriedade Territorial Rural de forma on-line.",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-disponibilizara-a-versao-web-da-ditr-2026",
+      "fonte": "Receita Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-07-22T16:51:56Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-13T11:08:02",
+      "primeira_vez_em": "2026-09-17T15:42:58"
+    },
+    {
+      "id": "246d24ac1d0cd774",
+      "titulo": "Receita Federal informa parada programada do Sistema de Leilão Eletrônico",
+      "resumo": "Serviço ficará indisponível no dia 23 de julho de 2026, das 6h às 16h, para implantação do CNPJ Alfanumérico",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-informa-parada-programada-do-sistema-de-leilao-eletronico",
+      "fonte": "Receita Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-07-20T19:54:16Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-13T11:08:02",
+      "primeira_vez_em": "2026-09-17T15:42:58"
+    },
+    {
+      "id": "2de55424d6f704af",
+      "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+      "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+      "fonte": "Receita Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-07-22T17:02:38Z",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "CBS",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-10-13T11:08:02",
+      "primeira_vez_em": "2026-09-17T15:42:58"
     },
     {
       "id": "5a2a272341f6a971",
@@ -1822,7 +1822,7 @@ const RADAR_DADOS = {
       "data_publicacao": "23/07/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-11T11:03:49",
+      "coletado_em": "2026-10-13T11:08:00",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
@@ -1839,7 +1839,7 @@ const RADAR_DADOS = {
         "NFe",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-10-11T11:03:49",
+      "coletado_em": "2026-10-13T11:08:00",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
@@ -1853,7 +1853,7 @@ const RADAR_DADOS = {
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-11T11:03:49",
+      "coletado_em": "2026-10-13T11:08:00",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
@@ -1869,7 +1869,7 @@ const RADAR_DADOS = {
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-10-11T11:03:49",
+      "coletado_em": "2026-10-13T11:08:00",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
@@ -1887,7 +1887,7 @@ const RADAR_DADOS = {
         "CBS",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-10-11T11:03:49",
+      "coletado_em": "2026-10-13T11:08:00",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
@@ -1901,7 +1901,7 @@ const RADAR_DADOS = {
       "data_publicacao": "14/01/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-11T11:03:49",
+      "coletado_em": "2026-10-13T11:08:00",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
@@ -1915,7 +1915,7 @@ const RADAR_DADOS = {
       "data_publicacao": "05/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-11T11:03:49",
+      "coletado_em": "2026-10-13T11:08:00",
       "primeira_vez_em": "2026-10-06T11:05:35"
     },
     {
