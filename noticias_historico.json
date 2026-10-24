@@ -59,7 +59,7 @@
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:31:49",
+      "coletado_em": "2026-10-24T14:10:04",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "a9b85ebff2d35b2f": {
@@ -75,7 +75,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-10-23T15:31:49",
+      "coletado_em": "2026-10-24T14:10:04",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "74129502b829908e": {
@@ -93,7 +93,7 @@
         "CBS",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-10-23T15:31:49",
+      "coletado_em": "2026-10-24T14:10:04",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "e5fc5ae97dc8d1c2": {
@@ -107,7 +107,7 @@
       "data_publicacao": "14/01/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:31:49",
+      "coletado_em": "2026-10-24T14:10:04",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "07591671a87026e9": {
@@ -137,7 +137,7 @@
       "data_publicacao": "2026-07-22T16:51:56Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:31:51",
+      "coletado_em": "2026-10-24T14:10:06",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     "246d24ac1d0cd774": {
@@ -151,7 +151,7 @@
       "data_publicacao": "2026-07-20T19:54:16Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:31:51",
+      "coletado_em": "2026-10-24T14:10:06",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     "2de55424d6f704af": {
@@ -169,7 +169,7 @@
         "CBS",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-10-23T15:31:51",
+      "coletado_em": "2026-10-24T14:10:06",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     "6e748567f4cb33c5": {
@@ -186,7 +186,7 @@
         "Reforma Tributária",
         "IBS"
       ],
-      "coletado_em": "2026-10-23T15:31:53",
+      "coletado_em": "2026-10-24T14:10:10",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
     "7b0095e4b757d45c": {
@@ -256,23 +256,6 @@
       "coletado_em": "2026-09-28T11:04:17",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
-    "45db5858581df423": {
-      "id": "45db5858581df423",
-      "titulo": "CGIBS e RFB esclarecem os prazos de cumprimento das obrigações relativas à DeRE, elencados no Ato Conjunto nº 4",
-      "resumo": "CGIBS e RFB esclarecem os prazos de cumprimento das obrigações relativas à DeRE, elencados no Ato Conjunto nº 4",
-      "link": "https://www.cgibs.gov.br/cgibs-e-rfb-esclarecem-prazos-de-cumprimento-das-obrigacoes-relativas-a-dere-estabelecidos-pelo-ato-conjunto-n-4",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-09-24T11:03:35",
-      "primeira_vez_em": "2026-09-17T15:43:02"
-    },
     "61e71ca77fffd240": {
       "id": "61e71ca77fffd240",
       "titulo": "Nota Técnica SE/CGNFS-e nº 009",
@@ -305,7 +288,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:31:54",
+      "coletado_em": "2026-10-24T14:10:11",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "046e01fae8b56c6d": {
@@ -319,7 +302,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:31:54",
+      "coletado_em": "2026-10-24T14:10:11",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "f6ee5f1d56c00209": {
@@ -336,7 +319,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:31:54",
+      "coletado_em": "2026-10-24T14:10:11",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "d00ea00b82d8e1fa": {
@@ -354,7 +337,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:31:54",
+      "coletado_em": "2026-10-24T14:10:11",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "09a31ac05b22905c": {
@@ -368,7 +351,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:31:54",
+      "coletado_em": "2026-10-24T14:10:11",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "e03b66d584fbef2c": {
@@ -386,7 +369,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:31:54",
+      "coletado_em": "2026-10-24T14:10:11",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "2112c58dfa782067": {
@@ -404,7 +387,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:31:54",
+      "coletado_em": "2026-10-24T14:10:11",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "4adf744f945fd69f": {
@@ -422,7 +405,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:31:54",
+      "coletado_em": "2026-10-24T14:10:11",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "78ad827b6b8ebe84": {
@@ -456,7 +439,7 @@
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-10-23T15:31:56",
+      "coletado_em": "2026-10-24T14:10:12",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     "b329be74653055a3": {
@@ -473,7 +456,7 @@
         "Reforma Tributária",
         "NFSe"
       ],
-      "coletado_em": "2026-10-23T15:31:56",
+      "coletado_em": "2026-10-24T14:10:12",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     "46f050b2bd9a044c": {
@@ -593,7 +576,7 @@
       "data_publicacao": "17/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:31:57",
+      "coletado_em": "2026-10-24T14:10:13",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     "8af9031daf5b35f0": {
@@ -607,7 +590,7 @@
       "data_publicacao": "28/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:31:57",
+      "coletado_em": "2026-10-24T14:10:13",
       "primeira_vez_em": "2026-09-17T15:43:05"
     },
     "96e91c67f56c632d": {
@@ -679,7 +662,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:32:03",
+      "coletado_em": "2026-10-24T14:10:20",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "e38892674e142a10": {
@@ -713,7 +696,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:32:03",
+      "coletado_em": "2026-10-24T14:10:20",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "e2a50ae8eccfe1a8": {
@@ -729,7 +712,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:32:03",
+      "coletado_em": "2026-10-24T14:10:20",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "e4937f762f128a36": {
@@ -846,7 +829,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:32:05",
+      "coletado_em": "2026-10-24T14:10:21",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "c3ebc4e3910e68c9": {
@@ -862,7 +845,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:32:05",
+      "coletado_em": "2026-10-24T14:10:21",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "cf3d354183a6412b": {
@@ -878,7 +861,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:32:05",
+      "coletado_em": "2026-10-24T14:10:21",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "77284a5831435b93": {
@@ -894,7 +877,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:32:06",
+      "coletado_em": "2026-10-24T14:10:23",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "8edf3d8590ef2ea3": {
@@ -910,7 +893,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:32:06",
+      "coletado_em": "2026-10-24T14:10:23",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "db0e168e9dc70ff3": {
@@ -926,7 +909,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:32:06",
+      "coletado_em": "2026-10-24T14:10:23",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "1c95e3cfa05a4c5c": {
@@ -942,7 +925,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:32:08",
+      "coletado_em": "2026-10-24T14:10:25",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     "f3fce5f00b2dda14": {
@@ -958,7 +941,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:32:10",
+      "coletado_em": "2026-10-24T14:10:26",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     "6cff987543c8c065": {
@@ -972,7 +955,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:32:39",
+      "coletado_em": "2026-10-24T14:11:14",
       "primeira_vez_em": "2026-09-17T15:43:33"
     },
     "5eea618ca2cc84eb": {
@@ -1014,7 +997,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:32:57",
+      "coletado_em": "2026-10-24T14:11:33",
       "primeira_vez_em": "2026-09-17T15:43:36"
     },
     "222b7164033dafb3": {
@@ -1044,7 +1027,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:35:23",
+      "coletado_em": "2026-10-24T14:13:56",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     "c4bd59e18d311f35": {
@@ -1060,7 +1043,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-23T15:35:23",
+      "coletado_em": "2026-10-24T14:13:56",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     "e680433d3eefe8cd": {
@@ -1092,7 +1075,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-23T15:35:24",
+      "coletado_em": "2026-10-24T14:13:57",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     "da3b5c5a1cc32cf3": {
@@ -1108,7 +1091,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-23T15:35:24",
+      "coletado_em": "2026-10-24T14:13:57",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     "be8638660c3332cb": {
@@ -1122,7 +1105,7 @@
       "data_publicacao": "29/05/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:35:26",
+      "coletado_em": "2026-10-24T14:13:59",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "5794323834606a06": {
@@ -1138,7 +1121,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-23T15:35:26",
+      "coletado_em": "2026-10-24T14:13:59",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "bc7500769f467d84": {
@@ -1154,7 +1137,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-23T15:35:26",
+      "coletado_em": "2026-10-24T14:13:59",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "552f0735a0423c26": {
@@ -1168,7 +1151,7 @@
       "data_publicacao": "26/11/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:35:27",
+      "coletado_em": "2026-10-24T14:14:00",
       "primeira_vez_em": "2026-09-17T15:44:34"
     },
     "58e10eba2750e488": {
@@ -1184,7 +1167,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-23T15:35:28",
+      "coletado_em": "2026-10-24T14:14:02",
       "primeira_vez_em": "2026-09-17T15:44:35"
     },
     "a4607235adf1b80f": {
@@ -1200,7 +1183,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-23T15:35:30",
+      "coletado_em": "2026-10-24T14:14:03",
       "primeira_vez_em": "2026-09-17T15:44:36"
     },
     "b676f2adf3c22d0a": {
@@ -1216,7 +1199,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-23T15:35:31",
+      "coletado_em": "2026-10-24T14:14:05",
       "primeira_vez_em": "2026-09-17T15:44:37"
     },
     "5af4c5ee52d4ce9c": {
@@ -1230,7 +1213,7 @@
       "data_publicacao": "30/03/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:35:33",
+      "coletado_em": "2026-10-24T14:14:06",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "a454d4d897b3839f": {
@@ -1244,7 +1227,7 @@
       "data_publicacao": "04/05/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:35:33",
+      "coletado_em": "2026-10-24T14:14:06",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "23085cc0899edc3f": {
@@ -1258,7 +1241,7 @@
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:35:33",
+      "coletado_em": "2026-10-24T14:14:06",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "fd3d7b1235ebc490": {
@@ -1274,7 +1257,7 @@
       "tags": [
         "Simples Nacional"
       ],
-      "coletado_em": "2026-10-23T15:35:33",
+      "coletado_em": "2026-10-24T14:14:06",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "98a8cf0b506f52a9": {
@@ -1288,7 +1271,7 @@
       "data_publicacao": "10/01/2024",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:35:33",
+      "coletado_em": "2026-10-24T14:14:06",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "7ce12346e4b886ec": {
@@ -1302,7 +1285,7 @@
       "data_publicacao": "15/12/2023",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:35:33",
+      "coletado_em": "2026-10-24T14:14:06",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "2d256ec029c6add1": {
@@ -1318,7 +1301,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-23T15:35:36",
+      "coletado_em": "2026-10-24T14:14:09",
       "primeira_vez_em": "2026-09-17T15:44:40"
     },
     "e31b387cddf7fd5d": {
@@ -1332,7 +1315,7 @@
       "data_publicacao": "19/10/2022",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:35:37",
+      "coletado_em": "2026-10-24T14:14:11",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     "c067fe8403247755": {
@@ -1348,7 +1331,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-23T15:35:37",
+      "coletado_em": "2026-10-24T14:14:11",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     "4cb90c79835b4cd1": {
@@ -1364,7 +1347,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-10-23T15:35:38",
+      "coletado_em": "2026-10-24T14:14:12",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "485fb61a2a751098": {
@@ -1378,7 +1361,7 @@
       "data_publicacao": "10/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:35:38",
+      "coletado_em": "2026-10-24T14:14:12",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "0b1cf5b29af11e57": {
@@ -1394,7 +1377,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-23T15:35:38",
+      "coletado_em": "2026-10-24T14:14:12",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "63dff167c306e0a2": {
@@ -1410,39 +1393,8 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-23T15:31:53",
+      "coletado_em": "2026-10-24T14:10:10",
       "primeira_vez_em": "2026-09-19T11:03:30"
-    },
-    "5b6d010833bd402f": {
-      "id": "5b6d010833bd402f",
-      "titulo": "Receita Federal e Comitê Gestor do Imposto sobre Bens e Serviços divulgam Orientação Conjunta",
-      "resumo": "Manual explica procedimento para realização da opção pelo regime específico do IBS e da CBS destinado às cooperativas.",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-federal-e-comite-gestor-do-imposto-sobre-bens-e-servicos-divulgam-orientacao-conjunta",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "18/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "CBS"
-      ],
-      "coletado_em": "2026-09-24T11:03:39",
-      "primeira_vez_em": "2026-09-20T11:03:49"
-    },
-    "9f44f4f929e9e673": {
-      "id": "9f44f4f929e9e673",
-      "titulo": "Tesouro publica cronograma de emissões da Dívida Pública para o 4º trimestre de 2026",
-      "resumo": "Troca da NTN-B 15/08/2040 pela NTN-B 15/05/2045; e rolagem da LFT de 6 anos, para vencimento 01/12/2032 são as principais mudanças",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/tesouro-publica-cronograma-de-emissoes-da-divida-publica-para-o-4o-trimestre-de-2026",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "18/09/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-24T11:03:39",
-      "primeira_vez_em": "2026-09-20T11:03:49"
     },
     "606eb4007464d320": {
       "id": "606eb4007464d320",
@@ -1457,7 +1409,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-23T15:31:53",
+      "coletado_em": "2026-10-24T14:10:10",
       "primeira_vez_em": "2026-09-22T11:03:37"
     },
     "2f86464c831b5b1b": {
@@ -1471,7 +1423,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:31:53",
+      "coletado_em": "2026-10-24T14:10:10",
       "primeira_vez_em": "2026-09-22T11:03:37"
     },
     "dec7cd7735d42415": {
@@ -1655,123 +1607,6 @@
       "coletado_em": "2026-09-25T11:04:01",
       "primeira_vez_em": "2026-09-24T11:04:27"
     },
-    "e95f918811a546b8": {
-      "id": "e95f918811a546b8",
-      "titulo": "Atendimento a vítima de estupro e outras violências ganha protocolo unificado",
-      "resumo": "Mulheres, crianças, adolescentes e pessoas em situação de vulnerabilidade vítimas de estupro ou de outras formas de violência física agora contam com um protocolo integrado para orientar o atendimento por órgãos de saúde e segurança pública. A Lei 15.516, publicada no Diário Oficial da União (DOU) desta quarta-feira (23), estabelece regras para o acolhimento, atendimento médico, preservação de provas e realização de perícias, além de medidas para evitar a revitimização (quando a vítima é exposta a novo sofrimento ou constrangimento ao buscar ajuda na saúde, polícia ou Justiça). Pela nova lei, quando o primeiro atendimento for feito por profissional de segurança pública, a vítima deverá ser encaminhada imediatamente a uma unidade pública de saúde, e a ocorrência deverá ser registrada. O protocolo prevê atendimento médico imediato, com avaliação do estado clínico e emocional e adoção das medidas profiláticas e terapêuticas cabíveis. A vítima também deverá receber informações claras e acessíveis sobre seus direitos, inclusive ao atendimento médico e psicológico especializado e à assistência social. A norma tem origem no Projeto de Lei (PL) 2.525/2024, da deputada Coronel Fernanda (PL-MT), aprovado pelo Senado em setembro com relatório do senador Jayme Campos (União-MT). Cuidados na perícia Os profissionais de saúde deverão preservar materiais e vestígios que possam ser utilizados no exame médico-legal, diz a nova norma. Se houver coleta na unidade de saúde, o material deverá ser encaminhado à perícia oficial. A vítima terá prioridade máxima no exame de corpo de delito e, caso não possa comparecer, o perito deverá se deslocar até onde ela estiver. O laudo pericial deverá ser concluído e enviado à autoridade policial em até dez dias corridos, admitida prorrogação nos termos do Código de Processo Penal. Nas localidades sem órgão oficial de perícia criminal, o exame poderá ser feito por perito não oficial nomeado pela autoridade competente. A lei também determina que unidades policiais ou de saúde destinadas a esse atendimento tenham salas reservadas para acolhimento e atendimento multidisciplinar, com proteção à privacidade e à intimidade. No caso de crianças e adolescentes, o Conselho Tutelar deverá ser comunicado e poderá adotar os procedimentos previstos no Estatuto da Criança e do Adolescente (ECA). Profissionais de saúde e de segurança pública envolvidos no atendimento deverão receber treinamento específico e periódico voltado à não revitimização. O descumprimento do protocolo que provoque revitimização ou prejuízo à investigação ou à proteção da vítima poderá configurar crime de violência institucional. A norma ainda altera a Lei 12.845, de 2013, que trata do atendimento obrigatório e integral a pessoas em situação de violência sexual. Entre as novas regras, estão a coleta de material para exame toxicológico, quando indicada, e a comunicação obrigatória à autoridade policial, em até 24 horas, dos casos com indícios ou confirmação de violência sexual. Caberá aos órgãos oficiais de perícia criminal a realização do exame de DNA para identificação do agressor e inclusão no Banco Nacional de Perfis Genéticos, mesmo que ele ainda não tenha sido identificado, além de capacitar médicos dos serviços de saúde para a coleta de vestígios. Veto Ficou de fora da lei o dispositivo que determinava o encaminhamento do laudo médico à autoridade competente quando o primeiro atendimento à vítima ocorresse em uma unidade de saúde e, após o atendimento inicial, fosse constatada a violência ou o estupro. Na justificativa do veto (VET 51/2026), o Poder Executivo argumentou que o envio do documento sem o consentimento da vítima e sem delimitação das informações necessárias poderia comprometer a intimidade, a vida privada, o sigilo profissional e o direito à proteção de dados pessoais. Além disso, a medida também poderia desestimular a busca por atendimento de saúde e favorecer a revitimização, avaliou o governo.",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/23/atendimento-a-vitima-de-estupro-e-outras-violencias-ganha-protocolo-unificado",
-      "fonte": "Senado Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-09-23T14:55:00Z",
-      "impacto": "alto",
-      "tags": [],
-      "coletado_em": "2026-09-24T11:04:27",
-      "primeira_vez_em": "2026-09-24T11:04:27"
-    },
-    "ee4d0b152ba7bfe5": {
-      "id": "ee4d0b152ba7bfe5",
-      "titulo": "Lei prorroga incentivo a ações para PCDs e combate ao câncer",
-      "resumo": "Empresas poderão manter, até 2031, a dedução do Imposto de Renda de doações e patrocínios destinados a ações e serviços de apoio a pessoas com deficiência e de combate ao câncer. O benefício tributário, que terminaria em 2026 para pessoas jurídicas, foi prorrogado por lei sancionada na terça-feira (22) e publicada sem vetos nesta quarta-feira (23) no Diário Oficial da União. A Lei 15.513, de 2026, mantém a dedução para empresas que destinarem recursos ao Programa Nacional de Apoio à Atenção Oncológica (Pronon) e ao Programa Nacional de Apoio à Atenção da Saúde da Pessoa com Deficiência (Pronas/PCD). As ações e os serviços beneficiados precisam ser previamente aprovados pelo Ministério da Saúde. A possibilidade de dedução para pessoas físicas vigorou até 2025. A norma tem origem no PL 6.231/2019, aprovado no Senado em setembro sob a relatoria da senadora Mara Gabrilli (PSD-SP). A proposta original é da Câmara dos Deputados. Os programas Criados em 2012, o Pronon e o Pronas/PCD permitem o direcionamento de recursos privados para projetos de combate ao câncer e de atenção à pessoa com deficiência. As iniciativas, desenvolvidas por organizações sem fins lucrativos, podem envolver treinamento, pesquisa e prestação de serviços médicos e assistenciais. Segundo Mara Gabrilli, entre 2013 e 2021, os programas viabilizaram 893 projetos, com R$ 1,2 bilhão em recursos. A prorrogação do incentivo ocorre após a entrada em vigor da Lei Complementar 237, de 2026, que estabeleceu exceções a determinadas exigências fiscais para benefícios tributários relacionados a ações de apoio a pessoas com deficiência e de combate ao câncer.",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/23/lei-prorroga-incentivo-a-acoes-para-pcds-e-combate-ao-cancer",
-      "fonte": "Senado Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-09-23T13:18:41Z",
-      "impacto": "alto",
-      "tags": [],
-      "coletado_em": "2026-09-24T11:04:27",
-      "primeira_vez_em": "2026-09-24T11:04:27"
-    },
-    "689282b9187422be": {
-      "id": "689282b9187422be",
-      "titulo": "CONFAZ autoriza o Refis para o ICMS em três estados. Confira!",
-      "resumo": "Propostas preveem abatimento de até 95% em juros e multas para débitos fiscais",
-      "link": "https://jornalcontabil.com.br/noticia/confaz-autoriza-o-refis-para-o-icms-em-tres-estados-confira/",
-      "fonte": "Jornal Contábil",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "Wed, 23 Sep 2026 20:14:25 +0000",
-      "impacto": "alto",
-      "tags": [
-        "ICMS",
-        "Multa/Penalidade"
-      ],
-      "coletado_em": "2026-09-24T11:04:39",
-      "primeira_vez_em": "2026-09-24T11:04:39"
-    },
-    "5e0ff14af4fc465d": {
-      "id": "5e0ff14af4fc465d",
-      "titulo": "Documentos fiscais: quanto tempo sua empresa deve guardar e mudanças recentes",
-      "resumo": "Saber exatamente até quando guardar cada comprovante evita multas pesadas e garante a saúde financeira do seu negócio",
-      "link": "https://jornalcontabil.com.br/noticia/documentos-fiscais-quanto-tempo-sua-empresa-deve-guardar-e-mudancas-recentes/",
-      "fonte": "Jornal Contábil",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "Wed, 23 Sep 2026 19:19:45 +0000",
-      "impacto": "alto",
-      "tags": [
-        "Multa/Penalidade"
-      ],
-      "coletado_em": "2026-09-24T11:04:39",
-      "primeira_vez_em": "2026-09-24T11:04:39"
-    },
-    "86fdbd55e2e5df3c": {
-      "id": "86fdbd55e2e5df3c",
-      "titulo": "Trabalhador formal: por que a carteira é um passo para sua aposentadoria?",
-      "resumo": "Veja como proceder em caso de períodos trabalhados sem o registro",
-      "link": "https://jornalcontabil.com.br/noticia/trabalhador-formal-por-que-a-carteira-e-um-passo-para-sua-aposentadoria/",
-      "fonte": "Jornal Contábil",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "Wed, 23 Sep 2026 17:57:24 +0000",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-24T11:04:39",
-      "primeira_vez_em": "2026-09-24T11:04:39"
-    },
-    "5f55ad031cc669e6": {
-      "id": "5f55ad031cc669e6",
-      "titulo": "6 erros mais cometidos por contadores iniciantes",
-      "resumo": "Profissionais recém-formados enfrentam decisões decisivas na captação de clientes e na gestão do escritório. Veja os principais erros e evite-os",
-      "link": "https://jornalcontabil.com.br/noticia/6-erros-mais-cometidos-por-contadores-iniciantes/",
-      "fonte": "Jornal Contábil",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "Wed, 23 Sep 2026 16:37:43 +0000",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-24T11:04:39",
-      "primeira_vez_em": "2026-09-24T11:04:39"
-    },
-    "faa5d0f6ca77ef1e": {
-      "id": "faa5d0f6ca77ef1e",
-      "titulo": "Renovado por mais um ano o auxílio-doença sem perícia presencial",
-      "resumo": "Decisão estende por 365 dias a regra que permite a concessão do benefício de até 90 dias via Atestmed",
-      "link": "https://jornalcontabil.com.br/noticia/renovado-por-mais-um-ano-o-auxilio-doenca-sem-pericia-presencial/",
-      "fonte": "Jornal Contábil",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "Wed, 23 Sep 2026 15:04:30 +0000",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-24T11:04:39",
-      "primeira_vez_em": "2026-09-24T11:04:39"
-    },
-    "aab9c13233050108": {
-      "id": "aab9c13233050108",
-      "titulo": "Como a automação comercial pode alavancar os lucros do seu negócio",
-      "resumo": "Automação comercial é um tema cada vez mais relevante no mundo dos negócios. Entenda sua vantagens",
-      "link": "https://jornalcontabil.com.br/noticia/como-a-automacao-comercial-pode-alavancar-os-lucros-do-seu-negocio/",
-      "fonte": "Jornal Contábil",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "Wed, 23 Sep 2026 14:05:57 +0000",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-24T11:04:39",
-      "primeira_vez_em": "2026-09-24T11:04:39"
-    },
     "e0eaa5a24d485f65": {
       "id": "e0eaa5a24d485f65",
       "titulo": "Informe: conta do Comitê Gestor do IBS no Instagram (cgibs.oficial) passa por instabilidade temporária",
@@ -1785,7 +1620,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-23T15:31:53",
+      "coletado_em": "2026-10-24T14:10:10",
       "primeira_vez_em": "2026-09-25T11:03:52"
     },
     "df996d0b9a71ff23": {
@@ -2070,7 +1905,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:32:03",
+      "coletado_em": "2026-10-24T14:10:20",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     "4b70d64501a39e0c": {
@@ -2086,7 +1921,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:32:03",
+      "coletado_em": "2026-10-24T14:10:20",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     "827ee718aa512330": {
@@ -2191,7 +2026,7 @@
       "tags": [
         "Simples Nacional"
       ],
-      "coletado_em": "2026-10-23T15:31:56",
+      "coletado_em": "2026-10-24T14:10:12",
       "primeira_vez_em": "2026-09-29T11:04:53"
     },
     "432d02075047561e": {
@@ -2316,7 +2151,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-23T15:31:53",
+      "coletado_em": "2026-10-24T14:10:10",
       "primeira_vez_em": "2026-09-30T11:04:55"
     },
     "b0e4458054eae6a9": {
@@ -2424,7 +2259,7 @@
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-10-23T15:31:53",
+      "coletado_em": "2026-10-24T14:10:10",
       "primeira_vez_em": "2026-10-01T11:05:37"
     },
     "bb8a5d4e64f78243": {
@@ -2438,7 +2273,7 @@
       "data_publicacao": "30/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:31:57",
+      "coletado_em": "2026-10-24T14:10:13",
       "primeira_vez_em": "2026-10-01T11:05:40"
     },
     "70ae17e8fd24bf0c": {
@@ -2546,7 +2381,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:31:54",
+      "coletado_em": "2026-10-24T14:10:11",
       "primeira_vez_em": "2026-10-01T15:54:19"
     },
     "b22c32886dc039f5": {
@@ -2562,7 +2397,7 @@
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-10-23T15:31:56",
+      "coletado_em": "2026-10-24T14:10:12",
       "primeira_vez_em": "2026-10-01T15:54:20"
     },
     "6a0bc309a56feb2a": {
@@ -2740,7 +2575,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:32:03",
+      "coletado_em": "2026-10-24T14:10:20",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     "99f71ca3624af8c6": {
@@ -2756,7 +2591,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:32:03",
+      "coletado_em": "2026-10-24T14:10:20",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     "12c3af8f5ccd9f28": {
@@ -2773,7 +2608,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:32:03",
+      "coletado_em": "2026-10-24T14:10:20",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     "529e8feb3d37e80e": {
@@ -2791,7 +2626,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:32:03",
+      "coletado_em": "2026-10-24T14:10:20",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     "6afe4e6cc35198ae": {
@@ -2808,7 +2643,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:32:03",
+      "coletado_em": "2026-10-24T14:10:20",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     "c1366c3e91745dce": {
@@ -2824,7 +2659,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:32:05",
+      "coletado_em": "2026-10-24T14:10:21",
       "primeira_vez_em": "2026-10-02T11:04:32"
     },
     "a7086811f0b75d7a": {
@@ -2841,7 +2676,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:31:54",
+      "coletado_em": "2026-10-24T14:10:11",
       "primeira_vez_em": "2026-10-03T11:59:05"
     },
     "100b03d2302e3752": {
@@ -2855,7 +2690,7 @@
       "data_publicacao": "02/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:31:57",
+      "coletado_em": "2026-10-24T14:10:13",
       "primeira_vez_em": "2026-10-03T11:59:07"
     },
     "8eab90f42ded9a0a": {
@@ -2977,7 +2812,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-23T15:31:53",
+      "coletado_em": "2026-10-24T14:10:10",
       "primeira_vez_em": "2026-10-04T17:21:33"
     },
     "2a79170358973559": {
@@ -3105,7 +2940,7 @@
       "data_publicacao": "05/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:31:49",
+      "coletado_em": "2026-10-24T14:10:04",
       "primeira_vez_em": "2026-10-06T11:05:35"
     },
     "8711d97b7326c8aa": {
@@ -3342,7 +3177,7 @@
         "IBS",
         "CBS"
       ],
-      "coletado_em": "2026-10-23T15:31:53",
+      "coletado_em": "2026-10-24T14:10:10",
       "primeira_vez_em": "2026-10-07T11:05:57"
     },
     "190309e9ae03812a": {
@@ -3356,7 +3191,7 @@
       "data_publicacao": "06/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:31:57",
+      "coletado_em": "2026-10-24T14:10:13",
       "primeira_vez_em": "2026-10-07T11:06:00"
     },
     "6cad7be620e7e5d4": {
@@ -3512,7 +3347,7 @@
       "data_publicacao": "06/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:35:36",
+      "coletado_em": "2026-10-24T14:14:09",
       "primeira_vez_em": "2026-10-07T11:09:33"
     },
     "9e0fb93c95faf1dc": {
@@ -3969,18 +3804,16 @@
     },
     "4d16eb417e6f99c9": {
       "id": "4d16eb417e6f99c9",
-      "titulo": "Notícias Refis 2026: Governo do Ceará propõe descontos de até 100% em multas e juros 21/10/2026 – 10h22",
-      "resumo": "Notícias Refis 2026: Governo do Ceará propõe descontos de até 100% em multas e juros 21/10/2026 – 10h22",
+      "titulo": "Notícias Sua Nota Tem valor: Sefaz-CE anuncia ganhadores do 75° sorteio 23/10/2026 – 16h13",
+      "resumo": "Notícias Sua Nota Tem valor: Sefaz-CE anuncia ganhadores do 75° sorteio 23/10/2026 – 16h13",
       "link": "https://www.ce.gov.br/sefaz/categoria/noticias/",
       "fonte": "SEFAZ CE",
       "esfera": "estadual",
       "uf": "CE",
-      "data_publicacao": "21/10/2026",
-      "impacto": "alto",
-      "tags": [
-        "Multa/Penalidade"
-      ],
-      "coletado_em": "2026-10-23T15:32:39",
+      "data_publicacao": "23/10/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-24T14:11:14",
       "primeira_vez_em": "2026-10-09T11:06:21"
     },
     "1f588e686ac5fd39": {
@@ -3994,7 +3827,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:32:39",
+      "coletado_em": "2026-10-24T14:11:14",
       "primeira_vez_em": "2026-10-09T11:06:21"
     },
     "b54dc838eda98091": {
@@ -4055,7 +3888,7 @@
         "CBS",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-10-23T15:33:57",
+      "coletado_em": "2026-10-24T14:12:28",
       "primeira_vez_em": "2026-10-09T11:07:36"
     },
     "83ea5b3ca6fc6fd0": {
@@ -4069,7 +3902,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:33:57",
+      "coletado_em": "2026-10-24T14:12:28",
       "primeira_vez_em": "2026-10-09T11:07:36"
     },
     "5ef7eb83dce6eb7d": {
@@ -4083,7 +3916,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-20T15:30:14",
+      "coletado_em": "2026-10-24T14:12:28",
       "primeira_vez_em": "2026-10-09T11:07:36"
     },
     "2cf2ae9b07609f93": {
@@ -4167,7 +4000,7 @@
       "data_publicacao": "",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-10-23T15:33:57",
+      "coletado_em": "2026-10-24T14:12:28",
       "primeira_vez_em": "2026-10-09T11:07:36"
     },
     "95e82c9283e50a65": {
@@ -4200,7 +4033,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:31:56",
+      "coletado_em": "2026-10-24T14:10:12",
       "primeira_vez_em": "2026-10-10T11:03:27"
     },
     "de8bcd44da22e0de": {
@@ -4217,7 +4050,7 @@
         "Reforma Tributária",
         "NFSe"
       ],
-      "coletado_em": "2026-10-23T15:31:56",
+      "coletado_em": "2026-10-24T14:10:12",
       "primeira_vez_em": "2026-10-10T11:03:27"
     },
     "741f30953946c4a7": {
@@ -4460,7 +4293,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:33:57",
+      "coletado_em": "2026-10-24T14:12:28",
       "primeira_vez_em": "2026-10-10T11:05:40"
     },
     "198bfe8ace2e765a": {
@@ -4474,7 +4307,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:33:57",
+      "coletado_em": "2026-10-24T14:12:28",
       "primeira_vez_em": "2026-10-10T11:05:40"
     },
     "c66352e7eac4522c": {
@@ -4789,7 +4622,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:33:57",
+      "coletado_em": "2026-10-24T14:12:28",
       "primeira_vez_em": "2026-10-15T11:20:20"
     },
     "d8189d70bf18bf13": {
@@ -4803,7 +4636,7 @@
       "data_publicacao": "15/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:31:49",
+      "coletado_em": "2026-10-24T14:10:04",
       "primeira_vez_em": "2026-10-16T11:17:16"
     },
     "98f31a89a7a12829": {
@@ -5011,7 +4844,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:33:57",
+      "coletado_em": "2026-10-24T14:12:28",
       "primeira_vez_em": "2026-10-16T11:19:21"
     },
     "c0c497bc16019f35": {
@@ -5130,13 +4963,13 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:33:27",
+      "coletado_em": "2026-10-24T14:11:56",
       "primeira_vez_em": "2026-10-17T11:13:50"
     },
     "15655187a1e06f40": {
       "id": "15655187a1e06f40",
-      "titulo": "Publicado há 6 dias 16 de Outubro de 2026 08:58 Receita Estadual SAC da Receita Estadual reduz tempo médio de espera e registra 95% de satisfação no atendimento Compartilhe:",
-      "resumo": "Publicado há 6 dias 16 de Outubro de 2026 08:58 Receita Estadual SAC da Receita Estadual reduz tempo médio de espera e registra 95% de satisfação no atendimento Compartilhe:",
+      "titulo": "08:58 Receita Estadual SAC da Receita Estadual reduz tempo médio de espera e registra 95% de satisfação no atendimento Compartilhe:",
+      "resumo": "08:58 Receita Estadual SAC da Receita Estadual reduz tempo médio de espera e registra 95% de satisfação no atendimento Compartilhe:",
       "link": "https://www.fazenda.pr.gov.br/Noticia/SAC-da-Receita-Estadual-reduz-tempo-medio-de-espera-e-registra-95-de-satisfacao-no",
       "fonte": "SEFAZ PR",
       "esfera": "estadual",
@@ -5144,7 +4977,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:33:57",
+      "coletado_em": "2026-10-24T14:12:28",
       "primeira_vez_em": "2026-10-17T11:14:24"
     },
     "1bd01ac5c48ef90c": {
@@ -5158,7 +4991,7 @@
       "data_publicacao": "19/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:31:49",
+      "coletado_em": "2026-10-24T14:10:04",
       "primeira_vez_em": "2026-10-19T17:15:00"
     },
     "956f42d9152f269f": {
@@ -5175,7 +5008,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:31:56",
+      "coletado_em": "2026-10-24T14:10:12",
       "primeira_vez_em": "2026-10-19T17:15:08"
     },
     "551655e77bd0371a": {
@@ -5278,7 +5111,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-23T15:31:56",
+      "coletado_em": "2026-10-24T14:10:12",
       "primeira_vez_em": "2026-10-21T15:44:21"
     },
     "e7ef5e1a4576ff4a": {
@@ -5292,7 +5125,7 @@
       "data_publicacao": "21/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:31:58",
+      "coletado_em": "2026-10-24T14:10:14",
       "primeira_vez_em": "2026-10-21T15:44:23"
     },
     "7f4cfb127b54791e": {
@@ -5306,7 +5139,7 @@
       "data_publicacao": "20/10/2026",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-10-23T15:31:58",
+      "coletado_em": "2026-10-24T14:10:14",
       "primeira_vez_em": "2026-10-21T15:44:23"
     },
     "47d32895e2717227": {
@@ -5385,8 +5218,8 @@
     },
     "3c4c53772c467a58": {
       "id": "3c4c53772c467a58",
-      "titulo": "Ontem 21 de Outubro de 2026 09:15 Nota Paraná Nota Paraná alerta: 39 prêmios de R$ 1 mil vencem em novembro e dezembro Compartilhe:",
-      "resumo": "Ontem 21 de Outubro de 2026 09:15 Nota Paraná Nota Paraná alerta: 39 prêmios de R$ 1 mil vencem em novembro e dezembro Compartilhe:",
+      "titulo": "Anteontem 21 de Outubro de 2026 09:15 Nota Paraná Nota Paraná alerta: 39 prêmios de R$ 1 mil vencem em novembro e dezembro Compartilhe:",
+      "resumo": "Anteontem 21 de Outubro de 2026 09:15 Nota Paraná Nota Paraná alerta: 39 prêmios de R$ 1 mil vencem em novembro e dezembro Compartilhe:",
       "link": "https://www.fazenda.pr.gov.br/Noticia/Nota-Parana-alerta-39-premios-de-R-1-mil-vencem-em-novembro-e-dezembro",
       "fonte": "SEFAZ PR",
       "esfera": "estadual",
@@ -5394,7 +5227,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:33:57",
+      "coletado_em": "2026-10-24T14:12:28",
       "primeira_vez_em": "2026-10-21T15:46:35"
     },
     "c499e7aa742dd1c4": {
@@ -5408,7 +5241,7 @@
       "data_publicacao": "21/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:31:58",
+      "coletado_em": "2026-10-24T14:10:14",
       "primeira_vez_em": "2026-10-22T15:43:41"
     },
     "29054641afc9b945": {
@@ -5422,7 +5255,7 @@
       "data_publicacao": "21/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:31:58",
+      "coletado_em": "2026-10-24T14:10:14",
       "primeira_vez_em": "2026-10-22T15:43:41"
     },
     "f53a4a1a9157dd65": {
@@ -5492,7 +5325,7 @@
       "data_publicacao": "23/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:31:57",
+      "coletado_em": "2026-10-24T14:10:13",
       "primeira_vez_em": "2026-10-23T15:31:57"
     },
     "7294e5533a414125": {
@@ -5508,7 +5341,7 @@
       "tags": [
         "Reforma Tributária"
       ],
-      "coletado_em": "2026-10-23T15:31:58",
+      "coletado_em": "2026-10-24T14:10:14",
       "primeira_vez_em": "2026-10-23T15:31:58"
     },
     "d37e00303b5d12d3": {
@@ -5522,7 +5355,7 @@
       "data_publicacao": "22/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:31:58",
+      "coletado_em": "2026-10-24T14:10:14",
       "primeira_vez_em": "2026-10-23T15:31:58"
     },
     "f50e18e074647ccf": {
@@ -5550,8 +5383,109 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-23T15:33:27",
+      "coletado_em": "2026-10-24T14:11:56",
       "primeira_vez_em": "2026-10-23T15:33:27"
+    },
+    "c72c36e3114f4440": {
+      "id": "c72c36e3114f4440",
+      "titulo": "PGFN lança edital para negociar dívidas de FGTS e contribuições sociais de até R$ 45 milhões",
+      "resumo": "Débitos rescisórios que antes precisavam ser pagos de forma integral na primeira prestação agora podem ser parcelados em até 12 prestações mensais",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/pgfn-lanca-edital-para-negociar-dividas-de-fgts-e-contribuicoes-sociais-de-ate-r-45-milhoes",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "23/10/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-24T14:10:14",
+      "primeira_vez_em": "2026-10-24T14:10:14"
+    },
+    "0eafcd828b31b6bd": {
+      "id": "0eafcd828b31b6bd",
+      "titulo": "Arrecadação federal soma R$ 239,384 bilhões em setembro, alta real de 5,62%",
+      "resumo": "Resultado representa alta nominal de 10,45% na comparação com o mesmo mês de 2025",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/arrecadacao-federal-soma-r-239-384-bilhoes-em-setembro-alta-real-de-5-62",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "23/10/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-24T14:10:14",
+      "primeira_vez_em": "2026-10-24T14:10:14"
+    },
+    "2ca7d1c5c0ff9018": {
+      "id": "2ca7d1c5c0ff9018",
+      "titulo": "Senado faz debate sobre fraudes em contratos administrativos na área de saúde",
+      "resumo": "O Senado promove na tarde de quarta-feira (28) uma audiência pública sobre contratos administrativos na área da saúde feitos com cooperativas e Organizações Sociais. O senador Dr. Hiran (PP-RR), que solicitou o debate, afirma que há uma \"crescente ocorrência de fraudes\" nesses contratos. Ele também quer discutir o que chamou de \"precarização das relações de trabalho de todos os profissionais da saúde\". A audiência acontece na Comissão de Fiscalização e Controle do Senado (CTFC), logo após a reunião deliberativa desse colegiado — que está agendada para as 14h. Hiran, que é o presidente da CTFC, solicitou o debate por meio de dois requerimentos: o REQ 27/2026 - CTFC e o REQ 34/2026 - CTFC. Reunião deliberativa Na sessão que começa às 14h, a CTFC pode votar quatro itens. Um deles é o PL 805/2024, projeto de lei do senador Ciro Nogueira (PP-PI) que tem o objetivo de restringir a chamada \"obsolescência programada\" de produtos (quando há uma redução intencional da vida útil desses bens). Outro item da pauta é o PFS 2/2026, do senador Marcio Bittar (PL-AC). Ele propõe uma investigação parlamentar — com o auxílio do Tribunal de Contas da União (TCU) — de possíveis fraudes no pagamento de benefícios previdenciários e na contratação de créditos consignados.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/23/senado-faz-debate-sobre-fraudes-em-contratos-administrativos-na-area-de-saude",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-10-23T20:05:41Z",
+      "impacto": "baixo",
+      "tags": [],
+      "coletado_em": "2026-10-24T14:10:18",
+      "primeira_vez_em": "2026-10-24T14:10:18"
+    },
+    "818f4c6a2711ea5f": {
+      "id": "818f4c6a2711ea5f",
+      "titulo": "Veículos de Senado e Câmara farão cobertura integrada do segundo turno",
+      "resumo": "Os veículos de comunicação do Senado e da Câmara dos Deputados preparam uma nova cobertura integrada para acompanhar o segundo turno das Eleições 2026, marcado para este domingo (25). A programação terá boletins informativos de hora em hora, das 8h às 13h. A partir das 14h, começa a transmissão contínua, que seguirá até a conclusão da apuração dos resultados, com a participação de mais de 30 emissoras legislativas de TV e rádio de diferentes regiões do país. O coordenador-geral da Secretaria de Comunicação (Secom) do Senado, Ronaldo Martins, destaca que a participação das equipes de jornalismo das assembleias legislativas e das câmaras municipais ajudará a mostrar “os rostos de todos os brasileiros que viverão no domingo um dos eventos mais importantes da democracia”. A cobertura, explica, terá a isenção que é característica da rede legislativa. — Os veículos de comunicação do Senado e da Câmara estarão atentos a todos os detalhes do processo de votação desde as 8 horas e manterão a transmissão ao vivo até que sejam divulgados os resultados finais da apuração — registra Martins. No primeiro turno (dia 4), foram 14 horas de transmissão ao vivo sem intervalos, com a participação de 54 emissoras legislativas parceiras, de todos os estados e do Distrito Federal. Agência Senado A Agência Senado acompanhará a apuração dos votos com informações atualizadas a partir dos dados oficiais do Tribunal Superior Eleitoral (TSE). Além de cobrir a eleição presidencial, entre o presidente Lula (PT) e o senador Flávio Bolsonaro (PL-RJ), a Agência vai publicar no domingo uma reportagem sobre a composição do Senado em 2027, ainda não totalmente definida em razão de três senadores disputarem o governo de seus estados no segundo turno: no Acre, o senador Alan Rick (Republicanos) disputa o governo com a atual governadora, Mailza Assis (PP); no Amazonas, o segundo turno é entre o senador Omar Aziz (PSD) e Professora Maria do Carmo (PL); no Tocantins, a disputa opõe a senadora Professora Dorinha (União) e o deputado Vicentinho Júnior (PP). A votação de 4 de outubro definiu 54 senadores para o período de 2027 a 2035. A diretora da Agência Senado, Paola Lima, explica que a comunicação pública exercida pela agência e pelos demais veículos da Secom tem como missão garantir ao cidadão acesso a informações corretas, completas e confiáveis sobre a atuação do Poder Legislativo. Durante o processo eleitoral, ressalta a diretora, esse compromisso ganha ainda mais relevância. A diretora lembra que, desde o início do ano, a agência vem publicando uma série de reportagens que abordam diferentes etapas e aspectos das eleições, desde o calendário e as regras eleitorais até a votação e a apuração dos votos. — Mais do que informar, esse trabalho busca contribuir para que a população compreenda como são escolhidos seus representantes e possa acompanhar, de maneira consciente e esclarecida, um dos momentos fundamentais da vida democrática. Afinal, conhecer o processo eleitoral, participar das escolhas e acompanhar seus resultados são expressões essenciais do exercício da cidadania — afirma Paola Lima. O Portal Senado Notícias, publicado pela Agência Senado, alcançou 3,6 milhões de acessos no dia do primeiro turno. Entre outros temas, foram publicadas matérias sobre os senadores eleitos, a disputa presidencial do primeiro turno e o desempenho de senadores que se candidataram a outros cargos. No perfil da Agência no Instagram (@agenciasenado) houve 7,7 milhões de visualizações e 4,5 milhões de perfis alcançados nos dias 4 e 5 de outubro. Programação A cobertura reúne Agência Senado, TV Senado, Rádio Senado, Agência Câmara, TV Câmara e Rádio Câmara, além das redes sociais das duas Casas e das emissoras parceiras. Repórteres de TVs e rádios de assembleias legislativas e câmaras municipais farão entradas ao vivo, trazendo informações diretamente dos estados e municípios. A transmissão contará ainda com entrevistas, análises e participações ao vivo do TSE, de tribunais regionais eleitorais, das redações e das emissoras parceiras. A partir das 14h, especialistas e consultores do Senado e da Câmara vão explicar o funcionamento do processo eleitoral, contextualizar os resultados e analisar o cenário político. A partir das 17h, com o encerramento da votação (pelo horário de Brasília), a cobertura terá como foco a apuração dos votos, a divulgação dos resultados oficiais e seus desdobramentos. A página especial Eleições 2026 traz reportagens, entrevistas, orientações ao eleitor e conteúdos sobre o processo eleitoral. Combate à desinformação Ao longo do dia, as redes sociais do Senado e da Câmara publicarão conteúdos de serviço, orientações da Justiça Eleitoral, checagens de informações falsas e atualizações sobre a votação e a apuração. O Senado Verifica e o Comprove, serviços de combate à desinformação do Senado e da Câmara dos Deputados, respectivamente, também estarão à disposição da população para esclarecer dúvidas e verificar informações relacionadas às eleições no domingo de votação. O atendimento será realizado pelos seguintes canais: Senado Verifica: WhatsApp (61) 98190-0601 Comprove: WhatsApp (61) 99660-2003",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/23/veiculos-de-senado-e-camara-farao-cobertura-integrada-do-segundo-turno",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-10-23T19:20:23Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-24T14:10:18",
+      "primeira_vez_em": "2026-10-24T14:10:18"
+    },
+    "be70447459816603": {
+      "id": "be70447459816603",
+      "titulo": "Subcomissão avalia políticas públicas em execução na Terra Indígena Yanomami",
+      "resumo": "O Senado realiza nesta terça-feira (27), às 10h, audiência pública para avaliar a efetividade das ações do governo federal na Terra Indígena Yanomami. O debate abordará a implementação das Unidades Demonstrativas de Referência (UDR), as ações de proteção social básica e especial no âmbito do Sistema Único de Assistência Social (Suas) e o Plano de Recuperação Ambiental (PRA) na região. A audiência é promovida pela Subcomissão Permanente dos Povos Indígenas Yanomami, vinculada à Comissão de Direitos Humanos (CDH). O debate foi proposto pela senadora Damares Alves (Republicanos-DF), que preside a subcomissão e a CDH. Localizada entre Roraima e Amazonas, a Terra Indígena Yanomami abriga cerca de 34 mil indígenas dos povos Yanomami e Ye’kwana. Nos últimos anos, o território enfrenta uma crise humanitária associada, entre outros fatores, ao garimpo, com impactos no acesso à saúde e à segurança alimentar. Foram convidados para o debate representantes das seguintes entidades: Fundação Nacional dos Povos Indígenas (Funai); Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome; Ypassali Associação Sanumá; Federação das Organizações Indígenas do Rio Negro; Secretaria de Saúde Indígena do Ministério da Saúde; Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama); Secretaria do Trabalho e Bem-Estar Social do Estado de Roraima; Secretaria da Assistência Social e Combate à Fome do Amazonas; e Projeto de elaboração do Plano de Recuperação Ambiental da Terra Indígena Yanomami (PRA YY). Como participar O evento será interativo: qualquer pessoa pode enviar perguntas e comentários pelo telefone da Ouvidoria do Senado (0800 061 2211) ou pelo Portal e‑Cidadania. As mensagens podem ser lidas e respondidas pelos senadores e debatedores ao vivo. O Senado oferece uma declaração de participação, que pode ser usada como atividade complementar em curso universitário, por exemplo. Pelo Portal e‑Cidadania também é possível opinar sobre projetos e até sugerir novas leis.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/23/subcomissao-avalia-politicas-publicas-em-execucao-na-terra-indigena-yanomami",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-10-23T19:09:44Z",
+      "impacto": "baixo",
+      "tags": [],
+      "coletado_em": "2026-10-24T14:10:18",
+      "primeira_vez_em": "2026-10-24T14:10:18"
+    },
+    "ec304906775edf77": {
+      "id": "ec304906775edf77",
+      "titulo": "Presidente e governadores eleitos tomam posse em novas datas em 2027",
+      "resumo": "A posse dos chefes dos Executivos federal e estaduais passa a ter novas datas em 2027. O presidente e o vice-presidente da República eleitos em 2026 serão empossados em 5 de janeiro. Os governadores e vice-governadores, em 6 de janeiro. A mudança foi estabelecida pela Emenda Constitucional 111, de 2021. Desde a promulgação da Constituição de 1988, a data de posse ocorria sempre no dia 1º de janeiro para esses cargos. Antes de 1988, os chefes do Executivo eram empossados em 15 de março. A posse dos chefes dos Executivos federal e estaduais em dias diferenciados possibilita aos novos governadores participarem da investidura do presidente e de seu vice em Brasília, algo que não ocorria anteriormente, já que as cerimônias aconteciam no mesmo dia. É o Congresso Nacional quem dá posse ao presidente eleito. Na mesma solenidade, realizada geralmente no Plenário da Câmara dos Deputados, também é empossado o vice-presidente. O evento é comumente antecedido de desfile do eleito em carro aberto e recepção na rampa do Congresso pelos presidentes do Senado e da Câmara. Câmara e Senado Na Câmara e no Senado, a data de posse dos novos senadores e deputados permanece inalterada: 1º de fevereiro. A posse ocorre em reuniões preparatórias nos Plenários das respectivas Casas. Os parlamentares eleitos prestam o compromisso regimental, sem discurso dos presentes. Na mesma data, ocorre a eleição das Mesas de cada Casa, para mandato de dois anos. No Senado, a segunda reunião preparatória é destinada à eleição do presidente da Casa. Após fala dos candidatos, é feita a votação secreta, com uso de cédula a ser depositada em urna. Para ser eleito, o senador precisa conquistar a maioria absoluta dos votos, ou seja, 41 votos. Os parlamentares são chamados a votar de acordo com a ordem de criação dos estados, assim como ocorre na posse. Na terceira reunião preparatória são eleitos os demais cargos da Mesa — primeiro e segundo vice-presidentes e quatro secretários, com os respectivos suplentes.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/23/presidente-e-governadores-eleitos-tomam-posse-em-novas-datas-em-2027",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-10-23T17:11:18Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-24T14:10:18",
+      "primeira_vez_em": "2026-10-24T14:10:18"
+    },
+    "caae8a89a17a267c": {
+      "id": "caae8a89a17a267c",
+      "titulo": "Domingo é dia de votar: eleitores voltam às urnas para escolher presidente",
+      "resumo": "Neste domingo (25), os 158 milhões de eleitores brasileiros poderão votar no segundo turno da eleição para Presidência da República. Os candidatos são Luiz Inácio Lula da Silva (PT), que busca a reeleição, e o senador Flávio Bolsonaro (PL). As propostas de governo dos dois candidatos estão disponíveis no portal do Tribunal Superior Eleitoral (TSE). Em cinco estados e no Distrito Federal, também haverá segundo turno para governador. Os locais de votação vão funcionar das 8h até as 17h, no horário de Brasília. Quem não votou no primeiro turno pode votar normalmente no domingo; basta levar um documento com foto. Fuso horário Eleitores de locais com fuso horário diferente do da capital federal devem ficar atentos ao horário local de votação: Acre e municípios do sudoeste do Amazonas: votação das 6h às 15h; Rondônia, Mato Grosso, Mato Grosso do Sul, Roraima e demais municípios do Amazonas: votação das 7h às 16h; Fernando de Noronha: votação das 9h às 18h. Se ao final do prazo para votação ainda houver eleitores na fila, serão distribuídas senhas para garantir que todos os que compareceram dentro do prazo possam votar. Onde votar Alguns locais de votação foram alterados em relação ao primeiro turno. Os eleitores podem consultar o local de votação para o 2º turno utilizando diferentes canais digitais da Justiça Eleitoral. A consulta pode ser feita pelo aplicativo e-Título, pelo Autoatendimento Eleitoral e pelo assistente virtual ChatVote. Também é possível ligar ou ir ao cartório eleitoral mais próximo. Quem deve votar O voto é obrigatório dos 18 aos 70 anos e facultativo para jovens de 16 e 17 anos, maiores de 70 anos e pessoas analfabetas. Eleitores com mais de 80 anos têm preferência absoluta, independentemente do horário de chegada, e essa prioridade se estende ao acompanhante. Quem está com o título eleitoral irregular ou cancelado não pode votar. A situação do título eleitoral pode ser verificada no sistema Autoatendimento Eleitoral, no site oficial do TSE. Documento com foto O cadastro biométrico não é obrigatório para votar. A pessoa deve apresentar algum documento oficial com foto e estar com a inscrição eleitoral regular. Não é obrigatório levar o título eleitoral. Basta apresentar uma identificação oficial com foto, como as seguintes: e-Título (se o aplicativo não mostrar a foto do eleitor, é preciso levar outro documento) RG Identidade social Passaporte Carteira de categoria profissional Certificado de reservista Carteira Nacional de Habilitação (CNH) Versões digitais são aceitas, exceto a Carteira de Trabalho Digital. Documentos com validade expirada podem ser usados, desde que permitam comprovar a identidade. Certidões de nascimento ou casamento, porém, não são aceitas. Direitos e proibições É permitido (e recomendado) levar uma “colinha” eleitoral impressa com os números dos candidatos. Ela não é obrigatória, mas garante mais rapidez e precisão no voto. Celular, máquinas fotográficas, filmadoras ou equipamentos de rádio não podem entrar na cabine de votação, mesmo desligados. Esses aparelhos devem ser entregues aos mesários pelo eleitor antes de votar. A proibição se estende para todo tipo de acessório que permite comunicação ou captação de imagens, como relógios inteligentes e óculos com câmeras embutidas. O cidadão tem direito de se ausentar do trabalho pelo tempo necessário para votar, sem prejuízo salarial. Além disso, nenhum eleitor poderá ser preso até o dia 27 de outubro, exceto em flagrante delito ou por crime inafiançável. Boca de urna Comuns em campanhas eleitorais, alguns comportamentos são proibidos no dia da votação. Neste domingo, assim como em todas as eleições, os eleitores não podem pedir votos, distribuir propaganda ou abordar pessoas para influenciar a escolha do candidato. Essas práticas podem caracterizar o crime de boca de urna. A boca de urna ocorre quando há tentativa de convencer o eleitorado a votar em determinado candidato, partido, federação ou coligação no dia da eleição. O que é proibido: distribuir santinhos; pedir voto; fazer comícios ou carreatas; usar alto-falantes e outras formas de propaganda eleitoral. Até o encerramento da votação, a legislação proíbe a aglomeração de pessoas com vestuário padronizado ou portando instrumentos de propaganda, quando for uma manifestação coletiva. A manifestação individual e silenciosa do eleitor sobre a sua preferência política é liberada. Ou seja: é permitido votar com itens como bandeiras, broches, camisetas e adesivos, desde que não haja manifestação coletiva. No ambiente digital, a lei considera crime a publicação de novos conteúdos ou o impulsionamento de conteúdos no dia da eleição, por parte dos candidatos. Conteúdos publicados anteriormente, no entanto, podem permanecer disponíveis. Quem for flagrado fazendo boca de urna pode ser punido com detenção de 6 meses a 1 ano, com a possibilidade de substituição pela prestação de serviços à comunidade pelo mesmo período, além de pagamento de multa. Denúncias e fiscalização Caso presencie alguma irregularidade eleitoral ou infração no local de votação, qualquer pessoa pode denunciar anonimamente pelo aplicativo Pardal, do TSE. A ferramenta permite o envio de denúncias pelo celular, com informação sobre o local, fotos, vídeos e áudios que ajudem na análise da ocorrência. Fatos inverídicos, uso indevido de inteligência artificial (IA) ou envio massivo de mensagens também podem ser denunciados ao Sistema de Alertas de Desinformação Eleitoral (Siade). Para consultar as prestações de contas dos candidatos, a Justiça Eleitoral disponibiliza o sistema Divulgação das Candidaturas e Contas Eleitorais. O site do TSE e o e-Título também oferecem um assistente virtual para tirar dúvidas em tempo real. Eleitores com deficiência As pessoas com deficiência podem ter o acompanhamento de um auxiliar de sua escolha no dia da votação, inclusive dentro da cabine. Também é permitido o acesso com cão-guia. Para os eleitores com deficiência visual, a urna eletrônica oferece recursos de áudio e o teclado em braile. Ao se identificar, o eleitor pode pedir aos mesários para habilitar o recurso de voz da urna, e receberá um fone de ouvido descartável. Além de fornecer instruções básicas para dar início à votação, o áudio informará o cargo que está em votação no momento, os números digitados, o nome da candidatura escolhida e a ordem de votação. A urna também contará com um intérprete de Libras e uma barra de progresso para ajudar o eleitor a se orientar. Indígenas, quilombolas e integrantes de comunidades tradicionais têm direito a atendimento que respeite suas línguas e tradições, sem exigência de fluência em português para se identificar. Pessoas trans podem registrar e usar nome social nos documentos e sistemas eleitorais, com proteção do nome civil e dados pessoais. Voto em trânsito Ao todo, 314.519 pessoas solicitaram o voto em trânsito, fora de seu domicílio eleitoral. Quem estiver na mesma unidade da Federação do domicílio eleitoral poderá votar para presidente da República e também para governador, nos estados em que há segundo turno para o cargo. Quem estiver fora de seu estado votará apenas para presidente. Brasileiros inscritos no exterior votam somente para presidente da República. Quem tem inscrição eleitoral no exterior e solicitou o voto em trânsito no Brasil também poderá votar para presidente neste segundo turno. Transporte público gratuito No dia da eleição, o poder público deve oferecer transporte coletivo urbano e intermunicipal gratuito, com a mesma frequência de um dia útil, conforme o TSE. Por outro lado, é proibido que candidatos ou partidos ofereçam locomoção em troca de votos. Governador, prefeito e plebiscito Dependendo do local de votação, haverá até cinco cenários possíveis na urna eletrônica: Presidente: na maior parte dos locais de votação, o eleitorado votará apenas para presidente da República. No exterior, o eleitorado também votará somente para presidente. O cargo será identificado por dois dígitos. Governador e presidente: haverá segundo turno para governador no Acre, no Amazonas, no Rio Grande do Norte, no Espírito Santo e no Tocantins, além do Distrito Federal. Nessas unidades da Federação, a urna exibirá primeiro o voto para governador (dois dígitos) e, depois, para presidente da República. Presidente e prefeito: além do segundo turno, haverá eleição suplementar para prefeito em seis municípios: Arroio do Sal (RS), Santana do Itararé (PR), Macedônia (SP), Martinópolis (SP), Narandiba (SP) e Itaguaí (RJ). Nesses locais, o eleitor votará primeiro para presidente e depois para prefeito, usando dois dígitos em cada cargo. Governador, presidente e prefeito: em Goiatins (TO), sétimo município com eleição suplementar para prefeito, a ordem de votação na urna eletrônica será governador, presidente e prefeito, com dois dígitos para cada cargo. Presidente e plebiscito: em seis cidades (duas no Paraná e quatro em Mato Grosso), o eleitor votará para presidente da República e depois responderá a perguntas de plebiscitos locais sobre redefinição de municípios. Calendário eleitoral 23 de outubro (sexta-feira) Último dia do horário eleitoral gratuito em emissoras de rádio e televisão Último dia para a realização de debates, que não poderão ultrapassar o horário da meia-noite Último dia para a Justiça Eleitoral confirmar a disponibilidade do serviço e dos dados do transporte especial a ser fornecido a eleitor com deficiência ou com mobilidade reduzida, bem como à população de territórios indígenas, de comunidades remanescentes de quilombos e demais comunidades tradicionais, que não tenham meios próprios para ir aos locais de votação Primeiro dia para verificação da integridade e autenticidade dos sistemas de transmissão dos votos nas urnas eletrônicas 24 de outubro (sábado) Último dia para propaganda eleitoral por meio de alto-falantes e amplificadores de som. Os equipamentos devem ser desligados até as 22h Último dia para a promoção de panfletagem, passeatas e carreatas Data da verificação do sistema de totalização dos votos no TSE 25 de outubro (domingo) 2º turno das eleições 27 de outubro (terça-feira) Término do período em que nenhum eleitor pode ser preso ou detido Com informações do TSE",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/23/domingo-e-dia-de-votar-eleitores-voltam-as-urnas-para-escolher-presidente",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-10-23T16:51:36Z",
+      "impacto": "alto",
+      "tags": [
+        "Prazo/Obrigação",
+        "Multa/Penalidade"
+      ],
+      "coletado_em": "2026-10-24T14:10:18",
+      "primeira_vez_em": "2026-10-24T14:10:18"
     }
   }
 }
