@@ -59,7 +59,7 @@
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:40:25",
+      "coletado_em": "2026-10-26T17:03:12",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "a9b85ebff2d35b2f": {
@@ -75,7 +75,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-10-25T14:40:25",
+      "coletado_em": "2026-10-26T17:03:12",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "74129502b829908e": {
@@ -93,7 +93,7 @@
         "CBS",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-10-25T14:40:25",
+      "coletado_em": "2026-10-26T17:03:12",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "e5fc5ae97dc8d1c2": {
@@ -107,7 +107,7 @@
       "data_publicacao": "14/01/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:40:25",
+      "coletado_em": "2026-10-26T17:03:12",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "07591671a87026e9": {
@@ -137,7 +137,7 @@
       "data_publicacao": "2026-07-22T16:51:56Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:40:27",
+      "coletado_em": "2026-10-26T17:03:13",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     "246d24ac1d0cd774": {
@@ -151,7 +151,7 @@
       "data_publicacao": "2026-07-20T19:54:16Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:40:27",
+      "coletado_em": "2026-10-26T17:03:13",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     "2de55424d6f704af": {
@@ -169,7 +169,7 @@
         "CBS",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-10-25T14:40:27",
+      "coletado_em": "2026-10-26T17:03:13",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     "6e748567f4cb33c5": {
@@ -186,7 +186,7 @@
         "Reforma Tributária",
         "IBS"
       ],
-      "coletado_em": "2026-10-25T14:40:31",
+      "coletado_em": "2026-10-26T17:03:16",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
     "7b0095e4b757d45c": {
@@ -288,7 +288,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:32",
+      "coletado_em": "2026-10-26T17:03:17",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "046e01fae8b56c6d": {
@@ -302,7 +302,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:40:32",
+      "coletado_em": "2026-10-26T17:03:17",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "f6ee5f1d56c00209": {
@@ -319,7 +319,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:32",
+      "coletado_em": "2026-10-26T17:03:17",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "d00ea00b82d8e1fa": {
@@ -337,7 +337,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:32",
+      "coletado_em": "2026-10-26T17:03:17",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "09a31ac05b22905c": {
@@ -351,7 +351,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:40:32",
+      "coletado_em": "2026-10-26T17:03:17",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "e03b66d584fbef2c": {
@@ -369,7 +369,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:32",
+      "coletado_em": "2026-10-26T17:03:17",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "2112c58dfa782067": {
@@ -387,7 +387,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:32",
+      "coletado_em": "2026-10-26T17:03:17",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "4adf744f945fd69f": {
@@ -405,7 +405,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:32",
+      "coletado_em": "2026-10-26T17:03:17",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "78ad827b6b8ebe84": {
@@ -439,7 +439,7 @@
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-10-25T14:40:34",
+      "coletado_em": "2026-10-26T17:03:19",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     "b329be74653055a3": {
@@ -456,7 +456,7 @@
         "Reforma Tributária",
         "NFSe"
       ],
-      "coletado_em": "2026-10-25T14:40:34",
+      "coletado_em": "2026-10-26T17:03:19",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     "46f050b2bd9a044c": {
@@ -662,7 +662,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:42",
+      "coletado_em": "2026-10-26T17:03:26",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "e38892674e142a10": {
@@ -696,7 +696,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:42",
+      "coletado_em": "2026-10-26T17:03:26",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "e2a50ae8eccfe1a8": {
@@ -712,7 +712,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:42",
+      "coletado_em": "2026-10-26T17:03:26",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
     "e4937f762f128a36": {
@@ -796,7 +796,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:44",
+      "coletado_em": "2026-10-26T17:03:27",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "c3ebc4e3910e68c9": {
@@ -812,7 +812,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:44",
+      "coletado_em": "2026-10-26T17:03:27",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "cf3d354183a6412b": {
@@ -828,7 +828,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:44",
+      "coletado_em": "2026-10-26T17:03:27",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "77284a5831435b93": {
@@ -844,7 +844,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:46",
+      "coletado_em": "2026-10-26T17:03:28",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "8edf3d8590ef2ea3": {
@@ -860,7 +860,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:46",
+      "coletado_em": "2026-10-26T17:03:28",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "db0e168e9dc70ff3": {
@@ -876,7 +876,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:46",
+      "coletado_em": "2026-10-26T17:03:28",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "1c95e3cfa05a4c5c": {
@@ -892,7 +892,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:47",
+      "coletado_em": "2026-10-26T17:03:30",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     "f3fce5f00b2dda14": {
@@ -908,7 +908,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:49",
+      "coletado_em": "2026-10-26T17:03:32",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     "6cff987543c8c065": {
@@ -922,7 +922,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:41:22",
+      "coletado_em": "2026-10-26T17:04:14",
       "primeira_vez_em": "2026-09-17T15:43:33"
     },
     "5eea618ca2cc84eb": {
@@ -994,7 +994,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:44:31",
+      "coletado_em": "2026-10-26T17:07:04",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     "c4bd59e18d311f35": {
@@ -1010,7 +1010,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-25T14:44:31",
+      "coletado_em": "2026-10-26T17:07:04",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     "e680433d3eefe8cd": {
@@ -1042,7 +1042,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-25T14:44:33",
+      "coletado_em": "2026-10-26T17:07:06",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     "da3b5c5a1cc32cf3": {
@@ -1058,7 +1058,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-25T14:44:33",
+      "coletado_em": "2026-10-26T17:07:06",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     "be8638660c3332cb": {
@@ -1072,7 +1072,7 @@
       "data_publicacao": "29/05/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:44:34",
+      "coletado_em": "2026-10-26T17:07:07",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "5794323834606a06": {
@@ -1088,7 +1088,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-25T14:44:34",
+      "coletado_em": "2026-10-26T17:07:07",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "bc7500769f467d84": {
@@ -1104,7 +1104,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-25T14:44:34",
+      "coletado_em": "2026-10-26T17:07:07",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "552f0735a0423c26": {
@@ -1118,7 +1118,7 @@
       "data_publicacao": "26/11/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:44:36",
+      "coletado_em": "2026-10-26T17:07:08",
       "primeira_vez_em": "2026-09-17T15:44:34"
     },
     "58e10eba2750e488": {
@@ -1134,7 +1134,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-25T14:44:37",
+      "coletado_em": "2026-10-26T17:07:10",
       "primeira_vez_em": "2026-09-17T15:44:35"
     },
     "a4607235adf1b80f": {
@@ -1150,7 +1150,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-25T14:44:39",
+      "coletado_em": "2026-10-26T17:07:11",
       "primeira_vez_em": "2026-09-17T15:44:36"
     },
     "b676f2adf3c22d0a": {
@@ -1166,7 +1166,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-25T14:44:41",
+      "coletado_em": "2026-10-26T17:07:13",
       "primeira_vez_em": "2026-09-17T15:44:37"
     },
     "5af4c5ee52d4ce9c": {
@@ -1180,7 +1180,7 @@
       "data_publicacao": "30/03/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:44:42",
+      "coletado_em": "2026-10-26T17:07:14",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "a454d4d897b3839f": {
@@ -1194,7 +1194,7 @@
       "data_publicacao": "04/05/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:44:42",
+      "coletado_em": "2026-10-26T17:07:14",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "23085cc0899edc3f": {
@@ -1208,7 +1208,7 @@
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:44:42",
+      "coletado_em": "2026-10-26T17:07:14",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "fd3d7b1235ebc490": {
@@ -1224,7 +1224,7 @@
       "tags": [
         "Simples Nacional"
       ],
-      "coletado_em": "2026-10-25T14:44:42",
+      "coletado_em": "2026-10-26T17:07:14",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "98a8cf0b506f52a9": {
@@ -1238,7 +1238,7 @@
       "data_publicacao": "10/01/2024",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:44:42",
+      "coletado_em": "2026-10-26T17:07:14",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "7ce12346e4b886ec": {
@@ -1252,7 +1252,7 @@
       "data_publicacao": "15/12/2023",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:44:42",
+      "coletado_em": "2026-10-26T17:07:14",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "2d256ec029c6add1": {
@@ -1268,7 +1268,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-25T14:44:46",
+      "coletado_em": "2026-10-26T17:07:17",
       "primeira_vez_em": "2026-09-17T15:44:40"
     },
     "e31b387cddf7fd5d": {
@@ -1282,7 +1282,7 @@
       "data_publicacao": "19/10/2022",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:44:47",
+      "coletado_em": "2026-10-26T17:07:18",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     "c067fe8403247755": {
@@ -1298,7 +1298,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-25T14:44:47",
+      "coletado_em": "2026-10-26T17:07:18",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     "4cb90c79835b4cd1": {
@@ -1314,7 +1314,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-10-25T14:44:49",
+      "coletado_em": "2026-10-26T17:07:20",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "485fb61a2a751098": {
@@ -1328,7 +1328,7 @@
       "data_publicacao": "10/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:44:49",
+      "coletado_em": "2026-10-26T17:07:20",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "0b1cf5b29af11e57": {
@@ -1344,7 +1344,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-25T14:44:49",
+      "coletado_em": "2026-10-26T17:07:20",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "63dff167c306e0a2": {
@@ -1360,7 +1360,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-25T14:40:31",
+      "coletado_em": "2026-10-26T17:03:16",
       "primeira_vez_em": "2026-09-19T11:03:30"
     },
     "606eb4007464d320": {
@@ -1376,7 +1376,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-25T14:40:31",
+      "coletado_em": "2026-10-26T17:03:16",
       "primeira_vez_em": "2026-09-22T11:03:37"
     },
     "2f86464c831b5b1b": {
@@ -1390,7 +1390,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:40:31",
+      "coletado_em": "2026-10-26T17:03:16",
       "primeira_vez_em": "2026-09-22T11:03:37"
     },
     "04949879f90b99d5": {
@@ -1453,7 +1453,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-25T14:40:31",
+      "coletado_em": "2026-10-26T17:03:16",
       "primeira_vez_em": "2026-09-25T11:03:52"
     },
     "df996d0b9a71ff23": {
@@ -1633,7 +1633,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:42",
+      "coletado_em": "2026-10-26T17:03:26",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     "4b70d64501a39e0c": {
@@ -1649,97 +1649,8 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:42",
+      "coletado_em": "2026-10-26T17:03:26",
       "primeira_vez_em": "2026-09-26T11:03:34"
-    },
-    "827ee718aa512330": {
-      "id": "827ee718aa512330",
-      "titulo": "Alíquota da Reforma Tributária: Por Que a Definição Só Sai em 15 de Dezembro",
-      "resumo": "Faltam poucos meses para 2027, ano em que a CBS passa a valer em caráter definitivo. Mas o número que mais interessa a empresas e contadores ainda não existe oficialmente. O Senado Federal tem até 15 de dezembro de 2026 para votar a resolução que fixa esse percentual. Só depois disso o Brasil vai conhecer […]",
-      "link": "https://jornalcontabil.com.br/noticia/aliquota-reforma-tributaria-indefinicao-15-dezembro/",
-      "fonte": "Jornal Contábil",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "Fri, 25 Sep 2026 18:46:46 +0000",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "CBS"
-      ],
-      "coletado_em": "2026-09-26T11:03:45",
-      "primeira_vez_em": "2026-09-26T11:03:45"
-    },
-    "e8ba249605e8ecb7": {
-      "id": "e8ba249605e8ecb7",
-      "titulo": "Tributação de PJ que Trabalha para o Exterior: Como Funciona em 2026",
-      "resumo": "Trabalhar como pessoa jurídica para clientes fora do Brasil deixou de ser exceção. Desenvolvedores, designers, consultores e outros prestadores de serviço atendem empresas estrangeiras todos os dias. Eles recebem em dólar ou euro e faturam por um CNPJ brasileiro. O problema é que a tributação de PJ no exterior mistura regras de pelo menos três […]",
-      "link": "https://jornalcontabil.com.br/noticia/tributacao-pj-trabalha-exterior-guia-2026/",
-      "fonte": "Jornal Contábil",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "Fri, 25 Sep 2026 18:09:49 +0000",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-26T11:03:45",
-      "primeira_vez_em": "2026-09-26T11:03:45"
-    },
-    "9be831940eae84cd": {
-      "id": "9be831940eae84cd",
-      "titulo": "STF prorroga multas sobre regras de saúde mental por mais 90 dias",
-      "resumo": "O adiamento busca dar mais tempo às negociações para se chegar a um consenso sobre as regras de controle dos riscos psicossociais.",
-      "link": "https://jornalcontabil.com.br/noticia/stf-prorroga-multas-sobre-regras-de-saude-mental-por-mais-90-dias/",
-      "fonte": "Jornal Contábil",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "Fri, 25 Sep 2026 16:00:08 +0000",
-      "impacto": "alto",
-      "tags": [
-        "Multa/Penalidade"
-      ],
-      "coletado_em": "2026-09-26T11:03:45",
-      "primeira_vez_em": "2026-09-26T11:03:45"
-    },
-    "7436ba3600902e05": {
-      "id": "7436ba3600902e05",
-      "titulo": "Simples puro ou híbrido: escolha tributária das PMEs termina dia 30",
-      "resumo": "Opção entre o modelo tradicional e o sistema híbrido afetará o recolhimento dos novos tributos a partir de 2027",
-      "link": "https://jornalcontabil.com.br/noticia/simples-puro-ou-hibrido-escolha-tributaria-das-pmes-termina-dia-30/",
-      "fonte": "Jornal Contábil",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "Fri, 25 Sep 2026 15:05:41 +0000",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-26T11:03:45",
-      "primeira_vez_em": "2026-09-26T11:03:45"
-    },
-    "faa5aa67cec5e7fc": {
-      "id": "faa5aa67cec5e7fc",
-      "titulo": "Pensão por morte: o que é, quem tem direito e quais as novas regras",
-      "resumo": "Entenda os critérios de concessão, a exigência de qualidade de segurado e como o sistema de cotas define o valor do benefício",
-      "link": "https://jornalcontabil.com.br/noticia/pensao-por-morte-o-que-e-quem-tem-direito-e-quais-as-novas-regras-2/",
-      "fonte": "Jornal Contábil",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "Fri, 25 Sep 2026 14:21:25 +0000",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-26T11:03:45",
-      "primeira_vez_em": "2026-09-26T11:03:45"
-    },
-    "34f5f117a704bcb1": {
-      "id": "34f5f117a704bcb1",
-      "titulo": "MEI: o que você precisa saber antes de contratar o primeiro funcionário",
-      "resumo": "A primeira admissão exige planejamento financeiro detalhado, registro prévio no eSocial e cumprimento rigoroso da CLT",
-      "link": "https://jornalcontabil.com.br/noticia/mei-o-que-voce-precisa-saber-antes-de-contratar-o-primeiro-funcionario/",
-      "fonte": "Jornal Contábil",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "Fri, 25 Sep 2026 13:37:28 +0000",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-09-26T11:03:45",
-      "primeira_vez_em": "2026-09-26T11:03:45"
     },
     "21a7f1ac3d421137": {
       "id": "21a7f1ac3d421137",
@@ -1754,7 +1665,7 @@
       "tags": [
         "Simples Nacional"
       ],
-      "coletado_em": "2026-10-25T14:40:34",
+      "coletado_em": "2026-10-26T17:03:19",
       "primeira_vez_em": "2026-09-29T11:04:53"
     },
     "432d02075047561e": {
@@ -1879,7 +1790,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-25T14:40:31",
+      "coletado_em": "2026-10-26T17:03:16",
       "primeira_vez_em": "2026-09-30T11:04:55"
     },
     "b0e4458054eae6a9": {
@@ -1987,7 +1898,7 @@
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-10-25T14:40:31",
+      "coletado_em": "2026-10-26T17:03:16",
       "primeira_vez_em": "2026-10-01T11:05:37"
     },
     "bb8a5d4e64f78243": {
@@ -2109,7 +2020,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:32",
+      "coletado_em": "2026-10-26T17:03:17",
       "primeira_vez_em": "2026-10-01T15:54:19"
     },
     "b22c32886dc039f5": {
@@ -2125,7 +2036,7 @@
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-10-25T14:40:34",
+      "coletado_em": "2026-10-26T17:03:19",
       "primeira_vez_em": "2026-10-01T15:54:20"
     },
     "6a0bc309a56feb2a": {
@@ -2303,7 +2214,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:42",
+      "coletado_em": "2026-10-26T17:03:26",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     "99f71ca3624af8c6": {
@@ -2319,7 +2230,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:42",
+      "coletado_em": "2026-10-26T17:03:26",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     "12c3af8f5ccd9f28": {
@@ -2336,7 +2247,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:42",
+      "coletado_em": "2026-10-26T17:03:26",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     "529e8feb3d37e80e": {
@@ -2354,7 +2265,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:42",
+      "coletado_em": "2026-10-26T17:03:26",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     "6afe4e6cc35198ae": {
@@ -2371,7 +2282,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:42",
+      "coletado_em": "2026-10-26T17:03:26",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     "c1366c3e91745dce": {
@@ -2387,7 +2298,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:44",
+      "coletado_em": "2026-10-26T17:03:27",
       "primeira_vez_em": "2026-10-02T11:04:32"
     },
     "a7086811f0b75d7a": {
@@ -2404,7 +2315,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:32",
+      "coletado_em": "2026-10-26T17:03:17",
       "primeira_vez_em": "2026-10-03T11:59:05"
     },
     "100b03d2302e3752": {
@@ -2418,7 +2329,7 @@
       "data_publicacao": "02/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:40:35",
+      "coletado_em": "2026-10-26T17:03:20",
       "primeira_vez_em": "2026-10-03T11:59:07"
     },
     "8eab90f42ded9a0a": {
@@ -2540,7 +2451,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-25T14:40:31",
+      "coletado_em": "2026-10-26T17:03:16",
       "primeira_vez_em": "2026-10-04T17:21:33"
     },
     "2a79170358973559": {
@@ -2668,7 +2579,7 @@
       "data_publicacao": "05/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:40:25",
+      "coletado_em": "2026-10-26T17:03:12",
       "primeira_vez_em": "2026-10-06T11:05:35"
     },
     "8711d97b7326c8aa": {
@@ -2905,7 +2816,7 @@
         "IBS",
         "CBS"
       ],
-      "coletado_em": "2026-10-25T14:40:31",
+      "coletado_em": "2026-10-26T17:03:16",
       "primeira_vez_em": "2026-10-07T11:05:57"
     },
     "190309e9ae03812a": {
@@ -2919,7 +2830,7 @@
       "data_publicacao": "06/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:40:35",
+      "coletado_em": "2026-10-26T17:03:20",
       "primeira_vez_em": "2026-10-07T11:06:00"
     },
     "6cad7be620e7e5d4": {
@@ -3075,7 +2986,7 @@
       "data_publicacao": "06/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:44:46",
+      "coletado_em": "2026-10-26T17:07:17",
       "primeira_vez_em": "2026-10-07T11:09:33"
     },
     "9e0fb93c95faf1dc": {
@@ -3541,7 +3452,7 @@
       "data_publicacao": "23/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:41:22",
+      "coletado_em": "2026-10-26T17:04:14",
       "primeira_vez_em": "2026-10-09T11:06:21"
     },
     "1f588e686ac5fd39": {
@@ -3555,7 +3466,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:41:22",
+      "coletado_em": "2026-10-26T17:04:14",
       "primeira_vez_em": "2026-10-09T11:06:21"
     },
     "b54dc838eda98091": {
@@ -3616,7 +3527,7 @@
         "CBS",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-10-25T14:42:57",
+      "coletado_em": "2026-10-26T17:05:36",
       "primeira_vez_em": "2026-10-09T11:07:36"
     },
     "83ea5b3ca6fc6fd0": {
@@ -3630,7 +3541,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:42:57",
+      "coletado_em": "2026-10-26T17:05:36",
       "primeira_vez_em": "2026-10-09T11:07:36"
     },
     "5ef7eb83dce6eb7d": {
@@ -3644,7 +3555,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:42:57",
+      "coletado_em": "2026-10-26T17:05:36",
       "primeira_vez_em": "2026-10-09T11:07:36"
     },
     "2cf2ae9b07609f93": {
@@ -3658,7 +3569,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:42:57",
+      "coletado_em": "2026-10-26T17:05:36",
       "primeira_vez_em": "2026-10-09T11:07:36"
     },
     "03024bb7543532a8": {
@@ -3761,7 +3672,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:34",
+      "coletado_em": "2026-10-26T17:03:19",
       "primeira_vez_em": "2026-10-10T11:03:27"
     },
     "de8bcd44da22e0de": {
@@ -3778,7 +3689,7 @@
         "Reforma Tributária",
         "NFSe"
       ],
-      "coletado_em": "2026-10-25T14:40:34",
+      "coletado_em": "2026-10-26T17:03:19",
       "primeira_vez_em": "2026-10-10T11:03:27"
     },
     "741f30953946c4a7": {
@@ -4021,7 +3932,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:42:57",
+      "coletado_em": "2026-10-26T17:05:36",
       "primeira_vez_em": "2026-10-10T11:05:40"
     },
     "198bfe8ace2e765a": {
@@ -4035,7 +3946,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:42:57",
+      "coletado_em": "2026-10-26T17:05:36",
       "primeira_vez_em": "2026-10-10T11:05:40"
     },
     "c66352e7eac4522c": {
@@ -4350,7 +4261,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:42:57",
+      "coletado_em": "2026-10-26T17:05:36",
       "primeira_vez_em": "2026-10-15T11:20:20"
     },
     "d8189d70bf18bf13": {
@@ -4364,7 +4275,7 @@
       "data_publicacao": "15/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:40:25",
+      "coletado_em": "2026-10-26T17:03:12",
       "primeira_vez_em": "2026-10-16T11:17:16"
     },
     "98f31a89a7a12829": {
@@ -4572,7 +4483,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:42:57",
+      "coletado_em": "2026-10-26T17:05:36",
       "primeira_vez_em": "2026-10-16T11:19:21"
     },
     "c0c497bc16019f35": {
@@ -4705,7 +4616,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:42:57",
+      "coletado_em": "2026-10-26T17:05:36",
       "primeira_vez_em": "2026-10-17T11:14:24"
     },
     "1bd01ac5c48ef90c": {
@@ -4719,7 +4630,7 @@
       "data_publicacao": "19/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:40:25",
+      "coletado_em": "2026-10-26T17:03:12",
       "primeira_vez_em": "2026-10-19T17:15:00"
     },
     "956f42d9152f269f": {
@@ -4736,7 +4647,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:34",
+      "coletado_em": "2026-10-26T17:03:19",
       "primeira_vez_em": "2026-10-19T17:15:08"
     },
     "551655e77bd0371a": {
@@ -4839,7 +4750,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-25T14:40:34",
+      "coletado_em": "2026-10-26T17:03:19",
       "primeira_vez_em": "2026-10-21T15:44:21"
     },
     "e7ef5e1a4576ff4a": {
@@ -4853,7 +4764,7 @@
       "data_publicacao": "21/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:40:36",
+      "coletado_em": "2026-10-26T17:03:21",
       "primeira_vez_em": "2026-10-21T15:44:23"
     },
     "7f4cfb127b54791e": {
@@ -4867,7 +4778,7 @@
       "data_publicacao": "20/10/2026",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-10-25T14:40:36",
+      "coletado_em": "2026-10-26T17:03:21",
       "primeira_vez_em": "2026-10-21T15:44:23"
     },
     "47d32895e2717227": {
@@ -4946,8 +4857,8 @@
     },
     "3c4c53772c467a58": {
       "id": "3c4c53772c467a58",
-      "titulo": "Publicado há 4 dias 21 de Outubro de 2026 09:15 Nota Paraná Nota Paraná alerta: 39 prêmios de R$ 1 mil vencem em novembro e dezembro Compartilhe:",
-      "resumo": "Publicado há 4 dias 21 de Outubro de 2026 09:15 Nota Paraná Nota Paraná alerta: 39 prêmios de R$ 1 mil vencem em novembro e dezembro Compartilhe:",
+      "titulo": "Publicado há 5 dias 21 de Outubro de 2026 09:15 Nota Paraná Nota Paraná alerta: 39 prêmios de R$ 1 mil vencem em novembro e dezembro Compartilhe:",
+      "resumo": "Publicado há 5 dias 21 de Outubro de 2026 09:15 Nota Paraná Nota Paraná alerta: 39 prêmios de R$ 1 mil vencem em novembro e dezembro Compartilhe:",
       "link": "https://www.fazenda.pr.gov.br/Noticia/Nota-Parana-alerta-39-premios-de-R-1-mil-vencem-em-novembro-e-dezembro",
       "fonte": "SEFAZ PR",
       "esfera": "estadual",
@@ -4955,7 +4866,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:42:57",
+      "coletado_em": "2026-10-26T17:05:36",
       "primeira_vez_em": "2026-10-21T15:46:35"
     },
     "c499e7aa742dd1c4": {
@@ -4969,7 +4880,7 @@
       "data_publicacao": "21/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:40:36",
+      "coletado_em": "2026-10-26T17:03:21",
       "primeira_vez_em": "2026-10-22T15:43:41"
     },
     "29054641afc9b945": {
@@ -4983,7 +4894,7 @@
       "data_publicacao": "21/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:40:36",
+      "coletado_em": "2026-10-26T17:03:21",
       "primeira_vez_em": "2026-10-22T15:43:41"
     },
     "f53a4a1a9157dd65": {
@@ -5053,7 +4964,7 @@
       "data_publicacao": "23/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:40:35",
+      "coletado_em": "2026-10-26T17:03:20",
       "primeira_vez_em": "2026-10-23T15:31:57"
     },
     "7294e5533a414125": {
@@ -5069,7 +4980,7 @@
       "tags": [
         "Reforma Tributária"
       ],
-      "coletado_em": "2026-10-25T14:40:36",
+      "coletado_em": "2026-10-26T17:03:21",
       "primeira_vez_em": "2026-10-23T15:31:58"
     },
     "d37e00303b5d12d3": {
@@ -5083,7 +4994,7 @@
       "data_publicacao": "22/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:40:36",
+      "coletado_em": "2026-10-26T17:03:21",
       "primeira_vez_em": "2026-10-23T15:31:58"
     },
     "f50e18e074647ccf": {
@@ -5111,7 +5022,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:42:23",
+      "coletado_em": "2026-10-26T17:05:06",
       "primeira_vez_em": "2026-10-23T15:33:27"
     },
     "c72c36e3114f4440": {
@@ -5125,7 +5036,7 @@
       "data_publicacao": "23/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:40:36",
+      "coletado_em": "2026-10-26T17:03:21",
       "primeira_vez_em": "2026-10-24T14:10:14"
     },
     "0eafcd828b31b6bd": {
@@ -5139,7 +5050,7 @@
       "data_publicacao": "23/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-25T14:40:36",
+      "coletado_em": "2026-10-26T17:03:21",
       "primeira_vez_em": "2026-10-24T14:10:14"
     },
     "2ca7d1c5c0ff9018": {
@@ -5228,6 +5139,156 @@
       "tags": [],
       "coletado_em": "2026-10-25T14:40:40",
       "primeira_vez_em": "2026-10-25T14:40:40"
+    },
+    "c97b75bb2fc6fa0d": {
+      "id": "c97b75bb2fc6fa0d",
+      "titulo": "Tributo a Elas grava podcast em homenagem às mulheres",
+      "resumo": "Episódio tratou da importância de estabelecer metas e estratégias para influenciar instituições",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2023/tributo-a-elas-grava-podcast-em-homenagem-as-mulheres",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "26/10/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-26T17:03:20",
+      "primeira_vez_em": "2026-10-26T17:03:20"
+    },
+    "3726f62df6909ec2": {
+      "id": "3726f62df6909ec2",
+      "titulo": "Nota publica",
+      "resumo": "Nota publica",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/nota-publica",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "26/10/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-26T17:03:20",
+      "primeira_vez_em": "2026-10-26T17:03:20"
+    },
+    "c9c061e0bd102186": {
+      "id": "c9c061e0bd102186",
+      "titulo": "Perdão de dívidas tributárias para MEIs",
+      "resumo": "Perdão de dívidas tributárias para MEIs",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/perdao-de-dividas-tributarias-para-meis",
+      "fonte": "PGFN",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "19/10/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-26T17:03:20",
+      "primeira_vez_em": "2026-10-26T17:03:20"
+    },
+    "935764d25ba8e103": {
+      "id": "935764d25ba8e103",
+      "titulo": "Reforma tributária: alíquota da CBS avança nesta semana",
+      "resumo": "O Senado deve receber, até o dia 30 de outubro, a proposta do Tribunal de Contas da União (TCU) para a alíquota da Contribuição sobre Bens e Serviços (CBS), tributo federal que substituirá o PIS/Pasep e Cofins. As novas cobranças devem começar em janeiro de 2027, dando início à implementação efetiva da reforma tributária sobre o consumo. O Senado terá até 15 de dezembro para definir a alíquota por meio de resolução. A estimativa mais citada atualmente é de 9,21% para a CBS e de 18,7% para o Imposto sobre Bens e Serviços (IBS), tributo de competência compartilhada entre estados e municípios. Os percentuais, que somam 27,91%, são estimativas adotadas sem caráter oficial pelo Comitê Gestor do IBS. Segundo o diretor da Instituição Fiscal Independente (IFI) do Senado, Alexandre Andrade, a definição das alíquotas deverá considerar a necessidade de manter a arrecadação dos tributos que serão substituídos. Os senadores terão margem limitada para alterar os percentuais sem afetar a arrecadação. A CBS, o IBS e o Imposto Seletivo deverão manter, em conjunto, a arrecadação dos atuais IPI, PIS/Pasep, Cofins, ICMS e ISS, que serão extintos ou terão sua incidência modificada conforme a transição prevista na reforma. Alíquotas menores dependeriam da redução dos benefícios tributários e das exceções às regras gerais, previstas na Lei Complementar 214, de 2025, explicou Andrade. — Exceções e regimes diferenciados aprovados ao longo do processo elevam a alíquota necessária para manter essa neutralidade. Alterar a alíquota sem modificar as exceções significa renunciar à neutralidade, com efeito direto sobre a receita da União em um orçamento já pressionado. Estimativas de arrecadação O projeto de Lei Orçamentária Anual (LOA) de 2027 (PLN 24/2026) estima uma arrecadação de R$ 636,8 bilhões com a CBS. Consideradas também as receitas remanescentes dos tributos que serão extintos, como débitos de Cofins ainda devidos por empresas, a projeção é 10,3% superior à estimativa do orçamento anterior, elaborado antes da entrada dos novos tributos. A arrecadação prevista corresponde a 4,7% do Produto Interno Bruto (PIB), a mesma proporção estimada anteriormente. A projeção para o Imposto Seletivo é de R$ 41,9 bilhões em 2027. O tributo poderá incidir sobre bens e serviços prejudiciais à saúde ou ao meio ambiente, conforme as regras legais. Sua instituição depende de legislação específica, ainda sem data-limite para aprovação. Segundo Andrade, a demora na criação do imposto pode afetar o cronograma de cobrança e reduzir a arrecadação prevista. Depois de instituído, o tributo deverá respeitar um prazo de 90 dias antes de começar a ser cobrado, diferentemente da CBS e do IBS. As estimativas constam do projeto de Lei Orçamentária Anual de 2027 (PLN 24/2026). Travas para as alíquotas Mesmo que a soma das alíquotas de referência da CBS e do IBS se aproxime da estimativa de 27,91%, há mecanismos legais para limitar a carga tributária durante a transição. Em 2033, o percentual de referência não poderá superar 26,5%. Se, em 2030, a projeção indicar que esse limite será ultrapassado, a Presidência da República deverá apresentar projeto de lei com medidas para reduzir a tributação. A legislação também prevê revisões das alíquotas de referência para evitar aumento da carga tributária decorrente da reforma. Em 2029, o Senado deverá reduzir a alíquota da CBS aplicável em 2030 se a carga tributária correspondente à CBS e ao Imposto Seletivo tiver aumentado nos dois anos anteriores. A avaliação levará em conta a receita média do período em proporção ao PIB, comparada à observada entre 2012 e 2021. O mecanismo deverá ser aplicado novamente em 2035, dessa vez considerando também o IBS. Para o Imposto Seletivo, não há alíquota máxima geral prevista, mas a tributação sobre a extração de bens minerais terá limite de 0,25%, conforme a Lei Complementar 214. Compensação do IPI A extinção do Imposto sobre Produtos Industrializados (IPI) também envolve a compensação aos estados por meio de um fundo abastecido com recursos federais. O orçamento de 2027 prevê R$ 33,8 bilhões para essa finalidade, valor equivalente a quase 10% do total previsto para transferências aos estados. Segundo Alexandre Andrade, o mecanismo poderá gerar disputas entre os entes federativos. Os recursos do fundo serão considerados na meta fiscal, indicador utilizado para avaliar o resultado das contas públicas. Atualmente, parte da arrecadação do IPI é transferida a estados e municípios por meio do Fundo de Participação dos Estados (FPE) e do Fundo de Participação dos Municípios (FPM). Cálculo das alíquotas O TCU iniciou em setembro os cálculos para definir a alíquota de referência da CBS, após receber da Receita Federal uma proposta de cálculo. Segundo o tribunal, o documento é sigiloso e não apresenta uma estimativa para o percentual. O procedimento será repetido anualmente até 2035, quando a alíquota da CBS passará a ser a mesma do ano anterior. Para o IBS, o processo ficará a cargo do Comitê Gestor a partir de 2028. Os estados poderão estabelecer suas próprias alíquotas, tendo como referência o percentual definido pelo Senado. Testes em 2026 Durante 2026, a Receita Federal realiza testes da CBS. Nesse período, as empresas devem informar o valor do tributo nas notas fiscais, mas não precisam efetuar o pagamento correspondente à contribuição. Em divulgação de 9 de outubro, com dados referentes aos 30 dias anteriores, o órgão informou que quase nove em cada dez documentos fiscais emitidos já registravam a CBS. A alíquota corresponde ao percentual aplicado à base de cálculo para determinar o valor do tributo. Em um exemplo simplificado, se um produto tiver preço de R$ 39 antes da incidência de um imposto calculado por fora, uma alíquota de 28% representaria R$ 10,92 de tributo, elevando o total a R$ 49,92. O cálculo efetivo, porém, depende das regras aplicáveis à base de incidência e à composição do preço.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/26/reforma-tributaria-aliquota-da-cbs-avanca-nesta-semana",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-10-26T16:48:12Z",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "IBS",
+        "CBS",
+        "Imposto Seletivo",
+        "ICMS",
+        "PIS/COFINS",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-10-26T17:03:24",
+      "primeira_vez_em": "2026-10-26T17:03:24"
+    },
+    "1f8f371e2ed226a0": {
+      "id": "1f8f371e2ed226a0",
+      "titulo": "Projeto prevê entrega de material em braile junto com os demais livros escolares",
+      "resumo": "Estudantes com deficiência visual poderão ter assegurada a entrega dos materiais didáticos acessíveis no início do ano letivo, conforme proposta em tramitação no Senado. A iniciativa busca evitar atrasos na distribuição de livros em braile e de outros recursos adaptados, que dificultam o acompanhamento das aulas e comprometem a igualdade de condições entre os alunos. De autoria da senadora Mara Gabrilli (PSD-SP), a proposta altera a Lei de Diretrizes e Bases da Educação (LDB) para enfrentar o problema da disponibilização tardia desses materiais. O Censo Demográfico de 2022 identificou 7,9 milhões de pessoas com dificuldade permanente para enxergar no Brasil, mesmo usando óculos ou lentes de contato, segundo o Instituto Brasileiro de Geografia e Estatística (IBGE). O dado abrange diferentes graus de dificuldade visual e não corresponde exclusivamente ao número de pessoas cegas. Na justificação do PL 5.565/2026, Mara afirma que, embora a legislação garanta o direito à educação inclusiva e à oferta de recursos de acessibilidade, os atrasos recorrentes impedem que estudantes com deficiência visual tenham acesso ao conteúdo didático no mesmo período que os demais colegas. Segundo a senadora, a situação prejudica o processo de aprendizagem e contraria princípios constitucionais, como a cidadania, a dignidade da pessoa humana e a redução das desigualdades sociais. — Enquanto os estudantes sem deficiência recebem seus livros e materiais didáticos no início das aulas e do ano letivo, os exemplares em braille e em formatos adaptados chegam com meses de atraso ou, infelizmente, não são disponibilizados aos alunos que deles necessitam — argumenta Mara na justificativa da proposta. Atraso na distribuição No início do ano, Mara e outros senadores questionaram o atraso na entrega do material didático acessível e cobraram explicações ao Ministério da Educação e ao Fundo Nacional do Desenvolvimento da Educação (FNDE) sobre a informação de que menos de 40% do material em braille teria sido entregue aos estudantes cegos da rede pública no atual ano letivo. O projeto ainda não foi distribuído para as comissões temáticas.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/26/projeto-preve-entrega-de-material-em-braile-junto-com-os-demais-livros-escolares",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-10-26T13:58:40Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-26T17:03:24",
+      "primeira_vez_em": "2026-10-26T17:03:24"
+    },
+    "539f7319c877b8de": {
+      "id": "539f7319c877b8de",
+      "titulo": "Presidente do TSE confirma reeleição de Lula e faz balanço do pleito",
+      "resumo": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, confirmou na noite deste domingo (25) a reeleição do presidente Luiz Inácio Lula da Silva para o mandato de 2027 a 2030. Em entrevista na sede do TSE, em Brasília, ele registrou que ligou para os dois candidatos para informar o resultado do pleito. Nunes Marques relatou que parabenizou o senador Flávio Bolsonaro (PL-RJ) pela campanha. Para Lula, destacou sua “expressiva vitória nas urnas”. — Sua trajetória atravessa diferentes períodos da história democrática brasileira. O presidente Lula venceu quatro disputas presidenciais — registrou o ministro, que ainda parabenizou os seis novos governadores eleitos no segundo turno. Segundo Nunes Marques, esta noite não pertence apenas às chapas eleitas, mas pertence principalmente ao eleitor brasileiro. Ele elogiou a Justiça Eleitoral e destacou que 128 milhões eleitores exerceram o direito ao voto. Já a abstenção foi de 19,21%, número menor que os 21,08% registrados no primeiro turno. O ministro disse que a queda na abstenção é importante, principalmente diante dos relatos que apontam que muitos eleitores tiveram dificuldade para votar. — A Justiça Eleitoral organiza o pleito de forma a dar a máxima comodidade para o eleitorado — afirmou, acrescentando que o eleitor pode indicar o lugar que considera melhor para votar. Prorrogação Nunes Marques disse que a eventual insuficiência de transporte para os eleitores será apurada pela Justiça Eleitoral. Segundo o ministro, a decisão do STF de prorrogar a votação até as 19h gerou dificuldades no processo eleitoral (leia mais abaixo). Ele afirmou que assim que recebeu o pedido de prorrogação, buscou informações junto às prefeituras locais e tribunais regionais. Nunes Marques disse que nunca houve prorrogação de horário de votação na história do TSE. Ele fez questão de ressaltar que não endereçava críticas à decisão do STF, mas ponderou que os efeitos da suposta falta de transporte não impactaram significativamente a apuração. — Não é uma decisão convencional. Prorrogar uma eleição é possível, mas precisa ser pensada e estruturada — declarou o ministro, ao negar que tenha demorado para tomar uma decisão e elogiar a equipe técnica do TSE, que suspendeu a divulgação dos votos já recebidos. Segundo Nunes Marques, apesar da “condição inusitada”, o TSE conseguiu contornar todas as dificuldades de última hora. Ele lembrou que as urnas já fechadas impedem a reabertura para nova votação. — Não houve nenhuma alteração advinda da decisão judicial. Houve a prorrogação, na forma que foi decidida. A Justiça Eleitoral cumpriu a decisão e logo após demos fluência à apuração, à totalização e à divulgação. Temos absoluta segurança do processo eleitoral — afirmou. O presidente do TSE ainda informou que das 499 mil urnas, apenas 1.551 precisaram ser substituídas, o que representa apenas 0,31% do total. Ele ainda disse que recebeu observadores internacionais, que reforçaram a capacidade técnica e a transparência do TSE. Segundo o ministro, não foi registrada interferência externa no pleito nacional. — As eleições de 2026 representam, além da execução bem-sucedida de mais uma etapa da nossa vida democrática, um marco na forma como a Justiça Eleitoral se relaciona com a sociedade, organiza seus serviços e se prepara para os desafios do presente e do futuro — afirmou o presidente do TSE, destacando as medidas inclusivas da Justiça Eleitoral. Nunes Marques estava acompanhado de outros ministros do TSE; do procurador geral da República, Paulo Gonet; e do presidente do STF, ministro Edson Fachin. Ele ainda agradeceu o trabalho de todos os envolvidos no processo eleitoral e não quis responder a perguntas. Confusão O fim da votação neste domingo foi marcado por confusão. Pela manhã e início da tarde, houve muitas denúncias de falta de ônibus em várias cidades, principalmente nos estados de São Paulo e Bahia. A situação estaria prejudicando o transporte de eleitores. Às 13h22, a Coligação Brasil Pronto Pra Mais, do presidente Lula, pediu ao TSE a prorrogação do horário de votação em Lauro de Freitas, Feira de Santana e Salvador, na Bahia, com o objetivo de contornar a dificuldade de transporte. Às 15h42, houve um acréscimo ao pedido, citando vários outros estados. Conforme divulgado pela imprensa, a campanha de Flávio Bolsonaro também pediu ao TSE que a votação fosse estendida até as 19h, mas com o argumento de que a chuva e a falta de energia teriam prejudicado os eleitores em municípios de Minas Gerais, Rio Grande do Sul, São Paulo, Paraná e Santa Catarina. Com a demora para sair uma decisão no TSE, a coligação Brasil Pronto Pra Mais acionou o STF, pouco antes das 16h. Então o ministro Cristiano Zanin determinou que a votação fosse prorrogada até as 19h. A divulgação da decisão ocorreu às 17h02. As seções já haviam encerrado a votação e o TSE chegou a divulgar a apuração de 0,25% das urnas. Zanin, então, acrescentou que a decisão valia somente para as seções com urnas ainda abertas. O presidente do TSE, Kassio Nunes Marques, orientou pelo cumprimento da decisão do STF. Assim, às 19h, houve o encerramento definitivo da votação e o TSE voltou a totalizar os votos.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/25/presidente-do-tse-confirma-reeleicao-de-lula-e-faz-balanco-do-pleito",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-10-26T02:31:07Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-26T17:03:24",
+      "primeira_vez_em": "2026-10-26T17:03:24"
+    },
+    "d89c481b0b4ffb9e": {
+      "id": "d89c481b0b4ffb9e",
+      "titulo": "Sefaz cria unidade específica para coordenar implementação da Reforma Tributária no Espírito Santo",
+      "resumo": "Sefaz cria unidade específica para coordenar implementação da Reforma Tributária no Espírito Santo",
+      "link": "https://sefaz.es.gov.br/sefaz-cria-unidade-especifica-para-coordenar-implementacao-da-reforma-tributaria-no-espirito-santo",
+      "fonte": "SEFAZ ES",
+      "esfera": "estadual",
+      "uf": "ES",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária"
+      ],
+      "coletado_em": "2026-10-26T17:04:32",
+      "primeira_vez_em": "2026-10-26T17:04:32"
+    },
+    "4b47378e52e19c74": {
+      "id": "4b47378e52e19c74",
+      "titulo": "Ações de inteligência da Sefaz resultam na cassação de 124 empresas no primeiro semestre",
+      "resumo": "Ações de inteligência da Sefaz resultam na cassação de 124 empresas no primeiro semestre",
+      "link": "https://sefaz.es.gov.br/acoes-de-inteligencia-da-sefaz-resultam-na-cassacao-de-124-empresas-no-primeiro-semestre",
+      "fonte": "SEFAZ ES",
+      "esfera": "estadual",
+      "uf": "ES",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-26T17:04:32",
+      "primeira_vez_em": "2026-10-26T17:04:32"
+    },
+    "d0452cbf3c772e2a": {
+      "id": "d0452cbf3c772e2a",
+      "titulo": "Sefaz institui comitê para fortalecer a governança de dados da Receita Estadual",
+      "resumo": "Sefaz institui comitê para fortalecer a governança de dados da Receita Estadual",
+      "link": "https://sefaz.es.gov.br/sefaz-institui-comite-para-fortalecer-a-governanca-de-dados-da-receita-estadual",
+      "fonte": "SEFAZ ES",
+      "esfera": "estadual",
+      "uf": "ES",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-26T17:04:32",
+      "primeira_vez_em": "2026-10-26T17:04:32"
+    },
+    "347e4b3b1ff09a8c": {
+      "id": "347e4b3b1ff09a8c",
+      "titulo": "Consumidor de Belo Horizonte ganha R$ 50 mil no sorteio número 100 da Nota Fiscal Mineira Centésima extração do programa ocorreu na manhã desta segunda-feira (19/10), na sede da SEF/MG",
+      "resumo": "Consumidor de Belo Horizonte ganha R$ 50 mil no sorteio número 100 da Nota Fiscal Mineira Centésima extração do programa ocorreu na manhã desta segunda-feira (19/10), na sede da SEF/MG",
+      "link": "https://www.fazenda.mg.gov.br/noticias/2026/2026.10.19_NFM_Sorteio_100/",
+      "fonte": "SEFAZ MG",
+      "esfera": "estadual",
+      "uf": "MG",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-26T17:05:06",
+      "primeira_vez_em": "2026-10-26T17:05:06"
     }
   }
 }
