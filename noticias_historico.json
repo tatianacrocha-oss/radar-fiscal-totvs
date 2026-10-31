@@ -59,7 +59,7 @@
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-29T17:11:14",
+      "coletado_em": "2026-10-31T15:54:41",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "a9b85ebff2d35b2f": {
@@ -75,7 +75,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-10-29T17:11:14",
+      "coletado_em": "2026-10-31T15:54:41",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "74129502b829908e": {
@@ -93,7 +93,7 @@
         "CBS",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-10-29T17:11:14",
+      "coletado_em": "2026-10-31T15:54:41",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "e5fc5ae97dc8d1c2": {
@@ -107,23 +107,7 @@
       "data_publicacao": "14/01/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-29T17:11:14",
-      "primeira_vez_em": "2026-09-17T15:42:57"
-    },
-    "07591671a87026e9": {
-      "id": "07591671a87026e9",
-      "titulo": "ATO CONJUNTO RFB/CGIBS Nº 1, DE 22 DE DEZEMBRO DE 2025",
-      "resumo": "Publicado por Ato Conjunto RFB/CGIBS",
-      "link": "https://www.in.gov.br/web/dou/-/ato-conjunto-rfb/cgibs-n-1-de-22-de-dezembro-de-2025-677624586",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "23/12/2025",
-      "impacto": "alto",
-      "tags": [
-        "IBS"
-      ],
-      "coletado_em": "2026-10-01T11:05:32",
+      "coletado_em": "2026-10-31T15:54:41",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "08398f1e2c89c97b": {
@@ -137,7 +121,7 @@
       "data_publicacao": "2026-07-22T16:51:56Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:52:08",
+      "coletado_em": "2026-10-31T15:54:43",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     "246d24ac1d0cd774": {
@@ -151,7 +135,7 @@
       "data_publicacao": "2026-07-20T19:54:16Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:52:08",
+      "coletado_em": "2026-10-31T15:54:43",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     "2de55424d6f704af": {
@@ -224,24 +208,6 @@
       "coletado_em": "2026-10-03T11:59:04",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
-    "61e71ca77fffd240": {
-      "id": "61e71ca77fffd240",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 009",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nt-009-se-cgnfse-v1-0-1.pdf",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-10-01T11:05:38",
-      "primeira_vez_em": "2026-09-17T15:43:03"
-    },
     "0c1964e9f04584db": {
       "id": "0c1964e9f04584db",
       "titulo": "Nota Técnica SE/CGNFS-e nº 008",
@@ -256,7 +222,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:25",
+      "coletado_em": "2026-10-31T15:54:48",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "046e01fae8b56c6d": {
@@ -270,7 +236,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:52:25",
+      "coletado_em": "2026-10-31T15:54:48",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "f6ee5f1d56c00209": {
@@ -287,7 +253,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:25",
+      "coletado_em": "2026-10-31T15:54:48",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "d00ea00b82d8e1fa": {
@@ -305,7 +271,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:25",
+      "coletado_em": "2026-10-31T15:54:48",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "09a31ac05b22905c": {
@@ -319,7 +285,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:52:25",
+      "coletado_em": "2026-10-31T15:54:48",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "e03b66d584fbef2c": {
@@ -337,7 +303,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:25",
+      "coletado_em": "2026-10-31T15:54:48",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "2112c58dfa782067": {
@@ -355,7 +321,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:25",
+      "coletado_em": "2026-10-31T15:54:48",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "4adf744f945fd69f": {
@@ -498,23 +464,6 @@
       "coletado_em": "2026-10-09T11:05:29",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
-    "d448d576b31f4e14": {
-      "id": "d448d576b31f4e14",
-      "titulo": "DANFSE: novos ajustes e prorrogação do prazo para adequação",
-      "resumo": "Novo prazo passa a ser 3 de agosto de 2026",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/danfse-novos-ajustes-de-leiaute-e-prorrogacao-do-prazo-para-adequacao",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "14/07/2026",
-      "impacto": "médio",
-      "tags": [
-        "NFSe",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-10-01T11:05:39",
-      "primeira_vez_em": "2026-09-17T15:43:04"
-    },
     "4baf6d16f5f6d474": {
       "id": "4baf6d16f5f6d474",
       "titulo": "Novo acesso ao Regularize para representantes de empresas",
@@ -601,23 +550,6 @@
       "coletado_em": "2026-10-29T17:11:29",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
-    "e38892674e142a10": {
-      "id": "e38892674e142a10",
-      "titulo": "Nota Técnica 2026.002 v.1.10a - Publicada em 25/08/2026",
-      "resumo": "Operações de vendas presenciais e não presenciais com impressão do DANFE Simplificado Tipo 2",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=8zOzIahvn8I=",
-      "fonte": "NF-e - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "25/08/2026",
-      "impacto": "médio",
-      "tags": [
-        "NFe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-10-01T15:54:25",
-      "primeira_vez_em": "2026-09-17T15:43:10"
-    },
     "81db86e8434c0e4f": {
       "id": "81db86e8434c0e4f",
       "titulo": "Nota Técnica 2026.006 v.1.00 - Publicada em 25/08/2026",
@@ -651,74 +583,6 @@
       "coletado_em": "2026-10-26T17:03:26",
       "primeira_vez_em": "2026-09-17T15:43:10"
     },
-    "e4937f762f128a36": {
-      "id": "e4937f762f128a36",
-      "titulo": "Nota Técnica 2026.007 v.1.00 - Publicada em 04/08/2026",
-      "resumo": "Regras de validação e atualiza regras existentes da NF-e/NFC-e para verificação dos cadastros na Lista Centralizada de Contribuintes da RFB (LCC-RFB) e no Cadastro Centralizado de Contribuintes (CCC).",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=jVEAeMhv83w=",
-      "fonte": "NF-e - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "04/08/2026",
-      "impacto": "médio",
-      "tags": [
-        "NFe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-10-01T15:54:25",
-      "primeira_vez_em": "2026-09-17T15:43:10"
-    },
-    "c79576affbd403f5": {
-      "id": "c79576affbd403f5",
-      "titulo": "Nota Técnica 2025.002 v.1.51 - Publicada em 04/08/2026",
-      "resumo": "Nota técnica de adequação dos leiautes da NF-e e da NFC-e para inclusão dos campos e das regras de validação referentes à Reforma Tributária do Consumo - RTC",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=AKD/muSmiIY=",
-      "fonte": "NF-e - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "04/08/2026",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-10-01T15:54:25",
-      "primeira_vez_em": "2026-09-17T15:43:10"
-    },
-    "7f41fe5f1640b502": {
-      "id": "7f41fe5f1640b502",
-      "titulo": "Nota Técnica 2026.001 v.1.02b - Publicada em 31/07/2026",
-      "resumo": "Especifica o Provedor de Assinatura e Autorização (PAA) no âmbito da NF-e.",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=AlgHfV6gpAU=",
-      "fonte": "NF-e - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "31/07/2026",
-      "impacto": "médio",
-      "tags": [
-        "NFe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-10-01T15:54:25",
-      "primeira_vez_em": "2026-09-17T15:43:10"
-    },
-    "8640ac9406476bfb": {
-      "id": "8640ac9406476bfb",
-      "titulo": "Nota Técnica 2014.002 - v.1.40 - Publicada em 03/07/2026",
-      "resumo": "Web Service de distribuição de documentos fiscais eletrônicos.",
-      "link": "https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=uWO2d/gTuWg=",
-      "fonte": "NF-e - Notas Técnicas",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "03/07/2026",
-      "impacto": "médio",
-      "tags": [
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-10-01T15:54:25",
-      "primeira_vez_em": "2026-09-17T15:43:10"
-    },
     "a271f22fd8b60fbd": {
       "id": "a271f22fd8b60fbd",
       "titulo": "Nota Técnica 2026.002 v.1.00 - Publicada em 10/06/2026",
@@ -732,7 +596,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:35",
+      "coletado_em": "2026-10-31T15:54:59",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "c3ebc4e3910e68c9": {
@@ -748,7 +612,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:35",
+      "coletado_em": "2026-10-31T15:54:59",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "cf3d354183a6412b": {
@@ -764,7 +628,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:35",
+      "coletado_em": "2026-10-31T15:54:59",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "77284a5831435b93": {
@@ -780,7 +644,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:36",
+      "coletado_em": "2026-10-31T15:55:00",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "8edf3d8590ef2ea3": {
@@ -796,7 +660,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:36",
+      "coletado_em": "2026-10-31T15:55:00",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "db0e168e9dc70ff3": {
@@ -812,7 +676,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:36",
+      "coletado_em": "2026-10-31T15:55:00",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "1c95e3cfa05a4c5c": {
@@ -828,7 +692,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:37",
+      "coletado_em": "2026-10-31T15:55:02",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     "f3fce5f00b2dda14": {
@@ -844,7 +708,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:39",
+      "coletado_em": "2026-10-31T15:55:04",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     "6cff987543c8c065": {
@@ -858,35 +722,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:53:19",
-      "primeira_vez_em": "2026-09-17T15:43:33"
-    },
-    "5eea618ca2cc84eb": {
-      "id": "5eea618ca2cc84eb",
-      "titulo": "Certidão negativa de débitos estaduais",
-      "resumo": "Certidão negativa de débitos estaduais",
-      "link": "https://servicos.ce.gov.br/catalogo-de-servicos/2409",
-      "fonte": "SEFAZ CE",
-      "esfera": "estadual",
-      "uf": "CE",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-01T15:54:51",
-      "primeira_vez_em": "2026-09-17T15:43:33"
-    },
-    "72c6f05e4579827b": {
-      "id": "72c6f05e4579827b",
-      "titulo": "Certidão de quitação de IPVA",
-      "resumo": "Certidão de quitação de IPVA",
-      "link": "https://servicos.ce.gov.br/catalogo-de-servicos/899",
-      "fonte": "SEFAZ CE",
-      "esfera": "estadual",
-      "uf": "CE",
-      "data_publicacao": "",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-01T15:54:51",
+      "coletado_em": "2026-10-31T15:55:35",
       "primeira_vez_em": "2026-09-17T15:43:33"
     },
     "8b919b7384234279": {
@@ -930,7 +766,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-29T17:14:53",
+      "coletado_em": "2026-10-31T15:58:13",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     "c4bd59e18d311f35": {
@@ -946,7 +782,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-29T17:14:53",
+      "coletado_em": "2026-10-31T15:58:13",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     "e680433d3eefe8cd": {
@@ -978,7 +814,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-29T17:14:54",
+      "coletado_em": "2026-10-31T15:58:15",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     "da3b5c5a1cc32cf3": {
@@ -994,7 +830,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-29T17:14:54",
+      "coletado_em": "2026-10-31T15:58:15",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     "be8638660c3332cb": {
@@ -1008,7 +844,7 @@
       "data_publicacao": "29/05/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-29T17:14:56",
+      "coletado_em": "2026-10-31T15:58:16",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "5794323834606a06": {
@@ -1024,7 +860,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-29T17:14:56",
+      "coletado_em": "2026-10-31T15:58:16",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "bc7500769f467d84": {
@@ -1040,7 +876,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-29T17:14:56",
+      "coletado_em": "2026-10-31T15:58:16",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "552f0735a0423c26": {
@@ -1054,7 +890,7 @@
       "data_publicacao": "26/11/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-29T17:14:57",
+      "coletado_em": "2026-10-31T15:58:18",
       "primeira_vez_em": "2026-09-17T15:44:34"
     },
     "58e10eba2750e488": {
@@ -1070,7 +906,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-29T17:14:59",
+      "coletado_em": "2026-10-31T15:58:20",
       "primeira_vez_em": "2026-09-17T15:44:35"
     },
     "a4607235adf1b80f": {
@@ -1086,7 +922,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-29T17:15:00",
+      "coletado_em": "2026-10-31T15:58:21",
       "primeira_vez_em": "2026-09-17T15:44:36"
     },
     "b676f2adf3c22d0a": {
@@ -1102,7 +938,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-29T17:15:02",
+      "coletado_em": "2026-10-31T15:58:23",
       "primeira_vez_em": "2026-09-17T15:44:37"
     },
     "5af4c5ee52d4ce9c": {
@@ -1116,7 +952,7 @@
       "data_publicacao": "30/03/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-29T17:15:04",
+      "coletado_em": "2026-10-31T15:58:25",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "a454d4d897b3839f": {
@@ -1130,7 +966,7 @@
       "data_publicacao": "04/05/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-29T17:15:04",
+      "coletado_em": "2026-10-31T15:58:25",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "23085cc0899edc3f": {
@@ -1144,7 +980,7 @@
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-29T17:15:04",
+      "coletado_em": "2026-10-31T15:58:25",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "fd3d7b1235ebc490": {
@@ -1160,7 +996,7 @@
       "tags": [
         "Simples Nacional"
       ],
-      "coletado_em": "2026-10-29T17:15:04",
+      "coletado_em": "2026-10-31T15:58:25",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "98a8cf0b506f52a9": {
@@ -1174,7 +1010,7 @@
       "data_publicacao": "10/01/2024",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-29T17:15:04",
+      "coletado_em": "2026-10-31T15:58:25",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "7ce12346e4b886ec": {
@@ -1188,7 +1024,7 @@
       "data_publicacao": "15/12/2023",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-29T17:15:04",
+      "coletado_em": "2026-10-31T15:58:25",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "2d256ec029c6add1": {
@@ -1204,7 +1040,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-29T17:15:07",
+      "coletado_em": "2026-10-31T15:58:28",
       "primeira_vez_em": "2026-09-17T15:44:40"
     },
     "e31b387cddf7fd5d": {
@@ -1218,7 +1054,7 @@
       "data_publicacao": "19/10/2022",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-29T17:15:08",
+      "coletado_em": "2026-10-31T15:58:29",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     "c067fe8403247755": {
@@ -1234,7 +1070,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-29T17:15:08",
+      "coletado_em": "2026-10-31T15:58:29",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     "4cb90c79835b4cd1": {
@@ -1250,7 +1086,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-10-29T17:15:10",
+      "coletado_em": "2026-10-31T15:58:30",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "485fb61a2a751098": {
@@ -1264,7 +1100,7 @@
       "data_publicacao": "10/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-29T17:15:10",
+      "coletado_em": "2026-10-31T15:58:30",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "0b1cf5b29af11e57": {
@@ -1280,7 +1116,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-29T17:15:10",
+      "coletado_em": "2026-10-31T15:58:30",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "63dff167c306e0a2": {
@@ -1296,7 +1132,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-29T17:11:19",
+      "coletado_em": "2026-10-31T15:54:46",
       "primeira_vez_em": "2026-09-19T11:03:30"
     },
     "606eb4007464d320": {
@@ -1312,7 +1148,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-29T17:11:19",
+      "coletado_em": "2026-10-31T15:54:46",
       "primeira_vez_em": "2026-09-22T11:03:37"
     },
     "2f86464c831b5b1b": {
@@ -1326,7 +1162,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-29T17:11:19",
+      "coletado_em": "2026-10-31T15:54:46",
       "primeira_vez_em": "2026-09-22T11:03:37"
     },
     "e0eaa5a24d485f65": {
@@ -1342,43 +1178,8 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-29T17:11:19",
+      "coletado_em": "2026-10-31T15:54:46",
       "primeira_vez_em": "2026-09-25T11:03:52"
-    },
-    "9f8c3a561dc3ff15": {
-      "id": "9f8c3a561dc3ff15",
-      "titulo": "Receita divulga novo balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
-      "resumo": "Números registram mais de 328 mil solicitações pelo Simples Nacional e 447 mil pelo regime regular do IBS e da CBS.",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-divulga-novo-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "25/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "CBS",
-        "Simples Nacional"
-      ],
-      "coletado_em": "2026-10-01T11:05:41",
-      "primeira_vez_em": "2026-09-26T11:03:28"
-    },
-    "52e4dac25e6b82b4": {
-      "id": "52e4dac25e6b82b4",
-      "titulo": "Receita Federal tira dúvida sobre opção pelo Simei, que permanece com prazo definido para janeiro",
-      "resumo": "A alteração do prazo de opção para setembro aplica-se ao Simples Nacional, e não ao Simei",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-federal-tira-duvida-sobre-opcao-pelo-simei-que-permanece-com-prazo-definido-para-janeiro",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "25/09/2026",
-      "impacto": "médio",
-      "tags": [
-        "Simples Nacional",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-10-01T11:05:41",
-      "primeira_vez_em": "2026-09-26T11:03:28"
     },
     "875f51f99732d992": {
       "id": "875f51f99732d992",
@@ -1393,7 +1194,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:33",
+      "coletado_em": "2026-10-31T15:54:57",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     "4b70d64501a39e0c": {
@@ -1409,7 +1210,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:33",
+      "coletado_em": "2026-10-31T15:54:57",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     "21a7f1ac3d421137": {
@@ -1425,7 +1226,7 @@
       "tags": [
         "Simples Nacional"
       ],
-      "coletado_em": "2026-10-30T16:52:26",
+      "coletado_em": "2026-10-31T15:54:49",
       "primeira_vez_em": "2026-09-29T11:04:53"
     },
     "432d02075047561e": {
@@ -1442,24 +1243,6 @@
       "coletado_em": "2026-10-02T11:04:25",
       "primeira_vez_em": "2026-09-29T11:04:55"
     },
-    "62fb71c4160a376c": {
-      "id": "62fb71c4160a376c",
-      "titulo": "Receita atualiza o balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
-      "resumo": "Dados apresentam quantidade de solicitações recebidas e serão atualizados à medida que novos pedidos forem realizados",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-atualiza-o-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "28/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "CBS",
-        "Simples Nacional"
-      ],
-      "coletado_em": "2026-10-01T15:54:22",
-      "primeira_vez_em": "2026-09-29T11:04:55"
-    },
     "c2291b33ecd78178": {
       "id": "c2291b33ecd78178",
       "titulo": "Declaração de Regimes Específicos: CGIBS e Receita Federal divulgam endpoints do ambiente de produção",
@@ -1473,7 +1256,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-29T17:11:19",
+      "coletado_em": "2026-10-31T15:54:46",
       "primeira_vez_em": "2026-09-30T11:04:55"
     },
     "b0e4458054eae6a9": {
@@ -1507,50 +1290,6 @@
       "coletado_em": "2026-10-02T11:04:25",
       "primeira_vez_em": "2026-09-30T11:04:59"
     },
-    "e86c50832302f9ed": {
-      "id": "e86c50832302f9ed",
-      "titulo": "Lei determina avaliação da qualidade de hospitais",
-      "resumo": "A partir de agora, hospitais particulares deverão passar por avaliações da vigilância sanitária sobre a qualidade dos serviços de saúde, com divulgação periódica dos resultados. É o que estabelece a Lei 15.524, que cria a Estratégia Nacional de Controle e Avaliação da Qualidade da Assistência à Saúde prestada pela Iniciativa Privada. A nova norma foi sancionada pela Presidência da República e publicada no Diário Oficial da União (DOU) desta terça-feira (29). Os padrões de qualidade e atributos de qualificação deverão ser definidos pelo órgão nacional de vigilância sanitária, diz o texto. Os estabelecimentos que descumprirem as regras poderão receber multa diária entre R$ 5 mil e 500 mil. A penalidade será aplicada sem prejuízo da responsabilidade civil por danos à saúde do paciente ou por descumprimento de normas de proteção ao consumidor. De acordo com a lei, os padrões de qualidade e os atributos de qualificação deverão observar no mínimo as seguintes diretrizes: garantia da segurança do paciente, por meio da adoção de tratamentos efetivos, conforme comprovação científica, e dos mecanismos necessários para prevenção e recuperação de sua saúde; disponibilização de recursos institucionais (corpo técnico, estruturas e processos de cuidado) em quantitativo suficiente para atendimento ágil dos pacientes, evitando-se longas esperas e atrasos potencialmente danosos à saúde; cuidado responsivo e centrado no paciente; equidade, sendo vedadas distinções de tratamento, especialmente em virtude de gênero, religião, etnia, localização geográfica e condição socioeconômica; cumprimento efetivo das normas expedidas pela Agência Nacional de Vigilância Sanitária (Anvisa) e pela Agência Nacional de Saúde Suplementar (ANS). Os padrões de qualidade previstos na nova lei aplicam-se também aos estabelecimentos públicos de saúde, que devem ser alvo de avaliação e divulgação dos resultados, na forma de regulamento. Origem da lei A norma jurídica teve origem no Projeto de Lei (PL) 287/2024, apresentado pelo então senador e atual ministro do Supremo Tribunal Federal (STF) Flávio Dino. Com relatório favorável do senador Veneziano Vital do Rêgo (MDB-PB), o texto foi aprovado pela Comissão de Assuntos Sociais (CAS) em 2025. Em seguida, a matéria foi encaminhada à Câmara dos Deputados, onde foi aprovada neste mês e encaminhada à sanção presidencial. Em 2012, o ex-senador Flávio Dino perdeu o filho Marcelo, de 13 anos. O garoto havia sido internado em um hospital de Brasília após uma crise de asma. Dino e a mãe de Marcelo, Deane Fonseca, processaram o hospital e a equipe médica. Na ação, eles argumentam que a médica responsável pelo atendimento abandonou o posto da UTI pediátrica, o que provocou demora no atendimento. Em outubro de 2025, o hospital foi condenado a pagar uma indenização aos pais. Com Agência Câmara",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/29/lei-determina-avaliacao-da-qualidade-de-hospitais",
-      "fonte": "Senado Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-09-29T19:27:47Z",
-      "impacto": "alto",
-      "tags": [
-        "Multa/Penalidade"
-      ],
-      "coletado_em": "2026-10-01T11:05:44",
-      "primeira_vez_em": "2026-09-30T11:05:03"
-    },
-    "640da689f5af15f2": {
-      "id": "640da689f5af15f2",
-      "titulo": "Lei reduz CSLL de resseguradoras locais para 9% a partir de 2027",
-      "resumo": "As resseguradoras locais — ou seja, aquelas sediadas no Brasil — pagarão uma Contribuição Social sobre o Lucro Líquido (CSLL) menor a partir de 1º de janeiro de 2027: a alíquota cairá dos atuais 15% para 9%. Além disso, a partir de 2030 essas empresas ficarão livres do adicional de 10% do Imposto de Renda. É o que determina a Lei 15.525, de 2026, que foi sancionada na segunda-feira (28) e publicada no Diário Oficial da União desta terça-feira (29). Resseguradoras são empresas que assumem parte dos riscos das seguradoras, sobretudo em situações de possível prejuízo elevado. São uma espécie de “seguro do seguro”. A nova lei teve origem em um projeto do deputado federal Isnaldo Bulhões Jr. (MDB-AL): o PL 3.540/2026. Durante sua tramitação no Senado, o projeto teve Camilo Santana (PT-CE) como relator — o encarregado de analisar a matéria e recomendar a aprovação (com ou sem alterações) ou a rejeição do texto. Na época, Camilo Santana argumentou que a tributação (anterior à nova lei) incentivava a contratação de resseguradoras estrangeiras — que, segundo ele, atuam sob regimes tributários mais competitivos —, prejudicando a manutenção de capital no Brasil. De acordo com a Superintendência de Seguros Privados (Susep), em julho havia 18 companhias no país. Compensação de prejuízos Além da redução da CSLL, as resseguradoras locais terão outro benefício a partir de 1º de janeiro de 2027: elas não estarão mais sujeitas ao limite de 30% na compensação de prejuízos fiscais de Imposto de Renda e de bases de cálculo negativas da CSLL. Quando uma empresa tem mais despesas dedutíveis do que receitas em um período, ela apura prejuízo fiscal ou base negativa. Pela regra geral, esse prejuízo acumulado pode ser usado para diminuir o tributo a pagar nos anos em que a empresa voltar a ter lucro, mas com um limite: o abatimento não pode reduzir em mais de 30% o lucro de cada ano. A nova lei cria uma exceção para as resseguradoras locais: se o prejuízo acumulado não for totalmente compensado em três anos, o saldo remanescente deixará de ficar sujeito ao limite de 30%, podendo ser utilizado para abater o imposto sobre o lucro nos anos seguintes. Imposto de Renda As resseguradoras locais estarão livres, a partir de 1º de janeiro de 2030, do Imposto de Renda adicional de 10% — que é aplicado quando o lucro é maior que os patamares previstos na legislação (que variam conforme o período de apuração do tributo). Esse adicional é cobrado apenas sobre o valor que superar o respectivo patamar. Um exemplo: quando o imposto é apurado com base no lucro presumido, o adicional é cobrado quando a empresa lucra mais de R$ 60 mil por trimestre. A alíquota do Imposto de Renda Pessoa Jurídica (IRPJ) continua em 15%. Lei complementar Esses benefícios foram viabilizados pela Lei Complementar 237, de 2026, que permite exceções às regras de concessões de benefícios fiscais para resseguradoras.",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/29/lei-reduz-csll-de-resseguradoras-locais-para-9-a-partir-de-2027",
-      "fonte": "Senado Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-09-29T19:21:39Z",
-      "impacto": "alto",
-      "tags": [],
-      "coletado_em": "2026-10-01T11:05:44",
-      "primeira_vez_em": "2026-09-30T11:05:03"
-    },
-    "4592d995d311b4dc": {
-      "id": "4592d995d311b4dc",
-      "titulo": "Sancionado repasse de loterias para Comitê Brasileiro de Clubes",
-      "resumo": "Foi sancionada a lei que transfere ao Comitê Brasileiro de Clubes (CBC) 0,01% da arrecadação de jogos de loteria federal, percentual que era destinado à Federação Nacional dos Clubes (Fenaclubes). Os recursos serão aplicados na formação de gestores de clubes esportivos. O texto foi publicado no Diário Oficial da União desta terça-feira (29). A Lei 15.523, de 2026, teve origem no PL 2.584/2025, aprovado no início de setembro no Plenário do Senado, com relatório da senadora Leila Barros (PDT-DF). A proposta altera a Lei das Loterias (Lei 13.756, de 2018) justamente para mudar o destinatário desse percentual da arrecadação. Assim, os 0,01% que eram repassados à Fenaclubes passam a ser destinados ao CBC, sem aumento do volume global de recursos previstos para os clubes. A alteração foi resultado de consenso entre as duas entidades e mantém a finalidade de qualificação profissional dos gestores esportivos. Fiscalização A nova lei também retira a Fenaclubes da lista de entidades fiscalizadas pelo Tribunal de Contas da União (TCU). O CBC já integra a relação de entidades sujeitas à fiscalização do tribunal. Segundo a justificativa do projeto, a alteração busca adequar a legislação à organização do esporte no país, já que o CBC integra o Sistema Nacional do Esporte (Sinesp). A transferência dos recursos aproveita a estrutura já mantida pelo CBC para ações de capacitação e formação de gestores de clubes. Durante a tramitação no Senado, a relatora, Leila Barros, afirmou que a mudança promove um ajuste na destinação dos recursos das loterias sem ampliar o volume global previsto na legislação.",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/29/sancionado-repasse-de-loterias-para-comite-brasileiro-de-clubes",
-      "fonte": "Senado Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-09-29T13:34:15Z",
-      "impacto": "alto",
-      "tags": [],
-      "coletado_em": "2026-10-01T11:05:44",
-      "primeira_vez_em": "2026-09-30T11:05:03"
-    },
     "eeba35f26cd1b78e": {
       "id": "eeba35f26cd1b78e",
       "titulo": "Opção do contribuinte por Simples Nacional ou pelo regime regular de CBS e IBS para 2027 tem novos prazos",
@@ -1567,7 +1306,7 @@
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-10-29T17:11:19",
+      "coletado_em": "2026-10-31T15:54:46",
       "primeira_vez_em": "2026-10-01T11:05:37"
     },
     "bb8a5d4e64f78243": {
@@ -1660,20 +1399,6 @@
       "coletado_em": "2026-10-02T11:04:28",
       "primeira_vez_em": "2026-10-01T11:05:44"
     },
-    "0c89bcd8a857dbf2": {
-      "id": "0c89bcd8a857dbf2",
-      "titulo": "Fim das bets",
-      "resumo": "Fim das bets",
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/09/fim-das-bets",
-      "fonte": "Senado Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-09-30T13:13:15Z",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-01T11:05:44",
-      "primeira_vez_em": "2026-10-01T11:05:44"
-    },
     "1145066e44f69ff9": {
       "id": "1145066e44f69ff9",
       "titulo": "Nota Técnica SE/CGNFS-e nº 009 versão 1.01 (01/10/2026)",
@@ -1689,7 +1414,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:25",
+      "coletado_em": "2026-10-31T15:54:48",
       "primeira_vez_em": "2026-10-01T15:54:19"
     },
     "b22c32886dc039f5": {
@@ -1705,7 +1430,7 @@
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-10-30T16:52:26",
+      "coletado_em": "2026-10-31T15:54:49",
       "primeira_vez_em": "2026-10-01T15:54:20"
     },
     "6a0bc309a56feb2a": {
@@ -1763,97 +1488,6 @@
       "tags": [],
       "coletado_em": "2026-10-02T11:04:28",
       "primeira_vez_em": "2026-10-01T15:54:24"
-    },
-    "ab43c556e09286ab": {
-      "id": "ab43c556e09286ab",
-      "titulo": "Férias coletivas: motivos para sua empresa se planejar desde já!",
-      "resumo": "Planejar a pausa de dezembro ainda no segundo semestre é o segredo para proteger o caixa, cumprir os prazos da CLT e garantir a tranquilidade de empresários e contadores.",
-      "link": "https://jornalcontabil.com.br/noticia/ferias-coletivas-motivos-para-sua-empresa-se-planejar-desde-ja/",
-      "fonte": "Jornal Contábil",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "Thu, 01 Oct 2026 18:30:50 +0000",
-      "impacto": "médio",
-      "tags": [
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-10-01T15:54:38",
-      "primeira_vez_em": "2026-10-01T15:54:38"
-    },
-    "f0f65f9417a4b199": {
-      "id": "f0f65f9417a4b199",
-      "titulo": "Receita Federal atualiza legislação do cálculo de impostos de multinacionais",
-      "resumo": "IN adota padrões internacionais da OCDE, protege incentivos fiscais estratégicos e concede mais tempo para adaptação das grandes corporações.",
-      "link": "https://jornalcontabil.com.br/noticia/receita-federal-atualiza-legislacao-do-calculo-de-impostos-de-multinacionais/",
-      "fonte": "Jornal Contábil",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "Thu, 01 Oct 2026 17:45:01 +0000",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-01T15:54:38",
-      "primeira_vez_em": "2026-10-01T15:54:38"
-    },
-    "0c0c15b1f0892469": {
-      "id": "0c0c15b1f0892469",
-      "titulo": "Mudanças na NR-28: como as novas multas do trabalho afetam o balanço empresarial",
-      "resumo": "Ministério do Trabalho reclassifica infrações de segurança ocupacional e exige revisão imediata na gestão de riscos",
-      "link": "https://jornalcontabil.com.br/noticia/mudancas-na-nr-28-como-as-novas-multas-do-trabalho-afetam-o-balanco-empresarial/",
-      "fonte": "Jornal Contábil",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "Thu, 01 Oct 2026 14:43:23 +0000",
-      "impacto": "alto",
-      "tags": [
-        "Multa/Penalidade"
-      ],
-      "coletado_em": "2026-10-01T15:54:38",
-      "primeira_vez_em": "2026-10-01T15:54:38"
-    },
-    "2b0948289630309a": {
-      "id": "2b0948289630309a",
-      "titulo": "Autismo: PL prevê dedução integral de gastos com educação",
-      "resumo": "Proposta em análise na Câmara elimina o teto atual da Receita Federal e garante alívio financeiro para famílias atípicas",
-      "link": "https://jornalcontabil.com.br/noticia/autismo-pl-preve-deducao-integral-de-gastos-com-educacao/",
-      "fonte": "Jornal Contábil",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "Thu, 01 Oct 2026 11:29:51 +0000",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-01T15:54:38",
-      "primeira_vez_em": "2026-10-01T15:54:38"
-    },
-    "685fd5cf31eff562": {
-      "id": "685fd5cf31eff562",
-      "titulo": "Agenda tributária de outubro: Veja os prazos das obrigações acessórias",
-      "resumo": "Confira o calendário de transmissão das principais obrigações tributárias e evite multas",
-      "link": "https://jornalcontabil.com.br/noticia/agenda-tributaria-de-outubro-veja-os-prazos-das-obrigacoes-acessorias/",
-      "fonte": "Jornal Contábil",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "Thu, 01 Oct 2026 11:23:56 +0000",
-      "impacto": "alto",
-      "tags": [
-        "Prazo/Obrigação",
-        "Multa/Penalidade"
-      ],
-      "coletado_em": "2026-10-01T15:54:38",
-      "primeira_vez_em": "2026-10-01T15:54:38"
-    },
-    "32a6c6e517afcc7d": {
-      "id": "32a6c6e517afcc7d",
-      "titulo": "Split Payment: Receita estabelece que testes começam em 15 de outubro",
-      "resumo": "Entidades e bancos têm até 2 de outubro para garantir vaga na primeira fase do novo sistema tributário",
-      "link": "https://jornalcontabil.com.br/noticia/split-payment-receita-estabelece-que-testes-comecam-em-15-de-outubro/",
-      "fonte": "Jornal Contábil",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "Thu, 01 Oct 2026 11:20:06 +0000",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-01T15:54:38",
-      "primeira_vez_em": "2026-10-01T15:54:38"
     },
     "16e8e3bc95ffc29d": {
       "id": "16e8e3bc95ffc29d",
@@ -1916,7 +1550,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:33",
+      "coletado_em": "2026-10-31T15:54:57",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     "529e8feb3d37e80e": {
@@ -1951,7 +1585,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:33",
+      "coletado_em": "2026-10-31T15:54:57",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     "c1366c3e91745dce": {
@@ -1967,7 +1601,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:35",
+      "coletado_em": "2026-10-31T15:54:59",
       "primeira_vez_em": "2026-10-02T11:04:32"
     },
     "a7086811f0b75d7a": {
@@ -1984,7 +1618,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:25",
+      "coletado_em": "2026-10-31T15:54:48",
       "primeira_vez_em": "2026-10-03T11:59:05"
     },
     "100b03d2302e3752": {
@@ -2120,7 +1754,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-29T17:11:19",
+      "coletado_em": "2026-10-31T15:54:46",
       "primeira_vez_em": "2026-10-04T17:21:33"
     },
     "2a79170358973559": {
@@ -2248,7 +1882,7 @@
       "data_publicacao": "05/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-29T17:11:14",
+      "coletado_em": "2026-10-31T15:54:41",
       "primeira_vez_em": "2026-10-06T11:05:35"
     },
     "8711d97b7326c8aa": {
@@ -2485,7 +2119,7 @@
         "IBS",
         "CBS"
       ],
-      "coletado_em": "2026-10-29T17:11:19",
+      "coletado_em": "2026-10-31T15:54:46",
       "primeira_vez_em": "2026-10-07T11:05:57"
     },
     "190309e9ae03812a": {
@@ -2655,7 +2289,7 @@
       "data_publicacao": "06/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-29T17:15:07",
+      "coletado_em": "2026-10-31T15:58:28",
       "primeira_vez_em": "2026-10-07T11:09:33"
     },
     "9e0fb93c95faf1dc": {
@@ -3121,7 +2755,7 @@
       "data_publicacao": "28/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:53:19",
+      "coletado_em": "2026-10-31T15:55:35",
       "primeira_vez_em": "2026-10-09T11:06:21"
     },
     "1f588e686ac5fd39": {
@@ -3135,7 +2769,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:53:19",
+      "coletado_em": "2026-10-31T15:55:35",
       "primeira_vez_em": "2026-10-09T11:06:21"
     },
     "b54dc838eda98091": {
@@ -3271,8 +2905,8 @@
     },
     "2c1752ded177c298": {
       "id": "2c1752ded177c298",
-      "titulo": "14:41 Orçamento Orçamento recorde: Governo encaminha Anteprojeto de Lei Orçamentária de 2027 à Assembleia Legislativa Compartilhe:",
-      "resumo": "14:41 Orçamento Orçamento recorde: Governo encaminha Anteprojeto de Lei Orçamentária de 2027 à Assembleia Legislativa Compartilhe:",
+      "titulo": "Publicado há 4 semanas 1 de Outubro de 2026 14:41 Orçamento Orçamento recorde: Governo encaminha Anteprojeto de Lei Orçamentária de 2027 à Assembleia Legislativa Compartilhe:",
+      "resumo": "Publicado há 4 semanas 1 de Outubro de 2026 14:41 Orçamento Orçamento recorde: Governo encaminha Anteprojeto de Lei Orçamentária de 2027 à Assembleia Legislativa Compartilhe:",
       "link": "https://www.fazenda.pr.gov.br/Noticia/Orcamento-recorde-Governo-encaminha-Anteprojeto-de-Lei-Orcamentaria-de-2027-Assembleia",
       "fonte": "SEFAZ PR",
       "esfera": "estadual",
@@ -3280,7 +2914,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-13T11:10:29",
+      "coletado_em": "2026-10-31T15:56:49",
       "primeira_vez_em": "2026-10-09T11:07:36"
     },
     "57000d58717ab66b": {
@@ -3341,7 +2975,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:26",
+      "coletado_em": "2026-10-31T15:54:49",
       "primeira_vez_em": "2026-10-10T11:03:27"
     },
     "de8bcd44da22e0de": {
@@ -3358,7 +2992,7 @@
         "Reforma Tributária",
         "NFSe"
       ],
-      "coletado_em": "2026-10-30T16:52:26",
+      "coletado_em": "2026-10-31T15:54:49",
       "primeira_vez_em": "2026-10-10T11:03:27"
     },
     "741f30953946c4a7": {
@@ -3944,7 +3578,7 @@
       "data_publicacao": "15/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-29T17:11:14",
+      "coletado_em": "2026-10-31T15:54:41",
       "primeira_vez_em": "2026-10-16T11:17:16"
     },
     "98f31a89a7a12829": {
@@ -4285,7 +3919,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:54:36",
+      "coletado_em": "2026-10-31T15:56:49",
       "primeira_vez_em": "2026-10-17T11:14:24"
     },
     "1bd01ac5c48ef90c": {
@@ -4299,7 +3933,7 @@
       "data_publicacao": "19/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-29T17:11:14",
+      "coletado_em": "2026-10-31T15:54:41",
       "primeira_vez_em": "2026-10-19T17:15:00"
     },
     "956f42d9152f269f": {
@@ -4316,7 +3950,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:26",
+      "coletado_em": "2026-10-31T15:54:49",
       "primeira_vez_em": "2026-10-19T17:15:08"
     },
     "551655e77bd0371a": {
@@ -4419,7 +4053,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:26",
+      "coletado_em": "2026-10-31T15:54:49",
       "primeira_vez_em": "2026-10-21T15:44:21"
     },
     "e7ef5e1a4576ff4a": {
@@ -4535,7 +4169,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:54:36",
+      "coletado_em": "2026-10-31T15:56:49",
       "primeira_vez_em": "2026-10-21T15:46:35"
     },
     "c499e7aa742dd1c4": {
@@ -4633,7 +4267,7 @@
       "data_publicacao": "23/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:52:27",
+      "coletado_em": "2026-10-31T15:54:50",
       "primeira_vez_em": "2026-10-23T15:31:57"
     },
     "7294e5533a414125": {
@@ -4691,7 +4325,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:54:06",
+      "coletado_em": "2026-10-31T15:56:17",
       "primeira_vez_em": "2026-10-23T15:33:27"
     },
     "c72c36e3114f4440": {
@@ -4820,7 +4454,7 @@
       "data_publicacao": "26/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:52:27",
+      "coletado_em": "2026-10-31T15:54:50",
       "primeira_vez_em": "2026-10-26T17:03:20"
     },
     "3726f62df6909ec2": {
@@ -4834,7 +4468,7 @@
       "data_publicacao": "26/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:52:27",
+      "coletado_em": "2026-10-31T15:54:50",
       "primeira_vez_em": "2026-10-26T17:03:20"
     },
     "c9c061e0bd102186": {
@@ -4970,7 +4604,7 @@
       "data_publicacao": "26/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:52:25",
+      "coletado_em": "2026-10-31T15:54:48",
       "primeira_vez_em": "2026-10-27T16:06:03"
     },
     "7e55af4f30df37cd": {
@@ -5070,7 +4704,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:33",
+      "coletado_em": "2026-10-31T15:54:57",
       "primeira_vez_em": "2026-10-27T16:06:13"
     },
     "2022a6d348e22197": {
@@ -5084,7 +4718,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:53:37",
+      "coletado_em": "2026-10-31T15:55:54",
       "primeira_vez_em": "2026-10-27T16:07:46"
     },
     "25639d56013d2013": {
@@ -5098,7 +4732,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:53:37",
+      "coletado_em": "2026-10-31T15:55:54",
       "primeira_vez_em": "2026-10-27T16:07:46"
     },
     "c01ecec29a40c83d": {
@@ -5112,7 +4746,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:54:36",
+      "coletado_em": "2026-10-31T15:56:49",
       "primeira_vez_em": "2026-10-27T16:08:49"
     },
     "27b6d039b7d98c3e": {
@@ -5140,7 +4774,7 @@
       "data_publicacao": "27/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:52:27",
+      "coletado_em": "2026-10-31T15:54:50",
       "primeira_vez_em": "2026-10-28T16:52:50"
     },
     "a97d34ebec391e64": {
@@ -5154,7 +4788,7 @@
       "data_publicacao": "27/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:52:27",
+      "coletado_em": "2026-10-31T15:54:50",
       "primeira_vez_em": "2026-10-28T16:52:50"
     },
     "f9d341e8ed70ff9c": {
@@ -5168,7 +4802,7 @@
       "data_publicacao": "28/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:52:28",
+      "coletado_em": "2026-10-31T15:54:51",
       "primeira_vez_em": "2026-10-28T16:52:52"
     },
     "33e7324c97ea3c29": {
@@ -5254,7 +4888,7 @@
       "data_publicacao": "27/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-29T17:14:54",
+      "coletado_em": "2026-10-31T15:58:15",
       "primeira_vez_em": "2026-10-28T16:56:05"
     },
     "9b0c0323e366e671": {
@@ -5270,7 +4904,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-29T17:11:19",
+      "coletado_em": "2026-10-31T15:54:46",
       "primeira_vez_em": "2026-10-29T17:11:19"
     },
     "16a47ae948ca95ee": {
@@ -5289,7 +4923,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:26",
+      "coletado_em": "2026-10-31T15:54:49",
       "primeira_vez_em": "2026-10-29T17:11:22"
     },
     "dae67137aa14b7f9": {
@@ -5303,7 +4937,7 @@
       "data_publicacao": "28/10/2026",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-10-30T16:52:27",
+      "coletado_em": "2026-10-31T15:54:50",
       "primeira_vez_em": "2026-10-29T17:11:23"
     },
     "b72059c58093cdd5": {
@@ -5317,7 +4951,7 @@
       "data_publicacao": "29/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:52:28",
+      "coletado_em": "2026-10-31T15:54:51",
       "primeira_vez_em": "2026-10-29T17:11:24"
     },
     "7fe70a3d9f4e0c93": {
@@ -5331,7 +4965,7 @@
       "data_publicacao": "28/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:52:28",
+      "coletado_em": "2026-10-31T15:54:51",
       "primeira_vez_em": "2026-10-29T17:11:24"
     },
     "e98d33980d5e840f": {
@@ -5345,7 +4979,7 @@
       "data_publicacao": "2026-10-29T15:30:14Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:52:31",
+      "coletado_em": "2026-10-31T15:54:55",
       "primeira_vez_em": "2026-10-29T17:11:27"
     },
     "74a0b7fb53c3bada": {
@@ -5359,7 +4993,7 @@
       "data_publicacao": "2026-10-29T14:28:14Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:52:31",
+      "coletado_em": "2026-10-31T15:54:55",
       "primeira_vez_em": "2026-10-29T17:11:27"
     },
     "13db745d510e89be": {
@@ -5460,7 +5094,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:54:36",
+      "coletado_em": "2026-10-31T15:56:49",
       "primeira_vez_em": "2026-10-29T17:13:15"
     },
     "64791aba6c5ae5ed": {
@@ -5474,7 +5108,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:54:36",
+      "coletado_em": "2026-10-31T15:56:49",
       "primeira_vez_em": "2026-10-29T17:13:15"
     },
     "2f06229079855ffd": {
@@ -5488,7 +5122,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:54:36",
+      "coletado_em": "2026-10-31T15:56:49",
       "primeira_vez_em": "2026-10-29T17:13:15"
     },
     "c5ce5ad4076b393e": {
@@ -5506,7 +5140,7 @@
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-10-30T16:52:26",
+      "coletado_em": "2026-10-31T15:54:49",
       "primeira_vez_em": "2026-10-30T16:52:26"
     },
     "12463e97cf805749": {
@@ -5520,7 +5154,7 @@
       "data_publicacao": "29/10/2026",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-10-30T16:52:28",
+      "coletado_em": "2026-10-31T15:54:51",
       "primeira_vez_em": "2026-10-30T16:52:28"
     },
     "19f053cc60709e7a": {
@@ -5534,7 +5168,7 @@
       "data_publicacao": "29/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:52:28",
+      "coletado_em": "2026-10-31T15:54:51",
       "primeira_vez_em": "2026-10-30T16:52:28"
     },
     "794479966c5fe7f0": {
@@ -5548,7 +5182,7 @@
       "data_publicacao": "29/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:52:28",
+      "coletado_em": "2026-10-31T15:54:51",
       "primeira_vez_em": "2026-10-30T16:52:28"
     },
     "50d0edfbc8e332c0": {
@@ -5566,7 +5200,7 @@
         "CBS",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-10-30T16:52:28",
+      "coletado_em": "2026-10-31T15:54:51",
       "primeira_vez_em": "2026-10-30T16:52:28"
     },
     "7016c71c762a3a3b": {
@@ -5584,7 +5218,7 @@
         "CBS",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-10-30T16:52:28",
+      "coletado_em": "2026-10-31T15:54:51",
       "primeira_vez_em": "2026-10-30T16:52:28"
     },
     "d911b3ec0994fc45": {
@@ -5598,7 +5232,7 @@
       "data_publicacao": "2026-10-29T23:53:08Z",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-10-30T16:52:31",
+      "coletado_em": "2026-10-31T15:54:55",
       "primeira_vez_em": "2026-10-30T16:52:31"
     },
     "2c532554b1c1a2da": {
@@ -5612,7 +5246,7 @@
       "data_publicacao": "2026-10-29T21:02:23Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:52:31",
+      "coletado_em": "2026-10-31T15:54:55",
       "primeira_vez_em": "2026-10-30T16:52:31"
     },
     "04c68291880c6fde": {
@@ -5626,7 +5260,7 @@
       "data_publicacao": "2026-10-29T20:27:15Z",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-10-30T16:52:31",
+      "coletado_em": "2026-10-31T15:54:55",
       "primeira_vez_em": "2026-10-30T16:52:31"
     },
     "41565d70391f97ec": {
@@ -5642,7 +5276,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:33",
+      "coletado_em": "2026-10-31T15:54:57",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "f613b9d7c5d7894f": {
@@ -5659,7 +5293,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:33",
+      "coletado_em": "2026-10-31T15:54:57",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "c331ed445295693a": {
@@ -5676,7 +5310,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:33",
+      "coletado_em": "2026-10-31T15:54:57",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "017acb4bb587164e": {
@@ -5694,7 +5328,7 @@
         "NT (Nota Técnica)",
         "Simples Nacional"
       ],
-      "coletado_em": "2026-10-30T16:52:33",
+      "coletado_em": "2026-10-31T15:54:57",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "a06b2f52b19faa20": {
@@ -5712,7 +5346,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:33",
+      "coletado_em": "2026-10-31T15:54:57",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "e34bd541cdfcab47": {
@@ -5728,7 +5362,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:35",
+      "coletado_em": "2026-10-31T15:54:59",
       "primeira_vez_em": "2026-10-30T16:52:35"
     },
     "ddaabbaff7082b26": {
@@ -5744,7 +5378,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-30T16:52:36",
+      "coletado_em": "2026-10-31T15:55:00",
       "primeira_vez_em": "2026-10-30T16:52:36"
     },
     "349221150d5a7d10": {
@@ -5758,7 +5392,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:53:37",
+      "coletado_em": "2026-10-31T15:55:54",
       "primeira_vez_em": "2026-10-30T16:53:37"
     },
     "f57eab3c14d5b3dc": {
@@ -5774,7 +5408,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-30T16:54:06",
+      "coletado_em": "2026-10-31T15:56:17",
       "primeira_vez_em": "2026-10-30T16:54:06"
     },
     "7912bdc1391976a2": {
@@ -5791,8 +5425,66 @@
         "IBS",
         "ICMS"
       ],
-      "coletado_em": "2026-10-30T16:54:36",
+      "coletado_em": "2026-10-31T15:56:49",
       "primeira_vez_em": "2026-10-30T16:54:36"
+    },
+    "2895a24210950aeb": {
+      "id": "2895a24210950aeb",
+      "titulo": "Davi marca para terça votação da PEC da Segurança",
+      "resumo": "O presidente do Senado, Davi Alcolumbre, marcou para terça-feira (3) a votação da Proposta de Emenda à Constituição (PEC) 18/2025, que amplia a integração entre os órgãos de segurança pública para o combate ao crime organizado. A ordem do dia está agendada para as 16h e tem outros quatro itens na pauta (leia mais abaixo). A PEC da Segurança Pública foi aprovada pela Comissão de Constituição e Justiça (CCJ) em 14 de outubro. No mesmo dia, o Plenário aprovou um requerimento (RQS 713/2026) que permite acelerar a tramitação da matéria. O calendário especial dispensa as cinco sessões de discussão exigidas para a votação da proposta em primeiro turno e outras três necessárias para o segundo turno. A PEC 18/2025, apresentada pelo Poder Executivo, reorganiza o sistema de segurança pública, estabelece novas competências entre os entes da Federação e fortalece a integração entre os órgãos responsáveis pelo setor. O texto prevê mais recursos para a área, com a inclusão do Sistema Único de Segurança Pública (Susp) na Constituição. O relator da PEC na CCJ, senador Rogério Carvalho (PT-SE), alterou o texto aprovado pela Câmara dos Deputados e acatou 4 das 81 emendas apresentadas pelos senadores. Rogério Carvalho retirou, por exemplo, um artigo que destinava recursos das apostas esportivas — conhecidas como bets — para os fundos de segurança pública. Ele manteve a destinação de 10% do superávit do Fundo Soberano do Pré-Sal para o setor. A PEC 18/2025 cria um regime penal mais rigoroso e proporcional à posição hierárquica de líderes e integrantes de facções, organizações paramilitares e milícias. O regime prevê, entre outras medidas: prisão obrigatória em presídio de segurança máxima; restrição à progressão de regime e a benefícios processuais; possibilidade de confisco de bens ligados à atividade criminosa, sem indenização; responsabilização de pessoas jurídicas envolvidas; proteção a denunciantes e seus familiares. Emendas de Plenário Até a sexta-feira (30), a PEC da Segurança Pública havia recebido cinco emendas de Plenário. Duas delas alteram as regras da maioridade penal. O senador Camilo Santana (PT-CE) sugere a redução de 18 anos para 16 anos nos casos de crimes hediondos. O senador Rogério Marinho (PL-RN) defende a alteração de 18 anos para 16 anos como regra geral e, nos casos de crimes hediondos, tortura, tráfico de drogas e terrorismo, para 14 anos. O senador Carlos Portinho (PL-RJ) propõe uma emenda para destinar às Forças Armadas recursos do Fundo Nacional de Segurança Pública. O dinheiro deve ser aplicado em ações de defesa civil, combate a crimes transfronteiriços e ambientais e operações de garantia da lei e da ordem. Uma emenda do senador Eduardo Gomes (PL-TO) inclui os agentes de trânsito entre os órgãos de segurança pública previstos na Constituição e atribui a eles o patrulhamento viário de natureza policial de trânsito. Outra sugestão do parlamentar inclui os órgãos estaduais e distrital do sistema socioeducativo entre os órgãos de segurança pública. Outros itens O Plenário pode votar ainda dois projetos de decreto legislativo que aprovam acordos internacionais. O PDS 240/2011 trata da cooperação na área de Defesa entre Brasil e Guiana, enquanto o PDL 575/2026 aborda a cooperação em Ciência e Tecnologia Espacial entre Brasil e Venezuela. Os senadores também podem votar o projeto de lei (PL) 5.782/2023, que cria a campanha Setembro em Flor, destinada à conscientização sobre os tumores ginecológicos. Os cânceres ginecológicos — como tumores malignos no útero, ovários, vagina e vulva — estão entre as principais causas de adoecimento e morte de mulheres por neoplasias. Outro item na pauta é o PL 186/2025, que prevê a realização de cursos, campanhas e palestras científicas para promover a parentalidade positiva. A parentalidade positiva é uma abordagem de educação e criação dos filhos baseada no respeito mútuo, no afeto, no diálogo e no estabelecimento de limites, sem recorrer à violência física ou psicológica.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/30/davi-marca-para-terca-votacao-da-pec-da-seguranca",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-10-30T23:10:23Z",
+      "impacto": "baixo",
+      "tags": [],
+      "coletado_em": "2026-10-31T15:54:55",
+      "primeira_vez_em": "2026-10-31T15:54:55"
+    },
+    "497f3e69db34871d": {
+      "id": "497f3e69db34871d",
+      "titulo": "15:00 Contabilidade Novo painel BI: Paraná alcança 90% de execução dos gastos sustentáveis em 2025 Compartilhe:",
+      "resumo": "15:00 Contabilidade Novo painel BI: Paraná alcança 90% de execução dos gastos sustentáveis em 2025 Compartilhe:",
+      "link": "https://www.fazenda.pr.gov.br/Noticia/Novo-painel-BI-Parana-alcanca-90-de-execucao-dos-gastos-sustentaveis-em-2025",
+      "fonte": "SEFAZ PR",
+      "esfera": "estadual",
+      "uf": "PR",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-31T15:56:49",
+      "primeira_vez_em": "2026-10-31T15:56:49"
+    },
+    "99fff694b5e63e33": {
+      "id": "99fff694b5e63e33",
+      "titulo": "14:45 Orçamento Votação popular: Paraná é finalista em prêmio nacional de inovação Compartilhe:",
+      "resumo": "14:45 Orçamento Votação popular: Paraná é finalista em prêmio nacional de inovação Compartilhe:",
+      "link": "https://www.fazenda.pr.gov.br/Noticia/Votacao-popular-Parana-e-finalista-em-premio-nacional-de-inovacao",
+      "fonte": "SEFAZ PR",
+      "esfera": "estadual",
+      "uf": "PR",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-10-31T15:56:49",
+      "primeira_vez_em": "2026-10-31T15:56:49"
+    },
+    "6b9079cf79ed3957": {
+      "id": "6b9079cf79ed3957",
+      "titulo": "Liberado para teste Evento de Apropriação de Crédito Presumido",
+      "resumo": "Publicado por SEFAZ Virtual RS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cte/Noticias/3017",
+      "fonte": "CTe (ENCAT/SVRS)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "30/10/2026",
+      "impacto": "médio",
+      "tags": [
+        "API/Sistemas Gov"
+      ],
+      "coletado_em": "2026-10-31T15:58:15",
+      "primeira_vez_em": "2026-10-31T15:58:15"
     }
   }
 }
