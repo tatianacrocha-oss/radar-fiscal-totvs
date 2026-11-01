@@ -1,5 +1,5 @@
 const RADAR_DADOS = {
-  "geradoEm": "2026-10-31T15:58:35",
+  "geradoEm": "2026-11-01T17:01:09",
   "noticias": [
     {
       "id": "4cb90c79835b4cd1",
@@ -14,7 +14,7 @@ const RADAR_DADOS = {
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-10-31T15:58:30",
+      "coletado_em": "2026-11-01T17:01:03",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     {
@@ -28,7 +28,7 @@ const RADAR_DADOS = {
       "data_publicacao": "10/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:58:30",
+      "coletado_em": "2026-11-01T17:01:03",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     {
@@ -44,7 +44,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-31T15:58:30",
+      "coletado_em": "2026-11-01T17:01:03",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     {
@@ -58,7 +58,7 @@ const RADAR_DADOS = {
       "data_publicacao": "19/10/2022",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:58:29",
+      "coletado_em": "2026-11-01T17:01:01",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     {
@@ -74,7 +74,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-31T15:58:29",
+      "coletado_em": "2026-11-01T17:01:01",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     {
@@ -90,7 +90,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-31T15:58:28",
+      "coletado_em": "2026-11-01T17:01:00",
       "primeira_vez_em": "2026-09-17T15:44:40"
     },
     {
@@ -104,7 +104,7 @@ const RADAR_DADOS = {
       "data_publicacao": "06/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:58:28",
+      "coletado_em": "2026-11-01T17:01:00",
       "primeira_vez_em": "2026-10-07T11:09:33"
     },
     {
@@ -118,7 +118,7 @@ const RADAR_DADOS = {
       "data_publicacao": "30/03/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:58:25",
+      "coletado_em": "2026-11-01T17:00:57",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -132,7 +132,7 @@ const RADAR_DADOS = {
       "data_publicacao": "04/05/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:58:25",
+      "coletado_em": "2026-11-01T17:00:57",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -146,7 +146,7 @@ const RADAR_DADOS = {
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:58:25",
+      "coletado_em": "2026-11-01T17:00:57",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -162,7 +162,7 @@ const RADAR_DADOS = {
       "tags": [
         "Simples Nacional"
       ],
-      "coletado_em": "2026-10-31T15:58:25",
+      "coletado_em": "2026-11-01T17:00:57",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -176,7 +176,7 @@ const RADAR_DADOS = {
       "data_publicacao": "10/01/2024",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:58:25",
+      "coletado_em": "2026-11-01T17:00:57",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -190,7 +190,7 @@ const RADAR_DADOS = {
       "data_publicacao": "15/12/2023",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:58:25",
+      "coletado_em": "2026-11-01T17:00:57",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     {
@@ -206,7 +206,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-31T15:58:23",
+      "coletado_em": "2026-11-01T17:00:55",
       "primeira_vez_em": "2026-09-17T15:44:37"
     },
     {
@@ -222,7 +222,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-31T15:58:21",
+      "coletado_em": "2026-11-01T17:00:54",
       "primeira_vez_em": "2026-09-17T15:44:36"
     },
     {
@@ -238,7 +238,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-31T15:58:20",
+      "coletado_em": "2026-11-01T17:00:52",
       "primeira_vez_em": "2026-09-17T15:44:35"
     },
     {
@@ -252,7 +252,7 @@ const RADAR_DADOS = {
       "data_publicacao": "26/11/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:58:18",
+      "coletado_em": "2026-11-01T17:00:51",
       "primeira_vez_em": "2026-09-17T15:44:34"
     },
     {
@@ -266,7 +266,7 @@ const RADAR_DADOS = {
       "data_publicacao": "29/05/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:58:16",
+      "coletado_em": "2026-11-01T17:00:48",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     {
@@ -282,7 +282,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-31T15:58:16",
+      "coletado_em": "2026-11-01T17:00:48",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     {
@@ -298,7 +298,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-31T15:58:16",
+      "coletado_em": "2026-11-01T17:00:48",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     {
@@ -314,7 +314,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-31T15:58:15",
+      "coletado_em": "2026-11-01T17:00:47",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     {
@@ -330,7 +330,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-31T15:58:15",
+      "coletado_em": "2026-11-01T17:00:47",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     {
@@ -344,7 +344,7 @@ const RADAR_DADOS = {
       "data_publicacao": "27/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:58:15",
+      "coletado_em": "2026-11-01T17:00:47",
       "primeira_vez_em": "2026-10-28T16:56:05"
     },
     {
@@ -360,7 +360,7 @@ const RADAR_DADOS = {
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-10-31T15:58:15",
+      "coletado_em": "2026-11-01T17:00:47",
       "primeira_vez_em": "2026-10-31T15:58:15"
     },
     {
@@ -376,7 +376,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:58:13",
+      "coletado_em": "2026-11-01T17:00:45",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     {
@@ -392,7 +392,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-31T15:58:13",
+      "coletado_em": "2026-11-01T17:00:45",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     {
@@ -406,7 +406,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:56:49",
+      "coletado_em": "2026-11-01T16:59:22",
       "primeira_vez_em": "2026-10-09T11:07:36"
     },
     {
@@ -420,7 +420,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:56:49",
+      "coletado_em": "2026-11-01T16:59:22",
       "primeira_vez_em": "2026-10-17T11:14:24"
     },
     {
@@ -434,13 +434,13 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:56:49",
+      "coletado_em": "2026-11-01T16:59:22",
       "primeira_vez_em": "2026-10-21T15:46:35"
     },
     {
       "id": "c01ecec29a40c83d",
-      "titulo": "Publicado há 3 dias 27 de Outubro de 2026 10:46 Contabilidade DCG promove curso de contabilidade pública para servidores estaduais Compartilhe:",
-      "resumo": "Publicado há 3 dias 27 de Outubro de 2026 10:46 Contabilidade DCG promove curso de contabilidade pública para servidores estaduais Compartilhe:",
+      "titulo": "Publicado há 4 dias 27 de Outubro de 2026 10:46 Contabilidade DCG promove curso de contabilidade pública para servidores estaduais Compartilhe:",
+      "resumo": "Publicado há 4 dias 27 de Outubro de 2026 10:46 Contabilidade DCG promove curso de contabilidade pública para servidores estaduais Compartilhe:",
       "link": "https://www.fazenda.pr.gov.br/Noticia/DCG-promove-curso-de-contabilidade-publica-para-servidores-estaduais",
       "fonte": "SEFAZ PR",
       "esfera": "estadual",
@@ -448,7 +448,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:56:49",
+      "coletado_em": "2026-11-01T16:59:22",
       "primeira_vez_em": "2026-10-27T16:08:49"
     },
     {
@@ -462,7 +462,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:56:49",
+      "coletado_em": "2026-11-01T16:59:22",
       "primeira_vez_em": "2026-10-29T17:13:15"
     },
     {
@@ -476,13 +476,13 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:56:49",
+      "coletado_em": "2026-11-01T16:59:22",
       "primeira_vez_em": "2026-10-29T17:13:15"
     },
     {
       "id": "2f06229079855ffd",
-      "titulo": "14:24 Geral Fazenda promove último encontro de 2026 do projeto Tesouro na Universidade Compartilhe:",
-      "resumo": "14:24 Geral Fazenda promove último encontro de 2026 do projeto Tesouro na Universidade Compartilhe:",
+      "titulo": "Publicado há 3 dias 28 de Outubro de 2026 14:24 Geral Fazenda promove último encontro de 2026 do projeto Tesouro na Universidade Compartilhe:",
+      "resumo": "Publicado há 3 dias 28 de Outubro de 2026 14:24 Geral Fazenda promove último encontro de 2026 do projeto Tesouro na Universidade Compartilhe:",
       "link": "https://www.fazenda.pr.gov.br/Noticia/Fazenda-promove-ultimo-encontro-de-2026-do-projeto-Tesouro-na-Universidade",
       "fonte": "SEFAZ PR",
       "esfera": "estadual",
@@ -490,7 +490,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:56:49",
+      "coletado_em": "2026-11-01T16:59:22",
       "primeira_vez_em": "2026-10-29T17:13:15"
     },
     {
@@ -507,7 +507,7 @@ const RADAR_DADOS = {
         "IBS",
         "ICMS"
       ],
-      "coletado_em": "2026-10-31T15:56:49",
+      "coletado_em": "2026-11-01T16:59:22",
       "primeira_vez_em": "2026-10-30T16:54:36"
     },
     {
@@ -521,7 +521,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:56:49",
+      "coletado_em": "2026-11-01T16:59:22",
       "primeira_vez_em": "2026-10-31T15:56:49"
     },
     {
@@ -535,7 +535,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:56:49",
+      "coletado_em": "2026-11-01T16:59:22",
       "primeira_vez_em": "2026-10-31T15:56:49"
     },
     {
@@ -549,7 +549,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:56:17",
+      "coletado_em": "2026-11-01T16:58:51",
       "primeira_vez_em": "2026-10-23T15:33:27"
     },
     {
@@ -565,7 +565,7 @@ const RADAR_DADOS = {
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-10-31T15:56:17",
+      "coletado_em": "2026-11-01T16:58:51",
       "primeira_vez_em": "2026-10-30T16:54:06"
     },
     {
@@ -579,7 +579,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:55:54",
+      "coletado_em": "2026-11-01T16:58:23",
       "primeira_vez_em": "2026-10-27T16:07:46"
     },
     {
@@ -593,7 +593,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:55:54",
+      "coletado_em": "2026-11-01T16:58:23",
       "primeira_vez_em": "2026-10-27T16:07:46"
     },
     {
@@ -607,7 +607,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:55:54",
+      "coletado_em": "2026-11-01T16:58:23",
       "primeira_vez_em": "2026-10-30T16:53:37"
     },
     {
@@ -621,7 +621,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:55:35",
+      "coletado_em": "2026-11-01T16:58:05",
       "primeira_vez_em": "2026-09-17T15:43:33"
     },
     {
@@ -635,7 +635,7 @@ const RADAR_DADOS = {
       "data_publicacao": "28/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:55:35",
+      "coletado_em": "2026-11-01T16:58:05",
       "primeira_vez_em": "2026-10-09T11:06:21"
     },
     {
@@ -649,7 +649,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:55:35",
+      "coletado_em": "2026-11-01T16:58:05",
       "primeira_vez_em": "2026-10-09T11:06:21"
     },
     {
@@ -665,7 +665,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:55:04",
+      "coletado_em": "2026-11-01T16:57:35",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     {
@@ -681,7 +681,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:55:02",
+      "coletado_em": "2026-11-01T16:57:33",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     {
@@ -697,7 +697,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:55:00",
+      "coletado_em": "2026-11-01T16:57:31",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     {
@@ -713,7 +713,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:55:00",
+      "coletado_em": "2026-11-01T16:57:31",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     {
@@ -729,7 +729,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:55:00",
+      "coletado_em": "2026-11-01T16:57:31",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     {
@@ -745,7 +745,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:55:00",
+      "coletado_em": "2026-11-01T16:57:31",
       "primeira_vez_em": "2026-10-30T16:52:36"
     },
     {
@@ -761,7 +761,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:59",
+      "coletado_em": "2026-11-01T16:57:29",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     {
@@ -777,7 +777,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:59",
+      "coletado_em": "2026-11-01T16:57:29",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     {
@@ -793,7 +793,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:59",
+      "coletado_em": "2026-11-01T16:57:29",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     {
@@ -809,7 +809,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:59",
+      "coletado_em": "2026-11-01T16:57:29",
       "primeira_vez_em": "2026-10-02T11:04:32"
     },
     {
@@ -825,7 +825,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:59",
+      "coletado_em": "2026-11-01T16:57:29",
       "primeira_vez_em": "2026-10-30T16:52:35"
     },
     {
@@ -841,7 +841,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:57",
+      "coletado_em": "2026-11-01T16:57:27",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     {
@@ -857,7 +857,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:57",
+      "coletado_em": "2026-11-01T16:57:27",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     {
@@ -874,7 +874,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:57",
+      "coletado_em": "2026-11-01T16:57:27",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     {
@@ -891,7 +891,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:57",
+      "coletado_em": "2026-11-01T16:57:27",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     {
@@ -907,7 +907,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:57",
+      "coletado_em": "2026-11-01T16:57:27",
       "primeira_vez_em": "2026-10-27T16:06:13"
     },
     {
@@ -923,7 +923,7 @@ const RADAR_DADOS = {
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:57",
+      "coletado_em": "2026-11-01T16:57:27",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     {
@@ -940,7 +940,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:57",
+      "coletado_em": "2026-11-01T16:57:27",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     {
@@ -957,7 +957,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:57",
+      "coletado_em": "2026-11-01T16:57:27",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     {
@@ -975,7 +975,7 @@ const RADAR_DADOS = {
         "NT (Nota Técnica)",
         "Simples Nacional"
       ],
-      "coletado_em": "2026-10-31T15:54:57",
+      "coletado_em": "2026-11-01T16:57:27",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     {
@@ -993,7 +993,7 @@ const RADAR_DADOS = {
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:57",
+      "coletado_em": "2026-11-01T16:57:27",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     {
@@ -1007,7 +1007,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-10-29T15:30:14Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:55",
+      "coletado_em": "2026-11-01T16:57:25",
       "primeira_vez_em": "2026-10-29T17:11:27"
     },
     {
@@ -1021,7 +1021,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-10-29T14:28:14Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:55",
+      "coletado_em": "2026-11-01T16:57:25",
       "primeira_vez_em": "2026-10-29T17:11:27"
     },
     {
@@ -1035,7 +1035,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-10-29T23:53:08Z",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:55",
+      "coletado_em": "2026-11-01T16:57:25",
       "primeira_vez_em": "2026-10-30T16:52:31"
     },
     {
@@ -1049,7 +1049,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-10-29T21:02:23Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:55",
+      "coletado_em": "2026-11-01T16:57:25",
       "primeira_vez_em": "2026-10-30T16:52:31"
     },
     {
@@ -1063,7 +1063,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-10-29T20:27:15Z",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:55",
+      "coletado_em": "2026-11-01T16:57:25",
       "primeira_vez_em": "2026-10-30T16:52:31"
     },
     {
@@ -1077,7 +1077,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-10-30T23:10:23Z",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:55",
+      "coletado_em": "2026-11-01T16:57:25",
       "primeira_vez_em": "2026-10-31T15:54:55"
     },
     {
@@ -1091,7 +1091,7 @@ const RADAR_DADOS = {
       "data_publicacao": "28/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:51",
+      "coletado_em": "2026-11-01T16:57:21",
       "primeira_vez_em": "2026-10-28T16:52:52"
     },
     {
@@ -1105,7 +1105,7 @@ const RADAR_DADOS = {
       "data_publicacao": "29/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:51",
+      "coletado_em": "2026-11-01T16:57:21",
       "primeira_vez_em": "2026-10-29T17:11:24"
     },
     {
@@ -1119,7 +1119,7 @@ const RADAR_DADOS = {
       "data_publicacao": "28/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:51",
+      "coletado_em": "2026-11-01T16:57:21",
       "primeira_vez_em": "2026-10-29T17:11:24"
     },
     {
@@ -1133,7 +1133,7 @@ const RADAR_DADOS = {
       "data_publicacao": "29/10/2026",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:51",
+      "coletado_em": "2026-11-01T16:57:21",
       "primeira_vez_em": "2026-10-30T16:52:28"
     },
     {
@@ -1147,7 +1147,7 @@ const RADAR_DADOS = {
       "data_publicacao": "29/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:51",
+      "coletado_em": "2026-11-01T16:57:21",
       "primeira_vez_em": "2026-10-30T16:52:28"
     },
     {
@@ -1161,7 +1161,7 @@ const RADAR_DADOS = {
       "data_publicacao": "29/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:51",
+      "coletado_em": "2026-11-01T16:57:21",
       "primeira_vez_em": "2026-10-30T16:52:28"
     },
     {
@@ -1179,7 +1179,7 @@ const RADAR_DADOS = {
         "CBS",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-10-31T15:54:51",
+      "coletado_em": "2026-11-01T16:57:21",
       "primeira_vez_em": "2026-10-30T16:52:28"
     },
     {
@@ -1197,7 +1197,7 @@ const RADAR_DADOS = {
         "CBS",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-10-31T15:54:51",
+      "coletado_em": "2026-11-01T16:57:21",
       "primeira_vez_em": "2026-10-30T16:52:28"
     },
     {
@@ -1211,7 +1211,7 @@ const RADAR_DADOS = {
       "data_publicacao": "23/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:50",
+      "coletado_em": "2026-11-01T16:57:20",
       "primeira_vez_em": "2026-10-23T15:31:57"
     },
     {
@@ -1225,7 +1225,7 @@ const RADAR_DADOS = {
       "data_publicacao": "26/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:50",
+      "coletado_em": "2026-11-01T16:57:20",
       "primeira_vez_em": "2026-10-26T17:03:20"
     },
     {
@@ -1239,7 +1239,7 @@ const RADAR_DADOS = {
       "data_publicacao": "26/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:50",
+      "coletado_em": "2026-11-01T16:57:20",
       "primeira_vez_em": "2026-10-26T17:03:20"
     },
     {
@@ -1253,7 +1253,7 @@ const RADAR_DADOS = {
       "data_publicacao": "27/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:50",
+      "coletado_em": "2026-11-01T16:57:20",
       "primeira_vez_em": "2026-10-28T16:52:50"
     },
     {
@@ -1267,7 +1267,7 @@ const RADAR_DADOS = {
       "data_publicacao": "27/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:50",
+      "coletado_em": "2026-11-01T16:57:20",
       "primeira_vez_em": "2026-10-28T16:52:50"
     },
     {
@@ -1281,24 +1281,8 @@ const RADAR_DADOS = {
       "data_publicacao": "28/10/2026",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:50",
+      "coletado_em": "2026-11-01T16:57:20",
       "primeira_vez_em": "2026-10-29T17:11:23"
-    },
-    {
-      "id": "21a7f1ac3d421137",
-      "titulo": "Nova funcionalidade no Painel Administrativo Municipal permite antecipar a adoção do Emissor Nacional para optantes pelo Simples Nacional",
-      "resumo": "Nova funcionalidade no Painel Administrativo Municipal permite antecipar a adoção do Emissor Nacional para optantes pelo Simples Nacional",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/nova-funcionalidade-no-painel-administrativo-municipal-permite-antecipar-a-adocao-do-emissor-nacional-para-optantes-pelo-simples-nacional",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "28/09/2026",
-      "impacto": "médio",
-      "tags": [
-        "Simples Nacional"
-      ],
-      "coletado_em": "2026-10-31T15:54:49",
-      "primeira_vez_em": "2026-09-29T11:04:53"
     },
     {
       "id": "b22c32886dc039f5",
@@ -1313,7 +1297,7 @@ const RADAR_DADOS = {
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-10-31T15:54:49",
+      "coletado_em": "2026-11-01T16:57:18",
       "primeira_vez_em": "2026-10-01T15:54:20"
     },
     {
@@ -1332,7 +1316,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:49",
+      "coletado_em": "2026-11-01T16:57:18",
       "primeira_vez_em": "2026-10-10T11:03:27"
     },
     {
@@ -1349,7 +1333,7 @@ const RADAR_DADOS = {
         "Reforma Tributária",
         "NFSe"
       ],
-      "coletado_em": "2026-10-31T15:54:49",
+      "coletado_em": "2026-11-01T16:57:18",
       "primeira_vez_em": "2026-10-10T11:03:27"
     },
     {
@@ -1366,7 +1350,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:49",
+      "coletado_em": "2026-11-01T16:57:18",
       "primeira_vez_em": "2026-10-19T17:15:08"
     },
     {
@@ -1383,7 +1367,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:49",
+      "coletado_em": "2026-11-01T16:57:18",
       "primeira_vez_em": "2026-10-21T15:44:21"
     },
     {
@@ -1402,7 +1386,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:49",
+      "coletado_em": "2026-11-01T16:57:18",
       "primeira_vez_em": "2026-10-29T17:11:22"
     },
     {
@@ -1420,8 +1404,24 @@ const RADAR_DADOS = {
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-10-31T15:54:49",
+      "coletado_em": "2026-11-01T16:57:18",
       "primeira_vez_em": "2026-10-30T16:52:26"
+    },
+    {
+      "id": "d2e13a6d9d9cb7d7",
+      "titulo": "Nova funcionalidade possibilita representação e alternância de perfis na NFS-e",
+      "resumo": "Nova funcionalidade possibilita representação e alternância de perfis na NFS-e",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/nova-funcionalidade-possibilita-representacao-e-alternancia-de-perfis-na-nfs-e",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "31/10/2026",
+      "impacto": "médio",
+      "tags": [
+        "NFSe"
+      ],
+      "coletado_em": "2026-11-01T16:57:18",
+      "primeira_vez_em": "2026-11-01T16:57:18"
     },
     {
       "id": "0c1964e9f04584db",
@@ -1437,7 +1437,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:48",
+      "coletado_em": "2026-11-01T16:57:17",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1451,7 +1451,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:48",
+      "coletado_em": "2026-11-01T16:57:17",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1468,7 +1468,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:48",
+      "coletado_em": "2026-11-01T16:57:17",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1486,7 +1486,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:48",
+      "coletado_em": "2026-11-01T16:57:17",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1500,7 +1500,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:48",
+      "coletado_em": "2026-11-01T16:57:17",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1518,7 +1518,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:48",
+      "coletado_em": "2026-11-01T16:57:17",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1536,7 +1536,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:48",
+      "coletado_em": "2026-11-01T16:57:17",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     {
@@ -1554,7 +1554,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:48",
+      "coletado_em": "2026-11-01T16:57:17",
       "primeira_vez_em": "2026-10-01T15:54:19"
     },
     {
@@ -1571,7 +1571,7 @@ const RADAR_DADOS = {
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-10-31T15:54:48",
+      "coletado_em": "2026-11-01T16:57:17",
       "primeira_vez_em": "2026-10-03T11:59:05"
     },
     {
@@ -1585,7 +1585,7 @@ const RADAR_DADOS = {
       "data_publicacao": "26/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:48",
+      "coletado_em": "2026-11-01T16:57:17",
       "primeira_vez_em": "2026-10-27T16:06:03"
     },
     {
@@ -1601,7 +1601,7 @@ const RADAR_DADOS = {
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-31T15:54:46",
+      "coletado_em": "2026-11-01T16:57:16",
       "primeira_vez_em": "2026-09-19T11:03:30"
     },
     {
@@ -1617,7 +1617,7 @@ const RADAR_DADOS = {
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-31T15:54:46",
+      "coletado_em": "2026-11-01T16:57:16",
       "primeira_vez_em": "2026-09-22T11:03:37"
     },
     {
@@ -1631,7 +1631,7 @@ const RADAR_DADOS = {
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:46",
+      "coletado_em": "2026-11-01T16:57:16",
       "primeira_vez_em": "2026-09-22T11:03:37"
     },
     {
@@ -1647,7 +1647,7 @@ const RADAR_DADOS = {
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-31T15:54:46",
+      "coletado_em": "2026-11-01T16:57:16",
       "primeira_vez_em": "2026-09-25T11:03:52"
     },
     {
@@ -1663,7 +1663,7 @@ const RADAR_DADOS = {
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-31T15:54:46",
+      "coletado_em": "2026-11-01T16:57:16",
       "primeira_vez_em": "2026-09-30T11:04:55"
     },
     {
@@ -1682,7 +1682,7 @@ const RADAR_DADOS = {
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-10-31T15:54:46",
+      "coletado_em": "2026-11-01T16:57:16",
       "primeira_vez_em": "2026-10-01T11:05:37"
     },
     {
@@ -1698,7 +1698,7 @@ const RADAR_DADOS = {
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-31T15:54:46",
+      "coletado_em": "2026-11-01T16:57:16",
       "primeira_vez_em": "2026-10-04T17:21:33"
     },
     {
@@ -1715,7 +1715,7 @@ const RADAR_DADOS = {
         "IBS",
         "CBS"
       ],
-      "coletado_em": "2026-10-31T15:54:46",
+      "coletado_em": "2026-11-01T16:57:16",
       "primeira_vez_em": "2026-10-07T11:05:57"
     },
     {
@@ -1731,7 +1731,7 @@ const RADAR_DADOS = {
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-10-31T15:54:46",
+      "coletado_em": "2026-11-01T16:57:16",
       "primeira_vez_em": "2026-10-29T17:11:19"
     },
     {
@@ -1745,7 +1745,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-07-22T16:51:56Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:43",
+      "coletado_em": "2026-11-01T16:57:12",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     {
@@ -1759,7 +1759,7 @@ const RADAR_DADOS = {
       "data_publicacao": "2026-07-20T19:54:16Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:43",
+      "coletado_em": "2026-11-01T16:57:12",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     {
@@ -1773,7 +1773,7 @@ const RADAR_DADOS = {
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:41",
+      "coletado_em": "2026-11-01T16:57:10",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
@@ -1789,7 +1789,7 @@ const RADAR_DADOS = {
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-10-31T15:54:41",
+      "coletado_em": "2026-11-01T16:57:10",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
@@ -1807,7 +1807,7 @@ const RADAR_DADOS = {
         "CBS",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-10-31T15:54:41",
+      "coletado_em": "2026-11-01T16:57:10",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
@@ -1821,7 +1821,7 @@ const RADAR_DADOS = {
       "data_publicacao": "14/01/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:41",
+      "coletado_em": "2026-11-01T16:57:10",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     {
@@ -1835,7 +1835,7 @@ const RADAR_DADOS = {
       "data_publicacao": "05/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:41",
+      "coletado_em": "2026-11-01T16:57:10",
       "primeira_vez_em": "2026-10-06T11:05:35"
     },
     {
@@ -1849,7 +1849,7 @@ const RADAR_DADOS = {
       "data_publicacao": "15/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:41",
+      "coletado_em": "2026-11-01T16:57:10",
       "primeira_vez_em": "2026-10-16T11:17:16"
     },
     {
@@ -1863,8 +1863,24 @@ const RADAR_DADOS = {
       "data_publicacao": "19/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-31T15:54:41",
+      "coletado_em": "2026-11-01T16:57:10",
       "primeira_vez_em": "2026-10-19T17:15:00"
+    },
+    {
+      "id": "21a7f1ac3d421137",
+      "titulo": "Nova funcionalidade no Painel Administrativo Municipal permite antecipar a adoção do Emissor Nacional para optantes pelo Simples Nacional",
+      "resumo": "Nova funcionalidade no Painel Administrativo Municipal permite antecipar a adoção do Emissor Nacional para optantes pelo Simples Nacional",
+      "link": "https://www.gov.br/nfse/pt-br/noticias/nova-funcionalidade-no-painel-administrativo-municipal-permite-antecipar-a-adocao-do-emissor-nacional-para-optantes-pelo-simples-nacional",
+      "fonte": "NFS-e Nacional (CGNFS-e)",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "28/09/2026",
+      "impacto": "médio",
+      "tags": [
+        "Simples Nacional"
+      ],
+      "coletado_em": "2026-10-31T15:54:49",
+      "primeira_vez_em": "2026-09-29T11:04:53"
     },
     {
       "id": "05f49f34ca2a4766",
@@ -5323,169 +5339,6 @@ const RADAR_DADOS = {
       ],
       "coletado_em": "2026-10-03T11:59:04",
       "primeira_vez_em": "2026-09-17T15:43:02"
-    },
-    {
-      "id": "12bfa17db8299e4a",
-      "titulo": "Lei fortalece seguro rural e fundo para catástrofes que atinjam a produção",
-      "resumo": "O apoio financeiro do poder público às empresas de seguro rural passa a ser despesa obrigatória e livre do contingenciamento, entre outras medidas de incentivo ao setor. É o que determina a Lei 15.526, sancionada com vetos nesta terça-feira (29) e publicada no Diário Oficial da União na quarta-feira (30). A norma busca tirar do papel o chamado “Fundo Catástrofe”, criado em 2010 para socorrer as seguradoras do setor em casos extraordinários de prejuízo às colheitas e outras atividades rurais, mas até hoje inoperante. O texto teve origem no Projeto de Lei (PL) 2.951/2024, apresentado pela senadora Tereza Cristina (PP-MS). Para ela, a lei dá mais estabilidade para as atividades no campo. “Um seguro rural mais eficiente ajuda a enfrentar as adversidades, preservar a produção e garantir a continuidade do abastecimento. Quando protegemos quem produz, protegemos também a segurança alimentar de todos os brasileiros”, afirmou a senadora em publicação nas redes sociais nesta quarta. No Senado, o projeto foi aprovado em 3 de setembro, sob relatoria do senador Jaime Bagattoli (PL-RO), que manteve a maior parte do substitutivo (versão alternativa) dos deputados. Seguro mais barato Segundo o texto, as subvenções econômicas concedidas a cada ano serão “limitadas ao montante previsto no projeto de lei orçamentária anual encaminhado pelo Poder Executivo federal ao Congresso Nacional”. Deverá haver articulação com estados e municípios para que estes complementem o auxílio às seguradoras, para baratear o seguro. Em nível federal, o apoio ocorre por meio do Programa de Subvenção ao Prêmio do Seguro Rural (PSR). Fundo Catástrofe Ao apresentar o projeto, Tereza Cristina apontou que o Fundo Catástrofe, criado pela Lei Complementar 137, de 2010, não prosperou por falta de regulamentação e de aportes contínuos de recursos. A nova norma permite que o Executivo designe provisoriamente uma instituição existente para organizar o fundo. Além disso, prevê: o fim do limite da contribuição da União ao fundo. Antes, o limite era de R$ 2 bilhões na adesão ao fundo, e R$ 4 bilhões em títulos públicos; o incentivo do investimento de sociedades seguradoras com cotista, que será requisito para obter a subvenção econômica do PSR; contribuição da União por meio de ações de empresas ou imóveis. O fundo poderá diluir os riscos para empresas resseguradoras ou para o mercado financeiro, por meio de Letra de Risco de Seguros (LRS). Vetos O governo federal barrou trecho que explicitava que o setor seria isento de “todos os tributos federais incidentes, direta ou indiretamente, sobre o seguro rural”. Para o Poder Executivo, a medida diminuiria a arrecadação federal sem obedecer a legislação fiscal, que exige estudo do impacto orçamentário e medidas de compensação. Conforme o rito legislativo, os parlamentares ainda deverão decidir se derrubam ou mantêm o veto. Empréstimos Os produtores que possuem seguro rural terão prioridade nas linhas de crédito criadas pelo governo para prorrogar ou renegociar dívidas. Agora o poder público poderá exigir a contratação de seguro rural como condição para acesso ao crédito de custeio agropecuário. A exigência era proibida pela Lei 10.823, de 2003 (Lei do Seguro Rural). Para o relator Bagattoli, os tomadores de empréstimo terão mais segurança para usar o contrato de seguro como garantia de que honrarão as parcelas. O banco ainda poderá exigir as indenizações da seguradora, caso ocorra um sinistro, como a perda da lavoura. Isso poderá diminuir os juros dos financiamentos e torná-los mais acessíveis, na avaliação do senador.",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/30/lei-fortalece-seguro-rural-e-fundo-para-catastrofes-que-atinjam-a-producao",
-      "fonte": "Senado Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-09-30T20:32:54Z",
-      "impacto": "alto",
-      "tags": [],
-      "coletado_em": "2026-10-02T11:04:28",
-      "primeira_vez_em": "2026-10-01T11:05:44"
-    },
-    {
-      "id": "d1e70670d1a75d96",
-      "titulo": "Renzo Braz toma posse como senador por Minas Gerais",
-      "resumo": "O ex-deputado federal Renzo Braz (PP) tomou posse nesta quarta-feira (30) como senador por Minas Gerais. Braz foi eleito em 2018 primeiro suplente na chapa de Rodrigo Pacheco. Ex-presidente do Senado, Pacheco assumiu, horas antes, o cargo de ministro do Tribunal de Contas da União (TCU). Em seu discurso de posse, Braz salientou o “inestimável legado” de Pacheco nos dois períodos em que presidiu o Senado. Afirmou que assume o mandato em nome de uma geração que pede reformas, e disse estar comprometido com o desenvolvimento de Minas Gerais e o futuro do Brasil. — A política só se justifica se for para melhorar a vida das pessoas. Radicalismo, polarização, disputas no campo político apenas tiram o foco do que é mais importante: trabalhar para o crescimento do Brasil. Precisamos de equilíbrio para dialogar com firmeza e destravar os problemas reais do país — disse. O novo senador completará o mandato de Pacheco, que se encerra em fevereiro de 2027. Segundo a senadora Damares Alves (Republicanos-DF), que deu posse a Braz, apesar de curto, o período demandará importantes decisões parlamentares. — Temos grandes matérias que virão à pauta. Temos grandes discussões para fazer ainda, até o final desta legislatura — afirmou Damares. Biografia Renzo do Amaral Braz nasceu em Muriaé (MG), em 11 de abril de 1980. Empresário e administrador, é formado em administração de empresas pela Universidade Iguaçu (Unig) e especialista em gerência de custos logísticos pela Universidade Federal do Rio de Janeiro (UFRJ). É acionista do Grupo Líder, que atua nos setores de veículos e motocicletas, seguros e mobilidade urbana. Também trabalha nas áreas de logística e transporte e de construção civil e desenvolvimento imobiliário. Renzo Braz iniciou a carreira política em 2010, quando foi eleito deputado federal por Minas Gerais, com mais de 100 mil votos. Exerceu o mandato entre 2011 e 2015 e foi reeleito para a legislatura seguinte, com quase 110 mil votos. Na Câmara dos Deputados, destinou recursos para obras de infraestrutura e para a área da saúde em seu estado. Também apoiou ações destinadas a hospitais filantrópicos. Durante os mandatos, votou a favor de medidas como a Emenda Constitucional que estabeleceu o teto de gastos públicos e a reforma trabalhista de 2017. Nas eleições de 2018, a chapa de Renzo Braz, encabeçada por Rodrigo Pacheco, recebeu 3.616.864 votos.",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/30/renzo-braz-toma-posse-como-senador-por-minas-gerais",
-      "fonte": "Senado Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-09-30T19:44:10Z",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-02T11:04:28",
-      "primeira_vez_em": "2026-10-01T11:05:44"
-    },
-    {
-      "id": "4a74ce6507fab26e",
-      "titulo": "Confira o que pode e o que não pode até o dia da votação",
-      "resumo": "No próximo dia 4 de outubro, mais de 158 milhões de brasileiros estarão aptos a votar para eleger presidente da República, governadores, senadores e deputados federais, estaduais e distritais. Até lá, eleitores, candidatos, partidos e equipes de campanha precisam observar os prazos e as restrições que entram em vigor gradualmente nos últimos dias da campanha. Comícios, debates, propaganda no rádio e na televisão, anúncios na imprensa, impulsionamento na internet e atos de rua têm datas diferentes para terminar. No dia da eleição, algumas manifestações políticas são permitidas, desde que individuais e silenciosas. Quinta-feira De acordo com o calendário do Tribunal Superior Eleitoral (TSE), quinta-feira (1º) será o último dia para a veiculação da propaganda eleitoral gratuita no rádio e na televisão. O horário eleitoral gratuito começou a ser exibido nos veículos em 28 de agosto. Também termina na quinta-feira o prazo para a realização de comícios e para o uso de aparelhos de som fixos, entre 8h e meia-noite. No comício de encerramento da campanha, o horário poderá ser prorrogado por mais duas horas. Os debates no rádio e na televisão também poderão ser realizados até quinta-feira. A programação poderá avançar pela madrugada, desde que termine até as 7h de sexta-feira (2). Também termina na quinta-feira o prazo para a circulação paga ou impulsionada de propaganda eleitoral na internet. A partir de quinta-feira e até as 17h de 5 de outubro, também ficará proibida a publicação ou republicação, com ou sem impulsionamento, de novos conteúdos produzidos por inteligência artificial que utilizem imagem, voz ou manifestação de candidato ou de pessoa pública. Isso vale inclusive quando o material estiver devidamente identificado como artificial. Sexta-feira Já na sexta-feira (2) será o último dia para a divulgação paga de propaganda eleitoral na imprensa escrita e para a reprodução, na internet, dos anúncios publicados em jornais impressos. Também a partir de sexta-feira a força armada deverá permanecer a pelo menos 100 metros das seções eleitorais. A entrada ou aproximação do local de votação só será permitida mediante ordem judicial ou da presidência da mesa receptora de votos. A regra não se aplica para a integrantes das forças de segurança que estejam a serviço da Justiça Eleitoral ou em atividade de policiamento no dia da eleição. Outra exceção é para estabelecimentos penais e unidades de internação de adolescentes, desde que o sigilo do voto seja preservado. Sábado Na véspera da eleição, candidatos, partidos, federações e coligações poderão utilizar alto-falantes e amplificadores de som das 8h às 22h. Para isso, é preciso respeitar a distância mínima de 200 metros de sedes dos Poderes Executivo e Legislativo, tribunais, quartéis, hospitais, escolas, bibliotecas, igrejas e teatros em funcionamento. Até as 22h também serão permitidas a distribuição de material gráfico e a realização de caminhadas, carreatas e passeatas, acompanhadas ou não por carros de som ou minitrios. De sábado até segunda-feira (5), colecionadores, atiradores e caçadores ficam proibidos de transportar armas e munições em todo o território nacional. Domingo, dia da eleição No domingo (4), dia da eleição, a votação ocorrerá das 8h às 17h, pelo horário de Brasília. Quem estiver na fila às 17h receberá uma senha e poderá votar. A divulgação dos resultados poderá começar a partir desse horário. Neste dia, o eleitor poderá manifestar sua preferência política de forma individual e silenciosa, por meio de bandeiras, broches, adesivos e dísticos, que são inscrições ou dizeres da preferência política do eleitor. São proibidas manifestações coletivas, aglomerações com roupas padronizadas, distribuição de material de campanha, abordagem ou tentativa de convencimento de eleitores, comícios, carreatas e uso de alto-falantes. O celular, a máquina fotográfica, a filmadora e qualquer equipamento que possa comprometer o sigilo do voto não poderão ser levados à cabine. Os aparelhos deverão ser desligados e deixados no local indicado pelos mesários. As mesas receptoras de justificativa funcionarão das 8h às 17h. Quem estiver fora do domicílio eleitoral também poderá justificar a ausência pelo aplicativo e-Título, conforme as regras da Justiça Eleitoral. O transporte público coletivo deverá ser oferecido gratuitamente no dia da votação. Também serão permitidos o transporte regular, táxis e veículos de aplicativos, além do uso de veículo particular pelo proprietário para conduzir integrantes da própria família. É proibido o transporte de eleitores organizado com finalidade eleitoral.",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/30/confira-o-que-pode-e-o-que-nao-pode-ate-o-dia-da-votacao",
-      "fonte": "Senado Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-09-30T15:00:35Z",
-      "impacto": "médio",
-      "tags": [
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-10-02T11:04:28",
-      "primeira_vez_em": "2026-10-01T11:05:44"
-    },
-    {
-      "id": "9351c78cb98061a3",
-      "titulo": "CCS debate audiovisual e comunicação pública na segunda-feira",
-      "resumo": "O Conselho de Comunicação Social (CCS) se reúne na segunda-feira (5), às 14h, para analisar temas relacionados à comunicação, ao setor audiovisual e ao conteúdo jornalístico. A reunião será realizada no plenário 7 da Ala Senador Alexandre Costa, no Anexo II do Senado. A pauta prevê a análise de um relatório sobre o Projeto de Lei (PL) 4.675/2025, que trata de mercados digitais e concorrência, e a apresentação de trabalhos desenvolvidos por integrantes do conselho. Entre os assuntos previstos estão a regulamentação no setor audiovisual, a comunicação pública em período eleitoral e a remuneração de conteúdo jornalístico. Os conselheiros também devem apresentar relatórios sobre o andamento dos trabalhos das comissões do CCS. Também está prevista a participação da sociedade civil. Como participar O evento será interativo: qualquer pessoa pode enviar perguntas e comentários pelo telefone da Ouvidoria do Senado (0800 061 2211) ou pelo Portal e‑Cidadania. As mensagens podem ser lidas e respondidas pelos senadores e debatedores ao vivo. O Senado oferece uma declaração de participação, que pode ser usada como atividade complementar em curso universitário, por exemplo. Pelo Portal e‑Cidadania também é possível opinar sobre projetos e até sugerir novas leis.",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/01/ccs-debate-audiovisual-e-comunicacao-publica-na-segunda-feira-5",
-      "fonte": "Senado Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-10-01T14:47:51Z",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-02T11:04:28",
-      "primeira_vez_em": "2026-10-01T15:54:24"
-    },
-    {
-      "id": "408c04bd80db73db",
-      "titulo": "CDH faz na segunda último debate de ciclo sobre violência contra criança",
-      "resumo": "A Comissão de Direitos Humanos (CDH) realiza nesta segunda-feira (5), às 14h, audiência pública para avaliar a implementação do Plano Nacional de Enfrentamento da Violência contra Crianças e Adolescentes em 2026. O debate será o quarto e último do ciclo previsto no plano de trabalho. A presidente da CDH, senadora Damares Alves (Republicanos-DF), é a responsável por coordenar a avaliação do plano e pelo pedido da audiência pública (REQ 52/2026 - CDH). Estão confirmadas as participações de: representante do Ministério da Educação, Erasto Fortes Mendonça; representante do Ministério Saúde, Priscila Olin Silva; e representante do Fórum Colegiado Nacional de Conselheiros Tutelares, Carla Góis. A avaliação nstituída pela Resolução do Senado Federal 44, de 2013, a avaliação de política pública tem o objetivo de fortalecer o papel fiscalizador da Casa. Cada comissão permanente pode escolher políticas relacionadas à sua área de atuação para acompanhar durante o ano, analisando seus impactos e as atividades necessárias à execução. Em 2026, a CDH avalia somente o Plano Nacional de Enfrentamento da Violência contra Crianças e Adolescentes, instituído pelo Decreto 11.074, de 2022. A comissão verifica a implementação do plano e o cumprimento de suas diretrizes nos estados, Distrito Federal e municípios. Como participar O evento será interativo: qualquer pessoa pode enviar perguntas e comentários pelo telefone da Ouvidoria do Senado (0800 061 2211) ou pelo Portal e‑Cidadania. As mensagens podem ser lidas e respondidas pelos senadores e debatedores ao vivo. O Senado oferece uma declaração de participação, que pode ser usada como atividade complementar em curso universitário, por exemplo. Pelo Portal e‑Cidadania também é possível opinar sobre projetos e até sugerir novas leis.",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/01/cdh-faz-na-segunda-ultimo-debate-de-ciclo-sobre-violencia-contra-crianca",
-      "fonte": "Senado Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-10-01T12:52:39Z",
-      "impacto": "baixo",
-      "tags": [],
-      "coletado_em": "2026-10-02T11:04:28",
-      "primeira_vez_em": "2026-10-01T15:54:24"
-    },
-    {
-      "id": "432d02075047561e",
-      "titulo": "Dívida Pública Federal totaliza R$ 9,29 trilhões em agosto",
-      "resumo": "Participação de títulos remunerados por taxa flutuante chega a 52,74%, maior percentual da série histórica iniciada em dezembro de 2000",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/divida-publica-federal-totaliza-r-9-29-trilhoes-em-agosto",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "28/09/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-02T11:04:25",
-      "primeira_vez_em": "2026-09-29T11:04:55"
-    },
-    {
-      "id": "b0e4458054eae6a9",
-      "titulo": "Governo Central registra em agosto déficit primário de R$ 13,6 bilhões, aponta o Resultado do Tesouro Nacional",
-      "resumo": "Em agosto do ano passado, o déficit foi de R$ 15,5 bilhões, em valores correntes",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/governo-central-registra-em-agosto-deficit-primario-de-r-13-6-bilhoes-aponta-o-resultado-do-tesouro-nacional",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "29/09/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-02T11:04:25",
-      "primeira_vez_em": "2026-09-30T11:04:59"
-    },
-    {
-      "id": "72cdc9b42d3d2f77",
-      "titulo": "Simples Nacional 2027 tem novos prazos para microempresas e empresas de pequeno porte",
-      "resumo": "Resolução com as novas datas foi publicada na segunda-feira (28/09)",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/simples-nacional-2027-tem-novos-prazos-para-microempresas-e-empresas-de-pequeno-porte",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "29/09/2026",
-      "impacto": "médio",
-      "tags": [
-        "Simples Nacional",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-10-02T11:04:25",
-      "primeira_vez_em": "2026-09-30T11:04:59"
-    },
-    {
-      "id": "581415c95a1a92ee",
-      "titulo": "Saldo de operações de crédito garantidas pela União atinge R$ 353,64 bilhões no 2º quadrimestre de 2026",
-      "resumo": "Os dados foram publicados nesta quarta-feira (30/09) pelo Tesouro Nacional no Relatório Quadrimestral de Operações de Crédito Garantidas",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/saldo-de-operacoes-de-credito-garantidas-pela-uniao-atinge-r-353-64-bilhoes-no-2o-quadrimestre-de-2026",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "30/09/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-02T11:04:25",
-      "primeira_vez_em": "2026-10-01T11:05:41"
-    },
-    {
-      "id": "8bd7518c825c9b11",
-      "titulo": "Defeso Eleitoral 2026",
-      "resumo": "Links importantes que continuam ativos",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/defeso-eleitoral-2026",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "09/07/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-02T11:04:23",
-      "primeira_vez_em": "2026-09-17T15:43:05"
-    },
-    {
-      "id": "78ad827b6b8ebe84",
-      "titulo": "Nota Técnica SE/CGNFS-e nº 002",
-      "resumo": "Nota Técnica da Secretaria-Executiva do Comitê Gestor da NFS-e (SE/NFS-e) que dispõe sobre as adequações do layout da NFS-e, dado o contexto da Reforma Tributária do Consumo.",
-      "link": "https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/rtc/nota-tecnica-se-cgnfs-e-no-002-de-28-de-fevereiro-de-2025",
-      "fonte": "NFSe - Notas Técnicas RTC",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "NFSe",
-        "NT (Nota Técnica)"
-      ],
-      "coletado_em": "2026-10-02T11:04:20",
-      "primeira_vez_em": "2026-09-17T15:43:03"
     }
   ],
   "reforma": {
