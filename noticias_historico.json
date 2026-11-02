@@ -121,7 +121,7 @@
       "data_publicacao": "2026-07-22T16:51:56Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:12",
+      "coletado_em": "2026-11-02T20:34:30",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     "246d24ac1d0cd774": {
@@ -135,7 +135,7 @@
       "data_publicacao": "2026-07-20T19:54:16Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:12",
+      "coletado_em": "2026-11-02T20:34:30",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     "2de55424d6f704af": {
@@ -192,22 +192,6 @@
       "coletado_em": "2026-10-06T11:05:40",
       "primeira_vez_em": "2026-09-17T15:43:02"
     },
-    "c2d217bc7764521d": {
-      "id": "c2d217bc7764521d",
-      "titulo": "Comitê Gestor do IBS publica Editais de Chamamento Público para a celebração de Acordos de Cooperação Técnica",
-      "resumo": "Comitê Gestor do IBS publica Editais de Chamamento Público para a celebração de Acordos de Cooperação Técnica",
-      "link": "https://www.cgibs.gov.br/comite-gestor-publica-editais-de-chamamento-publico-para-a",
-      "fonte": "CGIBS - Comitê Gestor do IBS",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "",
-      "impacto": "alto",
-      "tags": [
-        "IBS"
-      ],
-      "coletado_em": "2026-10-03T11:59:04",
-      "primeira_vez_em": "2026-09-17T15:43:02"
-    },
     "0c1964e9f04584db": {
       "id": "0c1964e9f04584db",
       "titulo": "Nota Técnica SE/CGNFS-e nº 008",
@@ -222,7 +206,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:17",
+      "coletado_em": "2026-11-02T20:34:47",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "046e01fae8b56c6d": {
@@ -236,7 +220,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:17",
+      "coletado_em": "2026-11-02T20:34:47",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "f6ee5f1d56c00209": {
@@ -253,7 +237,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:17",
+      "coletado_em": "2026-11-02T20:34:47",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "d00ea00b82d8e1fa": {
@@ -271,7 +255,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:17",
+      "coletado_em": "2026-11-02T20:34:47",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "09a31ac05b22905c": {
@@ -285,7 +269,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:17",
+      "coletado_em": "2026-11-02T20:34:47",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "e03b66d584fbef2c": {
@@ -303,7 +287,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:17",
+      "coletado_em": "2026-11-02T20:34:47",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "2112c58dfa782067": {
@@ -321,7 +305,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:17",
+      "coletado_em": "2026-11-02T20:34:47",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "4adf744f945fd69f": {
@@ -564,7 +548,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:29",
+      "coletado_em": "2026-11-02T20:34:59",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "c3ebc4e3910e68c9": {
@@ -580,7 +564,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:29",
+      "coletado_em": "2026-11-02T20:34:59",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "cf3d354183a6412b": {
@@ -596,7 +580,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:29",
+      "coletado_em": "2026-11-02T20:34:59",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "77284a5831435b93": {
@@ -612,7 +596,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:31",
+      "coletado_em": "2026-11-02T20:35:01",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "8edf3d8590ef2ea3": {
@@ -628,7 +612,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:31",
+      "coletado_em": "2026-11-02T20:35:01",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "db0e168e9dc70ff3": {
@@ -644,7 +628,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:31",
+      "coletado_em": "2026-11-02T20:35:01",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "1c95e3cfa05a4c5c": {
@@ -660,7 +644,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:33",
+      "coletado_em": "2026-11-02T20:35:03",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     "f3fce5f00b2dda14": {
@@ -676,7 +660,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:35",
+      "coletado_em": "2026-11-02T20:35:05",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     "6cff987543c8c065": {
@@ -690,7 +674,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:58:05",
+      "coletado_em": "2026-11-02T20:35:50",
       "primeira_vez_em": "2026-09-17T15:43:33"
     },
     "8b919b7384234279": {
@@ -1162,7 +1146,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:27",
+      "coletado_em": "2026-11-02T20:34:57",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     "4b70d64501a39e0c": {
@@ -1178,7 +1162,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:27",
+      "coletado_em": "2026-11-02T20:34:57",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     "21a7f1ac3d421137": {
@@ -1279,7 +1263,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:17",
+      "coletado_em": "2026-11-02T20:34:47",
       "primeira_vez_em": "2026-10-01T15:54:19"
     },
     "b22c32886dc039f5": {
@@ -1295,7 +1279,7 @@
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-11-01T16:57:18",
+      "coletado_em": "2026-11-02T20:34:49",
       "primeira_vez_em": "2026-10-01T15:54:20"
     },
     "6a0bc309a56feb2a": {
@@ -1387,7 +1371,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:27",
+      "coletado_em": "2026-11-02T20:34:57",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     "529e8feb3d37e80e": {
@@ -1422,7 +1406,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:27",
+      "coletado_em": "2026-11-02T20:34:57",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     "c1366c3e91745dce": {
@@ -1438,7 +1422,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:29",
+      "coletado_em": "2026-11-02T20:34:59",
       "primeira_vez_em": "2026-10-02T11:04:32"
     },
     "a7086811f0b75d7a": {
@@ -1455,7 +1439,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:17",
+      "coletado_em": "2026-11-02T20:34:47",
       "primeira_vez_em": "2026-10-03T11:59:05"
     },
     "100b03d2302e3752": {
@@ -2592,7 +2576,7 @@
       "data_publicacao": "28/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:58:05",
+      "coletado_em": "2026-11-02T20:35:50",
       "primeira_vez_em": "2026-10-09T11:06:21"
     },
     "1f588e686ac5fd39": {
@@ -2606,7 +2590,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:58:05",
+      "coletado_em": "2026-11-02T20:35:50",
       "primeira_vez_em": "2026-10-09T11:06:21"
     },
     "b54dc838eda98091": {
@@ -2812,7 +2796,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:18",
+      "coletado_em": "2026-11-02T20:34:49",
       "primeira_vez_em": "2026-10-10T11:03:27"
     },
     "de8bcd44da22e0de": {
@@ -2829,7 +2813,7 @@
         "Reforma Tributária",
         "NFSe"
       ],
-      "coletado_em": "2026-11-01T16:57:18",
+      "coletado_em": "2026-11-02T20:34:49",
       "primeira_vez_em": "2026-10-10T11:03:27"
     },
     "741f30953946c4a7": {
@@ -3623,7 +3607,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-10-30T16:54:36",
+      "coletado_em": "2026-11-02T20:37:12",
       "primeira_vez_em": "2026-10-16T11:19:21"
     },
     "c0c497bc16019f35": {
@@ -3756,7 +3740,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:59:22",
+      "coletado_em": "2026-11-02T20:37:12",
       "primeira_vez_em": "2026-10-17T11:14:24"
     },
     "1bd01ac5c48ef90c": {
@@ -3787,7 +3771,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:18",
+      "coletado_em": "2026-11-02T20:34:49",
       "primeira_vez_em": "2026-10-19T17:15:08"
     },
     "551655e77bd0371a": {
@@ -3890,7 +3874,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:18",
+      "coletado_em": "2026-11-02T20:34:49",
       "primeira_vez_em": "2026-10-21T15:44:21"
     },
     "e7ef5e1a4576ff4a": {
@@ -4006,7 +3990,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:59:22",
+      "coletado_em": "2026-11-02T20:37:12",
       "primeira_vez_em": "2026-10-21T15:46:35"
     },
     "c499e7aa742dd1c4": {
@@ -4104,7 +4088,7 @@
       "data_publicacao": "23/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:20",
+      "coletado_em": "2026-11-02T20:34:50",
       "primeira_vez_em": "2026-10-23T15:31:57"
     },
     "7294e5533a414125": {
@@ -4162,7 +4146,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:58:51",
+      "coletado_em": "2026-11-02T20:36:38",
       "primeira_vez_em": "2026-10-23T15:33:27"
     },
     "c72c36e3114f4440": {
@@ -4291,7 +4275,7 @@
       "data_publicacao": "26/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:20",
+      "coletado_em": "2026-11-02T20:34:50",
       "primeira_vez_em": "2026-10-26T17:03:20"
     },
     "3726f62df6909ec2": {
@@ -4305,7 +4289,7 @@
       "data_publicacao": "26/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:20",
+      "coletado_em": "2026-11-02T20:34:50",
       "primeira_vez_em": "2026-10-26T17:03:20"
     },
     "c9c061e0bd102186": {
@@ -4441,7 +4425,7 @@
       "data_publicacao": "26/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:17",
+      "coletado_em": "2026-11-02T20:34:47",
       "primeira_vez_em": "2026-10-27T16:06:03"
     },
     "7e55af4f30df37cd": {
@@ -4541,7 +4525,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:27",
+      "coletado_em": "2026-11-02T20:34:57",
       "primeira_vez_em": "2026-10-27T16:06:13"
     },
     "2022a6d348e22197": {
@@ -4555,7 +4539,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:58:23",
+      "coletado_em": "2026-11-02T20:36:09",
       "primeira_vez_em": "2026-10-27T16:07:46"
     },
     "25639d56013d2013": {
@@ -4569,13 +4553,13 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:58:23",
+      "coletado_em": "2026-11-02T20:36:09",
       "primeira_vez_em": "2026-10-27T16:07:46"
     },
     "c01ecec29a40c83d": {
       "id": "c01ecec29a40c83d",
-      "titulo": "Publicado há 4 dias 27 de Outubro de 2026 10:46 Contabilidade DCG promove curso de contabilidade pública para servidores estaduais Compartilhe:",
-      "resumo": "Publicado há 4 dias 27 de Outubro de 2026 10:46 Contabilidade DCG promove curso de contabilidade pública para servidores estaduais Compartilhe:",
+      "titulo": "Publicado há 6 dias 27 de Outubro de 2026 10:46 Contabilidade DCG promove curso de contabilidade pública para servidores estaduais Compartilhe:",
+      "resumo": "Publicado há 6 dias 27 de Outubro de 2026 10:46 Contabilidade DCG promove curso de contabilidade pública para servidores estaduais Compartilhe:",
       "link": "https://www.fazenda.pr.gov.br/Noticia/DCG-promove-curso-de-contabilidade-publica-para-servidores-estaduais",
       "fonte": "SEFAZ PR",
       "esfera": "estadual",
@@ -4583,7 +4567,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:59:22",
+      "coletado_em": "2026-11-02T20:37:12",
       "primeira_vez_em": "2026-10-27T16:08:49"
     },
     "27b6d039b7d98c3e": {
@@ -4611,7 +4595,7 @@
       "data_publicacao": "27/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:20",
+      "coletado_em": "2026-11-02T20:34:50",
       "primeira_vez_em": "2026-10-28T16:52:50"
     },
     "a97d34ebec391e64": {
@@ -4625,7 +4609,7 @@
       "data_publicacao": "27/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:20",
+      "coletado_em": "2026-11-02T20:34:50",
       "primeira_vez_em": "2026-10-28T16:52:50"
     },
     "f9d341e8ed70ff9c": {
@@ -4639,7 +4623,7 @@
       "data_publicacao": "28/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:21",
+      "coletado_em": "2026-11-02T20:34:51",
       "primeira_vez_em": "2026-10-28T16:52:52"
     },
     "33e7324c97ea3c29": {
@@ -4760,7 +4744,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:18",
+      "coletado_em": "2026-11-02T20:34:49",
       "primeira_vez_em": "2026-10-29T17:11:22"
     },
     "dae67137aa14b7f9": {
@@ -4774,7 +4758,7 @@
       "data_publicacao": "28/10/2026",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:20",
+      "coletado_em": "2026-11-02T20:34:50",
       "primeira_vez_em": "2026-10-29T17:11:23"
     },
     "b72059c58093cdd5": {
@@ -4788,7 +4772,7 @@
       "data_publicacao": "29/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:21",
+      "coletado_em": "2026-11-02T20:34:51",
       "primeira_vez_em": "2026-10-29T17:11:24"
     },
     "7fe70a3d9f4e0c93": {
@@ -4802,7 +4786,7 @@
       "data_publicacao": "28/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:21",
+      "coletado_em": "2026-11-02T20:34:51",
       "primeira_vez_em": "2026-10-29T17:11:24"
     },
     "e98d33980d5e840f": {
@@ -4816,7 +4800,7 @@
       "data_publicacao": "2026-10-29T15:30:14Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:25",
+      "coletado_em": "2026-11-02T20:34:55",
       "primeira_vez_em": "2026-10-29T17:11:27"
     },
     "74a0b7fb53c3bada": {
@@ -4830,7 +4814,7 @@
       "data_publicacao": "2026-10-29T14:28:14Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:25",
+      "coletado_em": "2026-11-02T20:34:55",
       "primeira_vez_em": "2026-10-29T17:11:27"
     },
     "13db745d510e89be": {
@@ -4931,7 +4915,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:59:22",
+      "coletado_em": "2026-11-02T20:37:12",
       "primeira_vez_em": "2026-10-29T17:13:15"
     },
     "64791aba6c5ae5ed": {
@@ -4945,13 +4929,13 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:59:22",
+      "coletado_em": "2026-11-02T20:37:12",
       "primeira_vez_em": "2026-10-29T17:13:15"
     },
     "2f06229079855ffd": {
       "id": "2f06229079855ffd",
-      "titulo": "Publicado há 3 dias 28 de Outubro de 2026 14:24 Geral Fazenda promove último encontro de 2026 do projeto Tesouro na Universidade Compartilhe:",
-      "resumo": "Publicado há 3 dias 28 de Outubro de 2026 14:24 Geral Fazenda promove último encontro de 2026 do projeto Tesouro na Universidade Compartilhe:",
+      "titulo": "14:24 Geral Fazenda promove último encontro de 2026 do projeto Tesouro na Universidade Compartilhe:",
+      "resumo": "14:24 Geral Fazenda promove último encontro de 2026 do projeto Tesouro na Universidade Compartilhe:",
       "link": "https://www.fazenda.pr.gov.br/Noticia/Fazenda-promove-ultimo-encontro-de-2026-do-projeto-Tesouro-na-Universidade",
       "fonte": "SEFAZ PR",
       "esfera": "estadual",
@@ -4959,7 +4943,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:59:22",
+      "coletado_em": "2026-11-02T20:37:12",
       "primeira_vez_em": "2026-10-29T17:13:15"
     },
     "c5ce5ad4076b393e": {
@@ -4977,7 +4961,7 @@
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-11-01T16:57:18",
+      "coletado_em": "2026-11-02T20:34:49",
       "primeira_vez_em": "2026-10-30T16:52:26"
     },
     "12463e97cf805749": {
@@ -4991,7 +4975,7 @@
       "data_publicacao": "29/10/2026",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:21",
+      "coletado_em": "2026-11-02T20:34:51",
       "primeira_vez_em": "2026-10-30T16:52:28"
     },
     "19f053cc60709e7a": {
@@ -5005,7 +4989,7 @@
       "data_publicacao": "29/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:21",
+      "coletado_em": "2026-11-02T20:34:51",
       "primeira_vez_em": "2026-10-30T16:52:28"
     },
     "794479966c5fe7f0": {
@@ -5019,7 +5003,7 @@
       "data_publicacao": "29/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:21",
+      "coletado_em": "2026-11-02T20:34:51",
       "primeira_vez_em": "2026-10-30T16:52:28"
     },
     "50d0edfbc8e332c0": {
@@ -5037,7 +5021,7 @@
         "CBS",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-11-01T16:57:21",
+      "coletado_em": "2026-11-02T20:34:51",
       "primeira_vez_em": "2026-10-30T16:52:28"
     },
     "7016c71c762a3a3b": {
@@ -5055,7 +5039,7 @@
         "CBS",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-11-01T16:57:21",
+      "coletado_em": "2026-11-02T20:34:51",
       "primeira_vez_em": "2026-10-30T16:52:28"
     },
     "d911b3ec0994fc45": {
@@ -5069,7 +5053,7 @@
       "data_publicacao": "2026-10-29T23:53:08Z",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:25",
+      "coletado_em": "2026-11-02T20:34:55",
       "primeira_vez_em": "2026-10-30T16:52:31"
     },
     "2c532554b1c1a2da": {
@@ -5083,7 +5067,7 @@
       "data_publicacao": "2026-10-29T21:02:23Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:25",
+      "coletado_em": "2026-11-02T20:34:55",
       "primeira_vez_em": "2026-10-30T16:52:31"
     },
     "04c68291880c6fde": {
@@ -5097,7 +5081,7 @@
       "data_publicacao": "2026-10-29T20:27:15Z",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:25",
+      "coletado_em": "2026-11-02T20:34:55",
       "primeira_vez_em": "2026-10-30T16:52:31"
     },
     "41565d70391f97ec": {
@@ -5113,7 +5097,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:27",
+      "coletado_em": "2026-11-02T20:34:57",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "f613b9d7c5d7894f": {
@@ -5130,7 +5114,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:27",
+      "coletado_em": "2026-11-02T20:34:57",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "c331ed445295693a": {
@@ -5147,7 +5131,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:27",
+      "coletado_em": "2026-11-02T20:34:57",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "017acb4bb587164e": {
@@ -5165,7 +5149,7 @@
         "NT (Nota Técnica)",
         "Simples Nacional"
       ],
-      "coletado_em": "2026-11-01T16:57:27",
+      "coletado_em": "2026-11-02T20:34:57",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "a06b2f52b19faa20": {
@@ -5183,7 +5167,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:27",
+      "coletado_em": "2026-11-02T20:34:57",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "e34bd541cdfcab47": {
@@ -5199,7 +5183,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:29",
+      "coletado_em": "2026-11-02T20:34:59",
       "primeira_vez_em": "2026-10-30T16:52:35"
     },
     "ddaabbaff7082b26": {
@@ -5215,7 +5199,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-01T16:57:31",
+      "coletado_em": "2026-11-02T20:35:01",
       "primeira_vez_em": "2026-10-30T16:52:36"
     },
     "349221150d5a7d10": {
@@ -5229,7 +5213,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:58:23",
+      "coletado_em": "2026-11-02T20:36:09",
       "primeira_vez_em": "2026-10-30T16:53:37"
     },
     "f57eab3c14d5b3dc": {
@@ -5245,7 +5229,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-01T16:58:51",
+      "coletado_em": "2026-11-02T20:36:38",
       "primeira_vez_em": "2026-10-30T16:54:06"
     },
     "7912bdc1391976a2": {
@@ -5262,7 +5246,7 @@
         "IBS",
         "ICMS"
       ],
-      "coletado_em": "2026-11-01T16:59:22",
+      "coletado_em": "2026-11-02T20:37:12",
       "primeira_vez_em": "2026-10-30T16:54:36"
     },
     "2895a24210950aeb": {
@@ -5276,7 +5260,7 @@
       "data_publicacao": "2026-10-30T23:10:23Z",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-11-01T16:57:25",
+      "coletado_em": "2026-11-02T20:34:55",
       "primeira_vez_em": "2026-10-31T15:54:55"
     },
     "497f3e69db34871d": {
@@ -5290,7 +5274,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:59:22",
+      "coletado_em": "2026-11-02T20:37:12",
       "primeira_vez_em": "2026-10-31T15:56:49"
     },
     "99fff694b5e63e33": {
@@ -5304,7 +5288,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-01T16:59:22",
+      "coletado_em": "2026-11-02T20:37:12",
       "primeira_vez_em": "2026-10-31T15:56:49"
     },
     "6b9079cf79ed3957": {
@@ -5336,7 +5320,7 @@
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-11-01T16:57:18",
+      "coletado_em": "2026-11-02T20:34:49",
       "primeira_vez_em": "2026-11-01T16:57:18"
     }
   }
