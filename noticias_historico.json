@@ -42,7 +42,7 @@
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:50:34",
+      "coletado_em": "2026-11-09T21:11:37",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "a9b85ebff2d35b2f": {
@@ -58,7 +58,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-08T16:50:34",
+      "coletado_em": "2026-11-09T21:11:37",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "74129502b829908e": {
@@ -76,7 +76,7 @@
         "CBS",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-08T16:50:34",
+      "coletado_em": "2026-11-09T21:11:37",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "e5fc5ae97dc8d1c2": {
@@ -90,7 +90,7 @@
       "data_publicacao": "14/01/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:50:34",
+      "coletado_em": "2026-11-09T21:11:37",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "08398f1e2c89c97b": {
@@ -104,7 +104,7 @@
       "data_publicacao": "2026-07-22T16:51:56Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:50:36",
+      "coletado_em": "2026-11-09T21:11:38",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     "246d24ac1d0cd774": {
@@ -118,7 +118,7 @@
       "data_publicacao": "2026-07-20T19:54:16Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:50:36",
+      "coletado_em": "2026-11-09T21:11:38",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     "2de55424d6f704af": {
@@ -170,7 +170,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:41",
+      "coletado_em": "2026-11-09T21:11:44",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "046e01fae8b56c6d": {
@@ -184,7 +184,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:50:41",
+      "coletado_em": "2026-11-09T21:11:44",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "f6ee5f1d56c00209": {
@@ -201,7 +201,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:41",
+      "coletado_em": "2026-11-09T21:11:44",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "d00ea00b82d8e1fa": {
@@ -219,7 +219,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:41",
+      "coletado_em": "2026-11-09T21:11:44",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "09a31ac05b22905c": {
@@ -233,7 +233,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:50:41",
+      "coletado_em": "2026-11-09T21:11:44",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "e03b66d584fbef2c": {
@@ -251,7 +251,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:41",
+      "coletado_em": "2026-11-09T21:11:44",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "2112c58dfa782067": {
@@ -269,7 +269,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:41",
+      "coletado_em": "2026-11-09T21:11:44",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "4adf744f945fd69f": {
@@ -464,7 +464,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:52",
+      "coletado_em": "2026-11-09T21:11:56",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "c3ebc4e3910e68c9": {
@@ -480,7 +480,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:52",
+      "coletado_em": "2026-11-09T21:11:56",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "cf3d354183a6412b": {
@@ -496,7 +496,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:52",
+      "coletado_em": "2026-11-09T21:11:56",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "77284a5831435b93": {
@@ -512,7 +512,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:53",
+      "coletado_em": "2026-11-09T21:11:58",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "8edf3d8590ef2ea3": {
@@ -528,7 +528,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:53",
+      "coletado_em": "2026-11-09T21:11:58",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "db0e168e9dc70ff3": {
@@ -560,7 +560,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:55",
+      "coletado_em": "2026-11-09T21:12:00",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     "f3fce5f00b2dda14": {
@@ -576,13 +576,13 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:57",
+      "coletado_em": "2026-11-09T21:12:02",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     "6cff987543c8c065": {
       "id": "6cff987543c8c065",
-      "titulo": "DAE para pagamento de IPVA - boleto",
-      "resumo": "DAE para pagamento de IPVA - boleto",
+      "titulo": "DAE para pagamento de IPVA - boleto/pix",
+      "resumo": "DAE para pagamento de IPVA - boleto/pix",
       "link": "https://servicos.ce.gov.br/catalogo-de-servicos/2426",
       "fonte": "SEFAZ CE",
       "esfera": "estadual",
@@ -590,7 +590,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:51:51",
+      "coletado_em": "2026-11-09T21:13:08",
       "primeira_vez_em": "2026-09-17T15:43:33"
     },
     "8b919b7384234279": {
@@ -620,7 +620,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:54:33",
+      "coletado_em": "2026-11-09T21:16:00",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     "c4bd59e18d311f35": {
@@ -636,7 +636,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-08T16:54:33",
+      "coletado_em": "2026-11-09T21:16:00",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     "ce7ddd9753d793fb": {
@@ -652,7 +652,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-08T16:54:35",
+      "coletado_em": "2026-11-09T21:16:02",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     "da3b5c5a1cc32cf3": {
@@ -668,7 +668,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-08T16:54:35",
+      "coletado_em": "2026-11-09T21:16:02",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     "be8638660c3332cb": {
@@ -682,7 +682,7 @@
       "data_publicacao": "29/05/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:54:37",
+      "coletado_em": "2026-11-09T21:16:04",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "5794323834606a06": {
@@ -698,7 +698,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-08T16:54:37",
+      "coletado_em": "2026-11-09T21:16:04",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "bc7500769f467d84": {
@@ -714,7 +714,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-08T16:54:37",
+      "coletado_em": "2026-11-09T21:16:04",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "552f0735a0423c26": {
@@ -728,7 +728,7 @@
       "data_publicacao": "26/11/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:54:39",
+      "coletado_em": "2026-11-09T21:16:06",
       "primeira_vez_em": "2026-09-17T15:44:34"
     },
     "58e10eba2750e488": {
@@ -744,7 +744,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-08T16:54:40",
+      "coletado_em": "2026-11-09T21:16:07",
       "primeira_vez_em": "2026-09-17T15:44:35"
     },
     "a4607235adf1b80f": {
@@ -760,7 +760,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-08T16:54:42",
+      "coletado_em": "2026-11-09T21:16:10",
       "primeira_vez_em": "2026-09-17T15:44:36"
     },
     "b676f2adf3c22d0a": {
@@ -776,7 +776,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-08T16:54:43",
+      "coletado_em": "2026-11-09T21:16:12",
       "primeira_vez_em": "2026-09-17T15:44:37"
     },
     "5af4c5ee52d4ce9c": {
@@ -790,7 +790,7 @@
       "data_publicacao": "30/03/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:54:45",
+      "coletado_em": "2026-11-09T21:16:14",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "a454d4d897b3839f": {
@@ -804,7 +804,7 @@
       "data_publicacao": "04/05/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:54:45",
+      "coletado_em": "2026-11-09T21:16:14",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "23085cc0899edc3f": {
@@ -818,7 +818,7 @@
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:54:45",
+      "coletado_em": "2026-11-09T21:16:14",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "fd3d7b1235ebc490": {
@@ -834,7 +834,7 @@
       "tags": [
         "Simples Nacional"
       ],
-      "coletado_em": "2026-11-08T16:54:45",
+      "coletado_em": "2026-11-09T21:16:14",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "98a8cf0b506f52a9": {
@@ -848,7 +848,7 @@
       "data_publicacao": "10/01/2024",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:54:45",
+      "coletado_em": "2026-11-09T21:16:14",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "7ce12346e4b886ec": {
@@ -862,7 +862,7 @@
       "data_publicacao": "15/12/2023",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:54:45",
+      "coletado_em": "2026-11-09T21:16:14",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "2d256ec029c6add1": {
@@ -878,7 +878,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-08T16:54:48",
+      "coletado_em": "2026-11-09T21:16:17",
       "primeira_vez_em": "2026-09-17T15:44:40"
     },
     "e31b387cddf7fd5d": {
@@ -892,7 +892,7 @@
       "data_publicacao": "19/10/2022",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:54:50",
+      "coletado_em": "2026-11-09T21:16:19",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     "c067fe8403247755": {
@@ -908,7 +908,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-08T16:54:50",
+      "coletado_em": "2026-11-09T21:16:19",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     "4cb90c79835b4cd1": {
@@ -924,7 +924,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-08T16:54:52",
+      "coletado_em": "2026-11-09T21:16:20",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "485fb61a2a751098": {
@@ -938,7 +938,7 @@
       "data_publicacao": "10/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:54:52",
+      "coletado_em": "2026-11-09T21:16:20",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "0b1cf5b29af11e57": {
@@ -954,7 +954,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-08T16:54:52",
+      "coletado_em": "2026-11-09T21:16:20",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "63dff167c306e0a2": {
@@ -970,7 +970,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-08T16:50:40",
+      "coletado_em": "2026-11-09T21:11:43",
       "primeira_vez_em": "2026-09-19T11:03:30"
     },
     "606eb4007464d320": {
@@ -986,7 +986,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-08T16:50:40",
+      "coletado_em": "2026-11-09T21:11:43",
       "primeira_vez_em": "2026-09-22T11:03:37"
     },
     "2f86464c831b5b1b": {
@@ -1000,7 +1000,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:50:40",
+      "coletado_em": "2026-11-09T21:11:43",
       "primeira_vez_em": "2026-09-22T11:03:37"
     },
     "e0eaa5a24d485f65": {
@@ -1016,7 +1016,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-08T16:50:40",
+      "coletado_em": "2026-11-09T21:11:43",
       "primeira_vez_em": "2026-09-25T11:03:52"
     },
     "875f51f99732d992": {
@@ -1032,7 +1032,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:50",
+      "coletado_em": "2026-11-09T21:11:54",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     "4b70d64501a39e0c": {
@@ -1048,7 +1048,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:50",
+      "coletado_em": "2026-11-09T21:11:54",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     "21a7f1ac3d421137": {
@@ -1080,7 +1080,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-08T16:50:40",
+      "coletado_em": "2026-11-09T21:11:43",
       "primeira_vez_em": "2026-09-30T11:04:55"
     },
     "eeba35f26cd1b78e": {
@@ -1099,7 +1099,7 @@
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-11-08T16:50:40",
+      "coletado_em": "2026-11-09T21:11:43",
       "primeira_vez_em": "2026-10-01T11:05:37"
     },
     "bb8a5d4e64f78243": {
@@ -1131,7 +1131,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:41",
+      "coletado_em": "2026-11-09T21:11:44",
       "primeira_vez_em": "2026-10-01T15:54:19"
     },
     "b22c32886dc039f5": {
@@ -1147,7 +1147,7 @@
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-11-08T16:50:42",
+      "coletado_em": "2026-11-09T21:11:46",
       "primeira_vez_em": "2026-10-01T15:54:20"
     },
     "335a609a89ca67bc": {
@@ -1197,7 +1197,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:50",
+      "coletado_em": "2026-11-09T21:11:54",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     "529e8feb3d37e80e": {
@@ -1232,7 +1232,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:50",
+      "coletado_em": "2026-11-09T21:11:54",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     "c1366c3e91745dce": {
@@ -1248,7 +1248,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:52",
+      "coletado_em": "2026-11-09T21:11:56",
       "primeira_vez_em": "2026-10-02T11:04:32"
     },
     "a7086811f0b75d7a": {
@@ -1265,7 +1265,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:41",
+      "coletado_em": "2026-11-09T21:11:44",
       "primeira_vez_em": "2026-10-03T11:59:05"
     },
     "100b03d2302e3752": {
@@ -1295,7 +1295,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-08T16:50:40",
+      "coletado_em": "2026-11-09T21:11:43",
       "primeira_vez_em": "2026-10-04T17:21:33"
     },
     "5f6e7fb8370f435f": {
@@ -1326,7 +1326,7 @@
         "IBS",
         "CBS"
       ],
-      "coletado_em": "2026-11-08T16:50:40",
+      "coletado_em": "2026-11-09T21:11:43",
       "primeira_vez_em": "2026-10-07T11:05:57"
     },
     "190309e9ae03812a": {
@@ -1459,7 +1459,7 @@
       "data_publicacao": "06/11/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:51:51",
+      "coletado_em": "2026-11-09T21:13:08",
       "primeira_vez_em": "2026-10-09T11:06:21"
     },
     "1f588e686ac5fd39": {
@@ -1473,7 +1473,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:51:51",
+      "coletado_em": "2026-11-09T21:13:08",
       "primeira_vez_em": "2026-10-09T11:06:21"
     },
     "b54dc838eda98091": {
@@ -1520,7 +1520,7 @@
         "CBS",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-11-08T16:53:08",
+      "coletado_em": "2026-11-09T21:14:32",
       "primeira_vez_em": "2026-10-09T11:07:36"
     },
     "83ea5b3ca6fc6fd0": {
@@ -1665,7 +1665,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:42",
+      "coletado_em": "2026-11-09T21:11:46",
       "primeira_vez_em": "2026-10-10T11:03:27"
     },
     "de8bcd44da22e0de": {
@@ -1682,7 +1682,7 @@
         "Reforma Tributária",
         "NFSe"
       ],
-      "coletado_em": "2026-11-08T16:50:42",
+      "coletado_em": "2026-11-09T21:11:46",
       "primeira_vez_em": "2026-10-10T11:03:27"
     },
     "741f30953946c4a7": {
@@ -2268,7 +2268,7 @@
       "data_publicacao": "15/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:50:34",
+      "coletado_em": "2026-11-09T21:11:37",
       "primeira_vez_em": "2026-10-16T11:17:16"
     },
     "98f31a89a7a12829": {
@@ -2623,7 +2623,7 @@
       "data_publicacao": "19/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:50:34",
+      "coletado_em": "2026-11-09T21:11:37",
       "primeira_vez_em": "2026-10-19T17:15:00"
     },
     "956f42d9152f269f": {
@@ -2640,7 +2640,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:42",
+      "coletado_em": "2026-11-09T21:11:46",
       "primeira_vez_em": "2026-10-19T17:15:08"
     },
     "551655e77bd0371a": {
@@ -2743,7 +2743,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:42",
+      "coletado_em": "2026-11-09T21:11:46",
       "primeira_vez_em": "2026-10-21T15:44:21"
     },
     "e7ef5e1a4576ff4a": {
@@ -2859,7 +2859,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:53:08",
+      "coletado_em": "2026-11-09T21:14:32",
       "primeira_vez_em": "2026-10-21T15:46:35"
     },
     "c499e7aa742dd1c4": {
@@ -3015,7 +3015,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:52:37",
+      "coletado_em": "2026-11-09T21:13:59",
       "primeira_vez_em": "2026-10-23T15:33:27"
     },
     "c72c36e3114f4440": {
@@ -3144,7 +3144,7 @@
       "data_publicacao": "26/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:50:43",
+      "coletado_em": "2026-11-09T21:11:47",
       "primeira_vez_em": "2026-10-26T17:03:20"
     },
     "3726f62df6909ec2": {
@@ -3294,7 +3294,7 @@
       "data_publicacao": "26/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:50:41",
+      "coletado_em": "2026-11-09T21:11:44",
       "primeira_vez_em": "2026-10-27T16:06:03"
     },
     "7e55af4f30df37cd": {
@@ -3394,7 +3394,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:50",
+      "coletado_em": "2026-11-09T21:11:54",
       "primeira_vez_em": "2026-10-27T16:06:13"
     },
     "2022a6d348e22197": {
@@ -3464,7 +3464,7 @@
       "data_publicacao": "27/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:50:43",
+      "coletado_em": "2026-11-09T21:11:47",
       "primeira_vez_em": "2026-10-28T16:52:50"
     },
     "a97d34ebec391e64": {
@@ -3478,7 +3478,7 @@
       "data_publicacao": "27/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:50:43",
+      "coletado_em": "2026-11-09T21:11:47",
       "primeira_vez_em": "2026-10-28T16:52:50"
     },
     "f9d341e8ed70ff9c": {
@@ -3578,7 +3578,7 @@
       "data_publicacao": "27/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:54:35",
+      "coletado_em": "2026-11-09T21:16:02",
       "primeira_vez_em": "2026-10-28T16:56:05"
     },
     "9b0c0323e366e671": {
@@ -3594,7 +3594,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-08T16:50:40",
+      "coletado_em": "2026-11-09T21:11:43",
       "primeira_vez_em": "2026-10-29T17:11:19"
     },
     "16a47ae948ca95ee": {
@@ -3613,7 +3613,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:42",
+      "coletado_em": "2026-11-09T21:11:46",
       "primeira_vez_em": "2026-10-29T17:11:22"
     },
     "dae67137aa14b7f9": {
@@ -3627,7 +3627,7 @@
       "data_publicacao": "28/10/2026",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-11-08T16:50:43",
+      "coletado_em": "2026-11-09T21:11:47",
       "primeira_vez_em": "2026-10-29T17:11:23"
     },
     "b72059c58093cdd5": {
@@ -3830,7 +3830,7 @@
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-11-08T16:50:42",
+      "coletado_em": "2026-11-09T21:11:46",
       "primeira_vez_em": "2026-10-30T16:52:26"
     },
     "12463e97cf805749": {
@@ -3966,7 +3966,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:50",
+      "coletado_em": "2026-11-09T21:11:54",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "f613b9d7c5d7894f": {
@@ -3983,7 +3983,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:50",
+      "coletado_em": "2026-11-09T21:11:54",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "c331ed445295693a": {
@@ -4000,7 +4000,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:50",
+      "coletado_em": "2026-11-09T21:11:54",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "017acb4bb587164e": {
@@ -4018,7 +4018,7 @@
         "NT (Nota Técnica)",
         "Simples Nacional"
       ],
-      "coletado_em": "2026-11-08T16:50:50",
+      "coletado_em": "2026-11-09T21:11:54",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "a06b2f52b19faa20": {
@@ -4036,7 +4036,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:50",
+      "coletado_em": "2026-11-09T21:11:54",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "e34bd541cdfcab47": {
@@ -4052,7 +4052,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:52",
+      "coletado_em": "2026-11-09T21:11:56",
       "primeira_vez_em": "2026-10-30T16:52:35"
     },
     "ddaabbaff7082b26": {
@@ -4068,7 +4068,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-08T16:50:53",
+      "coletado_em": "2026-11-09T21:11:58",
       "primeira_vez_em": "2026-10-30T16:52:36"
     },
     "349221150d5a7d10": {
@@ -4098,7 +4098,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-08T16:52:37",
+      "coletado_em": "2026-11-09T21:13:59",
       "primeira_vez_em": "2026-10-30T16:54:06"
     },
     "7912bdc1391976a2": {
@@ -4143,7 +4143,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:53:08",
+      "coletado_em": "2026-11-09T21:14:32",
       "primeira_vez_em": "2026-10-31T15:56:49"
     },
     "99fff694b5e63e33": {
@@ -4157,7 +4157,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:53:08",
+      "coletado_em": "2026-11-09T21:14:32",
       "primeira_vez_em": "2026-10-31T15:56:49"
     },
     "6b9079cf79ed3957": {
@@ -4173,7 +4173,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-08T16:54:35",
+      "coletado_em": "2026-11-09T21:16:02",
       "primeira_vez_em": "2026-10-31T15:58:15"
     },
     "d2e13a6d9d9cb7d7": {
@@ -4189,7 +4189,7 @@
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-11-08T16:50:42",
+      "coletado_em": "2026-11-09T21:11:46",
       "primeira_vez_em": "2026-11-01T16:57:18"
     },
     "779a3325a96a698f": {
@@ -4380,13 +4380,13 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-08T16:54:57",
+      "coletado_em": "2026-11-09T21:16:25",
       "primeira_vez_em": "2026-11-03T18:14:05"
     },
     "7268b4a834ca5548": {
       "id": "7268b4a834ca5548",
-      "titulo": "Unidade da PGFN em Maringá sem atendimento presencial",
-      "resumo": "Atendimento foi suspenso devido às chuvas na região",
+      "titulo": "Retomado atendimento na unidade da PGFN em Maringá",
+      "resumo": "Atendimento havia sido suspenso devido às chuvas na região",
       "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/unidade-da-pgfn-em-maringa-sem-atendimento-presencial",
       "fonte": "PGFN",
       "esfera": "federal",
@@ -4394,7 +4394,7 @@
       "data_publicacao": "03/11/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:50:43",
+      "coletado_em": "2026-11-09T21:11:47",
       "primeira_vez_em": "2026-11-04T18:20:08"
     },
     "f9ad3c9dbd5145a8": {
@@ -4648,13 +4648,13 @@
       "tags": [
         "Reforma Tributária"
       ],
-      "coletado_em": "2026-11-08T16:52:09",
+      "coletado_em": "2026-11-09T21:13:27",
       "primeira_vez_em": "2026-11-04T18:21:52"
     },
     "c9d2364b8c571987": {
       "id": "c9d2364b8c571987",
-      "titulo": "Publicado há 3 dias 3 de Novembro de 2026 16:55 Contabilidade Paraná apresenta projeto do sistema de custos para a gestão pública de Portugal Compartilhe:",
-      "resumo": "Publicado há 3 dias 3 de Novembro de 2026 16:55 Contabilidade Paraná apresenta projeto do sistema de custos para a gestão pública de Portugal Compartilhe:",
+      "titulo": "Publicado há 6 dias 3 de Novembro de 2026 16:55 Contabilidade Paraná apresenta projeto do sistema de custos para a gestão pública de Portugal Compartilhe:",
+      "resumo": "Publicado há 6 dias 3 de Novembro de 2026 16:55 Contabilidade Paraná apresenta projeto do sistema de custos para a gestão pública de Portugal Compartilhe:",
       "link": "https://www.fazenda.pr.gov.br/Noticia/Parana-apresenta-projeto-do-sistema-de-custos-para-gestao-publica-de-Portugal",
       "fonte": "SEFAZ PR",
       "esfera": "estadual",
@@ -4662,7 +4662,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:53:08",
+      "coletado_em": "2026-11-09T21:14:32",
       "primeira_vez_em": "2026-11-04T18:22:56"
     },
     "31cc03ec2cb09e32": {
@@ -4676,7 +4676,7 @@
       "data_publicacao": "04/11/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:50:43",
+      "coletado_em": "2026-11-09T21:11:47",
       "primeira_vez_em": "2026-11-05T18:23:24"
     },
     "dc8d6d14a746c2b1": {
@@ -4690,7 +4690,7 @@
       "data_publicacao": "05/11/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:50:45",
+      "coletado_em": "2026-11-09T21:11:48",
       "primeira_vez_em": "2026-11-05T18:23:25"
     },
     "60182efd5fd53568": {
@@ -4842,13 +4842,13 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:52:09",
+      "coletado_em": "2026-11-09T21:13:27",
       "primeira_vez_em": "2026-11-06T17:46:33"
     },
     "61fe4c05a7760dbf": {
       "id": "61fe4c05a7760dbf",
-      "titulo": "Anteontem 5 de Novembro de 2026 15:18 Cidadania fiscal Inscrições abertas: Semana Tributária 2026 promove debates sobre a relação entre Fisco e contribuintes Compartilhe:",
-      "resumo": "Anteontem 5 de Novembro de 2026 15:18 Cidadania fiscal Inscrições abertas: Semana Tributária 2026 promove debates sobre a relação entre Fisco e contribuintes Compartilhe:",
+      "titulo": "Publicado há 4 dias 5 de Novembro de 2026 15:18 Cidadania fiscal Inscrições abertas: Semana Tributária 2026 promove debates sobre a relação entre Fisco e contribuintes Compartilhe:",
+      "resumo": "Publicado há 4 dias 5 de Novembro de 2026 15:18 Cidadania fiscal Inscrições abertas: Semana Tributária 2026 promove debates sobre a relação entre Fisco e contribuintes Compartilhe:",
       "link": "https://www.fazenda.pr.gov.br/Noticia/Inscricoes-abertas-Semana-Tributaria-2026-promove-debates-sobre-relacao-entre-Fisco-e",
       "fonte": "SEFAZ PR",
       "esfera": "estadual",
@@ -4856,7 +4856,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:53:08",
+      "coletado_em": "2026-11-09T21:14:32",
       "primeira_vez_em": "2026-11-06T17:47:38"
     },
     "754a40c0dd500f81": {
@@ -4960,7 +4960,7 @@
       "data_publicacao": "06/11/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:50:45",
+      "coletado_em": "2026-11-09T21:11:48",
       "primeira_vez_em": "2026-11-07T16:40:54"
     },
     "e7432902832c3c45": {
@@ -4974,7 +4974,7 @@
       "data_publicacao": "06/11/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:50:45",
+      "coletado_em": "2026-11-09T21:11:48",
       "primeira_vez_em": "2026-11-07T16:40:54"
     },
     "7e3be749f460ba20": {
@@ -4988,7 +4988,7 @@
       "data_publicacao": "06/11/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:50:45",
+      "coletado_em": "2026-11-09T21:11:48",
       "primeira_vez_em": "2026-11-07T16:40:54"
     },
     "f954697fd6419262": {
@@ -5072,7 +5072,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:53:08",
+      "coletado_em": "2026-11-09T21:14:32",
       "primeira_vez_em": "2026-11-07T16:43:29"
     },
     "35561c3b7d40b605": {
@@ -5086,7 +5086,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-08T16:53:08",
+      "coletado_em": "2026-11-09T21:14:32",
       "primeira_vez_em": "2026-11-07T16:43:29"
     },
     "89a523e52348925a": {
@@ -5116,6 +5116,225 @@
       "tags": [],
       "coletado_em": "2026-11-08T16:50:45",
       "primeira_vez_em": "2026-11-08T16:50:45"
+    },
+    "ea66422fa837639b": {
+      "id": "ea66422fa837639b",
+      "titulo": "Validações do Ambiente de Homologação da NT 2026.004",
+      "resumo": "Publicado por SEFAZ Virtual RS",
+      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/3021",
+      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "09/11/2026",
+      "impacto": "médio",
+      "tags": [
+        "NT (Nota Técnica)",
+        "API/Sistemas Gov"
+      ],
+      "coletado_em": "2026-11-09T21:11:37",
+      "primeira_vez_em": "2026-11-09T21:11:37"
+    },
+    "4379728a759f423b": {
+      "id": "4379728a759f423b",
+      "titulo": "Receita Federal libera acesso às novas APIs de apuração da CBS",
+      "resumo": "Nova versão permite consultas incrementais de débitos e créditos apurados",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-libera-acesso-as-novas-apis-de-apuracao-da-cbs",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "09/11/2026",
+      "impacto": "alto",
+      "tags": [
+        "CBS"
+      ],
+      "coletado_em": "2026-11-09T21:11:48",
+      "primeira_vez_em": "2026-11-09T21:11:48"
+    },
+    "0798b968d8ab5108": {
+      "id": "0798b968d8ab5108",
+      "titulo": "Receita Federal divulga calculadora para apoiar contribuintes na análise de opções de transação tributária",
+      "resumo": "Ferramenta permite informar o perfil do contribuinte, cadastrar débitos e comparar, de forma orientativa, modalidades de negociação oferecidas pela Receita Federal e pela PGFN",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-divulga-calculadora-para-apoiar-contribuintes-na-analise-de-opcoes-de-transacao-tributaria",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "09/11/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-09T21:11:48",
+      "primeira_vez_em": "2026-11-09T21:11:48"
+    },
+    "b90f4e7fbb044268": {
+      "id": "b90f4e7fbb044268",
+      "titulo": "Receita Federal divulga portaria para concurso público das carreiras tributárias",
+      "resumo": "Comissão e grupo de trabalho são criados para fortalecer a gestão do concurso público e aperfeiçoar o conteúdo das provas",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-divulga-portaria-para-concurso-publico-das-carreiras-tributarias",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "09/11/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-09T21:11:48",
+      "primeira_vez_em": "2026-11-09T21:11:48"
+    },
+    "b1ccc5a1b480efb5": {
+      "id": "b1ccc5a1b480efb5",
+      "titulo": "Receita Federal abre consulta pública sobre alteração da Instrução Normativa do Adicional da CSLL",
+      "resumo": "Objetivo é introduzir elementos do Side-by-Side Package acordado internacionalmente. As submissões podem ser enviadas no período de 06 de novembro a 16 de novembro de 2026",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-abre-consulta-publica-sobre-alteracao-da-instrucao-normativa-do-adicional-da-csll",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "09/11/2026",
+      "impacto": "baixo",
+      "tags": [],
+      "coletado_em": "2026-11-09T21:11:48",
+      "primeira_vez_em": "2026-11-09T21:11:48"
+    },
+    "a0c3660165d44902": {
+      "id": "a0c3660165d44902",
+      "titulo": "Confúcio pede mais crédito para pequenos produtores da região amazônica",
+      "resumo": "O senador Confúcio Moura (MDB-RO) defendeu a ampliação do acesso ao crédito para agricultores familiares, pequenos produtores e trabalhadores autônomos da região amazônica. Em pronunciamento no Plenário nesta segunda-feira (9), ele criticou a concentração dos recursos do Fundo Constitucional de Financiamento do Norte (FNO) em grandes empresas e pediu mudanças na atuação do Banco da Amazônia para facilitar empréstimos a pequenos empreendedores. Confúcio também defendeu o fortalecimento do microcrédito produtivo solidário, com participação de cooperativas e agências de desenvolvimento capazes de atender pessoas que não têm acesso ao sistema bancário tradicional. — É necessário que o banco passe esse recurso para a gestão de quem cuida de gente simples: o mecânico que sai da oficina sujo de graxa; a costureira que precisa comprar uma máquina nova; a manicure que precisa comprar uma coleção de esmalte novo — afirmou. No mesmo pronunciamento, Confúcio Moura defendeu a recuperação da capacidade de atuação da Superintendência do Desenvolvimento da Amazônia (Sudam) e a revisão dos incentivos fiscais concedidos às Áreas de Livre Comércio. Ele mencionou a necessidade de ampliar a atratividade dessas regiões, especialmente a de Guajará-Mirim (RO). Pediu ainda agilidade ao Ibama na análise da licença ambiental para a construção da ponte binacional que ligará o município à Bolívia. O senador ainda falou sobre regularização de terras na Amazônia. Ele afirmou que a falta de documentação das propriedades contribui para conflitos e mortes na região e defendeu o fortalecimento do Instituto Nacional de Colonização e Reforma Agrária (Incra), com participação dos governos estaduais e municipais. Confúcio apontou o crédito fundiário como alternativa para viabilizar novos assentamentos em áreas que já contam com infraestrutura de transporte e acesso a serviços públicos. Vitória Clementino, sob supervisão de Dante Accioly",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/confucio-pede-mais-credito-para-pequenos-produtores-da-regiao-amazonica",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-11-09T19:58:21Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-09T21:11:52",
+      "primeira_vez_em": "2026-11-09T21:11:52"
+    },
+    "160db3b56446ee94": {
+      "id": "160db3b56446ee94",
+      "titulo": "Paulo Paim agradece a apoiadores e faz balanço de trajetória no Senado",
+      "resumo": "O senador Paulo Paim (PT-RS) fez, nesta segunda-feira (9), um balanço de sua trajetória política, em pronunciamento no Plenário do Senado. Ele agradeceu a colegas, trabalhadores, sindicalistas, movimentos sociais e eleitores que acompanharam o trabalho dele ao longo dos anos no Congresso Nacional. Paim anunciou em dezembro de 2025 que este seria o último ano mandato no Congresso, após quatro décadas de atividade. Antes de assumir o mandato de senador, em 2003, ele foi deputado federal, entre 1987 e 2003. Paim relembrou a infância em Caxias do Sul (RS), a influência dos pais, os impactos do racismo e o início da vida profissional como metalúrgico e sindicalista. Ao destacar sua atuação parlamentar, citou a participação na elaboração da Constituição de 1988 e a defesa de direitos sociais e trabalhistas. Também mencionou sua contribuição para a aprovação do Estatuto do Idoso, do Estatuto da Igualdade Racial e do Estatuto da Pessoa com Deficiência, além da recente vitória contra o fim da escala 6x1, causa há muitos anos defendida por ele. — Tenho orgulho da minha história, da minha origem e de todos aqueles que vieram antes de mim. Lembro-me da fundição em Caxias ao sindicato de que participei; lembro-me da Constituinte; lembro-me da Câmara dos Deputados. Carreguei sempre comigo uma convicção: a política precisa estar a serviço do povo — afirmou o senador. Paim acrescentou que pretende dedicar mais tempo ao Centro de Integração que leva seu nome, em Canoas (RS), que atende imigrantes, refugiados, idosos, crianças, adolescentes, famílias de baixa renda e mães solo. Também disse que continuará atuando em defesa da Previdência pública, tema que considera uma das questões que não conseguiu resolver durante o mandato. — Saio do Congresso com o coração tranquilo, não porque tudo tenha sido feito, mas porque fiz a minha parte — disse.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/paulo-paim-agradece-a-apoiadores-e-faz-balanco-de-trajetoria-no-senado",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-11-09T19:49:07Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-09T21:11:52",
+      "primeira_vez_em": "2026-11-09T21:11:52"
+    },
+    "e750a430ebb848d9": {
+      "id": "e750a430ebb848d9",
+      "titulo": "Plenário vota projeto que protege recursos para internet em escolas públicas",
+      "resumo": "O Plenário deve votar nesta quarta-feira (11) um projeto que busca melhorar o acesso à internet nas escolas públicas, sobretudo nas áreas rurais. Para isso, o PLP 230/2025 protege de bloqueios os recursos do Fundo de Universalização dos Serviços de Telecomunicações (Fust). A sessão, semipresencial, está prevista para começar às 14h. O projeto proíbe que o governo faça o contingenciamento (bloqueio temporário) das despesas do Fust. Também impede que o dinheiro do fundo seja reservado para emergências financeiras. A previsão de receitas do fundo para 2026 é de R$ 465 milhões. Para isso, o texto altera a Lei de Responsabilidade Fiscal e a Lei 9.998, de 2000, que criou o Fust. O projeto também determina que pelo menos 50% das receitas anuais do fundo sejam aplicadas em financiamentos reembolsáveis, ou seja, empréstimos que precisam ser devolvidos. Além disso, prorroga por cinco anos o benefício que permite às operadoras de telecomunicações reduzir em até 50% sua contribuição ao Fust, desde que invistam recursos próprios em programas aprovados pelo Conselho Gestor do fundo. Esse benefício terminaria em dezembro de 2026. A proposta foi apresentada pelo deputado Juscelino Filho (PSDB-MA), ministro das Comunicações entre 2023 e 2025. O texto foi aprovado pela Câmara dos Deputados em agosto e será relatado diretamente no Plenário do Senado. Estatuto do Aprendiz Outro projeto na pauta é o PL 6.461/2019, que cria o Estatuto do Aprendiz. O texto estabelece novas regras para a aprendizagem profissional e reúne em uma só lei normas hoje espalhadas em diferentes decretos. O relator, senador Veneziano Vital do Rêgo (MDB-PB), é favorável à aprovação. O projeto define a aprendizagem profissional como um contrato de trabalho voltado à formação técnico-profissional metódica. Na prática, é um processo de aprendizagem que combina aulas teóricas e práticas, organizadas em tarefas de complexidade progressiva. O texto dá preferência à contratação de adolescentes de 14 a 18 anos incompletos e permite que pessoas com deficiência sejam aprendizes, sem limite máximo de idade. Pela proposta, médias e grandes empresas seriam obrigadas a contratar aprendizes, numa cota que deve corresponder a no mínimo 5% e no máximo 15% de seus trabalhadores. Alguns estabelecimentos, como empresas do setor de saúde e prestadoras de serviços a terceiros, terão regras específicas. A contratação será facultativa para empresas com menos de sete empregados. O projeto foi apresentado pelo deputado licenciado André de Paula (PSD-PE), atual ministro da Agricultura e Pecuária, e aprovado pela Câmara em abril. Regras para implantes A pauta inclui ainda o PL 6.683/2025, que estabelece regras sobre a qualidade e o uso adequado de implantes cirúrgicos, como próteses, implantes mamários e placas e parafusos cranianos, entre outros. Pelo texto, a produção, a importação e a venda de implantes cirúrgicos no país dependerão de autorização prévia do órgão sanitário federal. A autorização só será concedida se ficar comprovado que o produto segue normas técnicas e boas práticas de fabricação. O projeto proíbe o uso de materiais de elevada toxicidade, alergênicos ou sem biocompatibilidade comprovada, isto é, sem garantia de que o organismo os tolera. A Agência Nacional de Vigilância Sanitária (Anvisa) definirá as especificações técnicas necessárias para garantir a segurança, a qualidade, a biocompatibilidade e a biofuncionalidade dos implantes. Os profissionais e os serviços de saúde, públicos ou privados, deverão notificar as autoridades sanitárias sobre todas as falhas detectadas em implantes cirúrgicos. Essas regras também valerão, no que couber, para implantes importados. Quem descumprir as normas estará sujeito às seguintes punições: advertência; multa; apreensão ou inutilização de produtos; suspensão de vendas ou fabricação; interdição total ou parcial de estabelecimento; e cancelamento de autorizações ou licenças, sem prejuízo das sanções penais e civis cabíveis. O texto, da deputada Laura Carneiro (PSD-RJ), foi aprovado em agosto na Comissão de Assuntos Sociais (CAS), com relatório da senadora Mara Gabrilli (PSD-SP), e segue em regime de urgência para o Plenário. Com Agência Câmara Notícias",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/plenario-vota-projeto-que-protege-recursos-para-internet-em-escolas-publicas",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-11-09T19:31:14Z",
+      "impacto": "alto",
+      "tags": [
+        "Multa/Penalidade"
+      ],
+      "coletado_em": "2026-11-09T21:11:52",
+      "primeira_vez_em": "2026-11-09T21:11:52"
+    },
+    "740e98c4fe0356e9": {
+      "id": "740e98c4fe0356e9",
+      "titulo": "Educação midiática é vital para exercer cidadania, dizem debatedores",
+      "resumo": "Compreender os interesses econômicos envolvidos na circulação de informações, identificar conteúdos manipulados e reconhecer situações de discriminação e violação de direitos são algumas das competências a serem desenvolvidas pela educação midiática. Foi o que disseram os participantes de audiência pública promovida nesta segunda-feira (9) pelo Conselho de Comunicação Social (CCS). Tema do debate, a educação midiática e o letramento digital envolvem a habilidade de participar do ambiente digital de forma crítica, ética, responsável e segura. A presidente do CCS, Patrícia Blanco, destacou a 4ª Semana Brasileira de Educação Midiática, de 4 a 11 de novembro, organizada pela Secretaria de Comunicação Social da Presidência da República e pelo Ministério da Educação. Segundo ela, as iniciativas de educação midiática estão se expandindo, e o Brasil tem se destacado nessa área. — A semana [de educção midiática] tem um caráter especial. […] A gente começa a ver o Brasil inteiro sendo povoado por ações de educação midiática — afirmou. Cidadania Professor da Universidade de Brasília (UnB), Fernando Oliveira Paulino afirmou que a educação midiática deixou de ser uma formação complementar e passou a ser uma necessidade para o exercício da cidadania. Ele ressaltou que as tecnologias de informação e comunicação, as plataformas digitais e os sistemas de inteligência artificial interferem diretamente na produção, na circulação e no acesso à informação e estão presentes no cotidiano. Paulino defendeu a aprovação do Projeto de Lei (PL) 1.010/2025, da senadora Teresa Leitão (PT-PE), que estabelece normas nacionais para a educação midiática e digital. — A aprovação de uma legislação nacional poderá contribuir ainda mais para transformar experiências dispersas em uma política pública continuada, com diretrizes, responsabilidades institucionais, financiamento, formação profissional e mecanismos de avaliação. Mas sua efetividade dependerá da ampliação das parcerias — disse. Política pública Cristiane Parente de Sá Barreto, sócia-fundadora da Associação Brasileira de Pesquisadores e Profissionais em Educomunicação (ABPEducom), atirmou que a educação digital e midiática deve ser uma política pública permanente, voltada à garantia de direitos e ao fortalecimento da democracia. Para ela, a formação deve ensinar a população a compreender criticamente o funcionamento das plataformas, seus interesses e as relações de poder no ambiente digital. Diretora de Inovação e Tecnologia do Instituto Anísio Teixeira, Carla Azevedo de Aragão disse que compreender o funcionamento dos meios de comunicação é necessário para o exercício da cidadania e da democracia. Ela defendeu a formação de jovens nas escolas, mas ressaltou que o letramento digital também deve alcançar outros espaços da sociedade, com o envolvimento de diferentes atores sociais. O representante da Secretaria de Comunicação Social da Presidência da República, David Almansa Bernardo, ressaltou a importância da cooperação entre governo e sociedade civil na elaboração de políticas para o setor. Ao mencionar as iniciativas do governo e os avanços nos marcos regulatórios, ele citou a Lei 15.100/2025, que estabelece regras para o uso de aparelhos eletrônicos pessoais por estudantes da educação básica, e o Eca Digital. — É fundamental a aliança do Poder Executivo com a sociedade civil, porque boa parte dessas iniciativas surge de uma preocupação genuína de parlamentares ou da sociedade sobre um problema que seria, por exemplo, o uso excessivo de telas e dos celulares. Sem essa participação ativa da sociedade civil e do governo, talvez passasse batida a necessidade da restrição [e] a educação midiática como um componente dessa legislação — afirmou. .",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/educacao-midiatica-e-vital-para-exercer-cidadania-dizem-debatedores",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-11-09T17:45:06Z",
+      "impacto": "baixo",
+      "tags": [],
+      "coletado_em": "2026-11-09T21:11:52",
+      "primeira_vez_em": "2026-11-09T21:11:52"
+    },
+    "386942aede49618a": {
+      "id": "386942aede49618a",
+      "titulo": "Atuação do grupo Lide é aplaudida em sessão especial no Senado",
+      "resumo": "O Senado homenageou em sessão especial nesta segunda-feira (9) o Grupo de Líderes Empresariais (Lide), que completou 25 anos. A solenidade foi pedida pelo senador Eduardo Gomes (PL-TO), por meio do requerimento (RQS) 999/2025. Os participantes da sessão destacaram a importância do setor empresarial para o desenvolvimento econômico e social do país. Eduardo Gomes ressaltou o papel do Lide na busca de soluções para os desafios do Brasil, especialmente diante dos avanços tecnológicos e das transformações econômicas. Segundo ele, a atuação do grupo estimula o debate de propostas e a busca de uma visão estratégica para o desenvolvimento nacional. — O grupo mobiliza o talento, a experiência e a capacidade de iniciativa do empresariado e promove o diálogo entre o setor produtivo, a comunidade acadêmica e o poder público em torno de uma agenda de desenvolvimento para o Brasil — afirmou. Presidente do Lide Brasília, o empresário e ex-senador Paulo Octávio destacou a trajetória da entidade, fundada por João Doria, ex-governador de São Paulo, e a atuação na articulação entre empresários, autoridades e instituições públicas. Para Paulo Octávio, essa aproximação contribui para a criação de oportunidades e o fortalecimento do ambiente de negócios. — Precisamos de diálogo permanente, respeito institucional e políticas que ofereçam condições para quem produz e quem trabalha — afirmou. Atuação empresarial O CEO global do Lide, João Doria Neto, afirmou que a entidade reúne mais de duas mil empresas e quatro mil lideranças empresariais, com presença em 31 cidades brasileiras e em 34 países. Segundo ele, as empresas integrantes do grupo respondem por mais de 40% do Produto Interno Bruto (PIB) privado brasileiro. Doria Neto também destacou o caráter plural e suprapartidário da organização. — O diálogo franco, respeitoso e permanente entre quem legisla, quem governa e quem produz é essencial para a competitividade, o desenvolvimento, a segurança jurídica e o crescimento sustentável do país — disse. Presidente do Lide Tocantins, Diva Cordeiro também ressaltou a importância da integração entre empresários, poder público e sociedade. Para ela, a atuação da entidade fortalece a economia e amplia as oportunidades de desenvolvimento regional. — Mais do que reunir empresários, o Lide promove conexões, estimula oportunidades e fortalece uma cultura de cidadania empresarial, na qual o crescimento dos negócios também representa uma contribuição para o desenvolvimento do país — declarou.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/atuacao-do-grupo-lide-e-aplaudida-em-sessao-especial-no-senado",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-11-09T15:49:40Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-09T21:11:52",
+      "primeira_vez_em": "2026-11-09T21:11:52"
+    },
+    "b74e66c682735598": {
+      "id": "b74e66c682735598",
+      "titulo": "Senado Cultural abre as portas em 9/12 com exposição sobre 200 anos da Casa",
+      "resumo": "O Senado Cultural — novo espaço de Brasília voltado à arte, cultura e história — será inaugurado no dia 9 de dezembro, às 15h, com uma exposição celebrando o bicentenário da Casa. Senado em Movimento: 200 Anos de História abordará de forma interativa e imersiva a trajetória da democracia e da cidadania no Brasil. A cerimônia de abertura será para convidados, com a presença de senadoras e senadores, servidores da Casa, outras autoridades e representantes do setor cultural. A partir de 10 de dezembro, o público terá acesso gratuito à mostra, que vai até junho de 2027. Para a diretora-geral do Senado, Ilana Trombka, o espaço será um presente da Casa para a população. — Brasília terá mais um ponto importante na área do turismo, da cultura e da arte. O Senado vai entregar um espaço que trabalha cidadania e democracia — afirmou Ilana. Localização O Senado Cultural fica às margens do Lago Paranoá, no Setor de Clubes Esportivos Norte, Trecho 3, próximo à Universidade de Brasília. Veja neste mapa a localização. Vai funcionar de quarta a segunda-feira, inclusive nos feriados, das 9h às 18h, com última entrada às 17h. Nos fins de semana, haverá transporte entre o edifício principal do Senado, na Praça dos Três Poderes, e o centro cultural. O novo centro foi construído onde antes ficava o Clube do Servidor Público, fechado há quase 30 anos. Desde 2024, o espaço passa por obras de recuperação ambiental e estrutural. Revitalizada, a antiga fachada de colunas brancas ovais, parte do conjunto arquitetônico projetado pelo engenheiro civil e arquiteto Armando Favato (1921-2018), faz parte do patrimônio afetivo dos brasilienses. O paisagismo é assinado pelo Escritório Burle Marx. Mediadores vão orientar os visitantes e na página da instituição será possível fazer reservas para visitas em grupos. Estão sendo planejadas atividades educativas sobre o processo democrático e o exercício da cidadania. A exposição Totalmente acessível a pessoas com deficiência, o espaço de mil metros quadrados contará com soluções tecnológicas que transformam a visita em uma experiência interativa e imersiva. — A exposição Senado em Movimento passa pelo conceito de Senado na Grécia Antiga, fazendo o caminho pelo Império e a Primeira República, até os dias atuais — explica a chefe do Núcleo de Gestão Museológica do Senado, Cristina Monteiro, cuja equipe esteve na linha de frente do esforço para transformar o Senado Cultural em realidade. O visitante será conduzido por uma jornada histórica pelas diferentes sedes do Senado: Palácio Conde dos Arcos (1826—1925), onde se destacam os debates do período imperial, a abolição da escravatura e a consolidação da República; Palácio Monroe (1925—1960), cenário das transformações da República Velha, do período varguista e da modernização legislativa; Palácio do Congresso Nacional (desde 1960), marco da construção de Brasília, dos desafios da ditadura e da conquista da democracia com a Constituição de 1988, chegando às ações contemporâneas em defesa da igualdade, da cidadania digital e da preservação ambiental. Ao longo de cada eixo, os visitantes conhecerão documentos, objetos e memórias que conectam passado e presente do Poder Legislativo. Segundo a museóloga Luana Martins, que trabalha no Museu do Senado, a exposição inaugural foi pensada para agradar o público infanto-juvenil, com interatividade e imersão. — Vamos ter obras de artistas importantes no Brasil e obras que contam a história desde o Império até os dias atuais — explicou. Galerias Segundo Cristina Monteiro, após o fim da exposição inicial, o espaço será dividido em três galerias distintas. — A gente continuará tendo uma exposição histórica, diferenciada da que está sendo apresentada agora, com mais acervo do próprio Museu do Senado, uma exposição sem prazo pra terminar. Outra galeria menor vai ser interativa e imersiva. E a terceira galeria vai ser voltada para artistas nacionais, de todos os estados da federação e do Distrito Federal — explicou. Além dessas galerias, na parte externa haverá outras duas: a Galeria da Democracia e a Galeria Brasília, voltada para os artistas locais do Distrito Federal, e que segundo Cristina Monteiro terá “uma cara mais jovem”. Para ela, a proximidade do campus principal da Universidade de Brasília (UnB) vai atrair a juventude para o Senado Cultural. Está sendo construído no local um teatro, para shows e peças. Para a gestora museológica do Senado, o espaço vai garantir a preservação histórica e oferecer um espaço de lazer e cultura para a população. — A gente ainda tem uma grande área de convivência, que são os jardins projetados pelo escritório do Burle Marx, que vão ocupar o espaço externo, onde estão previstos locais para shows, brinquedos para crianças, espaço para piquenique, biblioteca infantojuvenil. Um presente para Brasília — definiu Cristina. O projeto prevê ainda um espaço externo para abrigar a exposição de longa duração sobre o 8 de janeiro de 2023, quando o Palácio do Congresso Nacional foi invadido e depredado.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/senado-cultural-abre-as-portas-em-9-12-com-exposicao-sobre-200-anos-da-casa",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-11-09T15:26:47Z",
+      "impacto": "médio",
+      "tags": [
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-11-09T21:11:52",
+      "primeira_vez_em": "2026-11-09T21:11:52"
+    },
+    "60a39963aa616913": {
+      "id": "60a39963aa616913",
+      "titulo": "Governo estende programa Gás do Povo até 2031",
+      "resumo": "O programa Gás do Povo, que garante gás de cozinha gratuito para famílias de baixa renda, teve validade estendida por mais cinco anos, com encerramento em 2031. É o que determina medida provisória editada na sexta-feira (6) pelo presidente da República, Luiz Inácio Lula da Silva, e publicada no Diário Oficial da União (DOU) nesta segunda (9). O programa expiraria em 19 de novembro. A Medida Provisória (MP) 1.400/2026 altera a Lei 14.237, de 2021, que instituiu auxílio financeiro para a compra de gás para famílias de baixa renda. Em 2025, foi criada a gratuidade para o benefício, que é a principal modalidade atualmente. Para a prorrogação se tornar definitiva, o Congresso Nacional precisa transformar em lei em até 120 dias. O recesso de fim de ano fica fora da conta. Beneficiários Com o programa, a família beneficiada pode recarregar gratuitamente o botijão de gás de cozinha de 13 quilos. Para receber o benefício, a família deve: ter renda familiar mensal que, dividida pelo número de integrantes da família, não ultrapasse meio salário mínimo por pessoa (renda per capita); estar inscrita no Cadastro Único para Programas Sociais do governo federal (CadÚnico), que identifica pessoas de baixa renda; retirar o gás em um dos 27.160 pontos de revenda credenciados pelo governo, entre outros critérios. Segundo o governo, 15 milhões de lares já foram beneficiadas desde novembro de 2025. A quantidade de recargas anuais varia de quatro a seis botijões. Para 2027, o governo prevê R$ 7,6 bilhões para o programa, com atendimento de mais 15,4 milhões de famílias, segundo a proposta de Lei Orçamentária Anual.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/governo-estende-programa-gas-do-povo-ate-2031",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-11-09T14:32:01Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-09T21:11:52",
+      "primeira_vez_em": "2026-11-09T21:11:52"
+    },
+    "bc82b3fefb5dc60f": {
+      "id": "bc82b3fefb5dc60f",
+      "titulo": "Espírito Santo registra superávits, bate recorde de investimentos e lidera indicadores fiscais do País",
+      "resumo": "Espírito Santo registra superávits, bate recorde de investimentos e lidera indicadores fiscais do País",
+      "link": "https://sefaz.es.gov.br/espirito-santo-registra-superavits-bate-recorde-de-investimentos-e-lidera-indicadores-fiscais-do-pais",
+      "fonte": "SEFAZ ES",
+      "esfera": "estadual",
+      "uf": "ES",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-09T21:13:27",
+      "primeira_vez_em": "2026-11-09T21:13:27"
+    },
+    "dae340d1cda03ad1": {
+      "id": "dae340d1cda03ad1",
+      "titulo": "15:20 Nota Paraná Consumidores de 40 cidades recebem prêmios de R$ 1 mil do Nota Paraná Compartilhe:",
+      "resumo": "15:20 Nota Paraná Consumidores de 40 cidades recebem prêmios de R$ 1 mil do Nota Paraná Compartilhe:",
+      "link": "https://www.fazenda.pr.gov.br/Noticia/Consumidores-de-40-cidades-recebem-premios-de-R-1-mil-do-Nota-Parana",
+      "fonte": "SEFAZ PR",
+      "esfera": "estadual",
+      "uf": "PR",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-09T21:14:32",
+      "primeira_vez_em": "2026-11-09T21:14:32"
+    },
+    "7e0ab2a7295a9517": {
+      "id": "7e0ab2a7295a9517",
+      "titulo": "10:50 Nota Paraná Nota Paraná: morador de Toledo leva prêmio de R$ 100 mil no sorteio de novembro Compartilhe:",
+      "resumo": "10:50 Nota Paraná Nota Paraná: morador de Toledo leva prêmio de R$ 100 mil no sorteio de novembro Compartilhe:",
+      "link": "https://www.fazenda.pr.gov.br/Noticia/Nota-Parana-morador-de-Toledo-leva-premio-de-R-100-mil-no-sorteio-de-novembro",
+      "fonte": "SEFAZ PR",
+      "esfera": "estadual",
+      "uf": "PR",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-09T21:14:32",
+      "primeira_vez_em": "2026-11-09T21:14:32"
     }
   }
 }
