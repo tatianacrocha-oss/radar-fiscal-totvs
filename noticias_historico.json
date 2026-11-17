@@ -1,19 +1,5 @@
 {
   "noticias": {
-    "5a2a272341f6a971": {
-      "id": "5a2a272341f6a971",
-      "titulo": "CNPJ Alfanumérico: operação normal",
-      "resumo": "Publicado por Coordenação Técnica do ENCAT",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Cff/Avisos/2982",
-      "fonte": "Conformidade Fácil (ENCAT/SVRS) - Avisos",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "23/07/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-18T11:11:15",
-      "primeira_vez_em": "2026-09-17T15:42:57"
-    },
     "607173e000fc3989": {
       "id": "607173e000fc3989",
       "titulo": "Novidade: Link para o MOC Online",
@@ -25,7 +11,7 @@
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:44:28",
+      "coletado_em": "2026-11-17T19:29:09",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "a9b85ebff2d35b2f": {
@@ -41,7 +27,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-16T20:44:28",
+      "coletado_em": "2026-11-17T19:29:09",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "74129502b829908e": {
@@ -59,7 +45,7 @@
         "CBS",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-16T20:44:28",
+      "coletado_em": "2026-11-17T19:29:09",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "e5fc5ae97dc8d1c2": {
@@ -73,7 +59,7 @@
       "data_publicacao": "14/01/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:44:28",
+      "coletado_em": "2026-11-17T19:29:09",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "08398f1e2c89c97b": {
@@ -87,7 +73,7 @@
       "data_publicacao": "2026-07-22T16:51:56Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:44:29",
+      "coletado_em": "2026-11-17T19:29:10",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     "246d24ac1d0cd774": {
@@ -101,7 +87,7 @@
       "data_publicacao": "2026-07-20T19:54:16Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:44:29",
+      "coletado_em": "2026-11-17T19:29:10",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     "2de55424d6f704af": {
@@ -153,7 +139,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:34",
+      "coletado_em": "2026-11-17T19:29:16",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "046e01fae8b56c6d": {
@@ -167,7 +153,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:44:34",
+      "coletado_em": "2026-11-17T19:29:16",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "f6ee5f1d56c00209": {
@@ -184,7 +170,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:34",
+      "coletado_em": "2026-11-17T19:29:16",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "d00ea00b82d8e1fa": {
@@ -202,7 +188,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:34",
+      "coletado_em": "2026-11-17T19:29:16",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "09a31ac05b22905c": {
@@ -216,7 +202,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:44:34",
+      "coletado_em": "2026-11-17T19:29:16",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "e03b66d584fbef2c": {
@@ -234,7 +220,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:34",
+      "coletado_em": "2026-11-17T19:29:16",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "2112c58dfa782067": {
@@ -252,7 +238,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:34",
+      "coletado_em": "2026-11-17T19:29:16",
       "primeira_vez_em": "2026-09-17T15:43:03"
     },
     "4adf744f945fd69f": {
@@ -322,25 +308,6 @@
         "Prazo/Obrigação"
       ],
       "coletado_em": "2026-10-20T15:28:09",
-      "primeira_vez_em": "2026-09-17T15:43:04"
-    },
-    "b9c9daabd31b6e3e": {
-      "id": "b9c9daabd31b6e3e",
-      "titulo": "CGNFS-e orienta sobre os prazos para destaque de IBS/CBS nas notas fiscais de serviço",
-      "resumo": "Comitê Gestor do IBS e Receita Federal flexibilizaram a obrigatoriedade de informações nos documentos fiscais. Regras de validação que exigem informações do IBS e da CBS foram alteradas para evitar rejeição de documentos fiscais.",
-      "link": "https://www.gov.br/nfse/pt-br/noticias/cgnfs-e-orienta-sobre-os-prazos-para%20destaque-de-ibs-cbs-nas-notas-fiscais-de-servico",
-      "fonte": "NFS-e Nacional (CGNFS-e)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "07/08/2026",
-      "impacto": "alto",
-      "tags": [
-        "IBS",
-        "CBS",
-        "NFSe",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-10-18T11:11:23",
       "primeira_vez_em": "2026-09-17T15:43:04"
     },
     "4baf6d16f5f6d474": {
@@ -447,7 +414,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:45",
+      "coletado_em": "2026-11-17T19:29:28",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "c3ebc4e3910e68c9": {
@@ -463,7 +430,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:45",
+      "coletado_em": "2026-11-17T19:29:28",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "cf3d354183a6412b": {
@@ -479,7 +446,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:45",
+      "coletado_em": "2026-11-17T19:29:28",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "77284a5831435b93": {
@@ -495,7 +462,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:46",
+      "coletado_em": "2026-11-17T19:29:29",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "8edf3d8590ef2ea3": {
@@ -511,7 +478,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:46",
+      "coletado_em": "2026-11-17T19:29:29",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "db0e168e9dc70ff3": {
@@ -543,7 +510,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:47",
+      "coletado_em": "2026-11-17T19:29:31",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     "f3fce5f00b2dda14": {
@@ -559,7 +526,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:49",
+      "coletado_em": "2026-11-17T19:29:33",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     "6cff987543c8c065": {
@@ -573,7 +540,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-15T17:31:07",
+      "coletado_em": "2026-11-17T19:30:48",
       "primeira_vez_em": "2026-09-17T15:43:33"
     },
     "8b919b7384234279": {
@@ -603,7 +570,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:48:04",
+      "coletado_em": "2026-11-17T19:33:44",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     "c4bd59e18d311f35": {
@@ -619,7 +586,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-16T20:48:04",
+      "coletado_em": "2026-11-17T19:33:44",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     "ce7ddd9753d793fb": {
@@ -635,7 +602,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-16T20:48:06",
+      "coletado_em": "2026-11-17T19:33:46",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     "da3b5c5a1cc32cf3": {
@@ -651,7 +618,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-16T20:48:06",
+      "coletado_em": "2026-11-17T19:33:46",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     "be8638660c3332cb": {
@@ -665,7 +632,7 @@
       "data_publicacao": "29/05/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:48:08",
+      "coletado_em": "2026-11-17T19:33:47",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "5794323834606a06": {
@@ -681,7 +648,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-16T20:48:08",
+      "coletado_em": "2026-11-17T19:33:47",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "bc7500769f467d84": {
@@ -697,7 +664,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-16T20:48:08",
+      "coletado_em": "2026-11-17T19:33:47",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "552f0735a0423c26": {
@@ -711,7 +678,7 @@
       "data_publicacao": "26/11/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:48:09",
+      "coletado_em": "2026-11-17T19:33:49",
       "primeira_vez_em": "2026-09-17T15:44:34"
     },
     "58e10eba2750e488": {
@@ -727,7 +694,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-16T20:48:11",
+      "coletado_em": "2026-11-17T19:33:51",
       "primeira_vez_em": "2026-09-17T15:44:35"
     },
     "a4607235adf1b80f": {
@@ -743,7 +710,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-16T20:48:12",
+      "coletado_em": "2026-11-17T19:33:53",
       "primeira_vez_em": "2026-09-17T15:44:36"
     },
     "b676f2adf3c22d0a": {
@@ -759,7 +726,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-16T20:48:14",
+      "coletado_em": "2026-11-17T19:33:55",
       "primeira_vez_em": "2026-09-17T15:44:37"
     },
     "5af4c5ee52d4ce9c": {
@@ -773,7 +740,7 @@
       "data_publicacao": "30/03/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:48:15",
+      "coletado_em": "2026-11-17T19:33:56",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "a454d4d897b3839f": {
@@ -787,7 +754,7 @@
       "data_publicacao": "04/05/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:48:15",
+      "coletado_em": "2026-11-17T19:33:56",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "23085cc0899edc3f": {
@@ -801,7 +768,7 @@
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:48:15",
+      "coletado_em": "2026-11-17T19:33:56",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "fd3d7b1235ebc490": {
@@ -817,7 +784,7 @@
       "tags": [
         "Simples Nacional"
       ],
-      "coletado_em": "2026-11-16T20:48:15",
+      "coletado_em": "2026-11-17T19:33:57",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "98a8cf0b506f52a9": {
@@ -831,7 +798,7 @@
       "data_publicacao": "10/01/2024",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:48:15",
+      "coletado_em": "2026-11-17T19:33:57",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "7ce12346e4b886ec": {
@@ -845,7 +812,7 @@
       "data_publicacao": "15/12/2023",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:48:15",
+      "coletado_em": "2026-11-17T19:33:57",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "2d256ec029c6add1": {
@@ -861,7 +828,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-16T20:48:18",
+      "coletado_em": "2026-11-17T19:34:00",
       "primeira_vez_em": "2026-09-17T15:44:40"
     },
     "e31b387cddf7fd5d": {
@@ -875,7 +842,7 @@
       "data_publicacao": "19/10/2022",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:48:19",
+      "coletado_em": "2026-11-17T19:34:01",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     "c067fe8403247755": {
@@ -891,7 +858,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-16T20:48:19",
+      "coletado_em": "2026-11-17T19:34:01",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     "4cb90c79835b4cd1": {
@@ -907,7 +874,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-16T20:48:21",
+      "coletado_em": "2026-11-17T19:34:03",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "485fb61a2a751098": {
@@ -921,7 +888,7 @@
       "data_publicacao": "10/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:48:21",
+      "coletado_em": "2026-11-17T19:34:03",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "0b1cf5b29af11e57": {
@@ -937,7 +904,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-16T20:48:21",
+      "coletado_em": "2026-11-17T19:34:03",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "63dff167c306e0a2": {
@@ -969,7 +936,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-16T20:44:33",
+      "coletado_em": "2026-11-17T19:29:14",
       "primeira_vez_em": "2026-09-22T11:03:37"
     },
     "2f86464c831b5b1b": {
@@ -983,7 +950,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:44:33",
+      "coletado_em": "2026-11-17T19:29:14",
       "primeira_vez_em": "2026-09-22T11:03:37"
     },
     "e0eaa5a24d485f65": {
@@ -999,7 +966,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-16T20:44:33",
+      "coletado_em": "2026-11-17T19:29:14",
       "primeira_vez_em": "2026-09-25T11:03:52"
     },
     "875f51f99732d992": {
@@ -1015,7 +982,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:43",
+      "coletado_em": "2026-11-17T19:29:26",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     "4b70d64501a39e0c": {
@@ -1031,7 +998,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:43",
+      "coletado_em": "2026-11-17T19:29:26",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     "21a7f1ac3d421137": {
@@ -1063,7 +1030,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-16T20:44:33",
+      "coletado_em": "2026-11-17T19:29:14",
       "primeira_vez_em": "2026-09-30T11:04:55"
     },
     "eeba35f26cd1b78e": {
@@ -1082,7 +1049,7 @@
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-11-16T20:44:33",
+      "coletado_em": "2026-11-17T19:29:14",
       "primeira_vez_em": "2026-10-01T11:05:37"
     },
     "bb8a5d4e64f78243": {
@@ -1114,7 +1081,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:34",
+      "coletado_em": "2026-11-17T19:29:16",
       "primeira_vez_em": "2026-10-01T15:54:19"
     },
     "b22c32886dc039f5": {
@@ -1180,7 +1147,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:43",
+      "coletado_em": "2026-11-17T19:29:26",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     "529e8feb3d37e80e": {
@@ -1215,7 +1182,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:43",
+      "coletado_em": "2026-11-17T19:29:26",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     "c1366c3e91745dce": {
@@ -1231,7 +1198,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:45",
+      "coletado_em": "2026-11-17T19:29:28",
       "primeira_vez_em": "2026-10-02T11:04:32"
     },
     "a7086811f0b75d7a": {
@@ -1248,7 +1215,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:34",
+      "coletado_em": "2026-11-17T19:29:16",
       "primeira_vez_em": "2026-10-03T11:59:05"
     },
     "100b03d2302e3752": {
@@ -1278,7 +1245,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-16T20:44:33",
+      "coletado_em": "2026-11-17T19:29:14",
       "primeira_vez_em": "2026-10-04T17:21:33"
     },
     "5f6e7fb8370f435f": {
@@ -1309,7 +1276,7 @@
         "IBS",
         "CBS"
       ],
-      "coletado_em": "2026-11-16T20:44:33",
+      "coletado_em": "2026-11-17T19:29:14",
       "primeira_vez_em": "2026-10-07T11:05:57"
     },
     "190309e9ae03812a": {
@@ -1351,7 +1318,7 @@
       "data_publicacao": "13/11/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-15T17:31:07",
+      "coletado_em": "2026-11-17T19:30:48",
       "primeira_vez_em": "2026-10-09T11:06:21"
     },
     "1f588e686ac5fd39": {
@@ -1365,7 +1332,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-15T17:31:07",
+      "coletado_em": "2026-11-17T19:30:48",
       "primeira_vez_em": "2026-10-09T11:06:21"
     },
     "2ff2ed7a2b94c51d": {
@@ -1384,7 +1351,7 @@
         "CBS",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-11-16T20:46:45",
+      "coletado_em": "2026-11-17T19:32:18",
       "primeira_vez_em": "2026-10-09T11:07:36"
     },
     "83ea5b3ca6fc6fd0": {
@@ -1515,7 +1482,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:35",
+      "coletado_em": "2026-11-17T19:29:17",
       "primeira_vez_em": "2026-10-10T11:03:27"
     },
     "de8bcd44da22e0de": {
@@ -1532,7 +1499,7 @@
         "Reforma Tributária",
         "NFSe"
       ],
-      "coletado_em": "2026-11-16T20:44:35",
+      "coletado_em": "2026-11-17T19:29:17",
       "primeira_vez_em": "2026-10-10T11:03:27"
     },
     "e71196e85144a8a2": {
@@ -1813,20 +1780,6 @@
       "coletado_em": "2026-10-19T17:15:15",
       "primeira_vez_em": "2026-10-17T11:12:03"
     },
-    "c2e4480206113681": {
-      "id": "c2e4480206113681",
-      "titulo": "O fim da escala 6x1",
-      "resumo": "O fim da escala 6x1",
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/10/o-fim-da-escala-6x1",
-      "fonte": "Senado Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-10-16T18:19:35Z",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-18T11:11:29",
-      "primeira_vez_em": "2026-10-17T11:12:03"
-    },
     "e8129b210f446bbd": {
       "id": "e8129b210f446bbd",
       "titulo": "Secretário de Fazenda visita Posto Fiscal Flávio Gomes e conversa com servidores",
@@ -1894,7 +1847,7 @@
       "data_publicacao": "19/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:44:28",
+      "coletado_em": "2026-11-17T19:29:09",
       "primeira_vez_em": "2026-10-19T17:15:00"
     },
     "956f42d9152f269f": {
@@ -1911,7 +1864,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:35",
+      "coletado_em": "2026-11-17T19:29:17",
       "primeira_vez_em": "2026-10-19T17:15:08"
     },
     "551655e77bd0371a": {
@@ -2014,7 +1967,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:35",
+      "coletado_em": "2026-11-17T19:29:17",
       "primeira_vez_em": "2026-10-21T15:44:21"
     },
     "e7ef5e1a4576ff4a": {
@@ -2415,7 +2368,7 @@
       "data_publicacao": "26/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:44:36",
+      "coletado_em": "2026-11-17T19:29:18",
       "primeira_vez_em": "2026-10-26T17:03:20"
     },
     "3726f62df6909ec2": {
@@ -2565,7 +2518,7 @@
       "data_publicacao": "26/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:44:34",
+      "coletado_em": "2026-11-17T19:29:16",
       "primeira_vez_em": "2026-10-27T16:06:03"
     },
     "7e55af4f30df37cd": {
@@ -2665,7 +2618,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:43",
+      "coletado_em": "2026-11-17T19:29:26",
       "primeira_vez_em": "2026-10-27T16:06:13"
     },
     "2022a6d348e22197": {
@@ -2735,7 +2688,7 @@
       "data_publicacao": "27/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:44:36",
+      "coletado_em": "2026-11-17T19:29:18",
       "primeira_vez_em": "2026-10-28T16:52:50"
     },
     "a97d34ebec391e64": {
@@ -2749,7 +2702,7 @@
       "data_publicacao": "27/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:44:36",
+      "coletado_em": "2026-11-17T19:29:18",
       "primeira_vez_em": "2026-10-28T16:52:50"
     },
     "f9d341e8ed70ff9c": {
@@ -2849,7 +2802,7 @@
       "data_publicacao": "27/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:48:06",
+      "coletado_em": "2026-11-17T19:33:46",
       "primeira_vez_em": "2026-10-28T16:56:05"
     },
     "9b0c0323e366e671": {
@@ -2865,7 +2818,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-16T20:44:33",
+      "coletado_em": "2026-11-17T19:29:14",
       "primeira_vez_em": "2026-10-29T17:11:19"
     },
     "16a47ae948ca95ee": {
@@ -2884,7 +2837,7 @@
         "NFSe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:35",
+      "coletado_em": "2026-11-17T19:29:17",
       "primeira_vez_em": "2026-10-29T17:11:22"
     },
     "dae67137aa14b7f9": {
@@ -2898,7 +2851,7 @@
       "data_publicacao": "28/10/2026",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-11-16T20:44:36",
+      "coletado_em": "2026-11-17T19:29:18",
       "primeira_vez_em": "2026-10-29T17:11:23"
     },
     "b72059c58093cdd5": {
@@ -3101,7 +3054,7 @@
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-11-16T20:44:35",
+      "coletado_em": "2026-11-17T19:29:17",
       "primeira_vez_em": "2026-10-30T16:52:26"
     },
     "12463e97cf805749": {
@@ -3237,7 +3190,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:43",
+      "coletado_em": "2026-11-17T19:29:26",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "f613b9d7c5d7894f": {
@@ -3254,7 +3207,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:43",
+      "coletado_em": "2026-11-17T19:29:26",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "c331ed445295693a": {
@@ -3271,7 +3224,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:43",
+      "coletado_em": "2026-11-17T19:29:26",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "017acb4bb587164e": {
@@ -3289,7 +3242,7 @@
         "NT (Nota Técnica)",
         "Simples Nacional"
       ],
-      "coletado_em": "2026-11-16T20:44:43",
+      "coletado_em": "2026-11-17T19:29:26",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "a06b2f52b19faa20": {
@@ -3307,7 +3260,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:43",
+      "coletado_em": "2026-11-17T19:29:26",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "e34bd541cdfcab47": {
@@ -3323,7 +3276,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:45",
+      "coletado_em": "2026-11-17T19:29:28",
       "primeira_vez_em": "2026-10-30T16:52:35"
     },
     "ddaabbaff7082b26": {
@@ -3339,7 +3292,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-16T20:44:46",
+      "coletado_em": "2026-11-17T19:29:29",
       "primeira_vez_em": "2026-10-30T16:52:36"
     },
     "349221150d5a7d10": {
@@ -3444,7 +3397,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-16T20:48:06",
+      "coletado_em": "2026-11-17T19:33:46",
       "primeira_vez_em": "2026-10-31T15:58:15"
     },
     "d2e13a6d9d9cb7d7": {
@@ -3460,7 +3413,7 @@
       "tags": [
         "NFSe"
       ],
-      "coletado_em": "2026-11-16T20:44:35",
+      "coletado_em": "2026-11-17T19:29:17",
       "primeira_vez_em": "2026-11-01T16:57:18"
     },
     "779a3325a96a698f": {
@@ -3651,7 +3604,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-16T20:48:24",
+      "coletado_em": "2026-11-17T19:34:08",
       "primeira_vez_em": "2026-11-03T18:14:05"
     },
     "7268b4a834ca5548": {
@@ -3665,7 +3618,7 @@
       "data_publicacao": "03/11/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:44:36",
+      "coletado_em": "2026-11-17T19:29:18",
       "primeira_vez_em": "2026-11-04T18:20:08"
     },
     "f9ad3c9dbd5145a8": {
@@ -3947,7 +3900,7 @@
       "data_publicacao": "04/11/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:44:36",
+      "coletado_em": "2026-11-17T19:29:18",
       "primeira_vez_em": "2026-11-05T18:23:24"
     },
     "dc8d6d14a746c2b1": {
@@ -4402,7 +4355,7 @@
         "NT (Nota Técnica)",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-16T20:44:28",
+      "coletado_em": "2026-11-17T19:29:09",
       "primeira_vez_em": "2026-11-09T21:11:37"
     },
     "4379728a759f423b": {
@@ -4590,7 +4543,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:46:45",
+      "coletado_em": "2026-11-17T19:32:18",
       "primeira_vez_em": "2026-11-09T21:14:32"
     },
     "7e0ab2a7295a9517": {
@@ -4604,7 +4557,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-15T17:32:23",
+      "coletado_em": "2026-11-17T19:32:18",
       "primeira_vez_em": "2026-11-09T21:14:32"
     },
     "585c166bee717616": {
@@ -4765,8 +4718,8 @@
     },
     "df04e6ebc0870b0f": {
       "id": "df04e6ebc0870b0f",
-      "titulo": "Publicado há 6 dias 10 de Novembro de 2026 15:11 Receita Estadual Com descontos de até 95% sobre multas de ICMS, Estado propõe novo Refis Compartilhe:",
-      "resumo": "Publicado há 6 dias 10 de Novembro de 2026 15:11 Receita Estadual Com descontos de até 95% sobre multas de ICMS, Estado propõe novo Refis Compartilhe:",
+      "titulo": "15:11 Receita Estadual Com descontos de até 95% sobre multas de ICMS, Estado propõe novo Refis Compartilhe:",
+      "resumo": "15:11 Receita Estadual Com descontos de até 95% sobre multas de ICMS, Estado propõe novo Refis Compartilhe:",
       "link": "https://www.fazenda.pr.gov.br/Noticia/Com-descontos-de-ate-95-sobre-multas-de-ICMS-Estado-propoe-novo-Refis",
       "fonte": "SEFAZ PR",
       "esfera": "estadual",
@@ -4777,7 +4730,7 @@
         "ICMS",
         "Multa/Penalidade"
       ],
-      "coletado_em": "2026-11-16T20:46:45",
+      "coletado_em": "2026-11-17T19:32:18",
       "primeira_vez_em": "2026-11-10T18:24:32"
     },
     "9c84faf1c7ab5e04": {
@@ -4954,7 +4907,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-16T20:44:33",
+      "coletado_em": "2026-11-17T19:29:14",
       "primeira_vez_em": "2026-11-12T18:38:39"
     },
     "393f750456ef74db": {
@@ -5124,13 +5077,13 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:45:53",
+      "coletado_em": "2026-11-17T19:31:06",
       "primeira_vez_em": "2026-11-12T18:40:16"
     },
     "f2cc5fb8b65a54db": {
       "id": "f2cc5fb8b65a54db",
-      "titulo": "Publicado há 5 dias 11 de Novembro de 2026 15:24 Receita Estadual Receita Estadual realiza reunião de fechamento da gestão com delegados Compartilhe:",
-      "resumo": "Publicado há 5 dias 11 de Novembro de 2026 15:24 Receita Estadual Receita Estadual realiza reunião de fechamento da gestão com delegados Compartilhe:",
+      "titulo": "Publicado há 6 dias 11 de Novembro de 2026 15:24 Receita Estadual Receita Estadual realiza reunião de fechamento da gestão com delegados Compartilhe:",
+      "resumo": "Publicado há 6 dias 11 de Novembro de 2026 15:24 Receita Estadual Receita Estadual realiza reunião de fechamento da gestão com delegados Compartilhe:",
       "link": "https://www.fazenda.pr.gov.br/Noticia/Receita-Estadual-realiza-reuniao-de-fechamento-da-gestao-com-delegados",
       "fonte": "SEFAZ PR",
       "esfera": "estadual",
@@ -5138,7 +5091,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:46:45",
+      "coletado_em": "2026-11-17T19:32:18",
       "primeira_vez_em": "2026-11-12T18:41:13"
     },
     "4cf0b4417c3f0fe2": {
@@ -5152,7 +5105,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:46:45",
+      "coletado_em": "2026-11-17T19:32:18",
       "primeira_vez_em": "2026-11-12T18:41:13"
     },
     "36d58487bf05edf2": {
@@ -5166,7 +5119,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:46:45",
+      "coletado_em": "2026-11-17T19:32:18",
       "primeira_vez_em": "2026-11-12T18:41:13"
     },
     "f98dbe728a9e01c3": {
@@ -5182,7 +5135,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-16T20:44:28",
+      "coletado_em": "2026-11-17T19:29:09",
       "primeira_vez_em": "2026-11-13T18:17:23"
     },
     "c37f1dad29849ecc": {
@@ -5400,7 +5353,7 @@
         "NFSe",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-11-16T20:44:35",
+      "coletado_em": "2026-11-17T19:29:17",
       "primeira_vez_em": "2026-11-14T16:47:06"
     },
     "770ce1a6a274fa63": {
@@ -5661,7 +5614,7 @@
       "data_publicacao": "16/11/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:44:38",
+      "coletado_em": "2026-11-17T19:29:20",
       "primeira_vez_em": "2026-11-16T20:44:38"
     },
     "35c66e1bb6b9073b": {
@@ -5675,7 +5628,7 @@
       "data_publicacao": "16/11/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:44:38",
+      "coletado_em": "2026-11-17T19:29:20",
       "primeira_vez_em": "2026-11-16T20:44:38"
     },
     "a56e810f19b1855c": {
@@ -5689,7 +5642,7 @@
       "data_publicacao": "16/11/2026",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-11-16T20:44:38",
+      "coletado_em": "2026-11-17T19:29:20",
       "primeira_vez_em": "2026-11-16T20:44:38"
     },
     "35ba4ab00b3b15f0": {
@@ -5912,7 +5865,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:45:53",
+      "coletado_em": "2026-11-17T19:31:06",
       "primeira_vez_em": "2026-11-16T20:45:53"
     },
     "48a337eb002d7047": {
@@ -5926,7 +5879,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:46:15",
+      "coletado_em": "2026-11-17T19:31:44",
       "primeira_vez_em": "2026-11-16T20:46:15"
     },
     "6dc73128f9799c22": {
@@ -5940,7 +5893,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:46:15",
+      "coletado_em": "2026-11-17T19:31:44",
       "primeira_vez_em": "2026-11-16T20:46:15"
     },
     "6d3413ff172ac9f4": {
@@ -5954,7 +5907,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:46:45",
+      "coletado_em": "2026-11-17T19:32:18",
       "primeira_vez_em": "2026-11-16T20:46:45"
     },
     "62beaaec45c2ed49": {
@@ -5968,7 +5921,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-16T20:46:45",
+      "coletado_em": "2026-11-17T19:32:18",
       "primeira_vez_em": "2026-11-16T20:46:45"
     },
     "26bf5ec646743890": {
@@ -5984,8 +5937,273 @@
       "tags": [
         "Reforma Tributária"
       ],
-      "coletado_em": "2026-11-16T20:46:45",
+      "coletado_em": "2026-11-17T19:32:18",
       "primeira_vez_em": "2026-11-16T20:46:45"
+    },
+    "54f0b0bbc15e4dba": {
+      "id": "54f0b0bbc15e4dba",
+      "titulo": "Receita Federal disponibiliza API para emissão do Recolhimento como Adquirente (RAD)",
+      "resumo": "A solução viabiliza a automação dos processos relacionados ao RAD, reduzindo etapas operacionais e ampliando a eficiência na apropriação de créditos tributários",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-disponibiliza-api-para-emissao-do-recolhimento-como-adquirente-rad",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "17/11/2026",
+      "impacto": "médio",
+      "tags": [
+        "API/Sistemas Gov"
+      ],
+      "coletado_em": "2026-11-17T19:29:20",
+      "primeira_vez_em": "2026-11-17T19:29:20"
+    },
+    "423ba0acc4a9089f": {
+      "id": "423ba0acc4a9089f",
+      "titulo": "Estudo reúne subsídios para o encerramento humanizado de lixões e a transição para a economia circular",
+      "resumo": "Nota técnica elaborada pelo PromEC analisa desafios da gestão de resíduos sólidos no Brasil, reúne experiências nacionais e internacionais e apresenta recomendações para apoiar políticas públicas e soluções sustentáveis nos territórios",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/estudo-reune-subsidios-para-o-encerramento-humanizado-de-lixoes-e-a-transicao-para-a-economia-circular",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "17/11/2026",
+      "impacto": "baixo",
+      "tags": [
+        "NT (Nota Técnica)"
+      ],
+      "coletado_em": "2026-11-17T19:29:20",
+      "primeira_vez_em": "2026-11-17T19:29:20"
+    },
+    "30a8b6198b54189c": {
+      "id": "30a8b6198b54189c",
+      "titulo": "Operação Fronteira Receita Federal 2026 retira de circulação R$ 581 milhões em mercadorias ilícitas e drogas",
+      "resumo": "Sexta edição registrou recorde de apreensão de mercadorias e mobilizou mais de 600 servidores da Receita Federal e 1.400 agentes de órgãos parceiros",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/operacao-fronteira-receita-federal-2026-retira-de-circulacao-r-581-milhoes-em-mercadorias-ilicitas-e-drogas",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "16/11/2026",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-17T19:29:20",
+      "primeira_vez_em": "2026-11-17T19:29:20"
+    },
+    "a1fced458df8ecbe": {
+      "id": "a1fced458df8ecbe",
+      "titulo": "Maior concorrência em plataformas digitais pode gerar mais de R$ 15 bilhões por ano em benefícios para consumidores e empresas brasileiras",
+      "resumo": "Estudo do Ministério da Fazenda sobre o PL nº 4.675/2025 aponta potencial de redução de preços e custos, além de ganhos de produtividade para a economia brasileira",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/maior-concorrencia-em-plataformas-digitais-pode-gerar-mais-de-r-15-bilhoes-por-ano-em-beneficios-para-consumidores-e-empresas-brasileiras",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "16/11/2026",
+      "impacto": "baixo",
+      "tags": [],
+      "coletado_em": "2026-11-17T19:29:20",
+      "primeira_vez_em": "2026-11-17T19:29:20"
+    },
+    "98b9d8ad41500cf3": {
+      "id": "98b9d8ad41500cf3",
+      "titulo": "Fazenda abre consulta pública sobre regras para empresas que vão medir emissões no mercado de carbono",
+      "resumo": "Sociedade e setor produtivo podem contribuir, até 16 de dezembro, sobre minuta que detalha o que cada indústria vai precisar monitorar no Sistema Brasileiro de Comércio de Emissões (SBCE)",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/fazenda-abre-consulta-publica-sobre-regras-para-empresas-que-vao-medir-emissoes-no-mercado-de-carbono",
+      "fonte": "Ministério da Fazenda",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "16/11/2026",
+      "impacto": "baixo",
+      "tags": [],
+      "coletado_em": "2026-11-17T19:29:20",
+      "primeira_vez_em": "2026-11-17T19:29:20"
+    },
+    "db6b4335aa0e9867": {
+      "id": "db6b4335aa0e9867",
+      "titulo": "Davi e Motta pedem julgamento das ações da Lei da Dosimetria",
+      "resumo": "O presidente do Senado, Davi Alcolumbre, e o presidente da Câmara, Hugo Motta, solicitaram nesta terça-feira (17) ao ministro do Supremo Tribunal Federal Alexandre de Moraes a liberação para votação das ações diretas de inconstitucionalidade que questionam a Lei da Dosimetria (Lei 15.402, de 2026), que reduz as penas dos condenados por envolvimento nos atos antidemocráticos de 8 de janeiro de 2023. Davi e Motta solicitaram a Moraes, relator das ações, a inclusão das matérias na pauta do Plenário do Supremo, para que o julgamento possa ser concluído. Os presidentes das duas Casas do Congresso Nacional ressaltaram a importância de uma decisão do STF sobre a validade da lei aprovada pelos senadores e deputados em 2025. Alexandre de Moraes ouviu os argumentos apresentados e disse que responderá sobre o pedido assim que for possível. Redução das penas A Lei 15.402 foi vetada integralmente pelo presidente Luiz Inácio Lula da Silva em janeiro de 2026 (VET 3/2026). Em abril, porém, o Congresso derrubou parte do veto, ressalvados dispositivos prejudicados, com o voto favorável de 49 senadores e 318 deputados. Em maio, a lei foi promulgada por Davi, como presidente do Congresso. Com a decisão, os condenados nos atos de 8 de janeiro poderão ser beneficiados com redução de penas e flexibilidade na progressão de pena — a possibilidade de transferência gradual do regime fechado para o aberto. A aplicação da lei, no entanto, foi suspensa por decisão de Alexandre de Moraes, no âmbito das ações diretas de inconstitucionalidade que aguardam decisão definitiva do Plenário do Supremo. A Lei da Dosimetria teve origem em projeto (PL 2.162/2023) apresentado pelo deputado federal Marcelo Crivella (Republicanos-RS). Nota conjunta Leia a íntegra da nota assinada por Davi Alcolumbre e Hugo Motta e divulgada à imprensa: Na manhã desta terça-feira (17), o presidente do Senado Federal, Davi Alcolumbre, e o presidente da Câmara dos Deputados, Hugo Motta, reuniram-se, em agenda institucional, com o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), relator das ações diretas de inconstitucionalidade que questionam a Lei da Dosimetria. Durante o encontro, os presidentes das duas Casas solicitaram ao ministro que libere as ações para inclusão na pauta do Plenário do Supremo, na expectativa de que o julgamento definitivo seja concluído ainda este ano. Davi Alcolumbre e Hugo Motta ressaltaram a importância de uma decisão do STF sobre a validade da lei aprovada pelo Congresso Nacional. O ministro Alexandre de Moraes ouviu atentamente os argumentos apresentados e informou que dará retorno sobre o pedido assim que possível.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/davi-e-motta-pedem-julgamento-das-acoes-da-lei-da-dosimetria",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-11-17T19:11:06Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-17T19:29:23",
+      "primeira_vez_em": "2026-11-17T19:29:23"
+    },
+    "1f6b612a4188fc7c": {
+      "id": "1f6b612a4188fc7c",
+      "titulo": "Paim relembra comissão que propôs política de valorização do salário mínimo",
+      "resumo": "O senador Paulo Paim (PT-RS) relembrou nesta terça-feira (17) a atuação da Comissão Mista Especial do Salário Mínimo, criada em 2005 para discutir mecanismos permanentes de reajuste do piso nacional. Em pronunciamento no Plenário, Paim destacou a promoção de 15 audiências públicas e a participação de representantes de trabalhadores, empregadores, sindicatos, aposentados, pesquisadores e diferentes setores da sociedade na elaboração do texto final, do qual foi relator. Segundo o senador, a comissão fez debates em diversas capitais, entre elas Curitiba, São Paulo, Salvador, Porto Alegre e Manaus. O objetivo era ouvir trabalhadores urbanos e rurais, servidores públicos e aposentados sobre o impacto do salário mínimo no orçamento das famílias. Paim afirmou que o trabalho reuniu dados e experiências para fundamentar a defesa de uma política de reajuste que considerasse a inflação e o crescimento econômico. — A comissão nos permitiu conhecer melhor o Brasil. Aquele Brasil que muitas vezes não aparece nas planilhas, nos jornais, mas que sente o preço do alimento, do aluguel, do transporte, do remédio, da conta de luz, da conta de água, da roupa para os adultos e para a meninada — afirmou. O relatório final da comissão foi aprovado por unanimidade, em outubro de 2006. A proposta defendia a reposição da inflação acrescida do crescimento do produto interno bruto (PIB), para garantir ganho real aos trabalhadores. O senador também lembrou que a política de valorização foi instituída pela Lei 12.382, de 2011, deixou de ser aplicada entre 2019 e 2022 e foi retomada com a Lei 14.663, de 2023.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/paim-relembra-comissao-que-propos-politica-de-valorizacao-do-salario-minimo",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-11-17T18:28:54Z",
+      "impacto": "baixo",
+      "tags": [],
+      "coletado_em": "2026-11-17T19:29:23",
+      "primeira_vez_em": "2026-11-17T19:29:23"
+    },
+    "a36fa41f59bfc4c0": {
+      "id": "a36fa41f59bfc4c0",
+      "titulo": "Sessão especial destaca atuação da CNseg no setor de seguros",
+      "resumo": "Desenvolver o sistema de seguros privados no Brasil e expandir a cultura de proteção pessoal e patrimonial são diretrizes da Confederação Nacional das Empresas de Seguros Gerais, Previdência Privada e Vida, Saúde Suplementar e Capitalização (CNseg). A entidade foi celebrada nesta terça-feira (17) em sessão especial no Senado pelos seus 75 anos de instituição. Primeiro signatário da sessão especial, o senador Eduardo Gomes (PL-TO) destacou que a CNseg se consolidou como uma das mais importantes entidades representativas da economia, ao ter “papel fundamental no fortalecimento do mercado segurador brasileiro e na construção de mecanismos de proteção que contribuem para a segurança econômica e social de milhões de cidadãos”. O senador lembrou que em um cenário marcado por transformações econômicas, tecnológicas e climáticas, o seguro deixou de ser apenas um instrumento de proteção patrimonial, passando a ser \"essencial na promoção de estabilidade, de estímulo a investimentos e de inclusão financeira\". — Os números mais recentes demonstram essa importância. Em 2026, a CNseg projeta que o mercado segurador brasileiro alcance uma arrecadação de aproximadamente R$ 808 bilhões, representando cerca de 5,8% do produto interno bruto (PIB) nacional. No primeiro semestre de 2026, o setor arrecadou R$ 207 bilhões e pagou R$ 126 bilhões em indenizações, benefícios, resgates e sorteios. São recursos que retornam diretamente à sociedade, apoiando famílias e empresas em momentos cruciais. Para a senadora Tereza Cristina (PP-MS), “o seguro mudou muito e deixou de ser um produto para poucos”: — Seguro não é apenas um contrato. É tranquilidade para quem trabalha, é crédito para quem produz, é a garantia de que uma tragédia não vai apagar de uma hora para outra o esforço de uma vida inteira. (...) Nós estamos vivendo uma mudança climática, seca, enchente, geada. O que antes era exceção, virou uma rotina, por isso que eu repito que o seguro rural resolveria uma boa parte dos problemas do campo. A senadora salientou principalmente a importância desse produto para os produtores rurais e lembrou que o Senado aprovou projeto de lei de sua autoria que moderniza a lei do seguro rural, recém-sancionado como Lei 15.526, de 2026. — É um começo, mas ele sozinho não resolve o problema. A lei tem que funcionar na prática, tem que ter subvenção previsível, tem que ter fundo de catástrofe e tem que ter um mercado segurador forte para assumir esse risco. E é aí que entra o trabalho de vocês. Isso é um acordo que precisa ser feito a várias mãos: Governo, Congresso, produtores, sistema financeiro e as seguradoras e resseguradoras. Coletivo Composta por quatro federações — FenSeg, FenaPrevi , FenSaúde e FenaCap —, a CNseg é resultado de “um coletivo de construir soluções e encontrar caminhos, a partir da crença de que o produto seguro é uma grande contribuição para a sociedade”, segundo o presidente da entidade, Dyogo Oliveira. Ele lembrou que o seguro esteve presente em momentos difíceis, como na pandêmica de covid-19, nas enchentes no Rio Grande do Sul em 2024 e nas grandes secas que atingiram diferentes regiões do país. Oliveira garantiu ainda que \"o seguro nacional é cada vez mais tecnológico e inovador\". — É nosso dever cívico fazer com que o seguro seja universalizado no Brasil. Fazer com que chegue a todas as pessoas, empresas, famílias. Aqueles que são mais vulneráveis e mais precisam do seguro, mas não podem pagar por ele. Aqueles que não têm o conhecimento securitário necessário para compreender os riscos aos quais estão expostos e aqueles que não têm informações necessárias parta fazer a adequada gestão dos riscos em seus negócios e na sua vida pessoal. Superintendente da Superintendência de Seguros Privados (Susep), Alessandro Serafin Octaviani Luis destacou a necessidade de expansão do mercado e afirmou que a CNseg pode contribuir por “sua capacidade técnica, pela ambição de pensar grande e pela abertura e capacidade de diálogo”. — Com essas três qualidades introjetadas, ao lado de formuladores de políticas públicas, nós pensaremos e construiremos um mercado de seguros do tamanho que o nosso país precisa. Presidente do Instituto de Longevidade MAG, Nilton Molina afirmou que não obstante o mercado de seguro ser uma atividade econômica como outra qualquer, “é, sim, uma espécie diferente”. — A penetração de seguros no Brasil não é alta. É até muito baixa. E é isso que nos faz a diferença. Nós temos um propósito de levar aos consumidores, à população brasileira, às empresas, às instituições, programas de preservação de seu patrimônio, preservação de sua renda. Somos, na verdade, grandes educadores financeiros. É o que realmente somos enquanto seguradores. Presidente do Conselho de Administração do Bradesco, Luiz Carlos Trabuco Cappi destacou o Marco Legal dos Seguros, sancionado no final do ano passado. — O setor segurador tem um marco legal de bases sólidas para o alinhamento do setor em profundas transformações na sociedade brasileira. Ao mesmo tempo, a modernização da indústria de seguros ganhou estímulo de maior segurança jurídica, e, ao longo dessas sete décadas e meia, o mercado avançou, abriu fronteiras, contribuiu com o desenvolvimento social do país, criando algo excepcional e fundamental à formação de capital de longo prazo. Para o presidente da Federação Nacional dos Corretores de Seguros Privados e de Resseguros, de Capitalização, de Previdência Privada, das Empresas Corretoras de Seguros e de Resseguros (Fenacor), Armando Vergilio dos Santos Júnior, os 75 anos da CNseg são “a história da construção de um setor extremamente relevante e de um Brasil que está ainda aprendendo a se proteger”. Também discursaram o ex-ministro das Cidades e deputado federal eleito para o Pará, Jader Barbalho Filho (MDB), e o deputado Silvio Costa Filho (Republicanos-PE).",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/senado-celebra-os-75-anos-da-cnseg-pelo-desenvolvimento-dos-seguros-privados",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-11-17T15:35:07Z",
+      "impacto": "alto",
+      "tags": [
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-11-17T19:29:23",
+      "primeira_vez_em": "2026-11-17T19:29:23"
+    },
+    "b3e022d5f4effdd9": {
+      "id": "b3e022d5f4effdd9",
+      "titulo": "Indústria e acordo ambiental serão temas de audiências na CRE",
+      "resumo": "A Comissão de Relações Exteriores (CRE) aprovou três requerimentos para a realização de audiências públicas sobre os desafios da indústria brasileira diante da concorrência internacional e os possíveis impactos do Acordo de Escazú. Os pedidos, apresentados pelos senadores Nelsinho Trad (PSD-MS), Tereza Cristina (PP-MS) e Leany Lemos (PSB-DF), foram aprovados na reunião desta terça-feira (17). As audiências ainda não têm data definida. O debate sobre a indústria, proposto por Nelsinho Trad (REQ 19/2026 – CRE), abordará os efeitos das importações e da instalação de empresas estrangeiras no Brasil, além de políticas públicas para fortalecer a produção nacional. Entre os convidados sugeridos estão o ex-diretor-geral da Organização Mundial do Comércio (OMC) Roberto Azevêdo e representantes da indústria e dos trabalhadores metalúrgicos. Tereza Cristina defendeu investimentos que contribuam para a transferência de tecnologia e a inovação no país. — O Brasil tem parceiros muito importantes, mas nós não podemos deixar a nossa indústria morrer — afirmou. Leany Lemos também apoiou a discussão e destacou a relação entre industrialização, renda e qualidade de vida. Os outros dois requerimentos tratam do Acordo de Escazú, que estabelece compromissos relacionados ao acesso à informação, à participação pública e à justiça em questões ambientais na América Latina e no Caribe. O pedido de Tereza Cristina (REQ 20/2026 – CRE) prevê a discussão de possíveis impactos jurídicos, econômicos, ambientais e diplomáticos do acordo, objeto do PDL 934/2025. A audiência deverá abordar efeitos sobre o agronegócio, a indústria, o licenciamento ambiental e a proteção de informações empresariais. Entre os convidados sugeridos estão representantes dos ministérios das Relações Exteriores e do Meio Ambiente e Mudança do Clima, da Advocacia-Geral da União e de entidades dos setores produtivos, além da especialista em gestão e engenharia ambiental Rose Mirian Hofmann. Já o requerimento de Leany Lemos (REQ 21/2026 – CRE) propõe discutir o acesso à informação ambiental, a participação social, a proteção de defensores de direitos humanos, o combate à lavagem de dinheiro, o desmatamento e a cooperação climática. A audiência deverá reunir representantes do governo e dos setores industrial e agropecuário, entre eles Carlos Márcio Cozendey, do Ministério das Relações Exteriores, e Nabil Moura Kadri, da área de meio ambiente do Banco Nacional de Desenvolvimento Econômico e Social (BNDES). O Brasil assinou o Acordo de Escazú em 2018, e o texto foi encaminhado ao Congresso Nacional em maio de 2023.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/industria-e-acordo-ambiental-serao-temas-de-audiencias-na-cre",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-11-17T15:08:34Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-17T19:29:23",
+      "primeira_vez_em": "2026-11-17T19:29:23"
+    },
+    "64fa6e687a23deaf": {
+      "id": "64fa6e687a23deaf",
+      "titulo": "CDR aprova apoio da União a municípios para elaboração de planos diretores",
+      "resumo": "Municípios que comprovarem não ter meios para elaborar ou manter atualizados seus planos diretores poderão receber assistência técnica e financeira da União. A medida está prevista em projeto aprovado nesta terça-feira (17) pela Comissão de Desenvolvimento Regional (CDR). O PL 3.020/2024 altera o Estatuto da Cidade (Lei 10.257, de 2001) para incluir a prestação desse apoio entre as atribuições da União, conforme a disponibilidade orçamentária e financeira. A assistência deverá ser oferecida por meio de programas estruturados, com critérios de priorização, acompanhamento e apoio à implementação. A proposta também estabelece que intervenções urbanas financiadas com recursos do orçamento da União ou de financiamentos administrados por órgãos e entidades federais deverão ser compatíveis com o plano diretor municipal vigente, quando houver. De autoria do senador Alessandro Vieira (MDB-SE), o texto recebeu parecer favorável, com emendas, do senador Nelsinho Trad (PSD-MS). A proposta foi aprovada em caráter terminativo, isto é, caso não haja recurso para votação em Plenário, seguirá para análise da Câmara dos Deputados. Emendas Nelsinho avaliou que a exigência de plano diretor atualizado para o acesso a recursos federais, prevista na proposta original, poderia prejudicar principalmente os municípios de pequeno porte, que têm menor capacidade administrativa. Segundo ele, a regra poderia comprometer investimentos em saneamento, habitação, regularização fundiária, mobilidade urbana, drenagem e pavimentação. — Em muitos casos, a ausência ou desatualização do plano diretor decorre não de resistência deliberada do gestor público, mas de insuficiência técnica, financeira e operacional para cumprir as exigências legais impostas pelo próprio ordenamento urbanístico — explicou o relator. Com as emendas, o plano diretor atualizado deixa de ser uma condição para que os municípios tenham acesso a recursos federais. Segundo o relator, as mudanças permitem considerar as limitações administrativas das cidades sem afastar a necessidade de planejamento urbano.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/cdr-aprova-apoio-da-uniao-a-municipios-para-elaboracao-de-planos-diretores",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-11-17T14:54:23Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-17T19:29:23",
+      "primeira_vez_em": "2026-11-17T19:29:23"
+    },
+    "348b6ee62a3ca35e": {
+      "id": "348b6ee62a3ca35e",
+      "titulo": "CDR aprova ampliação de áreas de livre comércio no Acre",
+      "resumo": "A Comissão de Desenvolvimento Regional (CDR) aprovou nesta terça-feira (17) projeto que estende as áreas de livre comércio aos municípios de Assis Brasil, Mâncio Lima e Rodrigues Alves, no Acre. Essas áreas permitem operações de exportação e importação com regras tributárias especiais para estimular o desenvolvimento regional. O projeto também elimina o limite de 20 km² para o tamanho dessas áreas e a exigência de que sua demarcação seja contínua. Caberá ao Poder Executivo definir os limites, incluindo os locais destinados ao armazenamento de mercadorias que serão incorporadas ao mercado brasileiro ou reenviadas ao exterior. A demarcação deverá abranger toda a superfície territorial das áreas de livre comércio, respeitados os tratados e as convenções internacionais. Do senador Sérgio Petecão (PSD-AC), o PL 4.232/2025 altera a Lei 8.857, de 1994, que autoriza a criação de áreas de livre comércio no Acre. A proposta recebeu parecer favorável, com emendas, do senador Alan Rick (Republicanos-AC) e segue para a Comissão de Assuntos Econômicos (CAE), onde será analisada em decisão terminativa. Caso aprovado pela CAE, o projeto poderá seguir para a análise da Câmara dos Deputados. Na justificação da proposta, Petecão afirma que a ampliação das áreas de livre comércio está de acordo com o objetivo de promover o desenvolvimento de cidades de fronteira. Segundo o senador, essas áreas “contribuem para reduzir o custo de vida porque concorrem para a redução dos preços de mercadorias importadas e nacionais”. Alan Rick defendeu tratamento igual para municípios com características econômicas e territoriais semelhantes e avaliou que a ampliação poderá estimular a competitividade e gerar emprego e renda. — Ao reduzir os custos de mercadorias e ampliar os incentivos fiscais, a medida fortalece o comércio, movimenta a economia, estimula o beneficiamento da produção regional e cria um ambiente mais favorável aos investimentos — afirmou o relator.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/cdr-aprova-ampliacao-de-areas-de-livre-comercio-no-acre",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-11-17T14:36:12Z",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-17T19:29:23",
+      "primeira_vez_em": "2026-11-17T19:29:23"
+    },
+    "08422f16c2f35c1b": {
+      "id": "08422f16c2f35c1b",
+      "titulo": "CBS de 11,3% preocupa empresas: Senado terá que definir alíquota para 2027",
+      "resumo": "Percentual calculado pelo TCU supera estimativas anteriores e pode influenciar preços, contratos e planejamento tributário",
+      "link": "https://jornalcontabil.com.br/noticia/cbs-de-113-preocupa-empresas-senado-tera-que-definir-aliquota-para-2027/",
+      "fonte": "Jornal Contábil",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "Tue, 17 Nov 2026 18:52:38 +0000",
+      "impacto": "alto",
+      "tags": [
+        "CBS"
+      ],
+      "coletado_em": "2026-11-17T19:29:40",
+      "primeira_vez_em": "2026-11-17T19:29:40"
+    },
+    "e426b431d4f37a6b": {
+      "id": "e426b431d4f37a6b",
+      "titulo": "Receita Federal abre calculadora da Reforma Tributária para empresas e contadores",
+      "resumo": "Código-fonte da ferramenta permite integrar regras oficiais de cálculo da CBS e dos novos tributos aos sistemas de gestão",
+      "link": "https://jornalcontabil.com.br/noticia/receita-federal-abre-calculadora-da-reforma-tributaria-para-empresas-e-contadores/",
+      "fonte": "Jornal Contábil",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "Tue, 17 Nov 2026 17:34:34 +0000",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "CBS"
+      ],
+      "coletado_em": "2026-11-17T19:29:40",
+      "primeira_vez_em": "2026-11-17T19:29:40"
+    },
+    "48dd4105123ddaab": {
+      "id": "48dd4105123ddaab",
+      "titulo": "Contadores recebem alerta sobre débitos no CRC",
+      "resumo": "Campanha do Sistema CFC/CRCs orienta profissionais a consultar pendências financeiras e manter o registro profissional em dia.",
+      "link": "https://jornalcontabil.com.br/noticia/contadores-recebem-alerta-sobre-debitos-no-crc/",
+      "fonte": "Jornal Contábil",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "Tue, 17 Nov 2026 16:02:39 +0000",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-17T19:29:40",
+      "primeira_vez_em": "2026-11-17T19:29:40"
+    },
+    "883ca698cf9636b7": {
+      "id": "883ca698cf9636b7",
+      "titulo": "Receita Federal vai divulgar benefícios fiscais das empresas",
+      "resumo": "Portaria prevê divulgação semestral de informações e permite que empresas solicitem correções de dados incorretos.",
+      "link": "https://jornalcontabil.com.br/noticia/receita-federal-vai-divulgar-beneficios-fiscais-das-empresas/",
+      "fonte": "Jornal Contábil",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "Tue, 17 Nov 2026 15:46:39 +0000",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-17T19:29:40",
+      "primeira_vez_em": "2026-11-17T19:29:40"
+    },
+    "cd63a1b1ad27c5e8": {
+      "id": "cd63a1b1ad27c5e8",
+      "titulo": "Do campo à gôndola: por que o tomate e o limão viraram os grandes vilões do bolso e o que mais subiu nos últimos 12 meses",
+      "resumo": "Com altas acumuladas de 89,76% e 128,62% em 2026, a dupla do tempero diário expõe a vulnerabilidade das lavouras brasileiras diante dos extremos climáticos, da entressafra e da pressão nos custos logísticos.",
+      "link": "https://jornalcontabil.com.br/noticia/do-campo-a-gondola-por-que-o-tomate-e-o-limao-viraram-os-grandes-viloes-do-bolso-e-o-que-mais-subiu-nos-ultimos-12-meses/",
+      "fonte": "Jornal Contábil",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "Tue, 17 Nov 2026 15:16:30 +0000",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-17T19:29:40",
+      "primeira_vez_em": "2026-11-17T19:29:40"
+    },
+    "93ea415a16cd64d6": {
+      "id": "93ea415a16cd64d6",
+      "titulo": "Snaptik: saiba como baixar vídeos do TikTok de forma rápida e prática",
+      "resumo": "Ferramenta online permite salvar vídeos do TikTok diretamente pelo navegador, sem precisar instalar aplicativos adicionais no celular ou computador.",
+      "link": "https://jornalcontabil.com.br/noticia/snaptik-saiba-como-baixar-videos-do-tiktok-de-forma-rapida-e-pratica/",
+      "fonte": "Jornal Contábil",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "Tue, 17 Nov 2026 15:00:12 +0000",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-17T19:29:40",
+      "primeira_vez_em": "2026-11-17T19:29:40"
+    },
+    "d5a8307dd6877401": {
+      "id": "d5a8307dd6877401",
+      "titulo": "Sefaz esclarece dúvidas de produtores rurais em live sobre a Reforma Tributária",
+      "resumo": "Sefaz esclarece dúvidas de produtores rurais em live sobre a Reforma Tributária",
+      "link": "https://sefaz.es.gov.br/sefaz-esclarece-duvidas-de-produtores-rurais-em-live-sobre-a-reforma-tributaria",
+      "fonte": "SEFAZ ES",
+      "esfera": "estadual",
+      "uf": "ES",
+      "data_publicacao": "",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária"
+      ],
+      "coletado_em": "2026-11-17T19:31:06",
+      "primeira_vez_em": "2026-11-17T19:31:06"
     }
   }
 }
