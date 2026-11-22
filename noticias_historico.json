@@ -11,7 +11,7 @@
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-20T18:54:54",
+      "coletado_em": "2026-11-22T18:08:01",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "a9b85ebff2d35b2f": {
@@ -27,7 +27,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-20T18:54:54",
+      "coletado_em": "2026-11-22T18:08:01",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "74129502b829908e": {
@@ -45,7 +45,7 @@
         "CBS",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-20T18:54:54",
+      "coletado_em": "2026-11-22T18:08:01",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "e5fc5ae97dc8d1c2": {
@@ -59,7 +59,7 @@
       "data_publicacao": "14/01/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-20T18:54:54",
+      "coletado_em": "2026-11-22T18:08:01",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "08398f1e2c89c97b": {
@@ -382,7 +382,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-21T17:50:53",
+      "coletado_em": "2026-11-22T18:09:06",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "c3ebc4e3910e68c9": {
@@ -398,7 +398,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-21T17:50:53",
+      "coletado_em": "2026-11-22T18:09:06",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "cf3d354183a6412b": {
@@ -414,7 +414,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-21T17:50:53",
+      "coletado_em": "2026-11-22T18:09:06",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "77284a5831435b93": {
@@ -430,7 +430,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-21T17:50:55",
+      "coletado_em": "2026-11-22T18:09:08",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "8edf3d8590ef2ea3": {
@@ -446,7 +446,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-21T17:50:55",
+      "coletado_em": "2026-11-22T18:09:08",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "db0e168e9dc70ff3": {
@@ -478,7 +478,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-21T17:50:56",
+      "coletado_em": "2026-11-22T18:09:10",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     "f3fce5f00b2dda14": {
@@ -494,7 +494,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-21T17:50:58",
+      "coletado_em": "2026-11-22T18:09:11",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     "6cff987543c8c065": {
@@ -508,7 +508,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-21T17:51:58",
+      "coletado_em": "2026-11-22T18:10:18",
       "primeira_vez_em": "2026-09-17T15:43:33"
     },
     "8b919b7384234279": {
@@ -538,7 +538,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-20T18:58:59",
+      "coletado_em": "2026-11-22T18:13:00",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     "c4bd59e18d311f35": {
@@ -554,7 +554,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-20T18:58:59",
+      "coletado_em": "2026-11-22T18:13:00",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     "ce7ddd9753d793fb": {
@@ -570,7 +570,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-20T18:59:01",
+      "coletado_em": "2026-11-22T18:13:02",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     "da3b5c5a1cc32cf3": {
@@ -586,7 +586,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-20T18:59:01",
+      "coletado_em": "2026-11-22T18:13:02",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     "be8638660c3332cb": {
@@ -600,7 +600,7 @@
       "data_publicacao": "29/05/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-20T18:59:02",
+      "coletado_em": "2026-11-22T18:13:04",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "5794323834606a06": {
@@ -616,7 +616,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-20T18:59:02",
+      "coletado_em": "2026-11-22T18:13:04",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "bc7500769f467d84": {
@@ -632,7 +632,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-20T18:59:02",
+      "coletado_em": "2026-11-22T18:13:04",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "552f0735a0423c26": {
@@ -646,7 +646,7 @@
       "data_publicacao": "26/11/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-20T18:59:04",
+      "coletado_em": "2026-11-22T18:13:05",
       "primeira_vez_em": "2026-09-17T15:44:34"
     },
     "58e10eba2750e488": {
@@ -662,7 +662,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-20T18:59:06",
+      "coletado_em": "2026-11-22T18:13:07",
       "primeira_vez_em": "2026-09-17T15:44:35"
     },
     "a4607235adf1b80f": {
@@ -678,7 +678,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-20T18:59:07",
+      "coletado_em": "2026-11-22T18:13:09",
       "primeira_vez_em": "2026-09-17T15:44:36"
     },
     "b676f2adf3c22d0a": {
@@ -694,7 +694,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-20T18:59:09",
+      "coletado_em": "2026-11-22T18:13:11",
       "primeira_vez_em": "2026-09-17T15:44:37"
     },
     "5af4c5ee52d4ce9c": {
@@ -708,7 +708,7 @@
       "data_publicacao": "30/03/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-20T18:59:11",
+      "coletado_em": "2026-11-22T18:13:12",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "a454d4d897b3839f": {
@@ -722,7 +722,7 @@
       "data_publicacao": "04/05/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-20T18:59:11",
+      "coletado_em": "2026-11-22T18:13:12",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "23085cc0899edc3f": {
@@ -736,7 +736,7 @@
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-20T18:59:11",
+      "coletado_em": "2026-11-22T18:13:12",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "fd3d7b1235ebc490": {
@@ -752,7 +752,7 @@
       "tags": [
         "Simples Nacional"
       ],
-      "coletado_em": "2026-11-20T18:59:11",
+      "coletado_em": "2026-11-22T18:13:12",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "98a8cf0b506f52a9": {
@@ -766,7 +766,7 @@
       "data_publicacao": "10/01/2024",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-20T18:59:11",
+      "coletado_em": "2026-11-22T18:13:12",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "7ce12346e4b886ec": {
@@ -780,7 +780,7 @@
       "data_publicacao": "15/12/2023",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-20T18:59:11",
+      "coletado_em": "2026-11-22T18:13:12",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "2d256ec029c6add1": {
@@ -796,7 +796,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-20T18:59:14",
+      "coletado_em": "2026-11-22T18:13:16",
       "primeira_vez_em": "2026-09-17T15:44:40"
     },
     "e31b387cddf7fd5d": {
@@ -810,7 +810,7 @@
       "data_publicacao": "19/10/2022",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-20T18:59:16",
+      "coletado_em": "2026-11-22T18:13:17",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     "c067fe8403247755": {
@@ -826,7 +826,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-20T18:59:16",
+      "coletado_em": "2026-11-22T18:13:17",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     "4cb90c79835b4cd1": {
@@ -842,7 +842,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-20T18:59:17",
+      "coletado_em": "2026-11-22T18:13:19",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "485fb61a2a751098": {
@@ -856,7 +856,7 @@
       "data_publicacao": "10/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-20T18:59:17",
+      "coletado_em": "2026-11-22T18:13:19",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "0b1cf5b29af11e57": {
@@ -872,7 +872,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-20T18:59:17",
+      "coletado_em": "2026-11-22T18:13:19",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "63dff167c306e0a2": {
@@ -934,7 +934,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-20T18:55:00",
+      "coletado_em": "2026-11-22T18:08:15",
       "primeira_vez_em": "2026-09-25T11:03:52"
     },
     "875f51f99732d992": {
@@ -950,7 +950,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-21T17:50:52",
+      "coletado_em": "2026-11-22T18:09:05",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     "4b70d64501a39e0c": {
@@ -966,7 +966,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-21T17:50:52",
+      "coletado_em": "2026-11-22T18:09:05",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     "21a7f1ac3d421137": {
@@ -998,7 +998,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-20T18:55:00",
+      "coletado_em": "2026-11-22T18:08:15",
       "primeira_vez_em": "2026-09-30T11:04:55"
     },
     "eeba35f26cd1b78e": {
@@ -1017,7 +1017,7 @@
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-11-20T18:55:00",
+      "coletado_em": "2026-11-22T18:08:15",
       "primeira_vez_em": "2026-10-01T11:05:37"
     },
     "bb8a5d4e64f78243": {
@@ -1115,7 +1115,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-21T17:50:52",
+      "coletado_em": "2026-11-22T18:09:05",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     "529e8feb3d37e80e": {
@@ -1150,7 +1150,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-21T17:50:52",
+      "coletado_em": "2026-11-22T18:09:05",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     "c1366c3e91745dce": {
@@ -1166,7 +1166,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-21T17:50:53",
+      "coletado_em": "2026-11-22T18:09:06",
       "primeira_vez_em": "2026-10-02T11:04:32"
     },
     "a7086811f0b75d7a": {
@@ -1213,7 +1213,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-20T18:55:00",
+      "coletado_em": "2026-11-22T18:08:15",
       "primeira_vez_em": "2026-10-04T17:21:33"
     },
     "5f6e7fb8370f435f": {
@@ -1244,7 +1244,7 @@
         "IBS",
         "CBS"
       ],
-      "coletado_em": "2026-11-20T18:55:00",
+      "coletado_em": "2026-11-22T18:08:15",
       "primeira_vez_em": "2026-10-07T11:05:57"
     },
     "190309e9ae03812a": {
@@ -1286,7 +1286,7 @@
       "data_publicacao": "19/11/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-21T17:51:58",
+      "coletado_em": "2026-11-22T18:10:18",
       "primeira_vez_em": "2026-10-09T11:06:21"
     },
     "1f588e686ac5fd39": {
@@ -1300,7 +1300,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-21T17:51:58",
+      "coletado_em": "2026-11-22T18:10:18",
       "primeira_vez_em": "2026-10-09T11:06:21"
     },
     "2ff2ed7a2b94c51d": {
@@ -1551,7 +1551,7 @@
       "data_publicacao": "19/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-20T18:54:54",
+      "coletado_em": "2026-11-22T18:08:01",
       "primeira_vez_em": "2026-10-19T17:15:00"
     },
     "956f42d9152f269f": {
@@ -1614,36 +1614,6 @@
       "impacto": "baixo",
       "tags": [],
       "coletado_em": "2026-10-26T17:03:21",
-      "primeira_vez_em": "2026-10-21T15:44:23"
-    },
-    "47d32895e2717227": {
-      "id": "47d32895e2717227",
-      "titulo": "Receita Federal desenvolve ferramenta que permite julgar milhares de processos em uma única sessão",
-      "resumo": "Nova tecnologia mapeia casos com questões jurídicas equivalentes e cria as condições necessárias para o julgamento em larga escala",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-federal-desenvolve-ferramenta-que-permite-julgar-milhares-de-processos-em-uma-unica-sessao",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "20/10/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-23T15:31:58",
-      "primeira_vez_em": "2026-10-21T15:44:23"
-    },
-    "019e89aff1b9dff4": {
-      "id": "019e89aff1b9dff4",
-      "titulo": "Receita Federal restituiu 80% dos contribuintes em até um mês até o fim do prazo da declaração do IRPF 2026",
-      "resumo": "Contribuintes que tiveram pendências e estão na malha fina estão sendo informados por cartas para regularizem a situação fiscal",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-federal-restituiu-80-dos-contribuintes-em-ate-um-mes-ate-o-fim-do-prazo-da-declaracao-do-irpf-2026",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "20/10/2026",
-      "impacto": "médio",
-      "tags": [
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-10-23T15:31:58",
       "primeira_vez_em": "2026-10-21T15:44:23"
     },
     "3c4c53772c467a58": {
@@ -1731,20 +1701,6 @@
       "tags": [],
       "coletado_em": "2026-10-27T16:06:07",
       "primeira_vez_em": "2026-10-23T15:31:58"
-    },
-    "f50e18e074647ccf": {
-      "id": "f50e18e074647ccf",
-      "titulo": "CMA: 'Tarifaço' afeta soberania, enquanto terras-raras oferecem riscos e oportunidades",
-      "resumo": "O \"tarifaço\" imposto pelos EUA revela como esse país utiliza o comércio exterior com objetivos econômicos e políticos — que podem afetar, inclusive, a soberania nacional. Além disso, a exploração das terras-raras, das quais o Brasil tem a segunda maior reserva mundial, oferece tanto oportunidades como riscos ambientais. Essas foram algumas das avaliações dos participantes da audiência pública promovida nesta quinta-feira (22) pela Comissão de Meio Ambiente do Senado (CMA). Soberania A senadora Leany Lemos (PSB-DF), que presidiu a reunião, afirmou que os EUA, sob o governo de Donald Trump, passaram a tratar sua política comercial como “arma para atingir os seus interesses”. Ela também ressaltou que o governo norte-americano encara o Brasil como se fosse seu “quintal”. — Estamos falando de soberania nacional e do direito e do dever de decidirmos livremente os nossos caminhos e o destino das nossas riquezas. Os Estados Unidos se posicionam, neste momento histórico, com uma estratégia de dominância talvez inédita — criticou a senadora. Leany solicitou a audiência por meio dos requerimentos REQ 20/2026 - CMA e REQ 21/2026 - CMA. O tarifaço Desde março de 2025, os Estados Unidos vêm anunciando sucessivas tarifas para produtos e serviços estrangeiros que entram naquele país. Atualmente, quase metade das exportações brasileiras para os EUA (47,3%) está sujeita a taxas extras de até 37,5% — que não existiam em 2024. De acordo com o governo brasileiro, o valor estimado dessas exportações é de US$ 19,1 bilhões. As taxas mais altas foram anunciadas em julho de 2025, quando algumas das tarifas específicas chegaram a até 50%. Reindustrialização americana Pesquisador do Instituto de Pesquisa Econômica Aplicada (Ipea), Renato Baumann destacou que o objetivo do \"tarifaço\" é levar a negociações entre os países envolvidos que resultem em mais investimentos nos EUA. Baumann explicou que os Estados Unidos são grandes fornecedores de serviços, mas não de investimentos e infraestrutura. E que a percepção do governo liderado por Trump é que os países sobretaxados prejudicam a indústria norte-americana porque exportam mais para os EUA do que importam. Mas, observou ele, esse não é o caso do Brasil. — O Brasil tem déficit comercial com os EUA desde 2008. É uma estratégia eleitoral, ideológica e comportamental [por parte dos EUA] que não se sustenta, em que tudo pode acontecer amanhã. Terras-raras A doutora em ciência política Luíza Gimenez Cerioli salientou que minerais como lítio, cobre, níquel, grafite, cobalto e terras-raras são fundamentais porque são a \"chave de três transições essenciais que estamos vivendo no mundo hoje: a transição digital, a transição energética e a transição de defesa e espaço\". O Brasil é considerado o país com a segunda maior reserva de terras-raras do planeta, atrás apenas da China. Essas matérias-primas estratégicas são utilizadas, por exemplo, em componentes de data centers (infraestrutura essencial à expansão da indústria de inteligência artificial) e em drones militares. Veja a matéria \"O futuro e o presente nas terras raras\". Cerioli enfatizou que a China \"dominou grande parte do processamento desses minerais nas últimas décadas\". E que, por isso, outros países (como os EUA) e grandes empresas começaram a perceber a dependência desses insumos como uma vulnerabilidade estratégica. Ela chamou isso de \"geopolitização\": temas que antes eram tratados como exclusivamente comerciais ou técnicos passam a ser encarados como questões de poder, segurança e estratégia nacional. Oportunidade Ao tratar das terras-raras, o professor da Universidade de São Paulo (USP) Fernando Landgraf declarou que o Brasil pode construir uma fábrica brasileira de ímãs (para os quais as terras-raras podem ser matéria-prima), em vez de simplesmente vender o material bruto para outros países. Para ele, são indispensáveis políticas nacionais para o setor e também investimentos estrangeiros — devido ao alto risco de prejuízo. Landgraf estima que sejam necessários cerca de 10 anos para se obter lucro nesse mercado, que ele ainda considera pequeno. — São poucas as fábricas de ímãs. Não chegam a 10 fora da China. Mas quem compraria isso? Centenas de fábricas de diversos motores e componentes pelo mundo — frisou o professor, que também citou a Política Nacional de Minerais Críticos, cuja lei foi sancionada no mês passado. Luíza Cerioli avalia que a industrialização das terras-raras exigiria parcerias internacionais sólidas. Mas, por outro lado, ela defendeu o foco no mercado interno, com a busca de salvaguardas ambientais e a redução da desigualdade econômica. — O processamento [das terras raras] exige bastante energia e bastante água. É algo poluente e pode criar conflitos sociais e econômicos onde estiver localizado. O único jeito de o Brasil ser ganhador não é ter as terras-raras no subsolo, mas é transformar o recurso mineral em capacidade industrial, em uma tecnologia que estimule a redução da desigualdade, a ampliação do conhecimento, a adaptação à energia limpa e criação de emprego qualificado e sustentável — argumentou ela. Punição por desmatamento Segundo André Rodolfo de Lima, representante do Ministério do Meio Ambiente e Mudança do Clima, a decisão do governo norte-americano de aplicar uma tarifa adicional de 25% a uma série de produtos brasileiros — a partir de julho deste ano — foi baseada em uma “grande falácia”. De acordo com o governo dos Estados Unidos, o Estado brasileiro falhou na fiscalização do desmatamento, o que teria favorecido o agronegócio nacional e, consequentemente, prejudicado o setor nos EUA. Esse foi um dos argumentos apresentados pelos norte-americanos para justificar a taxação de 25%. Lima informou que, entre 2022 e 2026, houve uma redução de 75,4% no desmatamento observado na Floresta Amazônica — e isso é resultado, observou ele, da adesão de 80 municípios a um programa da União (implementado no âmbito do Fundo Amazônia). Também participaram do debate: o representante do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) Herlon Brandão; o representante da Amcham Brasil, Fabrizio Panzini (a Amcham Brasil representa empresas norte-americanas que atuam no Brasil); o presidente do Instituto Brasileiro de Petróleo, Gás e Biocombustíveis, Roberto Furian Ardenghy.",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/22/cma-tarifaco-afeta-soberania-enquanto-terras-raras-oferecem-riscos-e-oportunidades",
-      "fonte": "Senado Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-10-22T20:24:39Z",
-      "impacto": "alto",
-      "tags": [],
-      "coletado_em": "2026-10-23T15:32:01",
-      "primeira_vez_em": "2026-10-23T15:32:01"
     },
     "c1e6acedbc89ff0c": {
       "id": "c1e6acedbc89ff0c",
@@ -2136,7 +2092,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-21T17:50:52",
+      "coletado_em": "2026-11-22T18:09:05",
       "primeira_vez_em": "2026-10-27T16:06:13"
     },
     "2022a6d348e22197": {
@@ -2320,7 +2276,7 @@
       "data_publicacao": "27/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-20T18:59:01",
+      "coletado_em": "2026-11-22T18:13:02",
       "primeira_vez_em": "2026-10-28T16:56:05"
     },
     "9b0c0323e366e671": {
@@ -2336,7 +2292,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-20T18:55:00",
+      "coletado_em": "2026-11-22T18:08:15",
       "primeira_vez_em": "2026-10-29T17:11:19"
     },
     "16a47ae948ca95ee": {
@@ -2708,7 +2664,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-21T17:50:52",
+      "coletado_em": "2026-11-22T18:09:05",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "f613b9d7c5d7894f": {
@@ -2725,7 +2681,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-21T17:50:52",
+      "coletado_em": "2026-11-22T18:09:05",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "c331ed445295693a": {
@@ -2742,7 +2698,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-21T17:50:52",
+      "coletado_em": "2026-11-22T18:09:05",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "017acb4bb587164e": {
@@ -2760,7 +2716,7 @@
         "NT (Nota Técnica)",
         "Simples Nacional"
       ],
-      "coletado_em": "2026-11-21T17:50:52",
+      "coletado_em": "2026-11-22T18:09:05",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "a06b2f52b19faa20": {
@@ -2778,7 +2734,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-21T17:50:52",
+      "coletado_em": "2026-11-22T18:09:05",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "e34bd541cdfcab47": {
@@ -2794,7 +2750,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-21T17:50:53",
+      "coletado_em": "2026-11-22T18:09:06",
       "primeira_vez_em": "2026-10-30T16:52:35"
     },
     "ddaabbaff7082b26": {
@@ -2810,7 +2766,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-21T17:50:55",
+      "coletado_em": "2026-11-22T18:09:08",
       "primeira_vez_em": "2026-10-30T16:52:36"
     },
     "349221150d5a7d10": {
@@ -2915,7 +2871,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-20T18:59:01",
+      "coletado_em": "2026-11-22T18:13:02",
       "primeira_vez_em": "2026-10-31T15:58:15"
     },
     "d2e13a6d9d9cb7d7": {
@@ -3122,7 +3078,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-20T18:59:22",
+      "coletado_em": "2026-11-22T18:13:24",
       "primeira_vez_em": "2026-11-03T18:14:05"
     },
     "7268b4a834ca5548": {
@@ -3873,7 +3829,7 @@
         "NT (Nota Técnica)",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-20T18:54:54",
+      "coletado_em": "2026-11-22T18:08:01",
       "primeira_vez_em": "2026-11-09T21:11:37"
     },
     "4379728a759f423b": {
@@ -4425,7 +4381,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-20T18:55:00",
+      "coletado_em": "2026-11-22T18:08:15",
       "primeira_vez_em": "2026-11-12T18:38:39"
     },
     "393f750456ef74db": {
@@ -4623,7 +4579,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-18T19:14:17",
+      "coletado_em": "2026-11-22T18:11:49",
       "primeira_vez_em": "2026-11-12T18:41:13"
     },
     "36d58487bf05edf2": {
@@ -4653,7 +4609,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-20T18:54:54",
+      "coletado_em": "2026-11-22T18:08:01",
       "primeira_vez_em": "2026-11-13T18:17:23"
     },
     "c37f1dad29849ecc": {
@@ -5383,7 +5339,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-21T17:52:16",
+      "coletado_em": "2026-11-22T18:10:36",
       "primeira_vez_em": "2026-11-16T20:45:53"
     },
     "48a337eb002d7047": {
@@ -5397,7 +5353,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-21T17:52:40",
+      "coletado_em": "2026-11-22T18:11:01",
       "primeira_vez_em": "2026-11-16T20:46:15"
     },
     "6dc73128f9799c22": {
@@ -5411,7 +5367,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-21T17:52:40",
+      "coletado_em": "2026-11-22T18:11:01",
       "primeira_vez_em": "2026-11-16T20:46:15"
     },
     "6d3413ff172ac9f4": {
@@ -5425,7 +5381,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-21T17:53:25",
+      "coletado_em": "2026-11-22T18:11:49",
       "primeira_vez_em": "2026-11-16T20:46:45"
     },
     "62beaaec45c2ed49": {
@@ -5439,7 +5395,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-21T17:53:25",
+      "coletado_em": "2026-11-22T18:11:49",
       "primeira_vez_em": "2026-11-16T20:46:45"
     },
     "26bf5ec646743890": {
@@ -5455,7 +5411,7 @@
       "tags": [
         "Reforma Tributária"
       ],
-      "coletado_em": "2026-11-21T17:53:25",
+      "coletado_em": "2026-11-22T18:11:49",
       "primeira_vez_em": "2026-11-16T20:46:45"
     },
     "54f0b0bbc15e4dba": {
@@ -5720,7 +5676,7 @@
       "tags": [
         "Reforma Tributária"
       ],
-      "coletado_em": "2026-11-21T17:52:16",
+      "coletado_em": "2026-11-22T18:10:36",
       "primeira_vez_em": "2026-11-17T19:31:06"
     },
     "83d0e89c08eaf0f6": {
@@ -5995,7 +5951,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-21T17:52:16",
+      "coletado_em": "2026-11-22T18:10:36",
       "primeira_vez_em": "2026-11-18T19:12:51"
     },
     "9efdbc83aa1b72bb": {
@@ -6009,7 +5965,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-21T17:53:25",
+      "coletado_em": "2026-11-22T18:11:49",
       "primeira_vez_em": "2026-11-18T19:14:17"
     },
     "0fb08ed2d2a84256": {
@@ -6023,7 +5979,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-21T17:53:25",
+      "coletado_em": "2026-11-22T18:11:49",
       "primeira_vez_em": "2026-11-18T19:14:17"
     },
     "43262fa7ed5aa000": {
@@ -6037,7 +5993,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-21T17:53:25",
+      "coletado_em": "2026-11-22T18:11:49",
       "primeira_vez_em": "2026-11-18T19:14:17"
     },
     "a9facf6f597fffd6": {
@@ -6051,7 +6007,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-21T17:53:25",
+      "coletado_em": "2026-11-22T18:11:49",
       "primeira_vez_em": "2026-11-18T19:14:17"
     },
     "f63bb0560f5aa361": {
@@ -6068,7 +6024,7 @@
         "Reforma Tributária",
         "IBS"
       ],
-      "coletado_em": "2026-11-20T18:55:00",
+      "coletado_em": "2026-11-22T18:08:15",
       "primeira_vez_em": "2026-11-19T19:15:48"
     },
     "0cef82ae198a8bab": {
@@ -6207,7 +6163,7 @@
       "data_publicacao": "Thu, 19 Nov 2026 18:06:00 +0000",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-21T17:51:04",
+      "coletado_em": "2026-11-22T18:09:17",
       "primeira_vez_em": "2026-11-19T19:16:16"
     },
     "318bdc71cdd5631d": {
@@ -6224,7 +6180,7 @@
         "Reforma Tributária",
         "ICMS"
       ],
-      "coletado_em": "2026-11-21T17:51:04",
+      "coletado_em": "2026-11-22T18:09:17",
       "primeira_vez_em": "2026-11-19T19:16:16"
     },
     "06ffcdd73851fe98": {
@@ -6238,7 +6194,7 @@
       "data_publicacao": "Thu, 19 Nov 2026 17:31:30 +0000",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-21T17:51:04",
+      "coletado_em": "2026-11-22T18:09:17",
       "primeira_vez_em": "2026-11-19T19:16:16"
     },
     "9c06d7a10ad95ab9": {
@@ -6254,7 +6210,7 @@
       "tags": [
         "Simples Nacional"
       ],
-      "coletado_em": "2026-11-21T17:51:04",
+      "coletado_em": "2026-11-22T18:09:17",
       "primeira_vez_em": "2026-11-19T19:16:16"
     },
     "829cbbf8a74a772b": {
@@ -6296,7 +6252,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-21T17:53:25",
+      "coletado_em": "2026-11-22T18:11:49",
       "primeira_vez_em": "2026-11-19T19:18:53"
     },
     "031f2505da1b271e": {
@@ -6327,7 +6283,7 @@
         "IBS",
         "CBS"
       ],
-      "coletado_em": "2026-11-20T18:55:00",
+      "coletado_em": "2026-11-22T18:08:15",
       "primeira_vez_em": "2026-11-20T18:55:00"
     },
     "2de9707b1aadc402": {
@@ -6358,7 +6314,7 @@
       "data_publicacao": "2026-11-19T23:34:19Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-21T17:50:49",
+      "coletado_em": "2026-11-22T18:09:02",
       "primeira_vez_em": "2026-11-20T18:55:10"
     },
     "0b7c2eda71eb462c": {
@@ -6372,7 +6328,7 @@
       "data_publicacao": "2026-11-19T21:35:11Z",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-11-21T17:50:49",
+      "coletado_em": "2026-11-22T18:09:02",
       "primeira_vez_em": "2026-11-20T18:55:10"
     },
     "2f6d8132c0856ad6": {
@@ -6386,7 +6342,7 @@
       "data_publicacao": "2026-11-19T21:14:51Z",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-21T17:50:49",
+      "coletado_em": "2026-11-22T18:09:02",
       "primeira_vez_em": "2026-11-20T18:55:10"
     },
     "fc309549abb2fcaf": {
@@ -6402,7 +6358,7 @@
       "tags": [
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-11-21T17:50:49",
+      "coletado_em": "2026-11-22T18:09:02",
       "primeira_vez_em": "2026-11-20T18:55:10"
     },
     "5e9c82c266846eca": {
@@ -6416,7 +6372,7 @@
       "data_publicacao": "2026-11-19T21:00:57Z",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-11-21T17:50:49",
+      "coletado_em": "2026-11-22T18:09:02",
       "primeira_vez_em": "2026-11-20T18:55:10"
     },
     "adf432d7811592ff": {
@@ -6430,7 +6386,7 @@
       "data_publicacao": "2026-11-19T20:59:31Z",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-11-21T17:50:49",
+      "coletado_em": "2026-11-22T18:09:02",
       "primeira_vez_em": "2026-11-20T18:55:10"
     },
     "2035a5463aa4e939": {
@@ -6444,7 +6400,7 @@
       "data_publicacao": "2026-11-19T20:39:53Z",
       "impacto": "alto",
       "tags": [],
-      "coletado_em": "2026-11-21T17:50:49",
+      "coletado_em": "2026-11-22T18:09:02",
       "primeira_vez_em": "2026-11-20T18:55:10"
     },
     "50fef09127796459": {
@@ -6458,7 +6414,7 @@
       "data_publicacao": "2026-11-19T20:10:59Z",
       "impacto": "baixo",
       "tags": [],
-      "coletado_em": "2026-11-21T17:50:49",
+      "coletado_em": "2026-11-22T18:09:02",
       "primeira_vez_em": "2026-11-20T18:55:10"
     },
     "3c7b8c7220ce3832": {
@@ -6472,7 +6428,7 @@
       "data_publicacao": "Fri, 20 Nov 2026 14:24:00 +0000",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-21T17:51:04",
+      "coletado_em": "2026-11-22T18:09:17",
       "primeira_vez_em": "2026-11-20T18:55:25"
     },
     "d9bac503bfba5061": {
@@ -6486,7 +6442,7 @@
       "data_publicacao": "Thu, 19 Nov 2026 20:01:44 +0000",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-21T17:51:04",
+      "coletado_em": "2026-11-22T18:09:17",
       "primeira_vez_em": "2026-11-20T18:55:25"
     },
     "9046de6ecf0ee03b": {
@@ -6500,7 +6456,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-21T17:53:25",
+      "coletado_em": "2026-11-22T18:11:49",
       "primeira_vez_em": "2026-11-20T18:57:49"
     }
   }
