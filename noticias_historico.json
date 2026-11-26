@@ -11,7 +11,7 @@
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-25T20:17:56",
+      "coletado_em": "2026-11-26T19:54:58",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "a9b85ebff2d35b2f": {
@@ -27,7 +27,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-25T20:17:56",
+      "coletado_em": "2026-11-26T19:54:58",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "74129502b829908e": {
@@ -45,7 +45,7 @@
         "CBS",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-25T20:17:56",
+      "coletado_em": "2026-11-26T19:54:58",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "e5fc5ae97dc8d1c2": {
@@ -59,7 +59,7 @@
       "data_publicacao": "14/01/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-25T20:17:56",
+      "coletado_em": "2026-11-26T19:54:58",
       "primeira_vez_em": "2026-09-17T15:42:57"
     },
     "08398f1e2c89c97b": {
@@ -88,24 +88,6 @@
       "impacto": "médio",
       "tags": [],
       "coletado_em": "2026-11-20T18:54:55",
-      "primeira_vez_em": "2026-09-17T15:42:58"
-    },
-    "2de55424d6f704af": {
-      "id": "2de55424d6f704af",
-      "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
-      "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
-      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
-      "fonte": "Receita Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-07-22T17:02:38Z",
-      "impacto": "alto",
-      "tags": [
-        "Reforma Tributária",
-        "CBS",
-        "Prazo/Obrigação"
-      ],
-      "coletado_em": "2026-10-27T16:05:58",
       "primeira_vez_em": "2026-09-17T15:42:58"
     },
     "6e748567f4cb33c5": {
@@ -320,7 +302,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-25T20:19:02",
+      "coletado_em": "2026-11-26T19:56:09",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "c3ebc4e3910e68c9": {
@@ -336,7 +318,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-25T20:19:02",
+      "coletado_em": "2026-11-26T19:56:09",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "cf3d354183a6412b": {
@@ -352,7 +334,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-25T20:19:02",
+      "coletado_em": "2026-11-26T19:56:09",
       "primeira_vez_em": "2026-09-17T15:43:11"
     },
     "77284a5831435b93": {
@@ -368,7 +350,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-25T20:19:04",
+      "coletado_em": "2026-11-26T19:56:13",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "8edf3d8590ef2ea3": {
@@ -384,7 +366,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-25T20:19:04",
+      "coletado_em": "2026-11-26T19:56:13",
       "primeira_vez_em": "2026-09-17T15:43:12"
     },
     "db0e168e9dc70ff3": {
@@ -416,7 +398,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-25T20:19:06",
+      "coletado_em": "2026-11-26T19:56:15",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     "f3fce5f00b2dda14": {
@@ -432,7 +414,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-25T20:19:07",
+      "coletado_em": "2026-11-26T19:56:19",
       "primeira_vez_em": "2026-09-17T15:43:13"
     },
     "6cff987543c8c065": {
@@ -446,7 +428,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-25T20:20:10",
+      "coletado_em": "2026-11-26T19:57:23",
       "primeira_vez_em": "2026-09-17T15:43:33"
     },
     "f94584d6e23d07ae": {
@@ -462,7 +444,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-25T20:22:55",
+      "coletado_em": "2026-11-26T20:00:14",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     "c4bd59e18d311f35": {
@@ -478,7 +460,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-25T20:22:55",
+      "coletado_em": "2026-11-26T20:00:14",
       "primeira_vez_em": "2026-09-17T15:44:31"
     },
     "ce7ddd9753d793fb": {
@@ -494,7 +476,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-25T20:22:56",
+      "coletado_em": "2026-11-26T20:00:16",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     "da3b5c5a1cc32cf3": {
@@ -510,7 +492,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-25T20:22:56",
+      "coletado_em": "2026-11-26T20:00:16",
       "primeira_vez_em": "2026-09-17T15:44:32"
     },
     "be8638660c3332cb": {
@@ -524,7 +506,7 @@
       "data_publicacao": "29/05/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-25T20:22:58",
+      "coletado_em": "2026-11-26T20:00:18",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "5794323834606a06": {
@@ -540,7 +522,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-25T20:22:58",
+      "coletado_em": "2026-11-26T20:00:18",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "bc7500769f467d84": {
@@ -556,7 +538,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-25T20:22:58",
+      "coletado_em": "2026-11-26T20:00:18",
       "primeira_vez_em": "2026-09-17T15:44:33"
     },
     "552f0735a0423c26": {
@@ -570,7 +552,7 @@
       "data_publicacao": "26/11/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-25T20:23:00",
+      "coletado_em": "2026-11-26T20:00:20",
       "primeira_vez_em": "2026-09-17T15:44:34"
     },
     "58e10eba2750e488": {
@@ -586,7 +568,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-25T20:23:01",
+      "coletado_em": "2026-11-26T20:00:21",
       "primeira_vez_em": "2026-09-17T15:44:35"
     },
     "a4607235adf1b80f": {
@@ -602,7 +584,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-25T20:23:03",
+      "coletado_em": "2026-11-26T20:00:23",
       "primeira_vez_em": "2026-09-17T15:44:36"
     },
     "b676f2adf3c22d0a": {
@@ -618,7 +600,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-25T20:23:04",
+      "coletado_em": "2026-11-26T20:00:25",
       "primeira_vez_em": "2026-09-17T15:44:37"
     },
     "5af4c5ee52d4ce9c": {
@@ -632,7 +614,7 @@
       "data_publicacao": "30/03/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-25T20:23:06",
+      "coletado_em": "2026-11-26T20:00:27",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "a454d4d897b3839f": {
@@ -646,7 +628,7 @@
       "data_publicacao": "04/05/2020",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-25T20:23:06",
+      "coletado_em": "2026-11-26T20:00:27",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "23085cc0899edc3f": {
@@ -660,7 +642,7 @@
       "data_publicacao": "10/09/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-25T20:23:06",
+      "coletado_em": "2026-11-26T20:00:27",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "fd3d7b1235ebc490": {
@@ -676,7 +658,7 @@
       "tags": [
         "Simples Nacional"
       ],
-      "coletado_em": "2026-11-25T20:23:06",
+      "coletado_em": "2026-11-26T20:00:27",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "98a8cf0b506f52a9": {
@@ -690,7 +672,7 @@
       "data_publicacao": "10/01/2024",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-25T20:23:06",
+      "coletado_em": "2026-11-26T20:00:27",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "7ce12346e4b886ec": {
@@ -704,7 +686,7 @@
       "data_publicacao": "15/12/2023",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-25T20:23:06",
+      "coletado_em": "2026-11-26T20:00:27",
       "primeira_vez_em": "2026-09-17T15:44:38"
     },
     "2d256ec029c6add1": {
@@ -720,7 +702,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-25T20:23:09",
+      "coletado_em": "2026-11-26T20:00:31",
       "primeira_vez_em": "2026-09-17T15:44:40"
     },
     "e31b387cddf7fd5d": {
@@ -734,7 +716,7 @@
       "data_publicacao": "19/10/2022",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-25T20:23:10",
+      "coletado_em": "2026-11-26T20:00:33",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     "c067fe8403247755": {
@@ -750,7 +732,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-25T20:23:10",
+      "coletado_em": "2026-11-26T20:00:33",
       "primeira_vez_em": "2026-09-17T15:44:41"
     },
     "4cb90c79835b4cd1": {
@@ -766,7 +748,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-25T20:23:12",
+      "coletado_em": "2026-11-26T20:00:34",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "485fb61a2a751098": {
@@ -780,7 +762,7 @@
       "data_publicacao": "10/08/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-25T20:23:12",
+      "coletado_em": "2026-11-26T20:00:34",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "0b1cf5b29af11e57": {
@@ -796,7 +778,7 @@
       "tags": [
         "ICMS"
       ],
-      "coletado_em": "2026-11-25T20:23:12",
+      "coletado_em": "2026-11-26T20:00:34",
       "primeira_vez_em": "2026-09-17T15:44:42"
     },
     "63dff167c306e0a2": {
@@ -858,7 +840,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-25T20:18:11",
+      "coletado_em": "2026-11-26T19:55:13",
       "primeira_vez_em": "2026-09-25T11:03:52"
     },
     "875f51f99732d992": {
@@ -874,7 +856,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-25T20:19:01",
+      "coletado_em": "2026-11-26T19:56:06",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     "4b70d64501a39e0c": {
@@ -890,7 +872,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-25T20:19:01",
+      "coletado_em": "2026-11-26T19:56:06",
       "primeira_vez_em": "2026-09-26T11:03:34"
     },
     "21a7f1ac3d421137": {
@@ -922,7 +904,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-25T20:18:11",
+      "coletado_em": "2026-11-26T19:55:13",
       "primeira_vez_em": "2026-09-30T11:04:55"
     },
     "eeba35f26cd1b78e": {
@@ -941,7 +923,7 @@
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-11-25T20:18:11",
+      "coletado_em": "2026-11-26T19:55:13",
       "primeira_vez_em": "2026-10-01T11:05:37"
     },
     "1145066e44f69ff9": {
@@ -1025,7 +1007,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-25T20:19:01",
+      "coletado_em": "2026-11-26T19:56:06",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     "529e8feb3d37e80e": {
@@ -1060,7 +1042,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-25T20:19:01",
+      "coletado_em": "2026-11-26T19:56:06",
       "primeira_vez_em": "2026-10-02T11:04:31"
     },
     "c1366c3e91745dce": {
@@ -1076,7 +1058,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-25T20:19:02",
+      "coletado_em": "2026-11-26T19:56:09",
       "primeira_vez_em": "2026-10-02T11:04:32"
     },
     "a7086811f0b75d7a": {
@@ -1096,20 +1078,6 @@
       "coletado_em": "2026-11-20T18:55:02",
       "primeira_vez_em": "2026-10-03T11:59:05"
     },
-    "100b03d2302e3752": {
-      "id": "100b03d2302e3752",
-      "titulo": "Novos editais da PGFN para renegociação de dívidas",
-      "resumo": "Novos editais da PGFN para renegociação de dívidas",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/novos-editais-da-pgfn-para-renegociacao-de-dividas",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "02/10/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-27T16:06:06",
-      "primeira_vez_em": "2026-10-03T11:59:07"
-    },
     "5b5a92e25b015235": {
       "id": "5b5a92e25b015235",
       "titulo": "DeRE: CGIBS e Receita Federal publicam versão 1.3.0 da documentação técnica e disponibilizam Manual do Usuário",
@@ -1123,7 +1091,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-25T20:18:11",
+      "coletado_em": "2026-11-26T19:55:13",
       "primeira_vez_em": "2026-10-04T17:21:33"
     },
     "5f6e7fb8370f435f": {
@@ -1154,22 +1122,8 @@
         "IBS",
         "CBS"
       ],
-      "coletado_em": "2026-11-25T20:18:11",
+      "coletado_em": "2026-11-26T19:55:13",
       "primeira_vez_em": "2026-10-07T11:05:57"
-    },
-    "190309e9ae03812a": {
-      "id": "190309e9ae03812a",
-      "titulo": "III Semana Nacional da Regularização Tributária",
-      "resumo": "PGFN disponibilizou edital de transação para a regularização de débitos inscritos em dívida ativa da União",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/iii-semana-nacional-da-regularizacao-tributaria",
-      "fonte": "PGFN",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "06/10/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-27T16:06:06",
-      "primeira_vez_em": "2026-10-07T11:06:00"
     },
     "a881467e852d7257": {
       "id": "a881467e852d7257",
@@ -1196,7 +1150,7 @@
       "data_publicacao": "24/11/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-25T20:20:10",
+      "coletado_em": "2026-11-26T19:57:23",
       "primeira_vez_em": "2026-10-09T11:06:21"
     },
     "1f588e686ac5fd39": {
@@ -1210,7 +1164,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-25T20:20:10",
+      "coletado_em": "2026-11-26T19:57:23",
       "primeira_vez_em": "2026-10-09T11:06:21"
     },
     "2ff2ed7a2b94c51d": {
@@ -1433,7 +1387,7 @@
       "data_publicacao": "19/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-25T20:17:56",
+      "coletado_em": "2026-11-26T19:54:58",
       "primeira_vez_em": "2026-10-19T17:15:00"
     },
     "956f42d9152f269f": {
@@ -1484,20 +1438,6 @@
       "coletado_em": "2026-11-21T17:53:25",
       "primeira_vez_em": "2026-10-21T15:46:35"
     },
-    "c499e7aa742dd1c4": {
-      "id": "c499e7aa742dd1c4",
-      "titulo": "Fazenda abre chamamento público para instituições interessadas em participar como credoras da terceira fase da renegociação de dívidas",
-      "resumo": "Instituições terão até 30 de outubro deste ano para enviar informações que irão subsidiar a estruturação do leilão de aquisição de dívidas pela União",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/fazenda-abre-chamamento-publico-para-instituicoes-interessadas-em-participar-como-credoras-da-terceira-fase-da-renegociacao-de-dividas",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "21/10/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-27T16:06:07",
-      "primeira_vez_em": "2026-10-22T15:43:41"
-    },
     "487abdf4965caa8a": {
       "id": "487abdf4965caa8a",
       "titulo": "PGFN lança edital para negociar dívidas de FGTS e contribuições sociais de até R$ 45 mi",
@@ -1526,20 +1466,6 @@
         "Reforma Tributária"
       ],
       "coletado_em": "2026-10-28T16:52:52",
-      "primeira_vez_em": "2026-10-23T15:31:58"
-    },
-    "d37e00303b5d12d3": {
-      "id": "d37e00303b5d12d3",
-      "titulo": "Receita abre nesta sexta-feira (23/10) consulta ao lote residual de restituição do IRPF 2026",
-      "resumo": "Crédito é de R$ 531,6 milhões e estará disponível na sexta-feira da outra semana, dia 30/10, para as 184,4 mil restituições. comtempladas",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-abre-nesta-sexta-feira-23-10-consulta-ao-lote-residual-de-restituicao-do-irpf-2026",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "22/10/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-27T16:06:07",
       "primeira_vez_em": "2026-10-23T15:31:58"
     },
     "c1e6acedbc89ff0c": {
@@ -1698,62 +1624,6 @@
       "coletado_em": "2026-10-29T17:11:24",
       "primeira_vez_em": "2026-10-27T16:06:07"
     },
-    "a6d81d220703e8eb": {
-      "id": "a6d81d220703e8eb",
-      "titulo": "Receita Federal lança o programa Receita de Consenso para reduzir litígios e evitar conflitos tributários",
-      "resumo": "Procedimento de Consensualidade Fiscal vai incentivar a resolução por meio de diálogo entre o Fisco e os contribuintes",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2024/outubro/receita-federal-lanca-o-programa-receita-de-consenso-para-reduzir-litigios-e-evitar-conflitos-tributarios",
-      "fonte": "Ministério da Fazenda",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "26/10/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-27T16:06:07",
-      "primeira_vez_em": "2026-10-27T16:06:07"
-    },
-    "34b48177c47a9013": {
-      "id": "34b48177c47a9013",
-      "titulo": "Projeto prevê compartilhamento de dados bancários e telefônicos de candidatos",
-      "resumo": "Candidatos a cargos eletivos e seus cônjuges ou companheiros deverão autorizar o compartilhamento de informações bancárias e registros de chamadas e mensagens com a Justiça Eleitoral para obter o registro de candidatura. É o que propõe projeto de lei recém-apresentado pelo senador Randolfe Rodrigues (PT-AP). O PL 5.648/2026, que altera a Lei Geral das Eleições, tem o objetivo de ampliar a transparência sobre a vida financeira e as comunicações de candidatos a cargos eletivos. “É imprescindível que a sociedade tenha amplo acesso a informações bancárias e telefônicas relativas à vida pregressa dos candidatos, a fim de verificar tanto seus hábitos, relações pessoais, administração patrimonial e evolução financeira como a compatibilidade desses dados com as respectivas promessas de campanha e de uma eventual atuação como representante em caso de vitória nas urnas”, afirma Randolfe. O projeto determina que o/a candidato, seu cônjuge ou companheiro devem autorizar: Que as instituições financeiras compartilhem com a Justiça Eleitoral informações financeiras referentes aos cinco anos anteriores. A proposta deve permitir a análise da evolução patrimonial e das movimentações financeiras dos candidatos; Que as operadoras de telefonia compartilhem o histórico de registros de chamadas e mensagens efetuadas e recebidas pelo candidato e por seu cônjuge ou companheiro, abrangendo os cinco anos anteriores; Que os provedores de aplicações de internet, dos quais são usuários, forneçam registros de chamadas e mensagens de serviços de comunicação interpessoal na internet, como aplicativos de mensagens, referentes aos seis meses anteriores. O projeto estabelece ainda que o candidato e seu cônjuge ou companheiro deverão fornecer autorizações adicionais para permitir o compartilhamento dos dados durante o período correspondente ao mandato eletivo. Se o candidato não for eleito, essas autorizações adicionais serão desconsideradas. A proposta também determina que todos os documentos apresentados sejam disponibilizados aos interessados no site da Justiça Eleitoral: após o recebimento do pedido de candidatura, no caso das autorizações iniciais, e anualmente, no caso das autorizações relativas ao mandato. Para o autor, o projeto deve afastar da vida pública pessoas que não estejam comprometidas com o bem comum e que se valem do poder político apenas para a defesa de interesses pessoais. “A medida é oportuna, visto que garante ao eleitor e à eleitora brasileira o amplo acesso às informações necessárias à formação da convicção nas urnas de forma livre e ainda o controle de toda a sociedade com relação à atuação dos respectivos representantes ao longo do mandato”, expõe o senador. O projeto ainda não foi distribuído para as comissões temáticas.",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/27/projeto-preve-compartilhamento-de-dados-bancarios-e-telefonicos-de-candidatos",
-      "fonte": "Senado Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-10-27T14:06:32Z",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-27T16:06:10",
-      "primeira_vez_em": "2026-10-27T16:06:10"
-    },
-    "3cee114a6e9fd29d": {
-      "id": "3cee114a6e9fd29d",
-      "titulo": "Davi Alcolumbre e Hugo Motta visitam presidente Lula",
-      "resumo": "O presidente do Senado, Davi Alcolumbre, fez uma visita de cortesia ao presidente da República, Luiz Inácio Lula da Silva, que foi reeleito neste domingo (25) para seu quarto mandato. O encontro ocorreu no fim da tarde desta segunda-feira (26), no Palácio da Alvorada. Davi estava acompanhado do presidente da Câmara dos Deputados, Hugo Motta. Esse é o primeiro encontro entre os presidentes do Senado e da Câmara com Lula após a reeleição. Depois da visita, Alcolumbre divulgou um comunicado. No texto, ele reafirma “o compromisso com o diálogo institucional e a construção de entendimentos em favor do Brasil”. Leia a íntegra. Comunicado O presidente do Senado e do Congresso Nacional, Davi Alcolumbre, esteve na tarde desta segunda-feira (26) no Palácio da Alvorada, acompanhado do presidente da Câmara dos Deputados, Hugo Motta, para cumprimentar o presidente reeleito Luiz Inácio Lula da Silva pela vitória nas urnas neste domingo. Alcolumbre reafirmou o compromisso com o diálogo institucional e a construção de entendimentos em favor do Brasil. Destacou que o Senado e a Câmara seguirão atuando com independência, responsabilidade e disposição para somar esforços em nome de todos os brasileiros. “Os brasileiros esperam de nós resultados. Temos muito trabalho pela frente”, afirmou.",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/26/davi-alcolumbre-e-hugo-motta-visitam-presidente-lula",
-      "fonte": "Senado Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-10-26T22:13:10Z",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-27T16:06:10",
-      "primeira_vez_em": "2026-10-27T16:06:10"
-    },
-    "d44d7ada35ceeb41": {
-      "id": "d44d7ada35ceeb41",
-      "titulo": "Destaques da semana (19 a 25 de outubro)",
-      "resumo": "Destaques da semana (19 a 25 de outubro)",
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/10/destaques-da-semana-19-a-25-de-outubro",
-      "fonte": "Senado Federal",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "2026-10-26T20:28:15Z",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-27T16:06:10",
-      "primeira_vez_em": "2026-10-27T16:06:10"
-    },
     "c9d1b0b003f0572b": {
       "id": "c9d1b0b003f0572b",
       "titulo": "Nota Técnica NT2023.002_v1.02 - Publicada em 27/10/2026",
@@ -1767,7 +1637,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-25T20:19:01",
+      "coletado_em": "2026-11-26T19:56:06",
       "primeira_vez_em": "2026-10-27T16:06:13"
     },
     "2022a6d348e22197": {
@@ -1811,20 +1681,6 @@
       "tags": [],
       "coletado_em": "2026-11-06T17:47:38",
       "primeira_vez_em": "2026-10-27T16:08:49"
-    },
-    "27b6d039b7d98c3e": {
-      "id": "27b6d039b7d98c3e",
-      "titulo": "Alteração em datas de implantação de Notas Técnicas:",
-      "resumo": "Publicado por Coordenação Técnica do ENCAT",
-      "link": "https://dfe-portal.svrs.rs.gov.br/Nfe/Avisos/3014",
-      "fonte": "NFe (ENCAT/SVRS)",
-      "esfera": "federal",
-      "uf": "",
-      "data_publicacao": "27/10/2026",
-      "impacto": "médio",
-      "tags": [],
-      "coletado_em": "2026-10-27T16:10:47",
-      "primeira_vez_em": "2026-10-27T16:10:47"
     },
     "1da53999c2769877": {
       "id": "1da53999c2769877",
@@ -1951,7 +1807,7 @@
       "data_publicacao": "27/10/2026",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-25T20:22:56",
+      "coletado_em": "2026-11-26T20:00:16",
       "primeira_vez_em": "2026-10-28T16:56:05"
     },
     "9b0c0323e366e671": {
@@ -1967,7 +1823,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-25T20:18:11",
+      "coletado_em": "2026-11-26T19:55:13",
       "primeira_vez_em": "2026-10-29T17:11:19"
     },
     "16a47ae948ca95ee": {
@@ -2339,7 +2195,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-25T20:19:01",
+      "coletado_em": "2026-11-26T19:56:06",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "f613b9d7c5d7894f": {
@@ -2356,7 +2212,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-25T20:19:01",
+      "coletado_em": "2026-11-26T19:56:06",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "c331ed445295693a": {
@@ -2373,7 +2229,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-25T20:19:01",
+      "coletado_em": "2026-11-26T19:56:06",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "017acb4bb587164e": {
@@ -2391,7 +2247,7 @@
         "NT (Nota Técnica)",
         "Simples Nacional"
       ],
-      "coletado_em": "2026-11-25T20:19:01",
+      "coletado_em": "2026-11-26T19:56:06",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "a06b2f52b19faa20": {
@@ -2409,7 +2265,7 @@
         "NFe",
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-25T20:19:01",
+      "coletado_em": "2026-11-26T19:56:06",
       "primeira_vez_em": "2026-10-30T16:52:33"
     },
     "e34bd541cdfcab47": {
@@ -2425,7 +2281,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-25T20:19:02",
+      "coletado_em": "2026-11-26T19:56:09",
       "primeira_vez_em": "2026-10-30T16:52:35"
     },
     "ddaabbaff7082b26": {
@@ -2441,7 +2297,7 @@
       "tags": [
         "NT (Nota Técnica)"
       ],
-      "coletado_em": "2026-11-25T20:19:04",
+      "coletado_em": "2026-11-26T19:56:13",
       "primeira_vez_em": "2026-10-30T16:52:36"
     },
     "349221150d5a7d10": {
@@ -2546,7 +2402,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-25T20:22:56",
+      "coletado_em": "2026-11-26T20:00:16",
       "primeira_vez_em": "2026-10-31T15:58:15"
     },
     "d2e13a6d9d9cb7d7": {
@@ -2753,7 +2609,7 @@
       "tags": [
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-25T20:23:16",
+      "coletado_em": "2026-11-26T20:00:40",
       "primeira_vez_em": "2026-11-03T18:14:05"
     },
     "7268b4a834ca5548": {
@@ -3504,7 +3360,7 @@
         "NT (Nota Técnica)",
         "API/Sistemas Gov"
       ],
-      "coletado_em": "2026-11-25T20:17:56",
+      "coletado_em": "2026-11-26T19:54:58",
       "primeira_vez_em": "2026-11-09T21:11:37"
     },
     "4379728a759f423b": {
@@ -4056,7 +3912,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-25T20:18:11",
+      "coletado_em": "2026-11-26T19:55:13",
       "primeira_vez_em": "2026-11-12T18:38:39"
     },
     "393f750456ef74db": {
@@ -4284,7 +4140,7 @@
       "tags": [
         "IBS"
       ],
-      "coletado_em": "2026-11-25T20:17:56",
+      "coletado_em": "2026-11-26T19:54:58",
       "primeira_vez_em": "2026-11-13T18:17:23"
     },
     "c37f1dad29849ecc": {
@@ -4483,7 +4339,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-25T20:20:59",
+      "coletado_em": "2026-11-26T19:58:12",
       "primeira_vez_em": "2026-11-13T18:19:35"
     },
     "639ff5b1820f25f7": {
@@ -5699,7 +5555,7 @@
         "Reforma Tributária",
         "IBS"
       ],
-      "coletado_em": "2026-11-25T20:18:11",
+      "coletado_em": "2026-11-26T19:55:13",
       "primeira_vez_em": "2026-11-19T19:15:48"
     },
     "0cef82ae198a8bab": {
@@ -5958,7 +5814,7 @@
         "IBS",
         "CBS"
       ],
-      "coletado_em": "2026-11-25T20:18:11",
+      "coletado_em": "2026-11-26T19:55:13",
       "primeira_vez_em": "2026-11-20T18:55:00"
     },
     "2de9707b1aadc402": {
@@ -6798,7 +6654,7 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-25T20:20:28",
+      "coletado_em": "2026-11-26T19:57:42",
       "primeira_vez_em": "2026-11-25T20:20:28"
     },
     "2f634879d7b9adea": {
@@ -6815,7 +6671,7 @@
         "Simples Nacional",
         "Prazo/Obrigação"
       ],
-      "coletado_em": "2026-11-25T20:20:28",
+      "coletado_em": "2026-11-26T19:57:42",
       "primeira_vez_em": "2026-11-25T20:20:28"
     },
     "6acec076747baf4e": {
@@ -6829,8 +6685,208 @@
       "data_publicacao": "",
       "impacto": "médio",
       "tags": [],
-      "coletado_em": "2026-11-25T20:20:59",
+      "coletado_em": "2026-11-26T19:58:12",
       "primeira_vez_em": "2026-11-25T20:20:59"
+    },
+    "3fedcab98ee08e2d": {
+      "id": "3fedcab98ee08e2d",
+      "titulo": "Relatório do Orçamento de 2027 mantém aumento de recursos a saúde e educação",
+      "resumo": "O relatório preliminar do Orçamento de 2027 prevê R$ 272,18 bilhões para a saúde pública e R$ 246,3 bilhões para a educação, além de recursos para manter o programa Bolsa Família. O texto, aprovado pela Comissão Mista de Orçamento (CMO), define as regras para a análise do projeto da Lei Orçamentária Anual (LOA) e os parâmetros de receita que vão orientar a distribuição das verbas federais. O texto é do senador Eduardo Braga (MDB-AM), relator-geral do Orçamento de 2027 (PLN 24/2026). Mantém para a saúde e a educação aumentos de recursos em relação a 2026. Nesta quarta-feira (25), a CMO também aprovou o relatório da receita, do deputado Neto Carletto (Avante-BA). O projeto prevê receitas e despesas de quase R$ 7,5 trilhões. A aprovação do parecer preliminar encerra a primeira etapa de análise da lei orçamentária de 2027 na comissão. Braga explicou que o texto define as bases para o trabalho dos relatores setoriais, cujos relatórios a CMO começa a analisar na próxima semana. Depois, o relator-geral vai consolidar as propostas e apresentar o relatório final. Braga espera que ele seja votado no Plenário do Congresso Nacional até 17 de dezembro, antes do recesso parlamentar. — Essa é a pluralidade de um orçamento que eu reputo participativo porque, afinal de contas, é o Congresso Nacional que representa o povo brasileiro discutindo o orçamento da nação — disse Eduardo Braga após a reunião. Educação e saúde Os recursos destinados ao Ministério da Educação representam um aumento de R$ 12,9 bilhões (5,5%) em relação a 2026. As despesas obrigatórias da educação crescem R$ 11,9 bilhões (6,5%), e os recursos para o ensino superior federal sobem R$ 2,1 bilhões (4,3%). O valor reservado à saúde fica R$ 20 milhões acima do piso constitucional, de R$ 272,16 bilhões. Programas sociais Braga afirmou que o texto garante verbas para a manutenção do Bolsa Família e a continuidade do atendimento à população. O relatório lembra que o Decreto 13.120, de setembro, reajustou de 15,17% a 16% os benefícios do programa a partir de outubro de 2026. — Tenho aqui um compromisso não apenas com os institutos federais de educação, universidades, mas também com programas que são extremamente sensíveis, como Farmácia Popular e outros tantos programas que não podem, sob hipótese nenhuma, sofrer nenhum tipo de corte orçamentário — declarou Braga ao apresentar o relatório à CMO. Juros Depois da reunião, o senador disse à imprensa que o Brasil precisa reduzir os juros o mais rápido possível. Segundo ele, os gastos discricionários do governo são menos de 9% do total, e cada ponto a menos na Selic representa uma economia de R$ 60 bilhões para o país. — Nós precisamos estabelecer bases para que o mercado e a macroeconomia possam se acomodar de forma sustentável, de longo prazo, para que nós tenhamos queda na taxa de juros e [para] abrir espaço para investimentos — afirmou Braga.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/relatorio-do-orcamento-de-2027-mantem-aumento-de-recursos-a-saude-e-educacao",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-11-26T19:38:51Z",
+      "impacto": "médio",
+      "tags": [
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-11-26T19:56:01",
+      "primeira_vez_em": "2026-11-26T19:56:01"
+    },
+    "4ba90a92b6c47b02": {
+      "id": "4ba90a92b6c47b02",
+      "titulo": "Davi recebe prefeitos e propõe debate sobre financiamento dos municípios",
+      "resumo": "O financiamento dos serviços públicos municipais, os impactos da mudança na jornada de trabalho e a distribuição de recursos entre União, estados e municípios estiveram entre os temas discutidos nesta quinta-feira (26) pelo presidente do Senado, Davi Alcolumbre (União-AP), e representantes da Frente Nacional de Prefeitas e Prefeitos (FNP). Durante o encontro, na Presidência do Senado, Davi propôs promover sessão especial para ampliar o debate sobre as demandas dos municípios. Em publicação nas redes sociais, o senador destacou a necessidade de construir soluções conjuntas para questões como saúde, segurança pública, equilíbrio das contas municipais e fortalecimento do pacto federativo. — Mais do que ouvir, precisamos trabalhar juntos na construção de soluções e encaminhamentos concretos. Propus, inclusive, a realização de uma sessão especial nas próximas semanas, para que nossas prefeitas e nossos prefeitos possam apresentar as pautas e debater as demandas dos municípios brasileiros no Plenário do Senado Federal — escreveu. Segundo o presidente da FNP e prefeito de Porto Alegre (RS), Sebastião Melo, a entidade definiu 17 temas prioritários, entre os quais estão o financiamento do transporte público e do Sistema Único de Saúde (SUS), além dos impactos da reforma tributária. Melo aceitou a proposta de sessão especial e manifestou preocupação com as dificuldades financeiras das prefeituras. A expectativa é de que o debate ocorra ainda em dezembro, em data a ser definida. Financiamento Uma das principais preocupações apresentadas pelos prefeitos é a insuficiência de recursos para atender às demandas da população. De acordo com Melo, o crescimento das cidades não foi acompanhado por uma distribuição proporcional das receitas públicas. O prefeito defendeu mecanismos de compensação financeira para reduzir as desigualdades entre os municípios e garantir o acesso da população a serviços essenciais. Ele também defendeu a participação da União e dos estados no financiamento permanente do transporte público. Na área da segurança pública, pediu a rediscussão da distribuição de recursos para que os municípios tenham condições financeiras de manter as próprias estruturas de policiamento. Jornada de trabalho Outro ponto abordado foi o impacto da adoção da escala de trabalho 5x2 nas contas municipais. Melo afirmou que a FNP não é contrária à medida, mas defende que o governo encontre formas de financiamento para compensar o aumento dos custos dos contratos das prefeituras, especialmente em serviços como limpeza urbana e coleta de lixo. — Só há um caminho, diálogo e construção. Aqui também é a Casa dos municípios. O Senado é a Casa dos estados, mas também é a Casa dos municípios — ressaltou. O encontro contou com a participação do senador Nelsinho Trad (PSD-MS) e de prefeitos de municípios da Bahia, do Ceará, do Maranhão, de Minas Gerais, do Paraná, de Pernambuco, do Rio Grande do Sul e de São Paulo, além de representantes da direção da FNP.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/davi-recebe-prefeitos-e-propoe-debate-sobre-financiamento-dos-municipios",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-11-26T18:25:18Z",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária"
+      ],
+      "coletado_em": "2026-11-26T19:56:01",
+      "primeira_vez_em": "2026-11-26T19:56:01"
+    },
+    "1e40bdb8c3dd7669": {
+      "id": "1e40bdb8c3dd7669",
+      "titulo": "Senado apresenta sistema para ações de acessibilidade, equidade e sustentabilidade",
+      "resumo": "O Poder Legislativo vem adotando medidas para garantir a acessibilidade, a equidade de gênero e raça, além de reduzir os impactos ambientais de suas atividades. Tais ações — que convergem com os Objetivos de Desenvolvimento Sustentável da ONU — foram apresentadas nesta quinta-feira (26) durante audiência pública no Senado. Uma das iniciativas apresentadas foi o sistema desenvolvido pelo Senado para apoiar os órgãos do Legislativo na adoção de práticas de governança, acessibilidade, equidade e sustentabilidade ambiental. A audiência foi promovida pela Comissão de Direitos Humanos e Legislação Participativa do Senado (CDH). O debate reuniu representantes da Câmara dos Deputados, do Senado, do Tribunal de Contas da União (TCU) e do Conselho da Justiça Federal. Presidente da CDH, a senadora Damares Alves (Republicanos-DF) ressaltou que o Legislativo deve adotar — em suas próprias instalações — as práticas que defende para a sociedade. Ferramentas Durante a audiência, a diretora-geral do Senado, Ilana Trombka, apresentou o Sistema Integrado de Monitoramento e Planejamento para o Legislativo Sustentável (SIMPLS). Seu objetivo é apoiar os órgãos do Legislativo na adoção de práticas de governança, acessibilidade, equidade e sustentabilidade ambiental. Desenvolvido pelo Senado, esse sistema oferece ferramentas de monitoramento de ações de sustentabilidade e disponibiliza — gratuitamente — portais institucionais com informações sobre o perfil socioambiental das entidades participantes. Taís Penna de Queiroz, do Senado, explicou que o sistema foi criado para integrar e organizar iniciativas que antes eram acompanhadas separadamente pelas instituições. Ela atua na Casa como gestora do Núcleo de Coordenação de Ações de Responsabilidade Social e também como coordenadora da Rede Legislativo Sustentável no Senado. Segundo Taís, a plataforma permite fazer diagnósticos, planejar ações, monitorar metas e identificar oportunidades de melhoria, além de estabelecer referências comuns para facilitar a troca de experiências, respeitando a autonomia e as características de cada órgão. Carmen Fortes Mesquita, da Câmara, disse que o SIMPLS permitirá integrar iniciativas, transformar dados em informações estratégicas e acompanhar indicadores relacionados aos Objetivos de Desenvolvimento Sustentável da ONU. Ela é supervisora do EcoCâmara e coordenadora da Rede Legislativo Sustentável na Câmara. Representatividade O secretário-geral adjunto de Administração do TCU, Frederico Julio Goepfert Junior, destacou a importância da representatividade e da capacitação para ampliar a acessibilidade e a equidade nas instituições públicas. Ele defendeu a presença de mulheres, pessoas com deficiência e integrantes de diferentes grupos sociais nos espaços institucionais, além de ações de formação para combater preconceitos e a discriminação. Também apresentou iniciativas do tribunal sobre enfrentamento ao assédio, acolhimento de vítimas de violência, transparência e inventário de emissões de carbono. A coordenadora-geral da Rede de Acessibilidade na Administração Pública, Fabiana de Freitas Goulart Lourenço, apresentou o trabalho desse grupo, criado em 2017 e composto por órgãos públicos dos Poderes Judiciário e Legislativo, entre outras instituições. Entre outras atividades, essa rede promove a inclusão de pessoas com deficiência por meio da troca de experiências, da divulgação de boas práticas e da participação dessas pessoas na identificação de barreiras e necessidades. Um exemplo é a atualização de uma cartilha de acessibilidade que reúne orientações sobre espaços físicos, comunicação e atendimento. Já Carmen Fortes Mesquita apresentou iniciativas da Câmara na área ambiental, como a elaboração de um inventário de emissões de gases de efeito estufa e a remuneração de cooperativas de catadores pelos serviços de coleta e destinação de resíduos recicláveis. Ela enfatizou que a criação da Rede Legislativo Sustentável (que atualmente reúne mais de 130 instituições) se tornou possível pela cooperação entre Câmara, Senado e TCU. Também participaram da audiência a gestora substituta do Núcleo de Coordenação de Ações de Diversidade, Equidade e Inclusão do Senado, Letícia Fernanda de Oliveira Custódio; o assessor técnico do Núcleo de Políticas Econômicas do Senado, Humberto Mendes de Sá Formiga; e a coordenadora da Rede Equidade do Senado, Maria Terezinha Nunes.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/senado-apresenta-sistema-para-acoes-de-acessibilidade-equidade-e-sustentabilidade",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-11-26T18:14:16Z",
+      "impacto": "baixo",
+      "tags": [],
+      "coletado_em": "2026-11-26T19:56:01",
+      "primeira_vez_em": "2026-11-26T19:56:01"
+    },
+    "fa1909a6c7e53f8e": {
+      "id": "fa1909a6c7e53f8e",
+      "titulo": "Mais tempo na escola não basta sem qualidade e verba, diz avaliação da CE",
+      "resumo": "A expansão do ensino integral no Brasil é relevante e necessária, mas o êxito ainda depende de ajustes de qualidade e de financiamento adequado. A conclusão é da Comissão de Educação (CE), que aprovou nesta quarta-feira (25) o relatório de avaliação do Programa Escola em Tempo Integral, do Ministério da Educação. Criado em 2023, o programa apoia escolas de estados, municípios e do Distrito Federal na implantação da jornada integral, de pelo menos sete horas diárias. A avaliação foi proposta pela relatora, senadora Damares Alves (Republicanos-DF), por meio de requerimento. Damares definiu a avaliação de uma política pública como um trabalho complexo e informou que o relatório tem 393 páginas. Segundo a senadora, a análise levou em conta dados do Censo Escolar, informações de redes de ensino e documentos do Ministério da Educação e de outros órgãos públicos. A comissão também promoveu três audiências públicas sobre o tema. Para a relatora, o avanço do programa depende de que o aumento das matrículas seja acompanhado de qualidade pedagógica, equidade, financiamento, infraestrutura, valorização profissional e planejamento de longo prazo. Segundo ela, as matrículas em tempo integral cresceram 20,8% entre 2023 e 2025. — O objetivo [da avaliação] foi verificar o quanto a oferta cresceu e se existem condições para mantê-la e transformá-la em aprendizagem — explicou a senadora. De acordo com Damares, o poder público precisa considerar situações específicas, a depender da região da escola — como é o caso das escolas rurais, das escolas na região amazônica ou em comunidades indígenas. Ela afirmou que a avaliação mostra que só aumentar a jornada não significa melhor qualidade de ensino e que há registro de crianças que não querem ficar no tempo integral, por considerarem a escola sem atrativos. — Em casa, o menino tem brinquedo, tem celular, tem computador. Às vezes, na escola, eles ficam trancados com uma bola, em ambiente apertado e sem conforto — alertou a senadora. Sugestões Com base no relatório de Damares, a Comissão de Educação fez uma série de sugestões ao governo para aprimorar o programa. As recomendações envolvem financiamento, gestão de recursos, formação dos profissionais, transparência e integração entre diversos órgãos. — O desafio central consiste em transformar o maior tempo de permanência na escola em oportunidades efetivas de aprendizagem, desenvolvimento humano, convivência, participação e redução das desigualdades — afirmou a relatora. Na visão do senador Izalci Lucas (PL-DF), que conduziu a reunião, a elaboração de políticas públicas costuma ignorar o mundo real. Segundo ele, há lugares em que não há demanda pelo ensino integral, enquanto outros preferem uma escola integral voltada à formação profissional. — Se não tiver laboratório de ciência e tecnologia, esporte e cultura, ninguém aguenta ficar na escola. Tem que ter estrutura, aí funciona — argumentou o senador. Estas são as principais recomendações da CE para o programa Escola em Tempo Integral: aprimorar a transparência financeira e a execução da assistência; planejar a expansão segundo a demanda e a equidade, assegurando a participação das famílias nas decisões sobre jornada e proposta pedagógica; estabelecer um acompanhamento contínuo das desigualdades no acesso; fortalecer a formação continuada dos profissionais; divulgar dados e estudos sobre os resultados educacionais por jornada escolar; definir objetivos claros de aprendizagem para a jornada ampliada.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/mais-tempo-na-escola-nao-basta-sem-qualidade-e-verba-diz-avaliacao-da-ce",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-11-26T17:46:05Z",
+      "impacto": "baixo",
+      "tags": [
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-11-26T19:56:01",
+      "primeira_vez_em": "2026-11-26T19:56:01"
+    },
+    "5dd8494e37e708e1": {
+      "id": "5dd8494e37e708e1",
+      "titulo": "IFI entrega estudo sobre alíquota da CBS para Eduardo Braga",
+      "resumo": "A Instituição Fiscal Independente (IFI) entregou nesta quinta-feira (26) à assessoria do senador Eduardo Braga (MDB-AM) uma Nota Técnica sobre a alíquota da Contribuição sobre Bens e Serviços (CBS), instituída pela Reforma Tributária. O texto tem o objetivo de aumentar a compreensão sobre o número calculado e oferecer insumos aos senadores, que têm até o dia 15 de dezembro como prazo para definir o valor da alíquota da CBS para 2027. A Nota da IFI lembra que o Tribunal de Contas da União (TCU) calculou a alíquota em 11,35%, arredondada para 11,3%. Segundo o texto, o cálculo seguiu os parâmetros da Constituição e da Lei Complementar 214, de 2025, “considerando o princípio da neutralidade arrecadatória”, pelo qual o nível geral de arrecadação em relação ao PIB deve ser mantido. Nos cenários de efeito pleno da reforma tributária estimados pela Receita Federal, de 27,2% a 38,1% de arrecadação, a alíquota do CBS variaria entre 11,42% e 11,03%. Quanto menor o hiato de conformidade, que mede a perda da arrecadação em sonegação e inadimplência, menor pode ser a alíquota da CBS, a fim de manter o nível de arrecadação do IPI, PIS/Pasep e Cofins, que serão substituídos pelo novo tributo. A reforma tributária prevê novas tecnologias para aumentar a eficiência na arrecadação, como o split payment, que transfere o tributo devido automaticamente no pagamento de um produto ou serviço. Assim, especialistas discutem até que ponto a reforma tributária diminuirá a sonegação, melhorando a arrecadação. Definição da alíquota Eduardo Braga foi o relator da proposta que resultou na Emenda Constitucional 132, da reforma tributária, e relata os projetos de lei complementar de regulamentação da reforma. Na semana passada, em audiências públicas da Comissão de Assuntos Econômicos (CAE), o senador mostrou-se mais otimista que o TCU e a Receita Federal quanto à redução da sonegação com a CBS. Em uma das reuniões, Braga questionou a diferença entre os 11,3% do TCU e os 9,21% inicialmente estimados pelo Comitê Gestor criado no âmbito da reforma tributária. Como a CBS substituirá a partir de janeiro os atuais PIS/Pasep e Cofins, o Senado tem até 15 de dezembro para definir a alíquota, por meio de projeto de resolução. Se não houver decisão, será adotada provisoriamente a proposta do TCU. Em entrevista à Agência Senado, o analista da IFI e um dos autores da Nota Técnica, Rafael Curi, ressaltou que o estudo partiu do cálculo feito pelo TCU. Segundo ele, a intenção da IFI não é propor uma alíquota alternativa à sugerida pelo Tribunal de Contas, mas subsidiar os senadores para uma tomada de decisão. — Nosso objeto não é confrontar os números do TCU, nem trazer alguma alternativa, mas somar na análise que vai ser deliberada pelo Legislativo até o próximo dia 15 de dezembro. a IFI não definiu uma alíquota concorrente à do TCU, mas apresenta análises que podem ser complementares e auxiliar os senadores na tomada de decisão, com o melhor conjunto de informações possível. Nós fornecemos insumos para que os senadores possam fazer cálculos e chegar à melhor resposta possível em termos arrecadatórios e em termos de política pública — declarou. Hipóteses A IFI desenhou quatro possibilidades, cada uma sugerindo números para a alíquota, que dependem das hipóteses adotadas: Exceções. O principal determinante do nível da alíquota são as exceções previstas na legislação, como a alíquota zero da cesta básica e demais alíquotas reduzidas. Sem elas, a alíquota que gera a mesma arrecadação seria de 7,0%. As exceções acrescentam 4,3 pontos percentuais, dos quais 1,9 ponto vem dos alimentos. Exercício contrafactual da Tese do Século (período de referência). A meta de arrecadação é a média de 2012 a 2021, período que combina anos em que o ICMS integrava a base do PIS/Cofins com anos de transição para a regra atual, que é também a da CBS. Um exercício contrafactual estima que, se todo o período fosse medido pela regra vigente, a meta cairia de 4,99% para 4,79% do PIB, e a alíquota, para 10,78%. O resultado depende sobretudo do ritmo de adesão dos contribuintes à exclusão do ICMS, que o leva a valores entre 10,55% e 11,12%. Segundo Rafael Curi, essa hipótese \"não indica qual meta seria a correta, mas mostra que o período fixado em lei não é neutro\". Hiato de conformidade. O TCU adotou redução de 29,3% do hiato de conformidade. Nos cenários de efeito pleno da reforma estimados pela Receita Federal, de 27,2% a 38,1%, a alíquota variaria entre 11,42% e 11,03%. Redutor das compras públicas. Sem o redutor de 44,2% aplicado às compras públicas, a alíquota cairia para 10,84%, mas sem redução da carga tributária total: parte da carga seria deslocada do setor privado para a administração pública e, nas compras de estados e municípios, haveria transferência de recursos desses entes para a União. O redutor decorre do art. 370 da LC 214, de 2025, e alterá-lo exigiria mudança na lei. A Nota Técnica da IFI foi entregue também aos diretores da Consultoria de Orçamentos, Fiscalização e Controle do Senado Federal (Conorf) e da Consultoria Legislativa da Casa (Conleg).",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/ifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-11-26T17:38:09Z",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária",
+        "CBS",
+        "ICMS",
+        "NT (Nota Técnica)",
+        "PIS/COFINS",
+        "Prazo/Obrigação"
+      ],
+      "coletado_em": "2026-11-26T19:56:01",
+      "primeira_vez_em": "2026-11-26T19:56:01"
+    },
+    "67ea76ee4d390a7b": {
+      "id": "67ea76ee4d390a7b",
+      "titulo": "Conselho de Gestão Fiscal deve melhorar eficiência dos gastos, dizem debatedores",
+      "resumo": "O futuro Conselho de Gestão Fiscal, responsável por harmonizar as regras fiscais, terá o desafio de conduzir os gastos públicos a melhores resultados para a população em um país desigual, com diferentes capacidades de governo, avaliaram os especialistas ouvidos pela Comissão de Fiscalização e Controle (CTFC) em audiência pública nesta quinta-feira (26). Há 26 anos o país espera a criação do conselho, cuja proposta (PL 3.520/2019) está na CTFC sob relatoria do senador Izalci Lucas (PL-DF). O conselho está previsto desde 2000 pela Lei de Responsabilidade Fiscal, e teve sua ausência suprida pela Secretaria do Tesouro Nacional. O órgão tem elaborado regras uniformes para União, estados e municípios, além de divulgar dados sobre as contas públicas. Izalci apontou que a nova estrutura corre o risco de ser ineficiente, caso suas atribuições sejam questionadas na Justiça, ante a autonomia dos estados e municípios. Por outro lado, se bem sucedido, o conselho poderá “mudar a lógica de uma administração pública” para que o gasto público tenha ênfase em resultados, com menos burocracia, disse o senador. — Quando assumi a Secretária de Ciência e Tecnologia em 2004 [no Distrito Federal], se um pesquisador apresentasse um projeto de pesquisa, o alterasse e tivesse um resultado maravilhoso, ele seria punido porque mudou. Agora, se você fizesse tudo certinho e tivesse resultado nenhum, parabéns para ele, estaria tudo certo. [É preciso] permitir que os gestores decidam e inovem dentro das suas competências legais. Tesouro Nacional \"O Executivo não apoiará o projeto como está, proposto inicialmente pelo governo Bolsonaro, disse o representante Secretaria do Tesouro Nacional, Alex Fabiane Teixeira. Ele afirmou que o Tesouro Nacional deve presidir, pautar as discussões e operacionalizar o Conselho, para manter a estrutura que funciona há 26 anos. Representantes dos estados, municípios e dos três Poderes votariam as propostas do Tesouro. Já o PL 3.520/2019 prevê participação conjunta em todo o Conselho. — [O projeto] deve representar um avanço institucional, e não uma ruptura com o que o Estado construiu nos últimos 26 anos. Não estamos diante de um vazio institucional — argumentou. Teixeira mencionou as seguintes ações do Tesouro Nacional nos últimos anos: o Manual de Contabilidade Aplicada ao Setor Público, que estabelece como os governos devem registrar suas contas; o Manual de Demonstrativos Fiscais (MDF), que harmoniza como os governos devem divulgar informações fiscais; e o Sistema de Informações Contábeis e Fiscais do Setor Público Brasileiro, que permite comparar as contas de estados, municípios e da União. Mais participação Professora da Universidade de Brasília (UnB), Diana Vaz de Lima disse que estados, municípios e representantes dos três Poderes devem ter poderes semelhantes no Conselho de Gestão Fiscal. Para ela, a estrutura dará mais legitimidade e controle social, que é a razão de ser de um conselho. — Em 2018, [havia] 29 conselhos de gestão fiscal no mundo. Hoje, são 54. Por que os países do mundo criaram esses conselhos? Porque as regras fiscais numéricas sozinhas não bastam. O colegiado técnico independente fortalece a credibilidade dos números, previne distorções metodológicas e aumenta a confiança da sociedade. Segundo ela, atualmente os entes federativos são apenas consultados na Câmara Técnica de Normas Contábeis e de Demonstrativos Fiscais da Federação, que supre parcialmente a existência do Conselho de Gestão Fiscal. Cidades pequenas O representante da Confederação Nacional de Municípios (CNM) Marcus Vinicius Cunha dos Santos sugeriu competências melhor definidas e maior representação dos municípios. O PL 3.520/2019 estabelece que dois dos 14 membros do conselho serão indicados pelos municípios. Para ele, é preciso respeitar as limitações de municípios pequenos — o projeto prevê regras fiscais mais simples para os municípios com menos de 50 mil habitantes. — O Conselho pode ajudar a construir essa agenda nacional, aproximando a contabilidade da gestão. Que a norma sirva o gestor para tomar a decisão, e que assim possamos fazer políticas públicas mais eficazes em nosso país. Já o membro do Conselho Federal de Contabilidade (CFC) Jose Luiz Marques Barreto apontou a necessidade de o novo conselho fiscal deixar mais claro para a população quais as ações efetivas dos governos. Pelo projeto, o CFC também terá uma cadeira no Conselho de Gestão Fiscal.",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/conselho-de-gestao-fiscal-deve-melhorar-eficiencia-dos-gastos-dizem-debatedores",
+      "fonte": "Senado Federal",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "2026-11-26T16:53:01Z",
+      "impacto": "baixo",
+      "tags": [],
+      "coletado_em": "2026-11-26T19:56:01",
+      "primeira_vez_em": "2026-11-26T19:56:01"
+    },
+    "59cbe2e9571b4452": {
+      "id": "59cbe2e9571b4452",
+      "titulo": "INSS não reconheceu suas contribuições? Saiba o que fazer",
+      "resumo": "Falhas no histórico podem comprometer o cálculo da aposentadoria e até dificultar o reconhecimento do tempo de contribuição",
+      "link": "https://jornalcontabil.com.br/noticia/inss-nao-reconheceu-suas-contribuicoes-saiba-o-que-fazer/",
+      "fonte": "Jornal Contábil",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "Thu, 26 Nov 2026 19:15:25 +0000",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-26T19:56:26",
+      "primeira_vez_em": "2026-11-26T19:56:26"
+    },
+    "a89996236bba7cc6": {
+      "id": "a89996236bba7cc6",
+      "titulo": "Natal e Ano-Novo: quem trabalha nesses feriados recebe em dobro?",
+      "resumo": "Entenda quais direitos garantem a remuneração em dobro ou a folga compensatória e atenção às convenções coletivas",
+      "link": "https://jornalcontabil.com.br/noticia/natal-e-ano-novo-quem-trabalha-nesses-feriados-recebe-em-dobro/",
+      "fonte": "Jornal Contábil",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "Thu, 26 Nov 2026 18:20:31 +0000",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-26T19:56:26",
+      "primeira_vez_em": "2026-11-26T19:56:26"
+    },
+    "715f287642ae6732": {
+      "id": "715f287642ae6732",
+      "titulo": "FGTS Digital: empresas devem redobrar atenção nas rescisões de dezembro",
+      "resumo": "Nota Orientativa nº 13/2026 esclarece procedimentos em caso de desligamentos realizados entre dezembro e janeiro",
+      "link": "https://jornalcontabil.com.br/noticia/fgts-digital-empresas-devem-redobrar-atencao-nas-rescisoes-de-dezembro/",
+      "fonte": "Jornal Contábil",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "Thu, 26 Nov 2026 17:26:42 +0000",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-26T19:56:26",
+      "primeira_vez_em": "2026-11-26T19:56:26"
+    },
+    "6bfe018f6799fa42": {
+      "id": "6bfe018f6799fa42",
+      "titulo": "Reforma tributária e contratos: como preparar a revisão contratual antes de 2027",
+      "resumo": "Por Getúlio Santos, Advogado especialista em direito tributário e CEO da ZapSign",
+      "link": "https://jornalcontabil.com.br/noticia/reforma-tributaria-e-contratos-como-preparar-a-revisao-contratual-antes-de-2027/",
+      "fonte": "Jornal Contábil",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "Thu, 26 Nov 2026 16:52:27 +0000",
+      "impacto": "alto",
+      "tags": [
+        "Reforma Tributária"
+      ],
+      "coletado_em": "2026-11-26T19:56:26",
+      "primeira_vez_em": "2026-11-26T19:56:26"
+    },
+    "ea3d5f02ddca9741": {
+      "id": "ea3d5f02ddca9741",
+      "titulo": "Novo PGDAS: Receita Federal esclarece mudanças para 2027",
+      "resumo": "Live marcada para hoje (26), vai abordar integração com IBS e CBS, débitos, pagamentos e adaptações dos sistemas contábeis",
+      "link": "https://jornalcontabil.com.br/noticia/novo-pgdas-receita-federal-esclarece-mudancas-para-2027/",
+      "fonte": "Jornal Contábil",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "Thu, 26 Nov 2026 16:09:21 +0000",
+      "impacto": "alto",
+      "tags": [
+        "IBS",
+        "CBS"
+      ],
+      "coletado_em": "2026-11-26T19:56:26",
+      "primeira_vez_em": "2026-11-26T19:56:26"
+    },
+    "09e909d3ae5b74c6": {
+      "id": "09e909d3ae5b74c6",
+      "titulo": "Black Friday: como a contabilidade pode ajudar sua empresa",
+      "resumo": "Com expectativa de movimentar bilhões de reais, data exige atenção dos empresários e contadores com fluxo de caixa e cumprimento das regras do consumidor",
+      "link": "https://jornalcontabil.com.br/noticia/black-friday-como-a-contabilidade-pode-ajudar-sua-empresa/",
+      "fonte": "Jornal Contábil",
+      "esfera": "federal",
+      "uf": "",
+      "data_publicacao": "Thu, 26 Nov 2026 15:49:29 +0000",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-26T19:56:26",
+      "primeira_vez_em": "2026-11-26T19:56:26"
+    },
+    "3b025843eb56f050": {
+      "id": "3b025843eb56f050",
+      "titulo": "Nota Premiada Capixaba divulga ganhadores do sorteio de novembro; confira o resultado",
+      "resumo": "Nota Premiada Capixaba divulga ganhadores do sorteio de novembro; confira o resultado",
+      "link": "https://sefaz.es.gov.br/nota-premiada-capixaba-divulga-ganhadores-do-sorteio-de-novembro-confira-o-resultado",
+      "fonte": "SEFAZ ES",
+      "esfera": "estadual",
+      "uf": "ES",
+      "data_publicacao": "",
+      "impacto": "médio",
+      "tags": [],
+      "coletado_em": "2026-11-26T19:57:42",
+      "primeira_vez_em": "2026-11-26T19:57:42"
     }
   }
 }
